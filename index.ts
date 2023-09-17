@@ -41,7 +41,7 @@ for (const post of posts) {
   console.log(post);
   const status = await masto.v1.statuses.create({
     status: post,
-    visibility: "unlisted",
+    visibility: "public",
   });
   console.log(`Posted ${status.url}\n---`);
   await new Promise(r => setTimeout(r, 1000));
