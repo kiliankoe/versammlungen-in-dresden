@@ -1,6 +1,6 @@
 import { Assembly } from "./assembly";
 
-function formatDate(d: string) {
+export function formatDate(d: string) {
   return d.split("-").reverse().join(".");
 }
 

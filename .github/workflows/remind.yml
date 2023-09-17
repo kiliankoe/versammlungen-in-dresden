@@ -1,0 +1,22 @@
+name: Boost today's assemblies
+
+on:
+  # workflow_dispatch:
+  schedule:
+    - cron: '30 8 * * *'
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - uses: oven-sh/setup-bun@v1
+      - name: Run bot
+        run: |
+          bun install
+          bun run src/remind.ts
+        env:
+          MASTO_SERVER_URL: ${{ secrets.MASTO_SERVER_URL }}
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
+          ACCOUNT_ID: ${{ secrets.ACCOUNT_ID }}
