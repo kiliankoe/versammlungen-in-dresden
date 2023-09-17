@@ -17,9 +17,13 @@ jobs:
         with:
           fetch-depth: 0
       - uses: oven-sh/setup-bun@v1
-      - run: |
+      - name: Run bot
+        run: |
           bun install
           bun run index.ts
+        env:
+          MASTO_SERVER_URL: ${{ secrets.MASTO_SERVER_URL }}
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
       - name: Commit and push changes
         run: |
           git diff
