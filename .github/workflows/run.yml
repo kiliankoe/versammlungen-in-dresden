@@ -20,7 +20,7 @@ jobs:
       - name: Run bot
         run: |
           bun install
-          bun run index.ts
+          bun run src/update.ts
         env:
           MASTO_SERVER_URL: ${{ secrets.MASTO_SERVER_URL }}
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
