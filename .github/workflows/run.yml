@@ -1,0 +1,26 @@
+name: Run bot
+
+on:
+  workflow_dispatch:
+  # schedule:
+  #   - cron: '0 * * * *'
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+      - uses: oven-sh/setup-bun@v1
+      - run: |
+          bun install
+          bun run index.ts
+      - name: Commit and push changes
+        run: |
+          git diff
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git commit -am "Assembly updates" || exit 0
+          git push
