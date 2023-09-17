@@ -39,10 +39,10 @@ await Bun.write("./assemblies.json", JSON.stringify(newAssemblies, null, 2));
 // Post updates to Mastodon
 for (const post of posts) {
   console.log(`${post}\n---\n`);
-  // const status = await masto.v1.statuses.create({
-  //   status: post,
-  //   visibility: "unlisted",
-  // });
-  // console.log(`Posted ${status.url}`);
-  // await new Promise(r => setTimeout(r, 1000));
+  const status = await masto.v1.statuses.create({
+    status: post,
+    visibility: "unlisted",
+  });
+  console.log(`Posted ${status.url}`);
+  await new Promise(r => setTimeout(r, 1000));
 }
