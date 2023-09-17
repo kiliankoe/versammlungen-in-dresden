@@ -1,0 +1,16 @@
+{
+  "Dateidatum": "2023-09-17",
+  "Tabellenkopf": [
+    {
+      "Datum": "Datum",
+      "Zeit": "Zeit",
+      "Thema": "Thema",
+      "Ort": "Versammlungsort",
+      "Startpunkt": "Startpunkt",
+      "Teilnehmer": "Teilnehmerprognose lt. Veranstalter",
+      "Veranstalter": "Veranstalter/-in",
+      "Status": "Status"
+    }
+  ],
+  "Versammlungen": []
+}

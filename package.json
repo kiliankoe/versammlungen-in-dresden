@@ -1,11 +1,14 @@
 {
   "name": "versammlungen-in-dresden",
   "module": "index.ts",
-  "type": "module",
   "devDependencies": {
     "bun-types": "latest"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"
+  },
+  "type": "module",
+  "dependencies": {
+    "masto": "^6.2.0"
   }
 }
