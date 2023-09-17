@@ -24,17 +24,18 @@ const savedAssemblies = new Set(savedAssembliesJSON.Versammlungen.map(assemblyId
 // Get a list of assemblies that are new or have been updated, filtering those that are in the past
 const difference = newAssemblies.Versammlungen
   .filter((a: Assembly) => !savedAssemblies.has(assemblyId(a)))
-  .filter((a: Assembly) => a.Datum >= new Date().toISOString().slice(0, 10));
+  .filter((a: Assembly) => a.Datum >= new Date().toISOString().slice(0, 10))
+  .sort((lhs: Assembly, rhs: Assembly) => lhs.Datum > rhs.Datum);
 
 const posts = difference.map(formatPost);
+
+// Save current data for next execution
+await Bun.write("./assemblies.json", JSON.stringify(newAssemblies, null, 2));
 
 const masto = createRestAPIClient({
   url: process.env.MASTO_SERVER_URL!,
   accessToken: process.env.ACCESS_TOKEN,
 });
-
-// Save current data for next execution
-await Bun.write("./assemblies.json", JSON.stringify(newAssemblies, null, 2));
 
 // Post updates to Mastodon
 for (const post of posts) {
