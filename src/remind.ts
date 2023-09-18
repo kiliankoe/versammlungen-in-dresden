@@ -28,7 +28,7 @@ const statusesToday = statuses
   .filter((s) => assembliesToday.some((a: Assembly) => s.content.includes(a.Thema) && s.content.includes(formatDate(a.Datum))));
 
 // Reblog today's statuses
-for (const status of statusesToday.slice(0,1)) {
+for (const status of statusesToday) {
   console.log(`Reblogging ${status.url}: ${status.content}`);
   await masto.v1.statuses.$select(status.id).reblog();
   await new Promise(r => setTimeout(r, 1000));
