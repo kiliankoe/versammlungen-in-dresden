@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2023-09-17",
+  "Dateidatum": "2023-09-18",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,96 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2023-09-10",
-      "Zeit": "ab 14.00 Uhr",
-      "Thema": "Tierschutz-Camp für Tier-, Menschenrechte, Veganismus und Umweltschutz",
-      "Ort": "Helmut-Schön-Allee",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-09-11",
-      "Zeit": "ganztägig",
-      "Thema": "Tierschutz-Camp für Tier-, Menschenrechte, Veganismus und Umweltschutz",
-      "Ort": "Helmut-Schön-Allee",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-09-12",
-      "Zeit": "ganztägig",
-      "Thema": "Tierschutz-Camp für Tier-, Menschenrechte, Veganismus und Umweltschutz",
-      "Ort": "Helmut-Schön-Allee",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-09-13",
-      "Zeit": "ganztägig",
-      "Thema": "Tierschutz-Camp für Tier-, Menschenrechte, Veganismus und Umweltschutz",
-      "Ort": "Helmut-Schön-Allee",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-09-14",
-      "Zeit": "ganztägig",
-      "Thema": "Tierschutz-Camp für Tier-, Menschenrechte, Veganismus und Umweltschutz",
-      "Ort": "Helmut-Schön-Allee",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-09-15",
-      "Zeit": "ganztägig",
-      "Thema": "Tierschutz-Camp für Tier-, Menschenrechte, Veganismus und Umweltschutz",
-      "Ort": "Helmut-Schön-Allee",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-09-16",
-      "Zeit": "ganztägig",
-      "Thema": "Tierschutz-Camp für Tier-, Menschenrechte, Veganismus und Umweltschutz",
-      "Ort": "Helmut-Schön-Allee",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-09-17",
-      "Zeit": "bis 15.00 Uhr",
-      "Thema": "Tierschutz-Camp für Tier-, Menschenrechte, Veganismus und Umweltschutz",
-      "Ort": "Helmut-Schön-Allee",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-09-17",
-      "Zeit": "12.00 - 17.00 Uhr",
-      "Thema": "Gegen die Zucht von Zootieren",
-      "Ort": "Tiergartenstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "15",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2023-09-18",
       "Zeit": "19.00 - 21.00 Uhr",
@@ -162,6 +72,16 @@
       "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-09-20",
+      "Zeit": null,
+      "Thema": "Nein zum Heim, Ja zur Heimat! ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "Freie Sachsen",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2023-09-20",
@@ -226,6 +146,16 @@
     {
       "Datum": "2023-09-24",
       "Zeit": null,
+      "Thema": "Tierrechte - Forderung nach einem Pferdekutschenverbot",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-09-24",
+      "Zeit": null,
       "Thema": "Frieden, Freiheit, Tradition",
       "Ort": null,
       "Startpunkt": null,
@@ -252,16 +182,6 @@
       "Teilnehmer": "30-50",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-09-25",
-      "Zeit": null,
-      "Thema": "Montagsdemonstration 'Dresden vereint - Das Original' an der Torwirtschaft für Frieden, Freiheit, Tradition",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "500",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
     },
     {
       "Datum": "2023-09-25",
