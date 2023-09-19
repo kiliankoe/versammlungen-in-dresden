@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2023-09-18",
+  "Dateidatum": "2023-09-19",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,66 +14,6 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2023-09-18",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "30-50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-09-18",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "30",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-09-18",
-      "Zeit": "18.30 - 20.30 Uhr",
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-09-18",
-      "Zeit": "08.00 - 12.00 Uhr",
-      "Thema": "Erinnerung der Justiz an ihre Unabhängigkeit und ihre Rolle in der Demokratie!",
-      "Ort": "Lothringer Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-09-18",
-      "Zeit": "08.00 - 08.22 Uhr",
-      "Thema": "Auf Radwegen zwischen Loschwitz und Blasewitz - Eilversammlung gegen den Umsetzungsstopp!",
-      "Ort": "Loschwitzer Brücke",
-      "Startpunkt": null,
-      "Teilnehmer": "100",
-      "Veranstalter": "ADFC Dresden e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-09-18",
-      "Zeit": "19.00 - 21.15 Uhr",
-      "Thema": "Für Frieden, Freiheit und Selbstbestimmung",
-      "Ort": null,
-      "Startpunkt": "Lingnerallee",
-      "Teilnehmer": "150",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2023-09-20",
       "Zeit": null,
       "Thema": "Nein zum Heim, Ja zur Heimat! ",
@@ -85,13 +25,13 @@
     },
     {
       "Datum": "2023-09-20",
-      "Zeit": null,
+      "Zeit": "16.30 - 19.00 Uhr",
       "Thema": "Art. 20A GG - Leben schützen!",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Postplatz",
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-09-21",
@@ -164,6 +104,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2023-09-24",
+      "Zeit": null,
+      "Thema": "Demonstration in Solidarität mit dem kubanischen Volk, für die Freilassung aller politischen Gefangenen in Kuba.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "40",
+      "Veranstalter": "PatriaYVida e. V.",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2023-09-25",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stoppt den Krieg in der Ukraine. Kampf der Weltkriegsgefahr!",
@@ -204,6 +154,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2023-09-25",
+      "Zeit": null,
+      "Thema": "Für Frieden, Freiheit und Selbstbestimmung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2023-09-29",
       "Zeit": null,
       "Thema": "Demonstration zum Thema 'GEAS-Reform, dessen Gefahren und Alternativen zur europäischen Geflüchtetenpolitik'",
@@ -222,6 +182,16 @@
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-09-30",
+      "Zeit": null,
+      "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "13",
+      "Veranstalter": "Activists for the Victims e. V.",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2023-10-02",
@@ -271,6 +241,26 @@
       "Startpunkt": null,
       "Teilnehmer": "etwa 100",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-10-07",
+      "Zeit": null,
+      "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Activists for the Victims e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-10-07",
+      "Zeit": null,
+      "Thema": "Fuß- und Rad-Rave Dresden ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "Fuß- und Radentscheid Dresden",
       "Status": "angemeldet"
     },
     {
@@ -341,6 +331,26 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-10-20",
+      "Zeit": null,
+      "Thema": "Aktion für die Solidarität mit über 110 Millionen Menschen, die sich weltweit auf der Flucht befinden, eine demokratische Zivilgesellschaft und die Förderung der Vielfalt bürgerschaftlichen Engagements in Dresden.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "etwa 20",
+      "Veranstalter": "AWO Landesverband Sachsen-Anhalt e. V. ",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-10-21",
+      "Zeit": null,
+      "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "16",
+      "Veranstalter": "Activists for the Victims e. V.",
       "Status": "angemeldet"
     },
     {
@@ -535,6 +545,26 @@
     },
     {
       "Datum": "2023-12-11",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-12-18",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "30-50",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-12-18",
       "Zeit": null,
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
