@@ -4,7 +4,7 @@ export function formatDate(d: string) {
   return d.split("-").reverse().join(".");
 }
 
-function formatTitle(t: string) {
+export function formatTitle(t: string) {
   return t.length > 250 ? t.slice(0, 250) + "…" : t;
 }
 
