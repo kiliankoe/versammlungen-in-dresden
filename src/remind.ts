@@ -1,6 +1,6 @@
 import { createRestAPIClient } from "masto";
 import { Assembly } from "./assembly";
-import { formatDate } from "./formatting";
+import { formatDate, formatTitle } from "./formatting";
 import { getAllStatuses } from "./util";
 
 const assembliesURL = "https://www.dresden.de/data_ext/versammlungsuebersicht/Versammlungen.json";
@@ -24,8 +24,15 @@ const masto = createRestAPIClient({
 // Or maybe there's a better way to get the relevant statuses?
 const statuses = await getAllStatuses(masto, process.env.ACCOUNT_ID);
 
-const statusesToday = statuses
-  .filter((s) => assembliesToday.some((a: Assembly) => s.content.includes(a.Thema) && s.content.includes(formatDate(a.Datum))));
+// Get first post that contains the relevant date and topic
+const statusesToday = [];
+for (const assembly of assembliesToday) {
+  const status = statuses.find((s) => s.content.includes(formatTitle(assembly.Thema)) && s.content.includes(formatDate(assembly.Datum)));
+  if (status) {
+    statusesToday.push(status);
+    continue;
+  }
+}
 
 // Reblog today's statuses
 for (const status of statusesToday) {
