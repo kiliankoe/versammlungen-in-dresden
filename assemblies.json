@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2023-09-19",
+  "Dateidatum": "2023-09-20",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -60,7 +60,7 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
-      "Veranstalter": "ADFC Dresden e.V.",
+      "Veranstalter": "ADFC Dresden e. V.",
       "Status": "angemeldet"
     },
     {
@@ -261,6 +261,16 @@
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-10-07",
+      "Zeit": null,
+      "Thema": "Galerie der Aufklärung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
