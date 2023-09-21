@@ -145,13 +145,13 @@
     },
     {
       "Datum": "2023-09-25",
-      "Zeit": null,
+      "Zeit": "18.30 - 20.30 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße ",
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-09-25",
@@ -185,13 +185,13 @@
     },
     {
       "Datum": "2023-09-30",
-      "Zeit": null,
+      "Zeit": "17.00 - 20.00 Uhr",
       "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
-      "Ort": null,
+      "Ort": "Schloßplatz",
       "Startpunkt": null,
       "Teilnehmer": "13",
       "Veranstalter": "Activists for the Victims e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-10-01",
@@ -460,6 +460,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-11-03",
+      "Zeit": null,
+      "Thema": "Das Gesundheitswesen steht auf - für eine gesunde Zukunft. Missstände und Personalmangel im Gesundheitswesen aufzeigen und beseitigen. Gegen gesellschaftliche Spaltung, für einen friedlichen Dialog.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "etwa 100",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
