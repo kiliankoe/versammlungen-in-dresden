@@ -145,13 +145,13 @@
     },
     {
       "Datum": "2023-09-29",
-      "Zeit": null,
+      "Zeit": "16.30 - 19.30 Uhr",
       "Thema": "Demonstration zum Thema 'GEAS-Reform, dessen Gefahren und Alternativen zur europäischen Geflüchtetenpolitik'",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "St. Petersburger Straße",
       "Teilnehmer": "500",
       "Veranstalter": "linksjugend Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-09-30",
@@ -192,6 +192,16 @@
       "Teilnehmer": "30-50",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-10-02",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2023-10-02",
@@ -245,13 +255,13 @@
     },
     {
       "Datum": "2023-10-07",
-      "Zeit": null,
+      "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
-      "Ort": null,
+      "Ort": "Prager Straße ",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-10-07",
@@ -355,13 +365,13 @@
     },
     {
       "Datum": "2023-10-21",
-      "Zeit": null,
+      "Zeit": "13.30 - 18.30 Uhr",
       "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "16",
       "Veranstalter": "Activists for the Victims e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-10-23",
