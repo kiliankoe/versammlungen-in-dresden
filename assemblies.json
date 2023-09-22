@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2023-09-21",
+  "Dateidatum": "2023-09-22",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2023-09-21",
-      "Zeit": "16.00 - 18.00 Uhr",
-      "Thema": "Mahnwache der OMAS GEGEN RECHTS.DRESDEN für Frieden - gegen Krieg und Gewalt überall",
-      "Ort": "Kleine Kirchgasse",
-      "Startpunkt": null,
-      "Teilnehmer": "8",
-      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-09-21",
-      "Zeit": "17.30 - 19.00 Uhr",
-      "Thema": "Kein Ende der Debatte - Anwohnerinteressen berücksichtigen!",
-      "Ort": "Hertzstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "mind. 3",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2023-09-22",
       "Zeit": "18.15 - 22.00 Uhr",
@@ -225,13 +205,13 @@
     },
     {
       "Datum": "2023-10-03",
-      "Zeit": null,
+      "Zeit": "12.00 - 17.00 Uhr",
       "Thema": "Oktoberveranstaltung AfD Dresden",
-      "Ort": null,
+      "Ort": "Schloßplatz",
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "AfD Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-10-05",
