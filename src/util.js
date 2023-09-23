@@ -21,3 +21,9 @@ export async function getAllStatuses(masto, accountId, limit = 40) {
 
   return statuses;
 }
+
+export async function fetchAssemblies() {
+  const assembliesURL = "https://www.dresden.de/data_ext/versammlungsuebersicht/Versammlungen.json";
+  const assembliesData = await fetch(assembliesURL);
+  return await assembliesData.json();
+}

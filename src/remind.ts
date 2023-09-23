@@ -1,15 +1,13 @@
 import { createRestAPIClient } from "masto";
 import { Assembly } from "./assembly";
 import { formatDate, formatTitle } from "./formatting";
-import { getAllStatuses } from "./util";
+import { fetchAssemblies, getAllStatuses } from "./util";
 
-const assembliesURL = "https://www.dresden.de/data_ext/versammlungsuebersicht/Versammlungen.json";
 let newAssemblies;
 try {
-  const assembliesData = await fetch(assembliesURL);
-  newAssemblies = await assembliesData.json();
+  newAssemblies = await fetchAssemblies();
 } catch (error) {
-  console.error(`Error fetching ${assembliesURL}: ${error}`);
+  console.error(`Error fetching assemblies: ${error}`);
   process.exit(1);
 }
 
