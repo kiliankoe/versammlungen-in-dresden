@@ -65,13 +65,13 @@
     },
     {
       "Datum": "2023-10-01",
-      "Zeit": null,
+      "Zeit": "15.00 - 17.00 Uhr",
       "Thema": "Kidical Mass",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "200",
       "Veranstalter": "Fuß- und Radentscheid Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-10-02",
@@ -85,21 +85,31 @@
     },
     {
       "Datum": "2023-10-02",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "30",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-10-02",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.30 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-10-03",
+      "Zeit": null,
+      "Thema": "Dem Faschismus keine Feier",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "161",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -115,13 +125,13 @@
     },
     {
       "Datum": "2023-10-05",
-      "Zeit": null,
+      "Zeit": "08.00 - 09.05 Uhr",
       "Thema": "Stoppt den fossilen Wahnsinn! Mit der Aktion fordern wir von der Politik und Verwaltung, dass erneuerbarer Strom und Energiesparen vorangetrieben werden, sodass wir geordnet aus allen fossilen Energieträgern aussteigen können.",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Pirnaischer Platz",
       "Teilnehmer": "27",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-10-05",
@@ -195,13 +205,13 @@
     },
     {
       "Datum": "2023-10-09",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "30",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-10-09",
@@ -245,13 +255,13 @@
     },
     {
       "Datum": "2023-10-16",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "30",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-10-16",
@@ -315,13 +325,13 @@
     },
     {
       "Datum": "2023-10-23",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "30",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-10-23",
@@ -385,13 +395,13 @@
     },
     {
       "Datum": "2023-10-30",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "30",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-10-30",
@@ -441,6 +451,16 @@
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "Grüne Jugend Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-11-12",
+      "Zeit": null,
+      "Thema": "Weg der Erinnerung – Verfolgung der Juden und der 13. Februar 1945 in Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "80 bis 150",
+      "Veranstalter": "Gesellschaft für Christlich-Jüdische Zusammenarbeit, die Katholische Dekanatsjugendseelsorge, die Jüdische Gemeinde Dresden und das Ev.-Luth. Stadtjugenpfarramt Dresden",
       "Status": "angemeldet"
     },
     {
