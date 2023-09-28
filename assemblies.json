@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2023-09-27",
+  "Dateidatum": "2023-09-28",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2023-09-27",
-      "Zeit": "18.00 - 21.30 Uhr",
-      "Thema": "Nein zum Heim, Ja zur Heimat! ",
-      "Ort": null,
-      "Startpunkt": "Windmühlenstraße",
-      "Teilnehmer": "200",
-      "Veranstalter": "Freie Sachsen",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-09-27",
-      "Zeit": "16.30 - 19.00 Uhr",
-      "Thema": "weg von fossil, hin zu gerecht",
-      "Ort": null,
-      "Startpunkt": "Palaisplatz",
-      "Teilnehmer": "25",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2023-09-29",
       "Zeit": "16.30 - 19.30 Uhr",
@@ -221,6 +201,16 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-10-14",
+      "Zeit": null,
+      "Thema": "Walk for Freedom",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
+      "Veranstalter": "Evangelische Allianz Dresden",
       "Status": "angemeldet"
     },
     {
