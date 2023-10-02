@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2023-10-01",
+  "Dateidatum": "2023-10-02",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2023-10-01",
-      "Zeit": "15.00 - 17.00 Uhr",
-      "Thema": "Kidical Mass",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "200",
-      "Veranstalter": "Fuß- und Radentscheid Dresden",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2023-10-02",
       "Zeit": "19.00 - 21.00 Uhr",
