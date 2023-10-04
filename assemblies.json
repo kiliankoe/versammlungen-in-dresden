@@ -35,13 +35,13 @@
     },
     {
       "Datum": "2023-10-04",
-      "Zeit": null,
+      "Zeit": "16.00 - 17.00 Uhr",
       "Thema": "weg von fossil - hin zu gerecht",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Theaterplatz",
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-10-05",
@@ -146,11 +146,21 @@
     {
       "Datum": "2023-10-09",
       "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Thema": "Wer schweigt stimmt zu- Zeit für Bürgerverantwortung",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-10-14",
+      "Zeit": null,
+      "Thema": "Tierschutz",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Albert Schweitzer Stiftung für unsere Mitwelt",
       "Status": "angemeldet"
     },
     {
@@ -301,6 +311,16 @@
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "Studierendenrat der TU Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-10-28",
+      "Zeit": null,
+      "Thema": "Freie Sachsen unterstützen den Protest der Querdenker in Dresden - mit Stefan Trautmann für Frieden, Freiheit und Souveränität",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "etwa 30",
+      "Veranstalter": "Partei FREIE Sachsen",
       "Status": "angemeldet"
     },
     {
