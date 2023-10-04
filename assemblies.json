@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2023-10-03",
+  "Dateidatum": "2023-10-04",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,46 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2023-10-03",
-      "Zeit": "11.30 - 16.10 Uhr",
-      "Thema": "Dem Faschismus keine Feier",
-      "Ort": null,
-      "Startpunkt": "Alaunplatz",
-      "Teilnehmer": "161",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-10-03",
-      "Zeit": "13.00 - 16.00 Uhr",
-      "Thema": "Wehrhafte Demokratie vor dem politischen Arm des Rechtsextremismus",
-      "Ort": "Schloßplatz ",
-      "Startpunkt": null,
-      "Teilnehmer": "35",
-      "Veranstalter": "Jungliberale Aktion Dresden ",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-10-03",
-      "Zeit": "11.55 - 12.15 Uhr",
-      "Thema": "Obergrenze, Jetzt!",
-      "Ort": null,
-      "Startpunkt": "Wigardstraße",
-      "Teilnehmer": "10 bis 15",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-10-03",
-      "Zeit": "12.00 - 17.00 Uhr",
-      "Thema": "Oktoberveranstaltung AfD Dresden",
-      "Ort": "Schloßplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "300",
-      "Veranstalter": "AfD Dresden",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2023-10-04",
       "Zeit": null,
@@ -122,6 +82,16 @@
       "Teilnehmer": "200",
       "Veranstalter": "Fuß- und Radentscheid Dresden",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-10-07",
+      "Zeit": null,
+      "Thema": "Isolationshaft beenden - Freiheit für Abdullah Öcalan ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2023-10-09",
