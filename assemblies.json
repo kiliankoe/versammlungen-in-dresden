@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2023-10-04",
+  "Dateidatum": "2023-10-05",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,36 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2023-10-04",
-      "Zeit": "18.00 - 21.00 Uhr",
-      "Thema": "Nein zum Heim - Ja zur Heimat! ",
-      "Ort": null,
-      "Startpunkt": "Windmühlenstraße",
-      "Teilnehmer": "200",
-      "Veranstalter": "Freie Sachsen",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-10-04",
-      "Zeit": "11.30 - 14.00 Uhr",
-      "Thema": "Für einen sozial gerechten Campus",
-      "Ort": "Mommsenstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "Juso-Hochschulgruppe Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-10-04",
-      "Zeit": "16.00 - 17.00 Uhr",
-      "Thema": "weg von fossil - hin zu gerecht",
-      "Ort": null,
-      "Startpunkt": "Theaterplatz",
-      "Teilnehmer": "25",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2023-10-05",
       "Zeit": "08.00 - 09.05 Uhr",
@@ -72,6 +42,16 @@
       "Teilnehmer": "etwa 100",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-10-07",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei China's ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2023-10-07",
@@ -151,6 +131,26 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-10-11",
+      "Zeit": null,
+      "Thema": "Die frei-kulturelle, politische und künstlerische Wiederentdeckung des öffentlichen Raumes.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-10-14",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei China's ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
       "Status": "angemeldet"
     },
     {
@@ -235,6 +235,16 @@
     },
     {
       "Datum": "2023-10-21",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei China's ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-10-21",
       "Zeit": "13.30 - 18.30 Uhr",
       "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
       "Ort": "Prager Straße",
@@ -291,6 +301,16 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-10-28",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei China's ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
       "Status": "angemeldet"
     },
     {
@@ -384,6 +404,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2023-11-04",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei China's ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2023-11-06",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
@@ -411,6 +441,16 @@
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "Grüne Jugend Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-11-11",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei China's ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
       "Status": "angemeldet"
     },
     {
@@ -444,6 +484,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2023-11-18",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei China's ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2023-11-20",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
@@ -471,6 +521,16 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-11-25",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei China's ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
       "Status": "angemeldet"
     },
     {
