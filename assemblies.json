@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2023-10-08",
+  "Dateidatum": "2023-10-09",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -52,6 +52,26 @@
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-10-09",
+      "Zeit": null,
+      "Thema": "Solidarität mit den Menschen in Israel. Kundgebung gegen den Terror der Hamas",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-10-11",
+      "Zeit": null,
+      "Thema": "Nein zum Heim, Ja zur Heimat! ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "Freie Sachsen",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2023-10-11",
