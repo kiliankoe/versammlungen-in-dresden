@@ -55,13 +55,13 @@
     },
     {
       "Datum": "2023-10-09",
-      "Zeit": null,
+      "Zeit": "18.00 - 18.45 Uhr",
       "Thema": "Solidarität mit den Menschen in Israel. Kundgebung gegen den Terror der Hamas",
-      "Ort": null,
+      "Ort": "Neumarkt ",
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-10-11",
@@ -76,11 +76,31 @@
     {
       "Datum": "2023-10-11",
       "Zeit": null,
-      "Thema": "Die frei-kulturelle, politische und künstlerische Wiederentdeckung des öffentlichen Raumes.",
+      "Thema": "weg von fossil - hin zu gerecht",
       "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-10-11",
+      "Zeit": "17.00 - 22.00 Uhr",
+      "Thema": "Die frei-kulturelle, politische und künstlerische Wiederentdeckung des öffentlichen Raumes.",
+      "Ort": "Alaunplatz",
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-10-11",
+      "Zeit": null,
+      "Thema": "Solidarität mit Israel - Gemeinsam gegen den Terror der Hamas",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "60",
+      "Veranstalter": "Jungliberale Aktion Dresden ",
       "Status": "angemeldet"
     },
     {
@@ -95,13 +115,13 @@
     },
     {
       "Datum": "2023-10-14",
-      "Zeit": null,
+      "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "Tierschutz",
-      "Ort": null,
+      "Ort": "Schlesischer Platz",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Albert Schweitzer Stiftung für unsere Mitwelt",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-10-14",
@@ -165,13 +185,13 @@
     },
     {
       "Datum": "2023-10-20",
-      "Zeit": null,
+      "Zeit": "10.00 - 11.00 Uhr",
       "Thema": "Aktion für die Solidarität mit über 110 Millionen Menschen, die sich weltweit auf der Flucht befinden, eine demokratische Zivilgesellschaft und die Förderung der Vielfalt bürgerschaftlichen Engagements in Dresden.",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "etwa 20",
       "Veranstalter": "AWO Landesverband Sachsen-Anhalt e. V. ",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-10-21",
