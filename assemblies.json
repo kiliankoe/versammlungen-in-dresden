@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2023-10-09",
+  "Dateidatum": "2023-10-10",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,64 +14,14 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2023-10-09",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stoppt den Krieg in der Ukraine. Kampf der Weltkriegsgefahr!",
-      "Ort": null,
-      "Startpunkt": "Prager Straße",
-      "Teilnehmer": "35",
-      "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-10-09",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "30-50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-10-09",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "30",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-10-09",
-      "Zeit": "19.00 - 20.30 Uhr",
-      "Thema": "Wer schweigt stimmt zu- Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-10-09",
-      "Zeit": "18.00 - 18.45 Uhr",
-      "Thema": "Solidarität mit den Menschen in Israel. Kundgebung gegen den Terror der Hamas",
-      "Ort": "Neumarkt ",
-      "Startpunkt": null,
-      "Teilnehmer": "100",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2023-10-11",
-      "Zeit": null,
+      "Zeit": "18.00 - 21.30 Uhr",
       "Thema": "Nein zum Heim, Ja zur Heimat! ",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Windmühlenstraße",
       "Teilnehmer": "200",
       "Veranstalter": "Freie Sachsen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-10-11",
@@ -382,6 +332,16 @@
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-11-04",
+      "Zeit": null,
+      "Thema": "Freitanz legalisieren!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
+      "Veranstalter": "Piratenpartei Sachsen",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2023-11-06",
