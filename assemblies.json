@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2023-10-10",
+  "Dateidatum": "2023-10-11",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -25,13 +25,13 @@
     },
     {
       "Datum": "2023-10-11",
-      "Zeit": null,
+      "Zeit": "16.30 - 19.00 Uhr",
       "Thema": "weg von fossil - hin zu gerecht",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wettiner Platz",
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-10-11",
@@ -45,12 +45,22 @@
     },
     {
       "Datum": "2023-10-11",
-      "Zeit": null,
+      "Zeit": "18.00 - 20.00 Uhr",
       "Thema": "Solidarität mit Israel - Gemeinsam gegen den Terror der Hamas",
-      "Ort": null,
+      "Ort": "Schloßplatz",
       "Startpunkt": null,
       "Teilnehmer": "60",
       "Veranstalter": "Jungliberale Aktion Dresden ",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-10-13",
+      "Zeit": null,
+      "Thema": "Lassen wir die Kirche im Dorf und die Moschee in Istanbul!!!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "40",
+      "Veranstalter": "Wellenlänge",
       "Status": "angemeldet"
     },
     {
@@ -221,6 +231,16 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-10-27",
+      "Zeit": null,
+      "Thema": "Einkommensrunde für die Beschäftigten im öffentlichen Dienst der Länder",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "dbb beamtenbund und tarifunion",
       "Status": "angemeldet"
     },
     {
