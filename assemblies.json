@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2023-10-11",
+  "Dateidatum": "2023-10-12",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,44 +14,14 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2023-10-11",
-      "Zeit": "18.00 - 21.30 Uhr",
-      "Thema": "Nein zum Heim, Ja zur Heimat! ",
+      "Datum": "2023-10-13",
+      "Zeit": null,
+      "Thema": "Der Kohleausstieg ist Nicht Verhandelbar! Klimaschutz auch in Deutschland!",
       "Ort": null,
-      "Startpunkt": "Windmühlenstraße",
-      "Teilnehmer": "200",
-      "Veranstalter": "Freie Sachsen",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-10-11",
-      "Zeit": "16.30 - 19.00 Uhr",
-      "Thema": "weg von fossil - hin zu gerecht",
-      "Ort": null,
-      "Startpunkt": "Wettiner Platz",
-      "Teilnehmer": "25",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-10-11",
-      "Zeit": "17.00 - 22.00 Uhr",
-      "Thema": "Die frei-kulturelle, politische und künstlerische Wiederentdeckung des öffentlichen Raumes.",
-      "Ort": "Alaunplatz",
       "Startpunkt": null,
-      "Teilnehmer": "100",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-10-11",
-      "Zeit": "18.00 - 20.00 Uhr",
-      "Thema": "Solidarität mit Israel - Gemeinsam gegen den Terror der Hamas",
-      "Ort": "Schloßplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "60",
-      "Veranstalter": "Jungliberale Aktion Dresden ",
-      "Status": "beschieden"
+      "Teilnehmer": "20",
+      "Veranstalter": "Fridays For Futhure",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2023-10-13",
@@ -72,6 +42,16 @@
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-10-14",
+      "Zeit": null,
+      "Thema": "Frieden für Palästina",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2023-10-14",
@@ -141,6 +121,16 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-10-19",
+      "Zeit": null,
+      "Thema": "Mahnwache der OMAS GEGEN RECHTS.DRESDEN für Frieden - gegen Krieg und Gewalt überall",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "8",
+      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
       "Status": "angemeldet"
     },
     {
