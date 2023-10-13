@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2023-10-12",
+  "Dateidatum": "2023-10-13",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -25,13 +25,13 @@
     },
     {
       "Datum": "2023-10-13",
-      "Zeit": null,
+      "Zeit": "12.30 - 16.00 Uhr",
       "Thema": "Lassen wir die Kirche im Dorf und die Moschee in Istanbul!!!",
-      "Ort": null,
+      "Ort": "Comeniusstraße",
       "Startpunkt": null,
       "Teilnehmer": "40",
       "Veranstalter": "Initiative Dresden gegen Moschee-(Neu)Bau",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-10-14",
@@ -115,13 +115,13 @@
     },
     {
       "Datum": "2023-10-16",
-      "Zeit": null,
+      "Zeit": "18.30 - 20.30 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-10-19",
@@ -181,6 +181,16 @@
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-10-22",
+      "Zeit": null,
+      "Thema": "Demonstration in Solidarität mit dem kubanischen Volk, für die Freilassung aller politischen Gefangenen in Kuba ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "40",
+      "Veranstalter": "PatriaYVida e. V.",
       "Status": "angemeldet"
     },
     {
@@ -384,6 +394,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2023-11-09",
+      "Zeit": null,
+      "Thema": "Denkorte: Erinnerung und Mahnung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2023-11-11",
       "Zeit": "10.00 - 19.00 Uhr",
       "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei China's ein Ende setzen (END CCP)!",
@@ -501,6 +521,16 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-11-29",
+      "Zeit": null,
+      "Thema": "Kundgebung anlässlich des Apothekenprotesttages ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2000",
+      "Veranstalter": "Sächsischer Apothekerverband e. V.",
       "Status": "angemeldet"
     },
     {
