@@ -1,6 +1,6 @@
 import { Assembly } from "./assembly";
 
-export const rightWingOrganizers = [
+const rightWingOrganizers = [
   "AfD Dresden",
   "Freie Sachsen",
   "Partei FREIE Sachsen",
@@ -9,4 +9,14 @@ export const rightWingOrganizers = [
 
 export function contentWarning(assembly: Assembly) {
   return rightWingOrganizers.includes(assembly.Veranstalter) ? "Rechte Versammlung" : undefined;
+}
+
+const organizerReplacements: Record<string, string> = {
+  "Fridays For Future": "#FridaysForFuture",
+  "Fridays For Futhure": "#FridaysForFuture", // sic!
+  "Piratenpartei Sachsen": "@piratensachsen@dresden.network",
+}
+
+export function formatOrganizer(organizer: string) {
+  return organizerReplacements[organizer] || organizer;
 }
