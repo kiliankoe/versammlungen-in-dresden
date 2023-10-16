@@ -2,6 +2,7 @@ import { createRestAPIClient } from "masto";
 import { Assembly } from "./assembly";
 import { formatPost } from "./formatting";
 import { fetchAssemblies } from "./util";
+import { contentWarning } from "./data";
 
 let newAssemblies;
 try {
@@ -26,7 +27,13 @@ const difference = newAssemblies.Versammlungen
   .filter((a: Assembly) => a.Datum >= new Date().toISOString().slice(0, 10))
   .sort((lhs: Assembly, rhs: Assembly) => lhs.Datum > rhs.Datum);
 
-const posts = difference.map(formatPost);
+const posts = difference.map((p: Assembly) => {
+  return {
+    status: formatPost(p),
+    visibility: "public",
+    spoilerText: contentWarning(p),
+  }
+});
 
 // Save current data for next execution
 await Bun.write("./assemblies.json", JSON.stringify(newAssemblies, null, 2));
@@ -39,10 +46,7 @@ const masto = createRestAPIClient({
 // Post updates to Mastodon
 for (const post of posts) {
   console.log(post);
-  const status = await masto.v1.statuses.create({
-    status: post,
-    visibility: "public",
-  });
+  const status = await masto.v1.statuses.create(post);
   console.log(`Posted ${status.url}\n---`);
   await new Promise(r => setTimeout(r, 1000));
 }
