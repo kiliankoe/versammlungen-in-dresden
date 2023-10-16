@@ -1,4 +1,5 @@
 import { Assembly } from "./assembly";
+import { formatOrganizer } from "./data";
 
 export function formatDate(d: string) {
   return d.split("-").reverse().join(".");
@@ -38,7 +39,7 @@ export function formatPost(a: Assembly) {
 
   lines.push(`Geplant sind ${a.Teilnehmer} Teilnehmer:innen.`);
   if (a.Veranstalter !== "natürliche Person") {
-    lines.push(`Veranstaltet durch ${a.Veranstalter}`);
+    lines.push(`Veranstaltet durch ${formatOrganizer(a.Veranstalter)}`);
   }
   return lines.join("\n");
 }
