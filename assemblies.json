@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2023-10-16",
+  "Dateidatum": "2023-10-17",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,33 +14,13 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2023-10-16",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "30-50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-10-16",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
+      "Datum": "2023-10-18",
+      "Zeit": "18.00 - 21.30 Uhr",
+      "Thema": "Nein zum Heim, Ja zur Heimat! ",
       "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "30",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-10-16",
-      "Zeit": "18.30 - 20.30 Uhr",
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
+      "Startpunkt": "Windmühlenstraße",
+      "Teilnehmer": "200",
+      "Veranstalter": "Freie Sachsen",
       "Status": "beschieden"
     },
     {
@@ -66,12 +46,22 @@
     {
       "Datum": "2023-10-19",
       "Zeit": null,
-      "Thema": "Mahnwache der OMAS GEGEN RECHTS.DRESDEN für Frieden - gegen Krieg und Gewalt überall",
+      "Thema": "Schluss mit dem brutalen Krieg in Israel und Palästina! Entschiedene Verurteilung der faschistischen Hamas und ihres Terrors! Stopp den israelischen Staatsterror gegen die palästinensische Bevölkerung! Freiheit für Palästina!",
       "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-10-19",
+      "Zeit": "16.00 - 18.00 Uhr",
+      "Thema": "Mahnwache der OMAS GEGEN RECHTS.DRESDEN für Frieden - gegen Krieg und Gewalt überall",
+      "Ort": "Kleine Kirchgasse",
       "Startpunkt": null,
       "Teilnehmer": "8",
       "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-10-20",
@@ -112,6 +102,16 @@
       "Teilnehmer": "10",
       "Veranstalter": "Greenpeace Dresden",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-10-22",
+      "Zeit": null,
+      "Thema": "Abriss statt Asylheim - Nein zum Heim - JA zur Heimat! ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "Freie Sachsen",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2023-10-22",
@@ -175,13 +175,13 @@
     },
     {
       "Datum": "2023-10-27",
-      "Zeit": null,
+      "Zeit": "13.00 - 18.00 Uhr",
       "Thema": "Einkommensrunde für die Beschäftigten im öffentlichen Dienst der Länder",
-      "Ort": null,
+      "Ort": "Theaterplatz",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "dbb beamtenbund und tarifunion",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-10-28",
@@ -221,6 +221,16 @@
       "Startpunkt": null,
       "Teilnehmer": "etwa 30",
       "Veranstalter": "Partei FREIE Sachsen",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-10-28",
+      "Zeit": null,
+      "Thema": " Kein Platz für rechte Hetze in Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -316,6 +326,26 @@
     {
       "Datum": "2023-11-06",
       "Zeit": null,
+      "Thema": "Gegen Glaubenskriege auf deutschem Boden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1000",
+      "Veranstalter": "PEGIDA Förderverein e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-11-06",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-11-06",
+      "Zeit": null,
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
       "Startpunkt": null,
@@ -376,6 +406,16 @@
     {
       "Datum": "2023-11-13",
       "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-11-13",
+      "Zeit": null,
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
       "Startpunkt": null,
@@ -402,6 +442,16 @@
       "Teilnehmer": "30-50",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-11-20",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2023-11-20",
@@ -456,6 +506,16 @@
     {
       "Datum": "2023-11-27",
       "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-11-27",
+      "Zeit": null,
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
       "Startpunkt": null,
@@ -486,6 +546,16 @@
     {
       "Datum": "2023-12-04",
       "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-12-04",
+      "Zeit": null,
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
       "Startpunkt": null,
@@ -506,6 +576,16 @@
     {
       "Datum": "2023-12-11",
       "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-12-11",
+      "Zeit": null,
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
       "Startpunkt": null,
@@ -522,6 +602,16 @@
       "Teilnehmer": "30-50",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-12-18",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2023-12-18",
