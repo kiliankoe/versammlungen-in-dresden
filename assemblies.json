@@ -155,16 +155,6 @@
     },
     {
       "Datum": "2023-10-23",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "30-50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-10-23",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
@@ -172,6 +162,16 @@
       "Teilnehmer": "30",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-10-23",
+      "Zeit": null,
+      "Thema": "Mahnwache für Frieden, Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "bis zu 50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2023-10-23",
@@ -226,16 +226,6 @@
     {
       "Datum": "2023-10-28",
       "Zeit": null,
-      "Thema": "Quergida-Comeback-Empfangskomittee – Dresden bleibt stabil",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "500",
-      "Veranstalter": "Studierendenrat der TU Dresden",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2023-10-28",
-      "Zeit": null,
       "Thema": "Freie Sachsen unterstützen den Protest der Querdenker in Dresden - mit Stefan Trautmann für Frieden, Freiheit und Souveränität",
       "Ort": null,
       "Startpunkt": null,
@@ -251,6 +241,16 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-10-28",
+      "Zeit": null,
+      "Thema": "Gegen Rassismus, Antisemitismus und Verschwörungserzählungen - für Wissenschaft, Vielfalt und Toleranz",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "Studierendenrat der TU Dresden",
       "Status": "angemeldet"
     },
     {
