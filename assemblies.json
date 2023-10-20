@@ -85,6 +85,16 @@
     },
     {
       "Datum": "2023-10-22",
+      "Zeit": null,
+      "Thema": "Frieden für Gaza. Solidarität mit Palästina",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-10-22",
       "Zeit": "15.00 - 16.00 Uhr",
       "Thema": "Olof-Palme-Friedensmarsch",
       "Ort": "Friedrich-List-Platz",
@@ -125,13 +135,13 @@
     },
     {
       "Datum": "2023-10-23",
-      "Zeit": null,
+      "Zeit": "09.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden, Dresden",
-      "Ort": null,
+      "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
       "Teilnehmer": "bis zu 50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-10-23",
