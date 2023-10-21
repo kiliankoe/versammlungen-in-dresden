@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2023-10-20",
+  "Dateidatum": "2023-10-21",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2023-10-20",
-      "Zeit": "10.00 - 11.00 Uhr",
-      "Thema": "Aktion für die Solidarität mit über 110 Millionen Menschen, die sich weltweit auf der Flucht befinden, eine demokratische Zivilgesellschaft und die Förderung der Vielfalt bürgerschaftlichen Engagements in Dresden.",
-      "Ort": "Neumarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "etwa 20",
-      "Veranstalter": "AWO Landesverband Sachsen-Anhalt e. V. ",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2023-10-21",
       "Zeit": "10.00 - 19.00 Uhr",
@@ -45,13 +35,13 @@
     },
     {
       "Datum": "2023-10-21",
-      "Zeit": null,
+      "Zeit": "12.00 - 14.00 Uhr",
       "Thema": "Die schweigende Stimme in Gaza  ",
-      "Ort": null,
+      "Ort": "Wiener Platz ",
       "Startpunkt": null,
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-10-22",
@@ -65,23 +55,23 @@
     },
     {
       "Datum": "2023-10-22",
-      "Zeit": null,
+      "Zeit": "11.00 - 13.30 Uhr",
       "Thema": "Abriss statt Asylheim - Nein zum Heim - JA zur Heimat! ",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Alexander-Herzen-Straße",
       "Teilnehmer": "200",
       "Veranstalter": "Freie Sachsen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-10-22",
-      "Zeit": null,
+      "Zeit": "10.30 - 13.00 Uhr",
       "Thema": "Kein Platz für Brandstifter*innen in Klotzsche! Friedlich und solidarisch miteinander gegen Rechts!",
-      "Ort": null,
+      "Ort": "Binzer Weg",
       "Startpunkt": null,
       "Teilnehmer": "80",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-10-22",
@@ -145,13 +135,13 @@
     },
     {
       "Datum": "2023-10-23",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.40 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-10-26",
