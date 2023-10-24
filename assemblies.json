@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2023-10-23",
+  "Dateidatum": "2023-10-24",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,44 +14,14 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2023-10-23",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stoppt den Krieg in der Ukraine. Kampf der Weltkriegsgefahr!",
+      "Datum": "2023-10-25",
+      "Zeit": null,
+      "Thema": "Nein zum Heim, Ja zur Heimat! ",
       "Ort": null,
-      "Startpunkt": "Prager Straße",
-      "Teilnehmer": "35",
-      "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-10-23",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "30",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-10-23",
-      "Zeit": "09.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden, Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
-      "Teilnehmer": "bis zu 50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-10-23",
-      "Zeit": "19.00 - 20.40 Uhr",
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Teilnehmer": "200",
+      "Veranstalter": "Freie Sachsen",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2023-10-25",
@@ -136,6 +106,26 @@
     {
       "Datum": "2023-10-28",
       "Zeit": null,
+      "Thema": "ES REICHT mit Reichsfantasien! Echsen gegen Ätz.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Antiverschwurbelte Aktion",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-10-28",
+      "Zeit": null,
+      "Thema": "ES REICHT mit Reichsfantasien! Echsen gegen Ätz.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Antiverschwurbelte Aktion",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-10-28",
+      "Zeit": null,
       "Thema": "Haltung zeigen für unsere Demokratie! ",
       "Ort": null,
       "Startpunkt": null,
@@ -194,6 +184,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2023-10-31",
+      "Zeit": null,
+      "Thema": "Interreligiöses Friedensgebet",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
+      "Veranstalter": "BIRD - Bündnis Interreligiöses Deutschland e.V.",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2023-11-02",
       "Zeit": null,
       "Thema": "Stoppt den fossilen Wahnsinn! Mit der Aktion fordern wir von der Politik und Verwaltung, dass erneuerbarer Strom und Energiesparen vorangetrieben werden, sodass wir geordnet aus allen fossilen Energieträgern aussteigen können.",
@@ -210,6 +210,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "etwa 100",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-11-03",
+      "Zeit": null,
+      "Thema": "Aufarbeitung der Coronazeit und -maßnahmen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -291,6 +301,16 @@
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-11-09",
+      "Zeit": null,
+      "Thema": "Gedenkweg - Pogromnacht - 1938",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
       "Status": "angemeldet"
     },
     {
@@ -394,6 +414,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2023-11-22",
+      "Zeit": null,
+      "Thema": "Tag der Altenpflege - Gute Pflege für alle statt Profite  ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Dresdner Bündnis für Pflege",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2023-11-25",
       "Zeit": "10.00 - 19.00 Uhr",
       "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei China's ein Ende setzen (END CCP)!",
@@ -451,6 +481,16 @@
       "Startpunkt": null,
       "Teilnehmer": "2000",
       "Veranstalter": "Sächsischer Apothekerverband e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-12-01",
+      "Zeit": null,
+      "Thema": "Das Gesundheitswesen steht auf - für eine gesunde Zukunft. Missstände und Personalmangel im Gesundheitswesen aufzeigen und beseitigen. Gegen gesellschaftliche Spaltung, für einen friedlichen Dialog.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "etwa 100",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
