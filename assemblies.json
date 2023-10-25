@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2023-10-24",
+  "Dateidatum": "2023-10-25",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -15,23 +15,23 @@
   "Versammlungen": [
     {
       "Datum": "2023-10-25",
-      "Zeit": null,
+      "Zeit": "18.00 - 21.30 Uhr",
       "Thema": "Nein zum Heim, Ja zur Heimat! ",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Windmühlenstraße",
       "Teilnehmer": "200",
       "Veranstalter": "Freie Sachsen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-10-25",
-      "Zeit": null,
+      "Zeit": "12.00 - 16.00 Uhr",
       "Thema": "Isolationshaft beenden - Freiheit für Abdullah Öcalan",
-      "Ort": null,
+      "Ort": "Bautzner Straße",
       "Startpunkt": null,
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-10-26",
@@ -75,52 +75,52 @@
     },
     {
       "Datum": "2023-10-28",
-      "Zeit": null,
+      "Zeit": "12.30 - 19.00 Uhr",
       "Thema": "Freie Sachsen unterstützen den Protest der Querdenker in Dresden - mit Stefan Trautmann für Frieden, Freiheit und Souveränität",
-      "Ort": null,
+      "Ort": "Chiaveriegasse",
       "Startpunkt": null,
       "Teilnehmer": "etwa 30",
       "Veranstalter": "Partei FREIE Sachsen",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-10-28",
+      "Zeit": "11.30 - 17.30 Uhr",
+      "Thema": "Gegen Rassismus, Antisemitismus und Verschwörungserzählungen - für Wissenschaft, Vielfalt und Toleranz",
+      "Ort": null,
+      "Startpunkt": "Fritz-Foerster-Platz",
+      "Teilnehmer": "500",
+      "Veranstalter": "Studierendenrat der TU Dresden",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-10-28",
+      "Zeit": null,
+      "Thema": "ES REICHT mit Reichsfantasien! Echsen gegen Ätz.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Antiverschwurbelte Aktion",
       "Status": "angemeldet"
     },
     {
       "Datum": "2023-10-28",
       "Zeit": null,
-      "Thema": " Kein Platz für rechte Hetze in Dresden",
+      "Thema": "ES REICHT mit Reichsfantasien! Echsen gegen Ätz.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Antiverschwurbelte Aktion",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-10-28",
+      "Zeit": null,
+      "Thema": "Kein Platz für rechte Hetze in Dresden",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2023-10-28",
-      "Zeit": null,
-      "Thema": "Gegen Rassismus, Antisemitismus und Verschwörungserzählungen - für Wissenschaft, Vielfalt und Toleranz",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "500",
-      "Veranstalter": "Studierendenrat der TU Dresden",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2023-10-28",
-      "Zeit": null,
-      "Thema": "ES REICHT mit Reichsfantasien! Echsen gegen Ätz.",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "Antiverschwurbelte Aktion",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2023-10-28",
-      "Zeit": null,
-      "Thema": "ES REICHT mit Reichsfantasien! Echsen gegen Ätz.",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "Antiverschwurbelte Aktion",
       "Status": "angemeldet"
     },
     {
@@ -145,13 +145,13 @@
     },
     {
       "Datum": "2023-10-28",
-      "Zeit": null,
+      "Zeit": "14.00 - 19.00 Uhr",
       "Thema": "Demo für Frieden und Freiheit - Reformation der Gesellschaft",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Theaterplatz",
       "Teilnehmer": "3.000",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-10-30",
@@ -190,7 +190,7 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "150",
-      "Veranstalter": "BIRD - Bündnis Interreligiöses Deutschland e.V.",
+      "Veranstalter": "BIRD - Bündnis Interreligiöses Deutschland e. V.",
       "Status": "angemeldet"
     },
     {
@@ -232,6 +232,16 @@
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-11-04",
+      "Zeit": null,
+      "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Activists for the Victims e.V.",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2023-11-04",
@@ -280,6 +290,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-11-07",
+      "Zeit": null,
+      "Thema": "Wir sind keine Geldanlage - Keine Gespräche mit Immobilienspekulanten!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -372,6 +392,16 @@
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-11-18",
+      "Zeit": null,
+      "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Activists for the Victims e.V.",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2023-11-20",
