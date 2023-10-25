@@ -131,17 +131,17 @@
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "Haltung zeigen",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2023-10-28",
-      "Zeit": null,
+      "Zeit": "11.00 - 12.30 Uhr",
       "Thema": "ES REICHT mit Reichsfantasien! Echsen gegen Ätz.",
-      "Ort": null,
+      "Ort": "Galeriestraße",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Antiverschwurbelte Aktion",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-10-28",
@@ -185,13 +185,13 @@
     },
     {
       "Datum": "2023-10-31",
-      "Zeit": null,
+      "Zeit": "16.00 - 17.30 Uhr",
       "Thema": "Interreligiöses Friedensgebet",
-      "Ort": null,
+      "Ort": "An der Kreuzkirche",
       "Startpunkt": null,
       "Teilnehmer": "150",
       "Veranstalter": "BIRD - Bündnis Interreligiöses Deutschland e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-11-02",
@@ -205,13 +205,13 @@
     },
     {
       "Datum": "2023-11-03",
-      "Zeit": null,
+      "Zeit": "16.00 - 20.00 Uhr",
       "Thema": "Das Gesundheitswesen steht auf - für eine gesunde Zukunft. Missstände und Personalmangel im Gesundheitswesen aufzeigen und beseitigen. Gegen gesellschaftliche Spaltung, für einen friedlichen Dialog.",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Postplatz",
       "Teilnehmer": "etwa 100",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-11-03",
