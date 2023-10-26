@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2023-10-25",
+  "Dateidatum": "2023-10-26",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,26 +14,6 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2023-10-25",
-      "Zeit": "18.00 - 21.30 Uhr",
-      "Thema": "Nein zum Heim, Ja zur Heimat! ",
-      "Ort": null,
-      "Startpunkt": "Windmühlenstraße",
-      "Teilnehmer": "200",
-      "Veranstalter": "Freie Sachsen",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-10-25",
-      "Zeit": "12.00 - 16.00 Uhr",
-      "Thema": "Isolationshaft beenden - Freiheit für Abdullah Öcalan",
-      "Ort": "Bautzner Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "25",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2023-10-26",
       "Zeit": "11.15 - 11.30 Uhr",
       "Thema": "Durchgängige Radwege auf der Bautzner Landstraße!",
@@ -42,6 +22,16 @@
       "Teilnehmer": "20",
       "Veranstalter": "ADFC Dresden e.V",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-10-27",
+      "Zeit": null,
+      "Thema": "Tag FÜR Frieden und Freiheit",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2023-10-27",
@@ -236,6 +226,16 @@
     {
       "Datum": "2023-11-04",
       "Zeit": null,
+      "Thema": "Fridays for Future Demonstration zur Jugendklimakonferenz.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-11-04",
+      "Zeit": null,
       "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
       "Ort": null,
       "Startpunkt": null,
@@ -251,6 +251,16 @@
       "Startpunkt": null,
       "Teilnehmer": "150",
       "Veranstalter": "Piratenpartei Sachsen",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-11-06",
+      "Zeit": null,
+      "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine. Kampf der Weltkriegsgefahr! ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "35",
+      "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
       "Status": "angemeldet"
     },
     {
@@ -295,13 +305,13 @@
     },
     {
       "Datum": "2023-11-07",
-      "Zeit": null,
+      "Zeit": "17.45 - 19.30 Uhr",
       "Thema": "Wir sind keine Geldanlage - Keine Gespräche mit Immobilienspekulanten!",
-      "Ort": null,
+      "Ort": "Große Meißner Straße",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-11-09",
@@ -355,6 +365,16 @@
     },
     {
       "Datum": "2023-11-13",
+      "Zeit": null,
+      "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine. Kampf der Weltkriegsgefahr! ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "35",
+      "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-11-13",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
@@ -401,6 +421,16 @@
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e.V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-11-20",
+      "Zeit": null,
+      "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine. Kampf der Weltkriegsgefahr! ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "35",
+      "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
       "Status": "angemeldet"
     },
     {
@@ -525,6 +555,16 @@
     },
     {
       "Datum": "2023-12-04",
+      "Zeit": null,
+      "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine. Kampf der Weltkriegsgefahr! ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "35",
+      "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-12-04",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
@@ -581,6 +621,16 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-12-18",
+      "Zeit": null,
+      "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine. Kampf der Weltkriegsgefahr! ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "35",
+      "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
       "Status": "angemeldet"
     },
     {
