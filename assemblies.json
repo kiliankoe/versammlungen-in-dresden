@@ -45,13 +45,13 @@
     },
     {
       "Datum": "2023-10-28",
-      "Zeit": null,
+      "Zeit": "11.30 - 16.00 Uhr",
       "Thema": "Heimath und Weltfrieden ",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-10-28",
@@ -155,13 +155,13 @@
     },
     {
       "Datum": "2023-10-30",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-10-31",
@@ -171,6 +171,16 @@
       "Startpunkt": null,
       "Teilnehmer": "150",
       "Veranstalter": "BIRD - Bündnis Interreligiöses Deutschland e. V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-11-01",
+      "Zeit": "11.00 - 14.00 Uhr",
+      "Thema": "Wir lassen uns von unserem Arbeitgeber nicht in die Suppe spucken! - KUNDGEBUNG EKR TV-L 2023",
+      "Ort": "Sarrasanistraße ",
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "SBB Beamtenbund und Tarifunion Sachsen e. V.",
       "Status": "beschieden"
     },
     {
@@ -265,13 +275,13 @@
     },
     {
       "Datum": "2023-11-06",
-      "Zeit": null,
+      "Zeit": "18.45 - 21.00 Uhr",
       "Thema": "Gegen Glaubenskriege auf deutschem Boden",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Schloßplatz",
       "Teilnehmer": "1000",
       "Veranstalter": "PEGIDA Förderverein e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-11-06",
