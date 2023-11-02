@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2023-11-01",
+  "Dateidatum": "2023-11-02",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,24 +14,14 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2023-11-01",
-      "Zeit": "11.00 - 14.00 Uhr",
-      "Thema": "Wir lassen uns von unserem Arbeitgeber nicht in die Suppe spucken! - KUNDGEBUNG EKR TV-L 2023",
-      "Ort": "Sarrasanistraße ",
-      "Startpunkt": null,
-      "Teilnehmer": "100",
-      "Veranstalter": "SBB Beamtenbund und Tarifunion Sachsen e. V.",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2023-11-02",
-      "Zeit": null,
+      "Zeit": "08.00 - 09.05 Uhr",
       "Thema": "Stoppt den fossilen Wahnsinn! Mit der Aktion fordern wir von der Politik und Verwaltung, dass erneuerbarer Strom und Energiesparen vorangetrieben werden, sodass wir geordnet aus allen fossilen Energieträgern aussteigen können.",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Pirnaischer Platz ",
       "Teilnehmer": "27",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-11-03",
@@ -66,6 +56,16 @@
     {
       "Datum": "2023-11-04",
       "Zeit": null,
+      "Thema": "Freiheit für Palästina. Freiheit für Gaza",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "700",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-11-04",
+      "Zeit": null,
       "Thema": "Fridays for Future Demonstration zur Jugendklimakonferenz.",
       "Ort": null,
       "Startpunkt": null,
@@ -85,13 +85,13 @@
     },
     {
       "Datum": "2023-11-04",
-      "Zeit": null,
+      "Zeit": "16.00 - 20.00 Uhr",
       "Thema": "Freitanz legalisieren!",
-      "Ort": null,
+      "Ort": "Alaunplatz ",
       "Startpunkt": null,
       "Teilnehmer": "150",
       "Veranstalter": "Piratenpartei Sachsen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-11-06",
