@@ -65,13 +65,13 @@
     },
     {
       "Datum": "2023-11-04",
-      "Zeit": null,
+      "Zeit": "13.00 - 15.00 Uhr",
       "Thema": "Fridays for Future Demonstration zur Jugendklimakonferenz.",
-      "Ort": null,
+      "Ort": "Carolaplatz",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-11-04",
@@ -144,6 +144,56 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2023-11-06",
+      "Zeit": null,
+      "Thema": "Gegen rechte Hetze!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "40",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-11-06",
+      "Zeit": null,
+      "Thema": "Kein Fußbreit dem Quergida-Faschismus!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-11-06",
+      "Zeit": null,
+      "Thema": "Gegen Rassismus, Antisemitismus und Verschwörungserzählungen - für Wissenschaft, Vielfalt und Toleranz",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "Studierendenrat der TU Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-11-06",
+      "Zeit": null,
+      "Thema": "Björn Höcke ist ein Nazi",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-11-06",
+      "Zeit": null,
+      "Thema": "Schutz der Zukunft unserer Kinder",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2023-11-07",
       "Zeit": "17.45 - 19.30 Uhr",
       "Thema": "Wir sind keine Geldanlage - Keine Gespräche mit Immobilienspekulanten!",
@@ -152,6 +202,36 @@
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-11-07",
+      "Zeit": null,
+      "Thema": "Freiheit für Gaza. Internationale Solidarität mit Palästina.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "Free Palestine Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-11-08",
+      "Zeit": null,
+      "Thema": "Nein zum Heim, Ja zur Heimat! ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "Freie Sachsen",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-11-09",
+      "Zeit": null,
+      "Thema": "Mahnwache gegen Antisemitismus, Faschismus und Rassismus in Gedenken an die Opfer der Novemberpogrome 1938",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Grüne Jugend Dresden",
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2023-11-09",
@@ -182,6 +262,16 @@
       "Teilnehmer": "15",
       "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-11-09",
+      "Zeit": null,
+      "Thema": "85 Jahre Reichspogromnacht",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2023-11-11",
