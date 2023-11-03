@@ -25,7 +25,7 @@
     },
     {
       "Datum": "2023-11-03",
-      "Zeit": "17.00 - 19.00 Uhr",
+      "Zeit": "17.00 - 20.00 Uhr",
       "Thema": "Aufarbeitung der Coronazeit und -maßnahmen",
       "Ort": "Bautzner Landstraße",
       "Startpunkt": null,
@@ -45,13 +45,13 @@
     },
     {
       "Datum": "2023-11-04",
-      "Zeit": null,
+      "Zeit": "16.00 - 19.00 Uhr",
       "Thema": "Freiheit für Palästina. Freiheit für Gaza",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "700",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-11-04",
@@ -85,13 +85,13 @@
     },
     {
       "Datum": "2023-11-06",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine. Kampf der Weltkriegsgefahr! ",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Prager Straße",
       "Teilnehmer": "35",
       "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-11-06",
@@ -125,13 +125,13 @@
     },
     {
       "Datum": "2023-11-06",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.00 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
+      "Ort": "Wilsdruffer Straße",
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-11-06",
@@ -155,33 +155,33 @@
     },
     {
       "Datum": "2023-11-06",
-      "Zeit": null,
+      "Zeit": "17.15 - 22.00 Uhr",
       "Thema": "Kein Fußbreit dem Quergida-Faschismus!",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Alaunplatz",
       "Teilnehmer": "500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-11-06",
-      "Zeit": null,
+      "Zeit": "17.30 - 19.00 Uhr",
       "Thema": "Gegen Rassismus, Antisemitismus und Verschwörungserzählungen - für Wissenschaft, Vielfalt und Toleranz",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Fritz-Foerster-Platz",
       "Teilnehmer": "500",
       "Veranstalter": "Studierendenrat der TU Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-11-06",
-      "Zeit": null,
+      "Zeit": "18.00 - 21.00 Uhr",
       "Thema": "Björn Höcke ist ein Nazi",
-      "Ort": null,
+      "Ort": "Brühlschen Terrasse",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-11-06",
@@ -226,16 +226,6 @@
     {
       "Datum": "2023-11-09",
       "Zeit": null,
-      "Thema": "Mahnwache gegen Antisemitismus, Faschismus und Rassismus in Gedenken an die Opfer der Novemberpogrome 1938",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "Grüne Jugend Dresden",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2023-11-09",
-      "Zeit": null,
       "Thema": "Denkorte: Erinnerung und Mahnung",
       "Ort": null,
       "Startpunkt": null,
@@ -251,6 +241,16 @@
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-11-09",
+      "Zeit": null,
+      "Thema": "Mahnwache gegen Antisemitismus, Faschismus und Rassismus in Gedenken an die Opfer der Novemberpogrome 1938",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Grüne Jugend Dresden",
       "Status": "angemeldet"
     },
     {
@@ -295,13 +295,13 @@
     },
     {
       "Datum": "2023-11-13",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine. Kampf der Weltkriegsgefahr! ",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Prager Straße",
       "Teilnehmer": "35",
       "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-11-13",
@@ -355,13 +355,13 @@
     },
     {
       "Datum": "2023-11-20",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine. Kampf der Weltkriegsgefahr! ",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Prager Straße",
       "Teilnehmer": "35",
       "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-11-20",
@@ -485,13 +485,13 @@
     },
     {
       "Datum": "2023-12-04",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine. Kampf der Weltkriegsgefahr! ",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Prager Straße",
       "Teilnehmer": "35",
       "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-12-04",
@@ -555,13 +555,13 @@
     },
     {
       "Datum": "2023-12-18",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine. Kampf der Weltkriegsgefahr! ",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Prager Straße",
       "Teilnehmer": "35",
       "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-12-18",
