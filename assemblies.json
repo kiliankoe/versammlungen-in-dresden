@@ -121,7 +121,7 @@
       "Startpunkt": null,
       "Teilnehmer": "10 bis 20",
       "Veranstalter": "Partei FREIE Sachsen",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2023-11-06",
@@ -145,13 +145,13 @@
     },
     {
       "Datum": "2023-11-07",
-      "Zeit": null,
+      "Zeit": "16.00 - 19.00 Uhr",
       "Thema": "Freiheit für Gaza. Internationale Solidarität mit Palästina.",
-      "Ort": null,
+      "Ort": "Theaterplatz",
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "Free Palestine Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-11-08",
@@ -165,13 +165,13 @@
     },
     {
       "Datum": "2023-11-09",
-      "Zeit": null,
+      "Zeit": "16.45 - 18.10 Uhr",
       "Thema": "Denkorte: Erinnerung und Mahnung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Akademiestraße",
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-11-09",
