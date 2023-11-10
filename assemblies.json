@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2023-11-09",
+  "Dateidatum": "2023-11-10",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,56 +14,6 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2023-11-09",
-      "Zeit": "16.45 - 18.10 Uhr",
-      "Thema": "Denkorte: Erinnerung und Mahnung",
-      "Ort": null,
-      "Startpunkt": "Akademiestraße",
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-11-09",
-      "Zeit": "18.00 - 20.00 Uhr",
-      "Thema": "Wir haben schon Victor Klemperer zitiert, da seid ihr noch mit Pegida um die Synagoge marschiert.",
-      "Ort": "Wilsdruffer Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-11-09",
-      "Zeit": "18.00 - 21.00 Uhr",
-      "Thema": "Mahnwache gegen Antisemitismus, Faschismus und Rassismus in Gedenken an die Opfer der Novemberpogrome 1938",
-      "Ort": "Hasenberg",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "Grüne Jugend Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-11-09",
-      "Zeit": "11.00 - 16.00 Uhr",
-      "Thema": "Gedenkweg - Pogromnacht - 1938",
-      "Ort": null,
-      "Startpunkt": "An der Kreuzkirche mit Mahnwachen",
-      "Teilnehmer": "15",
-      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-11-09",
-      "Zeit": "16.30 - 18.30 Uhr",
-      "Thema": "85 Jahre Reichspogromnacht",
-      "Ort": null,
-      "Startpunkt": "Hasenberg",
-      "Teilnehmer": "30",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2023-11-11",
       "Zeit": "10.00 - 19.00 Uhr",
       "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei China's ein Ende setzen (END CCP)!",
@@ -75,13 +25,13 @@
     },
     {
       "Datum": "2023-11-12",
-      "Zeit": null,
+      "Zeit": "11.00 - 14.00 Uhr",
       "Thema": "Weg der Erinnerung – Verfolgung der Juden und der 13. Februar 1945 in Dresden",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "An der Kreuzkirche",
       "Teilnehmer": "80 bis 150",
       "Veranstalter": "Gesellschaft für Christlich-Jüdische Zusammenarbeit, die Katholische Dekanatsjugendseelsorge, die Jüdische Gemeinde Dresden und das Ev.-Luth. Stadtjugenpfarramt Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-11-13",
@@ -120,6 +70,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-11-13",
+      "Zeit": null,
+      "Thema": "Freiheit für Palästina. Freiheit für Gaza",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "400",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -165,12 +125,22 @@
     },
     {
       "Datum": "2023-11-18",
-      "Zeit": null,
+      "Zeit": "12.00 - 17.00 Uhr",
       "Thema": "Galerie der Aufklärung",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-11-19",
+      "Zeit": null,
+      "Thema": "Gedenken zum Volkstrauertag",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Heimatverein Niedersedlitz e. V.",
       "Status": "angemeldet"
     },
     {
@@ -439,7 +409,7 @@
       "Thema": "Für Demokratie und Menschenrechte",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "1500",
+      "Teilnehmer": "1.500",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
