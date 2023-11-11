@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2023-11-10",
+  "Dateidatum": "2023-11-11",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -75,23 +75,23 @@
     },
     {
       "Datum": "2023-11-13",
-      "Zeit": null,
+      "Zeit": "16.00 - 18.00 Uhr",
       "Thema": "Freiheit für Palästina. Freiheit für Gaza",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "400",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-11-13",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.30 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-11-15",
@@ -204,6 +204,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2023-11-20",
+      "Zeit": null,
+      "Thema": "Schluss mit prekärer Wissenschaft - Heraus zum #Hochschulaktionstag am 20.11.23 - Gemeinsam kämpfen wir für bessere Arbeits- und Studienbedingungen für alle! ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "ver.di Bezirk Sachsen-West-Ost-Süd",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2023-11-22",
       "Zeit": null,
       "Thema": "Tag der Altenpflege - Gute Pflege für alle statt Profite  ",
@@ -276,6 +286,16 @@
     {
       "Datum": "2023-12-01",
       "Zeit": null,
+      "Thema": "Heizung, Brot & Frieden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10 bis 15",
+      "Veranstalter": "Deutsche Kommunistische Partei (DKP)",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-12-01",
+      "Zeit": null,
       "Thema": "Das Gesundheitswesen steht auf - für eine gesunde Zukunft. Missstände und Personalmangel im Gesundheitswesen aufzeigen und beseitigen. Gegen gesellschaftliche Spaltung, für einen friedlichen Dialog.",
       "Ort": null,
       "Startpunkt": null,
@@ -320,6 +340,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-12-07",
+      "Zeit": null,
+      "Thema": "Stoppt den fossilen Wahnsinn! Mit der Aktion fordern wir von der Politik und Verwaltung, dass erneuerbarer Strom und Energiesparen vorangetrieben werden, sodass wir geordnet aus allen fossilen Energieträgern aussteigen können.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "26",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
