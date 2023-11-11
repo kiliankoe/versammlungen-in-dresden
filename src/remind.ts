@@ -18,9 +18,8 @@ const masto = createRestAPIClient({
   accessToken: process.env.ACCESS_TOKEN,
 });
 
-// TODO: This shouldn't need to fetch all statuses, but I'm unsure what a sensible default is.
-// Or maybe there's a better way to get the relevant statuses?
-const statuses = await getAllStatuses(masto, process.env.ACCOUNT_ID);
+// I'm hoping that 250 posts is enough to definitely include all assemblies for the current day.
+const statuses = await getAllStatuses(masto, process.env.ACCOUNT_ID, { max: 250 });
 
 // Get first post that contains the relevant date and topic
 const statusesToday = [];

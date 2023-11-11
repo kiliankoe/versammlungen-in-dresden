@@ -1,4 +1,4 @@
-export async function getAllStatuses(masto, accountId, limit = 40) {
+export async function getAllStatuses(masto, accountId, { limit = 40, max } = {}) {
   let loadMore = true;
   let maxId = null;
   let statuses = [];
@@ -9,6 +9,10 @@ export async function getAllStatuses(masto, accountId, limit = 40) {
       .statuses.list({ limit, maxId });
 
     statuses = statuses.concat(response);
+
+    if (statuses.length >= max) {
+      loadMore = false;
+    }
 
     if (response.length < limit) {
       loadMore = false;
