@@ -45,16 +45,6 @@
     },
     {
       "Datum": "2023-11-13",
-      "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2023-11-13",
       "Zeit": "16.00 - 18.00 Uhr",
       "Thema": "Freiheit für Palästina. Freiheit für Gaza",
       "Ort": "Prager Straße",
@@ -72,6 +62,16 @@
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-11-15",
+      "Zeit": null,
+      "Thema": "Nein zum Heim, Ja zur Heimat! ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "Freie Sachsen",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2023-11-15",
@@ -132,6 +132,16 @@
       "Teilnehmer": "10",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-11-18",
+      "Zeit": null,
+      "Thema": "Kerzenlichtmahnwache für den Frieden in Gaza",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2023-11-19",
@@ -196,6 +206,16 @@
     {
       "Datum": "2023-11-20",
       "Zeit": null,
+      "Thema": "Schluss mit prekärer Wissenschaft - Heraus zum #Hochschulaktionstag am 20.11.23 - Gemeinsam kämpfen wir für bessere Arbeits- und Studienbedingungen für alle! ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "ver.di Bezirk Sachsen-West-Ost-Süd",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-11-20",
+      "Zeit": null,
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
       "Startpunkt": null,
@@ -204,13 +224,13 @@
       "Status": "angemeldet"
     },
     {
-      "Datum": "2023-11-20",
+      "Datum": "2023-11-21",
       "Zeit": null,
-      "Thema": "Schluss mit prekärer Wissenschaft - Heraus zum #Hochschulaktionstag am 20.11.23 - Gemeinsam kämpfen wir für bessere Arbeits- und Studienbedingungen für alle! ",
+      "Thema": "Tierrechte - Für einen Zirkus ohne Tiere",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "300",
-      "Veranstalter": "ver.di Bezirk Sachsen-West-Ost-Süd",
+      "Teilnehmer": "10",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -235,12 +255,22 @@
     },
     {
       "Datum": "2023-11-25",
-      "Zeit": null,
+      "Zeit": "14.30 - 18.00 Uhr",
       "Thema": "Aktionstag gegen patriarchale Gewalt",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Dr.-Külz-Ring",
       "Teilnehmer": "100",
       "Veranstalter": "Aktionsbündnis gegen patriarchale Gewalt",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-11-25",
+      "Zeit": null,
+      "Thema": "Gedenken der Opfer des Holodomor (Hungersnot) in der Ukraine",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
