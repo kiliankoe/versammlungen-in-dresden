@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2023-11-12",
+  "Dateidatum": "2023-11-13",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2023-11-12",
-      "Zeit": "11.00 - 14.00 Uhr",
-      "Thema": "Weg der Erinnerung – Verfolgung der Juden und der 13. Februar 1945 in Dresden",
-      "Ort": null,
-      "Startpunkt": "An der Kreuzkirche",
-      "Teilnehmer": "80 bis 150",
-      "Veranstalter": "Gesellschaft für Christlich-Jüdische Zusammenarbeit, die Katholische Dekanatsjugendseelsorge, die Jüdische Gemeinde Dresden und das Ev.-Luth. Stadtjugenpfarramt Dresden",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2023-11-13",
       "Zeit": "18.00 - 19.30 Uhr",
@@ -92,6 +82,26 @@
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-11-16",
+      "Zeit": null,
+      "Thema": "Dresden bleibt sicherer Hafen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Initiative Seebrücke Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-11-17",
+      "Zeit": null,
+      "Thema": "Dresden bleibt sicherer Hafen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Initiative Seebrücke Dresden",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2023-11-18",
