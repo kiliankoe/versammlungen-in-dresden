@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2023-11-14",
+  "Dateidatum": "2023-11-15",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -15,13 +15,13 @@
   "Versammlungen": [
     {
       "Datum": "2023-11-15",
-      "Zeit": null,
+      "Zeit": "18.00 - 21.30 Uhr",
       "Thema": "Nein zum Heim, Ja zur Heimat! ",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Windmühlenstraße",
       "Teilnehmer": "200",
       "Veranstalter": "Freie Sachsen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-11-15",
@@ -35,23 +35,23 @@
     },
     {
       "Datum": "2023-11-16",
-      "Zeit": null,
+      "Zeit": "15.30 - 16.30 Uhr",
       "Thema": "Dresden bleibt sicherer Hafen",
-      "Ort": null,
+      "Ort": "Rathausplatz",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Initiative Seebrücke Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-11-17",
-      "Zeit": null,
+      "Zeit": "14.30 - 15.30 Uhr",
       "Thema": "Dresden bleibt sicherer Hafen",
-      "Ort": null,
+      "Ort": "Rathausplatz",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Initiative Seebrücke Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-11-18",
@@ -95,13 +95,13 @@
     },
     {
       "Datum": "2023-11-19",
-      "Zeit": null,
+      "Zeit": "11.00 - 11.30 Uhr",
       "Thema": "Gedenken zum Volkstrauertag",
-      "Ort": null,
+      "Ort": "Bahnhofstraße",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Heimatverein Niedersedlitz e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-11-19",
@@ -165,13 +165,13 @@
     },
     {
       "Datum": "2023-11-20",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Schloßplatz",
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-11-21",
@@ -195,13 +195,13 @@
     },
     {
       "Datum": "2023-11-22",
-      "Zeit": null,
+      "Zeit": "14.00 - 16.00 Uhr",
       "Thema": "Tag der Altenpflege - Gute Pflege für alle statt Profite  ",
-      "Ort": null,
+      "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "Dresdner Bündnis für Pflege",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-11-25",
@@ -226,10 +226,30 @@
     {
       "Datum": "2023-11-25",
       "Zeit": null,
-      "Thema": "Gedenken der Opfer des Holodomor (Hungersnot) in der Ukraine",
+      "Thema": "Gesicht zeigen gegen Gewalt an Frauen und Mädchen ",
       "Ort": null,
       "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Landesfrauenrat Sachsen e.V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-11-25",
+      "Zeit": "18.00 - 19.00 Uhr",
+      "Thema": "Gedenken der Opfer des Holodomor (Hungersnot) in der Ukraine",
+      "Ort": "Neumarkt ",
+      "Startpunkt": null,
       "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-11-26",
+      "Zeit": null,
+      "Thema": "Nein zur GEAS Reform",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -275,23 +295,23 @@
     },
     {
       "Datum": "2023-12-01",
-      "Zeit": null,
+      "Zeit": "11.00 - 14.00 Uhr",
       "Thema": "Heizung, Brot & Frieden",
-      "Ort": null,
+      "Ort": "Jacob-Winter-Platz",
       "Startpunkt": null,
       "Teilnehmer": "10 bis 15",
       "Veranstalter": "Deutsche Kommunistische Partei (DKP)",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-12-01",
-      "Zeit": null,
+      "Zeit": "16.00 - 20.00 Uhr",
       "Thema": "Das Gesundheitswesen steht auf - für eine gesunde Zukunft. Missstände und Personalmangel im Gesundheitswesen aufzeigen und beseitigen. Gegen gesellschaftliche Spaltung, für einen friedlichen Dialog.",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Theaterplatz",
       "Teilnehmer": "200 bis 300",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-12-04",
@@ -451,6 +471,76 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-02-13",
+      "Zeit": null,
+      "Thema": "Tu was gegen rechts - Demokratie stärken",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Bündnis 90 / Die Grünen, Stadtverband Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-02-13",
+      "Zeit": null,
+      "Thema": "'Stilles Gedenken vor der Frauenkirche Dresden - wahrhaftig erinnern - versöhnt leben' und 'Dresdner Gedenkweg - unterwegs zur Versöhnung - 13. Februar' ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": null,
+      "Veranstalter": "Gesellschaft zur Förderung der Frauenkirche Dresden e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-02-13",
+      "Zeit": null,
+      "Thema": "Kein Platz für Nazis, weg mit dem Opfermythos!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "GRÜNE JUGEND Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-02-13",
+      "Zeit": null,
+      "Thema": "Menschenkette 13. Februar",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10.000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-02-13",
+      "Zeit": null,
+      "Thema": "Gedenkversammlung für die Opfer des Bombenangriffs auf Dresden am 13.02.1945",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-02-13",
+      "Zeit": null,
+      "Thema": "'Dresden mahnt - Aus der Geschichte lernen'",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2.000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-02-13",
+      "Zeit": null,
+      "Thema": "Gedenken 13. Februar",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "AfD Dresden",
       "Status": "angemeldet"
     }
   ]
