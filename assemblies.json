@@ -165,6 +165,16 @@
     },
     {
       "Datum": "2023-11-20",
+      "Zeit": null,
+      "Thema": "Kein weiterer Stillstand: Ullersdorfer Platz JETZT voranbringen!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-11-20",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
@@ -181,7 +191,7 @@
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2023-11-22",
