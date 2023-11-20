@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2023-11-19",
+  "Dateidatum": "2023-11-20",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2023-11-19",
-      "Zeit": "11.00 - 11.30 Uhr",
-      "Thema": "Gedenken zum Volkstrauertag",
-      "Ort": "Bahnhofstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "Heimatverein Niedersedlitz e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-11-19",
-      "Zeit": "14.00 - 17.00 Uhr",
-      "Thema": "Demonstration in Solidarität mit dem kubanischen Volk, für die Freilassung aller politischen Gefangenen in Kuba ",
-      "Ort": "Alaunplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "40",
-      "Veranstalter": "PatriaYVida e. V.",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2023-11-20",
       "Zeit": "18.00 - 19.30 Uhr",
@@ -145,13 +125,13 @@
     },
     {
       "Datum": "2023-11-24",
-      "Zeit": null,
+      "Zeit": "10.00 - 10.10 Uhr",
       "Thema": "Stadtbahn-Umbau: ADFC fordert durchgängige Radwege über den Wasaplatz",
-      "Ort": null,
+      "Ort": "Caspar-David-Friedrich-Straße",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "ADFC Dresden e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-11-25",
@@ -411,6 +391,16 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-12-18",
+      "Zeit": null,
+      "Thema": "FREIE SACHSEN unterstützen PEGIDA und den Dresdner Montagsprotest - mit Stefan Trautmann in die neue Zeit",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10 bis 20",
+      "Veranstalter": "Partei FREIE Sachsen",
       "Status": "angemeldet"
     },
     {
