@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2023-11-20",
+  "Dateidatum": "2023-11-21",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,86 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2023-11-20",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine. Kampf der Weltkriegsgefahr! ",
-      "Ort": null,
-      "Startpunkt": "Prager Straße",
-      "Teilnehmer": "35",
-      "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-11-20",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "30-50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-11-20",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "30",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-11-20",
-      "Zeit": "16.00 - 18.00 Uhr",
-      "Thema": "Mahnwache zum Gedenktag an die Opfer von Transfeindlichkeit",
-      "Ort": "Alaunplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-11-20",
-      "Zeit": "11.00 - 13.30 Uhr",
-      "Thema": "Schluss mit prekärer Wissenschaft - Heraus zum #Hochschulaktionstag am 20.11.23 - Gemeinsam kämpfen wir für bessere Arbeits- und Studienbedingungen für alle! ",
-      "Ort": null,
-      "Startpunkt": "Fritz-Foerster-Platz",
-      "Teilnehmer": "300",
-      "Veranstalter": "ver.di Bezirk Sachsen-West-Ost-Süd",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-11-20",
-      "Zeit": "18.45 - 21.00 Uhr",
-      "Thema": "Der EU-Spitzenkandidat der AfD ist ein Frauen und queere Menschen verachtender rechter Hetzer!",
-      "Ort": "Brühlsche Terrasse",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-11-20",
-      "Zeit": "15.00 - 17.00 Uhr",
-      "Thema": "Kein weiterer Stillstand: Ullersdorfer Platz JETZT voranbringen!",
-      "Ort": "Ullersdorfer Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-11-20",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": "Schloßplatz",
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2023-11-21",
       "Zeit": null,
@@ -124,14 +44,34 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2023-11-22",
+      "Zeit": null,
+      "Thema": "Ja zum Heim, nein zum Hetze!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "GRÜNE JUGEND Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-11-22",
+      "Zeit": null,
+      "Thema": "Solidarisch gegen rechte Hetze",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2023-11-24",
-      "Zeit": "10.00 - 10.10 Uhr",
+      "Zeit": null,
       "Thema": "Stadtbahn-Umbau: ADFC fordert durchgängige Radwege über den Wasaplatz",
-      "Ort": "Caspar-David-Friedrich-Straße",
+      "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "ADFC Dresden e. V.",
-      "Status": "beschieden"
+      "Status": "angemeldet"
     },
     {
       "Datum": "2023-11-25",
@@ -156,12 +96,22 @@
     {
       "Datum": "2023-11-25",
       "Zeit": null,
-      "Thema": "Gesicht zeigen gegen Gewalt an Frauen und Mädchen ",
+      "Thema": "Freiheit für Palästina. Freiheit für Gaza",
       "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-11-25",
+      "Zeit": "10.30 - 11.30 Uhr",
+      "Thema": "Gesicht zeigen gegen Gewalt an Frauen und Mädchen ",
+      "Ort": "Wilsdruffer Straße",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Landesfrauenrat Sachsen e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-11-25",
@@ -222,6 +172,16 @@
       "Teilnehmer": "2000",
       "Veranstalter": "Sächsischer Apothekerverband e. V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-11-29",
+      "Zeit": null,
+      "Thema": "Letzte Generation - 'weg von fossil, hin zu gerecht' - für eine sozial gerechte und das Leben schützende Klimapolitik gemäß Art. 20a Grundgesetz und damit für den Ausstieg aus allen fossilen und anderen umweltschädlichen Subventionen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2023-12-01",
@@ -501,6 +461,16 @@
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "AfD Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-02-19",
+      "Zeit": null,
+      "Thema": "Say their names - Gedenktag zum 4. Jahrestag vom Anschlag in Hanau",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "120",
+      "Veranstalter": "Seebrücke Dresden",
       "Status": "angemeldet"
     }
   ]
