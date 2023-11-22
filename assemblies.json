@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2023-11-21",
+  "Dateidatum": "2023-11-22",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,24 +14,14 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2023-11-21",
-      "Zeit": null,
-      "Thema": "Tierrechte - Für einen Zirkus ohne Tiere",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
       "Datum": "2023-11-22",
-      "Zeit": null,
+      "Zeit": "18.00 - 21.30 Uhr",
       "Thema": "Nein zum Heim, Ja zur Heimat! ",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Industriestraße",
       "Teilnehmer": "200",
       "Veranstalter": "Freie Sachsen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-11-22",
@@ -45,33 +35,33 @@
     },
     {
       "Datum": "2023-11-22",
-      "Zeit": null,
+      "Zeit": "17.30 - 20.30 Uhr",
       "Thema": "Ja zum Heim, nein zum Hetze!",
-      "Ort": null,
+      "Ort": "Industriestraße",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "GRÜNE JUGEND Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-11-22",
-      "Zeit": null,
+      "Zeit": "17.30 - 21.00 Uhr",
       "Thema": "Solidarisch gegen rechte Hetze",
-      "Ort": null,
+      "Ort": "Industriestraße",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-11-24",
-      "Zeit": null,
+      "Zeit": "10.00 - 10.10 Uhr",
       "Thema": "Stadtbahn-Umbau: ADFC fordert durchgängige Radwege über den Wasaplatz",
-      "Ort": null,
+      "Ort": "Caspar-David-Friedrich-Straße",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "ADFC Dresden e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-11-25",
@@ -125,13 +115,13 @@
     },
     {
       "Datum": "2023-11-26",
-      "Zeit": null,
+      "Zeit": "15.00 - 17.00 Uhr",
       "Thema": "Nein zur GEAS Reform",
-      "Ort": null,
+      "Ort": "Jorge-Gomondai Platz ",
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-11-27",
