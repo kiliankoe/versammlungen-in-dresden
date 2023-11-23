@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2023-11-22",
+  "Dateidatum": "2023-11-23",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,46 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2023-11-22",
-      "Zeit": "18.00 - 21.30 Uhr",
-      "Thema": "Nein zum Heim, Ja zur Heimat! ",
-      "Ort": null,
-      "Startpunkt": "Industriestraße",
-      "Teilnehmer": "200",
-      "Veranstalter": "Freie Sachsen",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-11-22",
-      "Zeit": "14.00 - 16.00 Uhr",
-      "Thema": "Tag der Altenpflege - Gute Pflege für alle statt Profite  ",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "Dresdner Bündnis für Pflege",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-11-22",
-      "Zeit": "17.30 - 20.30 Uhr",
-      "Thema": "Ja zum Heim, nein zum Hetze!",
-      "Ort": "Industriestraße",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "GRÜNE JUGEND Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-11-22",
-      "Zeit": "17.30 - 21.00 Uhr",
-      "Thema": "Solidarisch gegen rechte Hetze",
-      "Ort": "Industriestraße",
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2023-11-24",
       "Zeit": "10.00 - 10.10 Uhr",
