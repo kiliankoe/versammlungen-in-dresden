@@ -45,13 +45,13 @@
     },
     {
       "Datum": "2023-11-25",
-      "Zeit": null,
+      "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "Freiheit für Palästina. Freiheit für Gaza",
-      "Ort": null,
+      "Ort": "Wiener Platz",
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-11-25",
@@ -340,6 +340,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-02-10",
+      "Zeit": null,
+      "Thema": "Erhalt von Meinungs- und Versammlungsfreiheit in der Landeshauptstadt Dresden ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
