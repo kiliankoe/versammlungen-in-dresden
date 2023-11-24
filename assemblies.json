@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2023-11-23",
+  "Dateidatum": "2023-11-24",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -241,6 +241,16 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-12-15",
+      "Zeit": null,
+      "Thema": "Gegen (Wild-)Tiere im Zirkus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Anima e. V.",
       "Status": "angemeldet"
     },
     {
