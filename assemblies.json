@@ -45,6 +45,16 @@
     },
     {
       "Datum": "2023-11-29",
+      "Zeit": null,
+      "Thema": "Nein zum Heim, Ja zur Heimat! ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "Freie Sachsen",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-11-29",
       "Zeit": "14.00 - 16.00 Uhr",
       "Thema": "Kundgebung anlässlich des Apothekenprotesttages ",
       "Ort": "Theaterplatz",
@@ -121,6 +131,16 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-12-06",
+      "Zeit": null,
+      "Thema": "Nein zum Heim, Ja zur Heimat! ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "Freie Sachsen",
       "Status": "angemeldet"
     },
     {
@@ -266,7 +286,7 @@
     {
       "Datum": "2023-12-18",
       "Zeit": null,
-      "Thema": "FREIE SACHSEN unterstützen PEGIDA und den Dresdner Montagsprotest - mit Stefan Trautmann in die neue Zeit",
+      "Thema": "FREIE SACHSEN unterstützen PEGIDA und den Dresdner Montagsprotest - mit Michael Brück für Frieden, Freundschaft und Zusammenhalt.",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "10 bis 20",
