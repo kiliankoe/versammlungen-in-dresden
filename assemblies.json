@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2023-11-26",
+  "Dateidatum": "2023-11-27",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2023-11-26",
-      "Zeit": "15.00 - 17.00 Uhr",
-      "Thema": "Nein zur GEAS Reform",
-      "Ort": "Jorge-Gomondai Platz ",
-      "Startpunkt": null,
-      "Teilnehmer": "100",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2023-11-27",
       "Zeit": "19.00 - 21.00 Uhr",
@@ -200,6 +190,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-12-16",
+      "Zeit": null,
+      "Thema": "Solidarisch wie noch nie – Antiautoritäre Perspektiven erkämpfen ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
