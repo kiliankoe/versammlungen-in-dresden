@@ -35,13 +35,13 @@
     },
     {
       "Datum": "2023-12-01",
-      "Zeit": null,
+      "Zeit": "15.30 - 21.00 Uhr",
       "Thema": "Schwurbeln gefährdet das Gesundheitswesen! Echsenmenschen für Aufklärung.",
-      "Ort": null,
+      "Ort": "Theaterplatz",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Antiverschwurbelte Aktion",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-12-02",
@@ -342,16 +342,6 @@
       "Teilnehmer": "30-50",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-12-25",
-      "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
     },
     {
       "Datum": "2024-02-09",
