@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2023-11-29",
+  "Dateidatum": "2023-11-30",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,36 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2023-11-29",
-      "Zeit": "18.00 - 21.30 Uhr",
-      "Thema": "Nein zum Heim, Ja zur Heimat! ",
-      "Ort": null,
-      "Startpunkt": "Windmühlenstraße",
-      "Teilnehmer": "200",
-      "Veranstalter": "Freie Sachsen",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-11-29",
-      "Zeit": "14.00 - 16.00 Uhr",
-      "Thema": "Kundgebung anlässlich des Apothekenprotesttages ",
-      "Ort": "Theaterplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "2000",
-      "Veranstalter": "Sächsischer Apothekerverband e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-11-29",
-      "Zeit": "16.45 - 19.00 Uhr",
-      "Thema": "Letzte Generation - 'weg von fossil, hin zu gerecht' - für eine sozial gerechte und das Leben schützende Klimapolitik gemäß Art. 20a Grundgesetz und damit für den Ausstieg aus allen fossilen und anderen umweltschädlichen Subventionen",
-      "Ort": null,
-      "Startpunkt": "Theaterplatz",
-      "Teilnehmer": "25",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2023-12-01",
       "Zeit": "11.00 - 14.00 Uhr",
@@ -64,13 +34,33 @@
       "Status": "beschieden"
     },
     {
-      "Datum": "2023-12-02",
+      "Datum": "2023-12-01",
       "Zeit": null,
-      "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
+      "Thema": "Schwurbeln gefährdet das Gesundheitswesen! Echsenmenschen für Aufklärung.",
       "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Antiverschwurbelte Aktion",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-12-02",
+      "Zeit": "13.30 - 16.30 Uhr",
+      "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e.V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-12-02",
+      "Zeit": null,
+      "Thema": "Freiheit für Palästina. Freiheit für Gaza",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "250",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -186,7 +176,7 @@
     {
       "Datum": "2023-12-13",
       "Zeit": null,
-      "Thema": "Abriss statt Asylheim - Nein zum Heim - JA zur Heimat! ",
+      "Thema": "Nein zum Heim, Ja zur Heimat!",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "200",
@@ -204,6 +194,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2023-12-14",
+      "Zeit": null,
+      "Thema": "Für Demokratie und Menschlichkeit ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2023-12-15",
       "Zeit": null,
       "Thema": "Gegen (Wild-)Tiere im Zirkus",
@@ -215,13 +215,13 @@
     },
     {
       "Datum": "2023-12-16",
-      "Zeit": null,
+      "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
-      "Ort": null,
+      "Ort": "Prager Straße ",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-12-16",
@@ -295,13 +295,13 @@
     },
     {
       "Datum": "2023-12-18",
-      "Zeit": null,
+      "Zeit": "18.00 - 21.00 Uhr",
       "Thema": "Herz statt Hetze",
-      "Ort": null,
+      "Ort": "Brühlschen Terrasse",
       "Startpunkt": null,
       "Teilnehmer": "250",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-12-18",
