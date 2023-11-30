@@ -295,13 +295,13 @@
     },
     {
       "Datum": "2023-12-18",
-      "Zeit": "18.00 - 21.00 Uhr",
+      "Zeit": null,
       "Thema": "Herz statt Hetze",
-      "Ort": "Brühlschen Terrasse",
+      "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "250",
       "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Status": "angemeldet"
     },
     {
       "Datum": "2023-12-18",
