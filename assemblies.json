@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2023-11-30",
+  "Dateidatum": "2023-12-01",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -125,13 +125,13 @@
     },
     {
       "Datum": "2023-12-09",
-      "Zeit": null,
+      "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "Erleichterte Aufnahme von Trans*Personen aus dem Ausland",
-      "Ort": null,
+      "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "Quarteera e. V. ",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-12-10",
