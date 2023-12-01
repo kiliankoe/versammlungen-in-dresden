@@ -55,13 +55,13 @@
     },
     {
       "Datum": "2023-12-02",
-      "Zeit": null,
+      "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "Freiheit für Palästina. Freiheit für Gaza",
-      "Ort": null,
+      "Ort": "Jorge-Gomondai-Platz ",
       "Startpunkt": null,
       "Teilnehmer": "250",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-12-04",
@@ -114,6 +114,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2023-12-06",
+      "Zeit": null,
+      "Thema": "Nachbarschaft leben, Schutzbedürftige willkommen heißen! ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2023-12-07",
       "Zeit": null,
       "Thema": "Stoppt den fossilen Wahnsinn! Mit der Aktion fordern wir von der Politik und Verwaltung, dass erneuerbarer Strom und Energiesparen vorangetrieben werden, sodass wir geordnet aus allen fossilen Energieträgern aussteigen können.",
@@ -125,7 +135,7 @@
     },
     {
       "Datum": "2023-12-09",
-      "Zeit": "15.00 - 18.00 Uhr",
+      "Zeit": "16.00 - 17.00 Uhr",
       "Thema": "Erleichterte Aufnahme von Trans*Personen aus dem Ausland",
       "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
@@ -205,13 +215,13 @@
     },
     {
       "Datum": "2023-12-15",
-      "Zeit": null,
+      "Zeit": "17.00 - 19.30 Uhr",
       "Thema": "Gegen (Wild-)Tiere im Zirkus",
-      "Ort": null,
+      "Ort": "Pieschener Allee",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "Anima e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-12-16",
@@ -296,6 +306,16 @@
     {
       "Datum": "2023-12-18",
       "Zeit": null,
+      "Thema": "Kein Fußbreit dem Quergida-Faschismus!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-12-18",
+      "Zeit": null,
       "Thema": "Herz statt Hetze",
       "Ort": null,
       "Startpunkt": null,
@@ -321,6 +341,16 @@
       "Startpunkt": null,
       "Teilnehmer": "1.500",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-12-18",
+      "Zeit": null,
+      "Thema": "Für Frieden, Asyl-Lüge beenden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "AfD Kreisverband Dresden",
       "Status": "angemeldet"
     },
     {
