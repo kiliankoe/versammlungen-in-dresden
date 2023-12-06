@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2023-12-05",
+  "Dateidatum": "2023-12-06",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -15,32 +15,42 @@
   "Versammlungen": [
     {
       "Datum": "2023-12-06",
-      "Zeit": null,
+      "Zeit": "18.00 - 21.30 Uhr",
       "Thema": "Nein zum Heim, Ja zur Heimat! ",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Geystraße",
       "Teilnehmer": "200",
       "Veranstalter": "Freie Sachsen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-12-06",
-      "Zeit": null,
+      "Zeit": "17.45 - 19.00 Uhr",
       "Thema": "Nachbarschaft leben, Schutzbedürftige willkommen heißen! ",
-      "Ort": null,
+      "Ort": "Geystraße",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-12-07",
-      "Zeit": null,
+      "Zeit": "08.00 - 09.05 Uhr",
       "Thema": "Stoppt den fossilen Wahnsinn! Mit der Aktion fordern wir von der Politik und Verwaltung, dass erneuerbarer Strom und Energiesparen vorangetrieben werden, sodass wir geordnet aus allen fossilen Energieträgern aussteigen können.",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Rathausplatz",
       "Teilnehmer": "26",
       "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-12-09",
+      "Zeit": null,
+      "Thema": "Die Menschen vor der globalen Umweltkatastrophe retten",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "Internationalistisches Bündnis ",
       "Status": "angemeldet"
     },
     {
@@ -52,6 +62,16 @@
       "Teilnehmer": "20",
       "Veranstalter": "Quarteera e. V. ",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2023-12-09",
+      "Zeit": null,
+      "Thema": "Demonstration für die Menschenrechte anlässlich des Briefmarathons 2023",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Hochschulgruppe Amnesty International",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2023-12-10",
@@ -150,6 +170,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-12-16",
+      "Zeit": null,
+      "Thema": "Galerie der Aufklärung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
