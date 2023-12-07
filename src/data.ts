@@ -2,6 +2,7 @@ import { Assembly } from "./assembly";
 
 const rightWingOrganizers = [
   "AfD Dresden",
+  "AfD Kreisverband Dresden",
   "PEGIDA Förderverein e. V.",
   "Freie Sachsen",
   "Partei FREIE Sachsen",
