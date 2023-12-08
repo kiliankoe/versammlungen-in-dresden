@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2023-12-07",
+  "Dateidatum": "2023-12-08",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,24 +14,24 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2023-12-07",
-      "Zeit": "08.00 - 09.05 Uhr",
-      "Thema": "Stoppt den fossilen Wahnsinn! Mit der Aktion fordern wir von der Politik und Verwaltung, dass erneuerbarer Strom und Energiesparen vorangetrieben werden, sodass wir geordnet aus allen fossilen Energieträgern aussteigen können.",
-      "Ort": null,
-      "Startpunkt": "Rathausplatz",
-      "Teilnehmer": "26",
-      "Veranstalter": "natürliche Person",
+      "Datum": "2023-12-08",
+      "Zeit": "11.00 - 12.00 Uhr",
+      "Thema": "Unterstützung der Forderungen zum Tarifabschluss der GDL bei den Eisenbahnunternehmen ",
+      "Ort": "Wiener Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "Gewerkschaft Deutscher Lokomotivführer (GDL)",
       "Status": "beschieden"
     },
     {
       "Datum": "2023-12-09",
-      "Zeit": null,
+      "Zeit": "11.00 - 13.00 Uhr",
       "Thema": "Die Menschen vor der globalen Umweltkatastrophe retten",
-      "Ort": null,
+      "Ort": "Wiener Platz",
       "Startpunkt": null,
       "Teilnehmer": "25",
       "Veranstalter": "Internationalistisches Bündnis ",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-12-09",
@@ -55,13 +55,13 @@
     },
     {
       "Datum": "2023-12-10",
-      "Zeit": null,
+      "Zeit": "15.00 - 18.30 Uhr",
       "Thema": "Gegen die Entrechtung der Geflüchteten - Für ein Europa, das Brücken baut",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Pirnaischer Platz",
       "Teilnehmer": "400",
       "Veranstalter": "Sächsischer Flüchtlingsrat e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-12-11",
@@ -94,6 +94,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2023-12-11",
+      "Zeit": null,
+      "Thema": "Gegen Antisemitismus und rechte Hetze auf dem Schlossplatz an Chanukka!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2023-12-13",
       "Zeit": null,
       "Thema": "Nein zum Heim, Ja zur Heimat!",
@@ -110,6 +120,26 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-12-13",
+      "Zeit": null,
+      "Thema": "Kein Platz für Brandstifter*innen in Klotzsche! Friedlich und solidarisch miteinander gegen Rechts!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "80",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-12-13",
+      "Zeit": null,
+      "Thema": "Letzte Generation - weg von fossil, hin zu gerecht - für eine sozial gerechte und das Leben schützende Klimapolitik gemäß Art. 20a Grundgesetz",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
