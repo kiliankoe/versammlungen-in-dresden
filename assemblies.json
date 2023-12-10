@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2023-12-09",
+  "Dateidatum": "2023-12-10",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,36 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2023-12-09",
-      "Zeit": "11.00 - 13.00 Uhr",
-      "Thema": "Die Menschen vor der globalen Umweltkatastrophe retten",
-      "Ort": "Wiener Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "25",
-      "Veranstalter": "Internationalistisches Bündnis ",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-12-09",
-      "Zeit": "16.00 - 17.00 Uhr",
-      "Thema": "Erleichterte Aufnahme von Trans*Personen aus dem Ausland",
-      "Ort": "Bautzner Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "Quarteera e. V. ",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-12-09",
-      "Zeit": "10.00 - 16.00 Uhr",
-      "Thema": "Demonstration für die Menschenrechte anlässlich des Briefmarathons 2023",
-      "Ort": "Galeriestraße",
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "Hochschulgruppe Amnesty International",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2023-12-10",
       "Zeit": "15.00 - 18.30 Uhr",
