@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2023-12-12",
+  "Dateidatum": "2023-12-13",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -71,6 +71,16 @@
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Initiative Seebrücke Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-12-14",
+      "Zeit": null,
+      "Thema": "Es braucht ein transparentes und 1,5 °C konformes Dekarbonisierungskonzept. ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -167,7 +177,7 @@
       "Datum": "2023-12-18",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Bautzner Straße",
+      "Ort": "Königstraße",
       "Startpunkt": null,
       "Teilnehmer": "30-50",
       "Veranstalter": "natürliche Person",
@@ -277,7 +287,7 @@
       "Datum": "2023-12-25",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Bautzner Straße",
+      "Ort": "Königstraße",
       "Startpunkt": null,
       "Teilnehmer": "30-50",
       "Veranstalter": "natürliche Person",
