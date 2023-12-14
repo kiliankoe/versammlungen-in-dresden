@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2023-12-13",
+  "Dateidatum": "2023-12-14",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,64 +14,24 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2023-12-13",
-      "Zeit": "18.00 - 21.30 Uhr",
-      "Thema": "Nein zum Heim, Ja zur Heimat!",
-      "Ort": null,
-      "Startpunkt": "Alexander-Herzen-Straße",
-      "Teilnehmer": "200",
-      "Veranstalter": "Freie Sachsen",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-12-13",
-      "Zeit": "12.00 - 13.30 Uhr",
-      "Thema": "Am 13. Februar Nazis stoppen",
-      "Ort": null,
-      "Startpunkt": "Bergstraße",
-      "Teilnehmer": "25",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-12-13",
-      "Zeit": "18.00 - 21.00 Uhr",
-      "Thema": "Kein Platz für Brandstifter*innen in Klotzsche! Friedlich und solidarisch miteinander gegen Rechts!",
-      "Ort": "Alexander-Herzen-Straße ",
-      "Startpunkt": null,
-      "Teilnehmer": "80",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-12-13",
-      "Zeit": "17.00 - 18.45 Uhr",
-      "Thema": "Letzte Generation – weg von fossil, hin zu gerecht - für eine sozial gerechte und das Leben schützende Klimapolitik gemäß Art. 20a Grundgesetz",
-      "Ort": null,
-      "Startpunkt": "Carolaplatz",
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2023-12-14",
-      "Zeit": null,
+      "Zeit": "17.00 - 19.00 Uhr",
       "Thema": "DRESDEN sagt NEIN zum Heim, JA zur Heimat!",
-      "Ort": null,
+      "Ort": "Rathausplatz",
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "Freie Sachsen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-12-14",
-      "Zeit": null,
+      "Zeit": "15.30 - 21.00 Uhr",
       "Thema": "Dresden bleibt Sicherer Hafen und hat Platz und Möglichkeiten, seinen Verpflichtungen nachzukommen.",
-      "Ort": null,
+      "Ort": "Rathausplatz",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Initiative Seebrücke Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-12-14",
@@ -81,7 +41,7 @@
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2023-12-14",
@@ -105,13 +65,13 @@
     },
     {
       "Datum": "2023-12-15",
-      "Zeit": null,
+      "Zeit": "17.00 - 19.30 Uhr",
       "Thema": "Freiheit für Palästina. Freiheit für Gaza",
-      "Ort": null,
+      "Ort": "Wiener Platz",
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-12-16",
@@ -135,13 +95,13 @@
     },
     {
       "Datum": "2023-12-16",
-      "Zeit": null,
+      "Zeit": "14.35 - 19.30 Uhr",
       "Thema": "Solidarisch wie noch nie – Antiautoritäre Perspektiven erkämpfen ",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Weißeritzstraße",
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-12-16",
@@ -155,13 +115,13 @@
     },
     {
       "Datum": "2023-12-16",
-      "Zeit": null,
+      "Zeit": "12.00 - 16.00 Uhr",
       "Thema": "Galerie der Aufklärung",
-      "Ort": null,
+      "Ort": "Wiener Platz",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-12-18",
