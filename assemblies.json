@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2023-12-14",
+  "Dateidatum": "2023-12-15",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,46 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2023-12-14",
-      "Zeit": "17.00 - 19.00 Uhr",
-      "Thema": "DRESDEN sagt NEIN zum Heim, JA zur Heimat!",
-      "Ort": "Rathausplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "200",
-      "Veranstalter": "Freie Sachsen",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-12-14",
-      "Zeit": "15.30 - 21.00 Uhr",
-      "Thema": "Dresden bleibt Sicherer Hafen und hat Platz und Möglichkeiten, seinen Verpflichtungen nachzukommen.",
-      "Ort": "Rathausplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "Initiative Seebrücke Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-12-14",
-      "Zeit": null,
-      "Thema": "Es braucht ein transparentes und 1,5 °C konformes Dekarbonisierungskonzept. ",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2023-12-14",
-      "Zeit": null,
-      "Thema": "Für Demokratie und Menschlichkeit ",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "200",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
     {
       "Datum": "2023-12-15",
       "Zeit": "17.00 - 19.30 Uhr",
@@ -91,7 +51,7 @@
       "Startpunkt": null,
       "Teilnehmer": "80",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2023-12-16",
@@ -206,6 +166,16 @@
     {
       "Datum": "2023-12-18",
       "Zeit": null,
+      "Thema": "DAS MAß IST VOLL!  Die Landwirtschaft soll wieder alles bezahlen!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Land schafft Verbindung Sachsen e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-12-18",
+      "Zeit": null,
       "Thema": "Für Demokratie und Menschenrechte",
       "Ort": null,
       "Startpunkt": null,
@@ -230,6 +200,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-12-18",
+      "Zeit": null,
+      "Thema": "Gegen jeden Antisemitismus und rassistische, neonazistische Hetze",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
