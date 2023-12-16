@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2023-12-15",
+  "Dateidatum": "2023-12-16",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2023-12-15",
-      "Zeit": "17.00 - 19.30 Uhr",
-      "Thema": "Gegen (Wild-)Tiere im Zirkus",
-      "Ort": "Pieschener Allee",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "Anima e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-12-15",
-      "Zeit": "17.00 - 19.30 Uhr",
-      "Thema": "Freiheit für Palästina. Freiheit für Gaza",
-      "Ort": "Wiener Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "200",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2023-12-16",
       "Zeit": "14.00 - 17.00 Uhr",
@@ -211,6 +191,16 @@
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-12-20",
+      "Zeit": null,
+      "Thema": "Nein zum Heim, Ja zur Heimat!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "Freie Sachsen",
       "Status": "angemeldet"
     },
     {
