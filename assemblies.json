@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2023-12-16",
+  "Dateidatum": "2023-12-17",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,56 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2023-12-16",
-      "Zeit": "14.00 - 17.00 Uhr",
-      "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
-      "Ort": "Prager Straße ",
-      "Startpunkt": null,
-      "Teilnehmer": "15",
-      "Veranstalter": "Activists for the Victims e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-12-16",
-      "Zeit": null,
-      "Thema": "Autonomer Morgensport",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "80",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2023-12-16",
-      "Zeit": "14.35 - 19.30 Uhr",
-      "Thema": "Solidarisch wie noch nie – Antiautoritäre Perspektiven erkämpfen ",
-      "Ort": null,
-      "Startpunkt": "Weißeritzstraße",
-      "Teilnehmer": "200",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-12-16",
-      "Zeit": null,
-      "Thema": "Autokorso gegen LKW-Maut-, CO2-Steuer- und Mehrwertsteuererhöhung",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2023-12-16",
-      "Zeit": "12.00 - 16.00 Uhr",
-      "Thema": "Galerie der Aufklärung",
-      "Ort": "Wiener Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2023-12-18",
       "Zeit": "18.00 - 19.30 Uhr",
