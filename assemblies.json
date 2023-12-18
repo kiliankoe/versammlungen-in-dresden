@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2023-12-17",
+  "Dateidatum": "2023-12-18",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -111,7 +111,7 @@
       "Startpunkt": null,
       "Teilnehmer": "1.500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2023-12-18",
@@ -140,6 +140,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-12-19",
+      "Zeit": null,
+      "Thema": "Klimaschutz ist kein Verbrechen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
