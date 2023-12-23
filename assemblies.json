@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2023-12-22",
+  "Dateidatum": "2023-12-23",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -41,6 +41,16 @@
       "Startpunkt": null,
       "Teilnehmer": "8",
       "Veranstalter": "Activists for the Victims e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2023-12-30",
+      "Zeit": null,
+      "Thema": "Freiheit für Palästina. Freitheit für Gaza",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
