@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2023-12-23",
+  "Dateidatum": "2023-12-24",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2023-12-23",
-      "Zeit": "12.30 - 14.00 Uhr",
-      "Thema": "Tierrechte - Tiere leiden im Zirkus",
-      "Ort": "Pieschener Allee",
-      "Startpunkt": null,
-      "Teilnehmer": "5",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2023-12-25",
       "Zeit": "19.00 - 21.00 Uhr",
