@@ -35,13 +35,13 @@
     },
     {
       "Datum": "2023-12-31",
-      "Zeit": null,
+      "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "Solidarität zu Silvester - das Knastsystem überwinden",
-      "Ort": null,
+      "Ort": "Hammerweg",
       "Startpunkt": null,
       "Teilnehmer": "40 ",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2023-12-31",
@@ -61,6 +61,16 @@
       "Startpunkt": null,
       "Teilnehmer": "30-40",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-01-03",
+      "Zeit": null,
+      "Thema": "Nein zum Heim, Ja zur Heimat! ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "Freie Sachsen",
       "Status": "angemeldet"
     },
     {
