@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2023-12-29",
+  "Dateidatum": "2023-12-30",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -132,6 +132,16 @@
       "Teilnehmer": "30-40",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-01-08",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-01-09",
