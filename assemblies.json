@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2023-12-30",
+  "Dateidatum": "2023-12-31",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2023-12-30",
-      "Zeit": "14.00 - 17.00 Uhr",
-      "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
-      "Ort": "Schloßplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "8",
-      "Veranstalter": "Activists for the Victims e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2023-12-30",
-      "Zeit": "17.00 - 19.30 Uhr",
-      "Thema": "Freiheit für Palästina. Freitheit für Gaza",
-      "Ort": "Wiener Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "200",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2023-12-31",
       "Zeit": "15.00 - 18.00 Uhr",
