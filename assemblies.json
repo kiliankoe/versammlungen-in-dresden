@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-01-02",
+  "Dateidatum": "2024-01-03",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -22,6 +22,16 @@
       "Teilnehmer": "200",
       "Veranstalter": "Freie Sachsen",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-01-06",
+      "Zeit": null,
+      "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Activists for the Victims e. V.",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-01-06",
@@ -86,6 +96,16 @@
     {
       "Datum": "2024-01-08",
       "Zeit": null,
+      "Thema": "Korso für Freiheit und Demokratie",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "40",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-01-08",
+      "Zeit": null,
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
       "Startpunkt": null,
@@ -111,6 +131,16 @@
       "Startpunkt": null,
       "Teilnehmer": "27",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-01-10",
+      "Zeit": null,
+      "Thema": "Protest gegen die Sparpläne der Ampelregierung aus Landwirtschaftlicher Sicht",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "Land schafft Verbindung Sachsen e. V. und SLB Sachsen e. V.",
       "Status": "angemeldet"
     },
     {
@@ -154,6 +184,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2024-01-18",
+      "Zeit": null,
+      "Thema": "Gegen den Rechtsruck in Firmen und Konzernen!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "JUSOS Dresden",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-01-19",
       "Zeit": "11.00 - 14.00 Uhr",
       "Thema": "Heizung, Brot & Frieden",
@@ -162,6 +202,16 @@
       "Teilnehmer": "10 bis 15",
       "Veranstalter": "Deutsche Kommunistische Partei (DKP)",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-01-20",
+      "Zeit": null,
+      "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Activists for the Victims e. V.",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-01-22",
