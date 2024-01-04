@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-01-03",
+  "Dateidatum": "2024-01-04",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-01-03",
-      "Zeit": "18.00 - 21.30 Uhr",
-      "Thema": "Nein zum Heim, Ja zur Heimat! ",
-      "Ort": null,
-      "Startpunkt": "Wilder-Mann-Straße",
-      "Teilnehmer": "200",
-      "Veranstalter": "Freie Sachsen",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-01-06",
       "Zeit": null,
