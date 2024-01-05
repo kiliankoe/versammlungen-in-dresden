@@ -15,13 +15,13 @@
   "Versammlungen": [
     {
       "Datum": "2024-01-06",
-      "Zeit": null,
+      "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-01-06",
@@ -59,7 +59,7 @@
       "Thema": "ALLE zusammen - JETZT!",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "300",
+      "Teilnehmer": "600",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -235,13 +235,13 @@
     },
     {
       "Datum": "2024-01-20",
-      "Zeit": null,
+      "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-01-22",
@@ -391,6 +391,16 @@
       "Startpunkt": null,
       "Teilnehmer": "1000",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-02-09",
+      "Zeit": null,
+      "Thema": "Brennpunkt Asyl: Bürgersprechstunde mit André Wendt und Steffen Hanisch",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "5",
+      "Veranstalter": "AfD Dresden",
       "Status": "angemeldet"
     },
     {
