@@ -55,23 +55,23 @@
     },
     {
       "Datum": "2024-01-08",
-      "Zeit": null,
+      "Zeit": "12.00 - 20.00 Uhr",
       "Thema": "ALLE zusammen - JETZT!",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Schloßplatz",
       "Teilnehmer": "600",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-01-08",
-      "Zeit": null,
+      "Zeit": "ab 20.00 Uhr",
       "Thema": "Mahnwache - ALLE zusammen - JETZT!",
-      "Ort": null,
+      "Ort": "Archivstraße",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-01-08",
@@ -105,23 +105,23 @@
     },
     {
       "Datum": "2024-01-08",
-      "Zeit": null,
+      "Zeit": "06.00 - 17.00 Uhr",
       "Thema": "Die Ampel ist kaputt!",
-      "Ort": null,
+      "Ort": "Anschlussstellen der A4 4 DD-Altstadt, A17 DD-Gorbitz",
       "Startpunkt": null,
       "Teilnehmer": "250",
       "Veranstalter": "Land schafft Verbindung Sachsen e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-01-08",
-      "Zeit": null,
-      "Thema": "Entschleunigung der Autobahnauffahrten Dresden Flughafen, Dresden Hellerau, Dresden Wilder Mann, Dresden Neustadt",
-      "Ort": null,
+      "Zeit": "06.00 - 17.00 Uhr",
+      "Thema": "Entschleunigung der Autobahnauffahrten Dresden Hellerau, Dresden Wilder Mann",
+      "Ort": "Autobahnanschlussstelle Wilder Mann, Altstadt (A4)",
       "Startpunkt": null,
       "Teilnehmer": "80",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-01-08",
@@ -145,13 +145,13 @@
     },
     {
       "Datum": "2024-01-09",
-      "Zeit": null,
+      "Zeit": "bis 18.00 Uhr",
       "Thema": "Mahnwache - ALLE zusammen - JETZT!",
-      "Ort": null,
+      "Ort": "Archivstraße",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-01-09",
