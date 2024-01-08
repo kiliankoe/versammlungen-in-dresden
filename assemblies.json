@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-01-07",
+  "Dateidatum": "2024-01-08",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -65,13 +65,13 @@
     },
     {
       "Datum": "2024-01-08",
-      "Zeit": null,
+      "Zeit": "09.00 - 14.00 Uhr",
       "Thema": "Korso für Freiheit und Demokratie",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Schützenplatz (Bautzen)",
       "Teilnehmer": "40",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-01-08",
@@ -105,13 +105,13 @@
     },
     {
       "Datum": "2024-01-08",
-      "Zeit": null,
+      "Zeit": "12.00 - 18.00 Uhr",
       "Thema": "Friedliche Demo gegen die Politik der Regierung  ",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Neustädter Markt",
       "Teilnehmer": "3",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-01-08",
