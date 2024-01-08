@@ -75,13 +75,13 @@
     },
     {
       "Datum": "2024-01-08",
-      "Zeit": null,
+      "Zeit": "10.00 - 17.00 Uhr",
       "Thema": "Es reicht!",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Obermarkt in Freiberg",
       "Teilnehmer": "30",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-01-08",
@@ -100,6 +100,26 @@
       "Ort": "Autobahnanschlussstelle Wilder Mann, Altstadt (A4)",
       "Startpunkt": null,
       "Teilnehmer": "80",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-01-08",
+      "Zeit": null,
+      "Thema": "Protest der Bauern, Spediteure sowie der Bevölkerung gegen die Maßnahmen der Regierung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "abgemeldet"
+    },
+    {
+      "Datum": "2024-01-08",
+      "Zeit": "08.00 - 12.00 Uhr",
+      "Thema": "Ein Zeichen gegen die Regierung setzen",
+      "Ort": null,
+      "Startpunkt": "Bischofswerda; Hohe Straße",
+      "Teilnehmer": null,
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
     },
@@ -160,6 +180,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "30",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-01-11",
+      "Zeit": null,
+      "Thema": "Letze Generation - Weg von Fossil hin zu Gerecht, für einen Ausstieg aus Kohle, Öl und Gas bis 2030!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
