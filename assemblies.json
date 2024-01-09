@@ -55,13 +55,13 @@
     },
     {
       "Datum": "2024-01-10",
-      "Zeit": null,
+      "Zeit": "06.00 - 10.00 Uhr",
       "Thema": "Die Ampel ist kaputt!",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Löbau, Äußere Bautzner Straße",
       "Teilnehmer": "400",
       "Veranstalter": "Land schafft Verbindung Sachsen e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-01-10",
@@ -75,13 +75,13 @@
     },
     {
       "Datum": "2024-01-10",
-      "Zeit": null,
+      "Zeit": "11.00 - 15.00 Uhr",
       "Thema": "Protest gegen die Sparpläne der Ampelregierung aus Landwirtschaftlicher Sicht",
-      "Ort": null,
+      "Ort": "Theaterplatz",
       "Startpunkt": null,
-      "Teilnehmer": "700",
+      "Teilnehmer": "1.100",
       "Veranstalter": "Land schafft Verbindung Sachsen e. V. und SLB Sachsen e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-01-11",
