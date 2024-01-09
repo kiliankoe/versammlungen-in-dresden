@@ -44,23 +44,63 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2024-01-09",
+      "Zeit": "18.00 - 19.30 Uhr",
+      "Thema": "ALLE zusammen - JETZT!",
+      "Ort": null,
+      "Startpunkt": "Archivstraße",
+      "Teilnehmer": "150",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-01-10",
+      "Zeit": null,
+      "Thema": "Die Ampel ist kaputt!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "400",
+      "Veranstalter": "Land schafft Verbindung Sachsen e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-01-10",
+      "Zeit": null,
+      "Thema": "Die Ampel ist kaputt!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "Land schafft Verbindung Sachsen e. V. und SLB Sachsen e. V",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-01-10",
       "Zeit": null,
       "Thema": "Protest gegen die Sparpläne der Ampelregierung aus Landwirtschaftlicher Sicht",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "500",
+      "Teilnehmer": "700",
       "Veranstalter": "Land schafft Verbindung Sachsen e. V. und SLB Sachsen e. V.",
       "Status": "angemeldet"
     },
     {
       "Datum": "2024-01-11",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Es braucht ein transparentes und 1,5 °C konformes Dekarbonisierungskonzept. ",
-      "Ort": null,
+      "Ort": "Kraftwerk Mitte",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-01-11",
+      "Zeit": null,
+      "Thema": "Unterstützung der Forderungen zum Tarifabschluss der GDL bei den Eisenbahnunternehmen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
+      "Veranstalter": "Gewerkschaft Deutscher Lokomotivführer (GDL)",
       "Status": "angemeldet"
     },
     {
