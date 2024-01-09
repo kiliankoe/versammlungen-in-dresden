@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-01-08",
+  "Dateidatum": "2024-01-09",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -15,131 +15,11 @@
   "Versammlungen": [
     {
       "Datum": "2024-01-08",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine. Kampf der Weltkriegsgefahr! ",
-      "Ort": null,
-      "Startpunkt": "Prager Straße",
-      "Teilnehmer": "40",
-      "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-01-08",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "30",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-01-08",
-      "Zeit": "12.00 - 20.00 Uhr",
-      "Thema": "ALLE zusammen - JETZT!",
-      "Ort": null,
-      "Startpunkt": "Schloßplatz",
-      "Teilnehmer": "600",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-01-08",
       "Zeit": "ab 20.00 Uhr",
       "Thema": "Mahnwache - ALLE zusammen - JETZT!",
       "Ort": "Archivstraße",
       "Startpunkt": null,
       "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-01-08",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Königstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "30-40",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-01-08",
-      "Zeit": "09.00 - 14.00 Uhr",
-      "Thema": "Korso für Freiheit und Demokratie",
-      "Ort": null,
-      "Startpunkt": "Schützenplatz (Bautzen)",
-      "Teilnehmer": "40",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-01-08",
-      "Zeit": "10.00 - 17.00 Uhr",
-      "Thema": "Es reicht!",
-      "Ort": null,
-      "Startpunkt": "Obermarkt in Freiberg",
-      "Teilnehmer": "30",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-01-08",
-      "Zeit": "06.00 - 17.00 Uhr",
-      "Thema": "Die Ampel ist kaputt!",
-      "Ort": "Anschlussstellen der A4 DD-Altstadt, A17 DD-Gorbitz",
-      "Startpunkt": null,
-      "Teilnehmer": "250",
-      "Veranstalter": "Land schafft Verbindung Sachsen e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-01-08",
-      "Zeit": "06.00 - 17.00 Uhr",
-      "Thema": "Entschleunigung der Autobahnauffahrten Dresden Hellerau, Dresden Wilder Mann",
-      "Ort": "Autobahnanschlussstelle Wilder Mann, Altstadt (A4)",
-      "Startpunkt": null,
-      "Teilnehmer": "80",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-01-08",
-      "Zeit": null,
-      "Thema": "Protest der Bauern, Spediteure sowie der Bevölkerung gegen die Maßnahmen der Regierung",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2024-01-08",
-      "Zeit": "08.00 - 12.00 Uhr",
-      "Thema": "Ein Zeichen gegen die Regierung setzen",
-      "Ort": null,
-      "Startpunkt": "Bischofswerda; Hohe Straße",
-      "Teilnehmer": "30-40",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-01-08",
-      "Zeit": "12.00 - 18.00 Uhr",
-      "Thema": "Friedliche Demo gegen die Politik der Regierung  ",
-      "Ort": null,
-      "Startpunkt": "Neustädter Markt",
-      "Teilnehmer": "3",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-01-08",
-      "Zeit": "18.30 - 20.00 Uhr",
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
     },
@@ -865,6 +745,16 @@
     },
     {
       "Datum": "2024-04-01",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "30-40",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-04-08",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
