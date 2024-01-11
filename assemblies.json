@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-01-10",
+  "Dateidatum": "2024-01-11",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,46 +14,6 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2024-01-10",
-      "Zeit": "06.00 - 10.00 Uhr",
-      "Thema": "Die Ampel ist kaputt!",
-      "Ort": null,
-      "Startpunkt": "Löbau, Äußere Bautzner Straße",
-      "Teilnehmer": "400",
-      "Veranstalter": "Land schafft Verbindung Sachsen e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-01-10",
-      "Zeit": "06.00 - 09.00 Uhr",
-      "Thema": "Die Ampel Ist Kaputt - Sternfahrt zur Großkundgebung nach Dresden ",
-      "Ort": null,
-      "Startpunkt": "aus Richtung Chemnitz",
-      "Teilnehmer": "100",
-      "Veranstalter": "Land schafft Verbindung Sachsen e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-01-10",
-      "Zeit": "07.00 - 11.00 Uhr",
-      "Thema": "Die Ampel ist kaputt!",
-      "Ort": null,
-      "Startpunkt": "Ernst-Thälmann-Straße (Lonnewitz)",
-      "Teilnehmer": "500",
-      "Veranstalter": "Land schafft Verbindung Sachsen e. V. und SLB Sachsen e. V",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-01-10",
-      "Zeit": "11.00 - 15.00 Uhr",
-      "Thema": "Protest gegen die Sparpläne der Ampelregierung aus Landwirtschaftlicher Sicht",
-      "Ort": "Theaterplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "1.100",
-      "Veranstalter": "Land schafft Verbindung Sachsen e. V. und SLB Sachsen e. V.",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2024-01-11",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Es braucht ein transparentes und 1,5 °C konformes Dekarbonisierungskonzept. ",
@@ -65,13 +25,13 @@
     },
     {
       "Datum": "2024-01-11",
-      "Zeit": null,
+      "Zeit": "10.30 - 14.00 Uhr",
       "Thema": "Unterstützung der Forderungen zum Tarifabschluss der GDL bei den Eisenbahnunternehmen",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wiener Platz",
       "Teilnehmer": "150",
       "Veranstalter": "Gewerkschaft Deutscher Lokomotivführer (GDL)",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-01-11",
@@ -162,6 +122,16 @@
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e. V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-01-21",
+      "Zeit": null,
+      "Thema": "Gedenkveranstaltung anlässlich des 82. Jahrestages des Beginns der Zwangsdeportation von Jüdinnen und Juden aus Dresden und Sachsen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "Initiative 'Herz statt Hetze'",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-01-22",
@@ -610,6 +580,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-02-17",
+      "Zeit": null,
+      "Thema": "Gedenken an die Opfer der angloamerikanischen Luftangriffe",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
