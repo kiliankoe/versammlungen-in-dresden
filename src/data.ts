@@ -17,6 +17,7 @@ const organizerReplacements: Record<string, string> = {
   "Fridays For Future": "#FridaysForFuture",
   "Fridays For Futhure": "#FridaysForFuture", // sic!
   "Piratenpartei Sachsen": "@piratensachsen@dresden.network",
+  "JUSOS Dresden": "@jusos@dresden.network",
 }
 
 export function formatOrganizer(organizer: string) {
