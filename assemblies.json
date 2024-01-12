@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-01-11",
+  "Dateidatum": "2024-01-12",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,36 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-01-11",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Es braucht ein transparentes und 1,5 °C konformes Dekarbonisierungskonzept. ",
-      "Ort": "Kraftwerk Mitte",
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-01-11",
-      "Zeit": "10.30 - 14.00 Uhr",
-      "Thema": "Unterstützung der Forderungen zum Tarifabschluss der GDL bei den Eisenbahnunternehmen",
-      "Ort": null,
-      "Startpunkt": "Wiener Platz",
-      "Teilnehmer": "150",
-      "Veranstalter": "Gewerkschaft Deutscher Lokomotivführer (GDL)",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-01-11",
-      "Zeit": "16.45 - 18.30 Uhr",
-      "Thema": "Letze Generation - Weg von Fossil hin zu Gerecht, für einen Ausstieg aus Kohle, Öl und Gas bis 2030!",
-      "Ort": null,
-      "Startpunkt": "Freiberger Straße",
-      "Teilnehmer": "25",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-01-15",
       "Zeit": "18.00 - 19.30 Uhr",
@@ -75,13 +45,13 @@
     },
     {
       "Datum": "2024-01-15",
-      "Zeit": null,
+      "Zeit": "14.00 - 22.00 Uhr",
       "Thema": "Wer schweigt stimmt zu- Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-01-18",
@@ -105,13 +75,13 @@
     },
     {
       "Datum": "2024-01-19",
-      "Zeit": null,
-      "Thema": "Mahnwache Anlässlich Gerichtsverfahren Hentschke Bau vs. VVN-BdA Sachsen",
-      "Ort": null,
+      "Zeit": "12.00 - 15.00 Uhr",
+      "Thema": "Mahnwache anlässlich Gerichtsverfahren Hentschke Bau vs. VVN-BdA Sachsen",
+      "Ort": "Marwa-El-Sherbini-Park",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "VVN-BdA Sachsen e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-01-20",
@@ -122,6 +92,16 @@
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e. V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-01-20",
+      "Zeit": null,
+      "Thema": "Freiheit für Palästina. Freitheit für Gaza.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-01-21",
@@ -162,6 +142,26 @@
       "Teilnehmer": "30-40",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-01-25",
+      "Zeit": null,
+      "Thema": "Dresden bleibt sicherer Hafen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Initiative Seebrücke Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-01-26",
+      "Zeit": null,
+      "Thema": "Dresden bleibt sicherer Hafen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Initiative Seebrücke Dresden",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-01-27",
