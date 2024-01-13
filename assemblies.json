@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-01-12",
+  "Dateidatum": "2024-01-13",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -54,13 +54,33 @@
       "Status": "beschieden"
     },
     {
-      "Datum": "2024-01-18",
+      "Datum": "2024-01-17",
       "Zeit": null,
-      "Thema": "Gegen den Rechtsruck in Firmen und Konzernen!",
+      "Thema": "NEIN zum Heim - JA zur Heimat! ",
       "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "Freie Sachsen",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-01-18",
+      "Zeit": "11.15 - 13.30 Uhr",
+      "Thema": "Gegen den Rechtsruck in Firmen und Konzernen!",
+      "Ort": "Straßburger Platz",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "JUSOS Dresden",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-01-18",
+      "Zeit": null,
+      "Thema": "Mahnwache der OMAS GEGEN RECHTS.DRESDEN für Frieden - gegen Krieg und Gewalt überall",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "8",
+      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
       "Status": "angemeldet"
     },
     {
@@ -662,6 +682,16 @@
       "Teilnehmer": "30-40",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-02-24",
+      "Zeit": null,
+      "Thema": "Solidarität mit der Ukraine ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-02-26",
