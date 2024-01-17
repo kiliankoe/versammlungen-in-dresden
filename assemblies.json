@@ -45,13 +45,13 @@
     },
     {
       "Datum": "2024-01-18",
-      "Zeit": null,
+      "Zeit": "12.00 - 13.00 Uhr",
       "Thema": "Kein Agrarland für Investoren - sächsische Betriebe erhalten!",
-      "Ort": null,
+      "Ort": "Bernhard-von-Lindenau-Platz",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Arbeitsgemeinschaft bäuerliche Landwirtschaft (AbL) Mitteldeutschland",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-01-18",
@@ -772,6 +772,16 @@
       "Teilnehmer": "30-40",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-03-07",
+      "Zeit": null,
+      "Thema": "Stoppt den fossilen Wahnsinn! Mit der Aktion fordern wir von der Politik und Verwaltung, dass erneuerbarer Strom und Energiesparen vorangetrieben werden, sodass wir geordnet aus allen fossilen Energieträgern aussteigen können.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "27",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-03-11",
