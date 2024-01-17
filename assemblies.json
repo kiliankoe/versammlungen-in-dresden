@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-01-16",
+  "Dateidatum": "2024-01-17",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -15,13 +15,13 @@
   "Versammlungen": [
     {
       "Datum": "2024-01-17",
-      "Zeit": null,
+      "Zeit": "18.00 - 21.30 Uhr",
       "Thema": "NEIN zum Heim - JA zur Heimat! ",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wölfnitzer Ring",
       "Teilnehmer": "200",
       "Veranstalter": "Freie Sachsen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-01-17",
@@ -35,13 +35,13 @@
     },
     {
       "Datum": "2024-01-17",
-      "Zeit": null,
+      "Zeit": "17.30 - 19.30 Uhr",
       "Thema": "Gorbitz ist bunt - rechte Hetzer raus aus Gorbitz!",
-      "Ort": null,
+      "Ort": "Altgorbitzer Ring",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "BÜNDNIS 90/DIE GRÜNEN Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-01-18",
@@ -154,6 +154,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2024-01-22",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu- Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-01-25",
       "Zeit": null,
       "Thema": "Dresden bleibt sicherer Hafen",
@@ -175,13 +185,13 @@
     },
     {
       "Datum": "2024-01-27",
-      "Zeit": null,
+      "Zeit": "12.45 - 15.30 Uhr",
       "Thema": "Es ist geschehen, und folglich kann es wieder geschehen - Erinnern zum Tag des Gedenkens an die Opfer des Nationalsozialismus ",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Neumarkt",
       "Teilnehmer": "150",
       "Veranstalter": "Ostra e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-01-28",
