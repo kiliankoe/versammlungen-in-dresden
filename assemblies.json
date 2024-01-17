@@ -25,13 +25,13 @@
     },
     {
       "Datum": "2024-01-17",
-      "Zeit": null,
+      "Zeit": "17.00 - 20.00 Uhr",
       "Thema": "Solidarische Stadtteile statt rechter Hetze!",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Amalie-Dietrich-Platz",
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-01-17",
@@ -121,6 +121,16 @@
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "Initiative 'Herz statt Hetze'",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-01-21",
+      "Zeit": null,
+      "Thema": "Demokratie verteidigen - gemeinsam gegen Rechts!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "3.000",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -670,6 +680,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-02-18",
+      "Zeit": null,
+      "Thema": "Mahngang Täter*innenspuren 2024",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "700",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
