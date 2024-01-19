@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-01-18",
+  "Dateidatum": "2024-01-19",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,36 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-01-18",
-      "Zeit": "12.00 - 13.00 Uhr",
-      "Thema": "Kein Agrarland für Investoren - sächsische Betriebe erhalten!",
-      "Ort": "Bernhard-von-Lindenau-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "Arbeitsgemeinschaft bäuerliche Landwirtschaft (AbL) Mitteldeutschland",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-01-18",
-      "Zeit": "11.15 - 13.30 Uhr",
-      "Thema": "Gegen den Rechtsruck in Firmen und Konzernen!",
-      "Ort": "Straßburger Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "15",
-      "Veranstalter": "JUSOS Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-01-18",
-      "Zeit": "16.00 - 18.00 Uhr",
-      "Thema": "Mahnwache der OMAS GEGEN RECHTS.DRESDEN für Frieden - gegen Krieg und Gewalt überall",
-      "Ort": "Kleine Kirchgasse",
-      "Startpunkt": null,
-      "Teilnehmer": "8",
-      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-01-19",
       "Zeit": "11.00 - 14.00 Uhr",
@@ -75,22 +45,32 @@
     },
     {
       "Datum": "2024-01-20",
-      "Zeit": null,
+      "Zeit": "17.00 - 19.30 Uhr",
       "Thema": "Freiheit für Palästina. Freitheit für Gaza.",
-      "Ort": null,
+      "Ort": "Wiener Platz",
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-01-21",
+      "Zeit": "16.00 - 17.00 Uhr",
+      "Thema": "Gedenkveranstaltung anlässlich des 82. Jahrestages des Beginns der Zwangsdeportation von Jüdinnen und Juden aus Dresden und Sachsen",
+      "Ort": "Eisenbahnstraße",
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "Initiative 'Herz statt Hetze'",
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-01-21",
       "Zeit": null,
-      "Thema": "Gedenkveranstaltung anlässlich des 82. Jahrestages des Beginns der Zwangsdeportation von Jüdinnen und Juden aus Dresden und Sachsen",
+      "Thema": "Denkmalzerstörer Hilbert stoppen - für eine würdige Erinnerung an die Opfer des Bombenterrors",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "200",
-      "Veranstalter": "Initiative 'Herz statt Hetze'",
+      "Teilnehmer": "300",
+      "Veranstalter": "Freie Sachsen",
       "Status": "angemeldet"
     },
     {
@@ -99,7 +79,7 @@
       "Thema": "Demokratie verteidigen - gemeinsam gegen Rechts!",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "3.000",
+      "Teilnehmer": "1.000",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -144,24 +124,34 @@
       "Status": "angemeldet"
     },
     {
-      "Datum": "2024-01-25",
+      "Datum": "2024-01-24",
       "Zeit": null,
-      "Thema": "Dresden bleibt sicherer Hafen",
+      "Thema": "Letzte Generation - weg von fossil, hin zu gerecht, für einen sozial-gerechten Ausstieg aus Kohle, Öl und Gas bis 2030!",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "Initiative Seebrücke Dresden",
+      "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
-      "Datum": "2024-01-26",
-      "Zeit": null,
+      "Datum": "2024-01-25",
+      "Zeit": "15.30 - 16.30 Uhr",
       "Thema": "Dresden bleibt sicherer Hafen",
-      "Ort": null,
+      "Ort": "Rathausplatz",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Initiative Seebrücke Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-01-26",
+      "Zeit": "14.30 - 15.30 Uhr",
+      "Thema": "Dresden bleibt sicherer Hafen",
+      "Ort": "Rathausplatz",
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Initiative Seebrücke Dresden",
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-01-27",
@@ -175,13 +165,13 @@
     },
     {
       "Datum": "2024-01-28",
-      "Zeit": null,
+      "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "Demonstration in Solidarität mit dem kubanischen Volk, für die Freilassung aller politischen Gefangenen in Kuba.",
-      "Ort": null,
+      "Ort": "Alaunplatz",
       "Startpunkt": null,
       "Teilnehmer": "40",
       "Veranstalter": "PatriaYVida e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-01-29",
@@ -232,6 +222,16 @@
       "Teilnehmer": "30-40",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-01-29",
+      "Zeit": null,
+      "Thema": "Kein Fußbreit dem Quergida-Faschismus!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "unbekannt",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-02-03",
@@ -506,6 +506,16 @@
     {
       "Datum": "2024-02-13",
       "Zeit": null,
+      "Thema": "Dresden ist kein Ort für Nazis",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-02-13",
+      "Zeit": null,
       "Thema": "Gedenkversammlung für die Opfer des Bombenangriffs auf Dresden am 13.02.1945",
       "Ort": null,
       "Startpunkt": null,
@@ -750,6 +760,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "27",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-03-08",
+      "Zeit": null,
+      "Thema": "Feministischer Schulstreik zum feministischen Kampftag",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
