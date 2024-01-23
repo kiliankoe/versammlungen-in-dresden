@@ -135,13 +135,13 @@
     },
     {
       "Datum": "2024-02-01",
-      "Zeit": "08.30 - 09.30 Uhr",
+      "Zeit": null,
       "Thema": "Stoppt den fossilen Wahnsinn! Mit der Aktion fordern wir von der Politik und Verwaltung, dass erneuerbarer Strom und Energiesparen vorangetrieben werden, sodass wir geordnet aus allen fossilen Energieträgern aussteigen können.",
       "Ort": null,
-      "Startpunkt": "Carolaplatz",
-      "Teilnehmer": "27",
+      "Startpunkt": null,
+      "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-02-03",
@@ -376,6 +376,16 @@
     {
       "Datum": "2024-02-13",
       "Zeit": null,
+      "Thema": "OPERATION: Trümmerfetisch - Das traditionelle Entnazifizierungsbombardement",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Die PARTEI Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-02-13",
+      "Zeit": null,
       "Thema": "Menschenkette 13. Februar",
       "Ort": null,
       "Startpunkt": null,
@@ -430,6 +440,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-02-13",
+      "Zeit": null,
+      "Thema": "Dresden ist kein Ort für Nazis",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1000",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -531,6 +551,16 @@
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-02-17",
+      "Zeit": null,
+      "Thema": "Dresden ist kein Ort für Nazis",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1000",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
