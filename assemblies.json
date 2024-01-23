@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-01-22",
+  "Dateidatum": "2024-01-23",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,54 +14,14 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2024-01-22",
-      "Zeit": null,
-      "Thema": "Gegen Glaubenskriege auf deutschem Boden",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "1000",
-      "Veranstalter": "PEGIDA Förderverein e. V.",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2024-01-22",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "30",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-01-22",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "30-40",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-01-22",
-      "Zeit": "17.00 - 21.30 Uhr",
-      "Thema": "Wer schweigt stimmt zu- Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2024-01-24",
-      "Zeit": null,
+      "Zeit": "16.45 - 18.30 Uhr",
       "Thema": "Letzte Generation - weg von fossil, hin zu gerecht, für einen sozial-gerechten Ausstieg aus Kohle, Öl und Gas bis 2030!",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Straße",
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-01-25",
@@ -92,6 +52,16 @@
       "Teilnehmer": "150",
       "Veranstalter": "Ostra e. V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-01-28",
+      "Zeit": null,
+      "Thema": "Gedenken an das Blutbad im Keglerheim am 25.01.1933",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-01-28",
@@ -162,6 +132,16 @@
       "Teilnehmer": "unbekannt",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-02-01",
+      "Zeit": "08.30 - 09.30 Uhr",
+      "Thema": "Stoppt den fossilen Wahnsinn! Mit der Aktion fordern wir von der Politik und Verwaltung, dass erneuerbarer Strom und Energiesparen vorangetrieben werden, sodass wir geordnet aus allen fossilen Energieträgern aussteigen können.",
+      "Ort": null,
+      "Startpunkt": "Carolaplatz",
+      "Teilnehmer": "27",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-02-03",
@@ -775,6 +755,16 @@
     },
     {
       "Datum": "2024-04-15",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "30-40",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-04-22",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
