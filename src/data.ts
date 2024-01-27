@@ -6,6 +6,7 @@ const rightWingOrganizers = [
   "pegida förderverein e. v.",
   "freie sachsen",
   "initiative dresden gegen moschee-(neu)bau",
+  "wellenlänge",
 ];
 
 export function contentWarning(assembly: Assembly) {
