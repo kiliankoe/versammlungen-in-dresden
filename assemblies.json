@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-01-26",
+  "Dateidatum": "2024-01-27",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-01-26",
-      "Zeit": "14.30 - 15.30 Uhr",
-      "Thema": "Dresden bleibt sicherer Hafen",
-      "Ort": "Rathausplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "Initiative Seebrücke Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-01-26",
-      "Zeit": "09.00 - 11.00 Uhr",
-      "Thema": "Demonstration für die Forderungen zu einem Tarifvertrag GDL für Eisenbahnunternehmen",
-      "Ort": "Wiener Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "400",
-      "Veranstalter": "Gewerkschaft Deutscher Lokomotivführer (GDL)",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-01-27",
       "Zeit": "12.45 - 15.30 Uhr",
@@ -105,13 +85,13 @@
     },
     {
       "Datum": "2024-01-29",
-      "Zeit": null,
+      "Zeit": "17.30 - 21.00 Uhr",
       "Thema": "FREIE SACHSEN unterstützen PEGIDA. Mit Stefan 'Trauti' Trautmann in neue Dimensionen!",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "10 bis 20",
       "Veranstalter": "Partei FREIE SACHSEN",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-01-29",
@@ -135,13 +115,13 @@
     },
     {
       "Datum": "2024-01-29",
-      "Zeit": null,
+      "Zeit": "17.15 - 22.00 Uhr",
       "Thema": "Kein Fußbreit dem Quergida-Faschismus!",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Alaunplatz",
       "Teilnehmer": "800",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-01-29",
