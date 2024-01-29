@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-01-28",
+  "Dateidatum": "2024-01-29",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-01-28",
-      "Zeit": "10.00 - 11.00 Uhr",
-      "Thema": "Gedenken an das Blutbad im Keglerheim am 25.01.1933",
-      "Ort": "Weißeritzstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-01-28",
-      "Zeit": "14.00 - 17.00 Uhr",
-      "Thema": "Demonstration in Solidarität mit dem kubanischen Volk, für die Freilassung aller politischen Gefangenen in Kuba.",
-      "Ort": "Alaunplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "40",
-      "Veranstalter": "PatriaYVida e. V.",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-01-29",
       "Zeit": "18.00 - 19.30 Uhr",
@@ -141,6 +121,16 @@
       "Startpunkt": null,
       "Teilnehmer": "10.000",
       "Veranstalter": "Bündnis 'Wir sind die Brandmauer Dresden'",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-02-03",
+      "Zeit": null,
+      "Thema": "Solidarität mit der Menschen Im Iran",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -732,6 +722,16 @@
       "Teilnehmer": "30-40",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-03-04",
+      "Zeit": null,
+      "Thema": "Gegen Glaubenskriege auf deutschem Boden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1000",
+      "Veranstalter": "PEGIDA Förderverein e. V.",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-03-04",
