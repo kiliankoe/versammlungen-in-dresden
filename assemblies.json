@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-01-30",
+  "Dateidatum": "2024-01-31",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -25,13 +25,13 @@
     },
     {
       "Datum": "2024-02-02",
-      "Zeit": null,
+      "Zeit": "12.00 - 18.00 Uhr",
       "Thema": "Nein zur Moschee",
-      "Ort": null,
+      "Ort": "Bautzner Straße",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Freie Sachsen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-02-03",
@@ -55,13 +55,13 @@
     },
     {
       "Datum": "2024-02-03",
-      "Zeit": null,
-      "Thema": "Solidarität mit der Menschen Im Iran",
-      "Ort": null,
+      "Zeit": "14.00 - 16.00 Uhr",
+      "Thema": "Solidarität mit den Menschen im Iran",
+      "Ort": "Schloßplatz",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-02-05",
@@ -141,6 +141,16 @@
       "Startpunkt": null,
       "Teilnehmer": "2.000",
       "Veranstalter": "Aktionsnetzwerk 'Leipzig nimmt Platz' c/o WERK 2 - Kulturfabrik Leipzig e.V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-02-09",
+      "Zeit": null,
+      "Thema": "Dresden ist kein Ort für Nazis",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1000",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -246,6 +256,16 @@
     {
       "Datum": "2024-02-10",
       "Zeit": null,
+      "Thema": "Dresden ist kein Ort für Nazis",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-02-10",
+      "Zeit": null,
       "Thema": "Erhalt von Meinungs- und Versammlungsfreiheit in der Landeshauptstadt Dresden ",
       "Ort": null,
       "Startpunkt": null,
@@ -330,6 +350,36 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "2.000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-02-11",
+      "Zeit": null,
+      "Thema": "Dresden ist kein Ort für Nazis",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-02-11",
+      "Zeit": null,
+      "Thema": "Gedenken an die Toten der angloamerikanischen Bombenangriffe! Wir fordern ein würdiges Denkmal in der Innenstadt!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-02-11",
+      "Zeit": null,
+      "Thema": "Dresden ist kein Ort für Nazis",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1000",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -444,13 +494,13 @@
       "Status": "angemeldet"
     },
     {
-      "Datum": "2024-02-13",
+      "Datum": "2024-02-12",
       "Zeit": null,
-      "Thema": "'Stilles Gedenken vor der Frauenkirche Dresden - wahrhaftig erinnern - versöhnt leben' und 'Dresdner Gedenkweg - unterwegs zur Versöhnung - 13. Februar' ",
+      "Thema": "Dresden ist kein Ort für Nazis",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": null,
-      "Veranstalter": "Gesellschaft zur Förderung der Frauenkirche Dresden e. V.",
+      "Teilnehmer": "1000",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -461,7 +511,7 @@
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "GRÜNE JUGEND Dresden",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2024-02-13",
@@ -491,16 +541,6 @@
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "Die PARTEI Dresden",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2024-02-13",
-      "Zeit": null,
-      "Thema": "Menschenkette 13. Februar",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "10.000",
-      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -590,6 +630,46 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "2.000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-02-13",
+      "Zeit": null,
+      "Thema": "Dresden ist kein Ort für Nazis",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-02-13",
+      "Zeit": null,
+      "Thema": "'Stilles Gedenken vor der Frauenkirche Dresden - wahrhaftig erinnern - versöhnt leben' und 'Dresdner Gedenkweg - unterwegs zur Versöhnung - 13. Februar' ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "mehrere tausend über den Tag verteilt",
+      "Veranstalter": "Gesellschaft zur Förderung der Frauenkirche Dresden e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-02-13",
+      "Zeit": null,
+      "Thema": "Menschenkette 13. Februar",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10.000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-02-13",
+      "Zeit": null,
+      "Thema": "Dresden ist kein Ort für Nazis",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1000",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -724,6 +804,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2024-02-16",
+      "Zeit": null,
+      "Thema": "Dresden ist kein Ort für Nazis",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-02-17",
       "Zeit": null,
       "Thema": "Dresden ist kein Ort für Nazis",
@@ -809,14 +899,24 @@
       "Thema": "Dresden ist kein Ort für Nazis",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "1.000",
+      "Teilnehmer": "1000",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
       "Datum": "2024-02-17",
       "Zeit": null,
-      "Thema": "Gedenken an die Opfer der angloamerikanischen Luftangriffe",
+      "Thema": "Dresden ist kein Ort für Nazis",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-02-17",
+      "Zeit": null,
+      "Thema": "Dresden ist kein Ort für Nazis",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -910,6 +1010,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "2.000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-02-18",
+      "Zeit": null,
+      "Thema": "Dresden ist kein Ort für Nazis",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1000",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
