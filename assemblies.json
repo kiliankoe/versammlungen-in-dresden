@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-01-31",
+  "Dateidatum": "2024-02-01",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -61,7 +61,7 @@
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2024-02-05",
@@ -85,13 +85,13 @@
     },
     {
       "Datum": "2024-02-05",
-      "Zeit": null,
+      "Zeit": "17.00 - 21.00 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-02-09",
@@ -669,7 +669,7 @@
       "Thema": "Dresden ist kein Ort für Nazis",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "1000",
+      "Teilnehmer": "1.000",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -1222,6 +1222,66 @@
       "Teilnehmer": "30-40",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-05-01",
+      "Zeit": null,
+      "Thema": "Gemeinsam für Tariflohn und Mitbestimmung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "ver.di",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-01",
+      "Zeit": null,
+      "Thema": "1. Mai Kundgebung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "800",
+      "Veranstalter": "DIE LINKE Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-01",
+      "Zeit": null,
+      "Thema": "1. Mai - Unser Tag!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "ver.di Bezirk SWOS",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-01",
+      "Zeit": null,
+      "Thema": "Kundgebung zum 1. Mai 2024",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1000",
+      "Veranstalter": "DGB Dresden-Oberes Elbtal",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-01",
+      "Zeit": null,
+      "Thema": "OMAS GEGEN RECHTS.DRESDEN - Liebe Leute geht wählen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "8",
+      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-01",
+      "Zeit": null,
+      "Thema": "1. Mai_Kommunal- und Europawahlveranstaltung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "AfD Dresden",
+      "Status": "angemeldet"
     }
   ]
 }
