@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-02-03",
+  "Dateidatum": "2024-02-04",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,46 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-02-03",
-      "Zeit": "14.00 - 17.00 Uhr",
-      "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "15",
-      "Veranstalter": "Activists for the Victims e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-02-03",
-      "Zeit": "13.00 - 16.30 Uhr",
-      "Thema": "Wir sind die Brandmauer",
-      "Ort": null,
-      "Startpunkt": "Theaterplatz",
-      "Teilnehmer": "10.000",
-      "Veranstalter": "Bündnis 'Wir sind die Brandmauer Dresden'",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-02-03",
-      "Zeit": "14.00 - 16.00 Uhr",
-      "Thema": "Solidarität mit den Menschen im Iran",
-      "Ort": "Schloßplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2024-02-03",
-      "Zeit": "14.00 - 16.00 Uhr",
-      "Thema": "Der LINKE und der RECHTE Flügel gehören zum SELBEN Vogel",
-      "Ort": "Neumarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "Bürgerinitiative ViSaVis - Vivians & Sandras Visionen",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-02-05",
       "Zeit": "18.00 - 19.30 Uhr",
