@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-02-04",
+  "Dateidatum": "2024-02-05",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -330,6 +330,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-02-11",
+      "Zeit": null,
+      "Thema": "RESPECT CYCLISTS",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -1241,6 +1251,16 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "AfD Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-05",
+      "Zeit": null,
+      "Thema": "Aufruf für Europa und Werbung, wählen zu gehen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "Pulse of Europe e. V. - Regionalgruppe Dresden",
       "Status": "angemeldet"
     }
   ]
