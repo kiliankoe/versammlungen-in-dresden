@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-02-08",
+  "Dateidatum": "2024-02-09",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -25,13 +25,13 @@
     },
     {
       "Datum": "2024-02-09",
-      "Zeit": null,
+      "Zeit": "16.00 - 21.00 Uhr",
       "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": null,
+      "Ort": "Wiener Straße, Bayrische Straße, Am Hauptbahnhof und Wiener Platz",
       "Startpunkt": null,
       "Teilnehmer": "1000",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-02-09",
@@ -45,13 +45,13 @@
     },
     {
       "Datum": "2024-02-09",
-      "Zeit": null,
+      "Zeit": "16.00 - 21.00 Uhr",
       "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": null,
+      "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
-      "Teilnehmer": "2.000",
+      "Teilnehmer": "1000",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-02-09",
@@ -62,16 +62,6 @@
       "Teilnehmer": "2.000",
       "Veranstalter": "Aktionsnetzwerk 'Leipzig nimmt Platz' c/o WERK 2 - Kulturfabrik Leipzig e.V.",
       "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2024-02-09",
-      "Zeit": "16.00 - 21.00 Uhr",
-      "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "1000",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
     },
     {
       "Datum": "2024-02-09",
@@ -95,12 +85,32 @@
     },
     {
       "Datum": "2024-02-09",
+      "Zeit": "11.30 - 21.00 Uhr",
+      "Thema": "Dresden ist kein Ort für Nazis",
+      "Ort": null,
+      "Startpunkt": "Bayrische Straße",
+      "Teilnehmer": "2.000",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-02-09",
       "Zeit": "17.00 - 19.00 Uhr",
       "Thema": "Brennpunkt Asyl: Bürgersprechstunde mit André Wendt und Steffen Hanisch",
       "Ort": "Albert-Wolf-Platz",
       "Startpunkt": null,
       "Teilnehmer": "5",
       "Veranstalter": "AfD Dresden",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-02-10",
+      "Zeit": "07.00 - 20.00 Uhr",
+      "Thema": "Dresden ist kein Ort für Nazis",
+      "Ort": "Wiener Straße, Bayrische Straße, Am Hauptbahnhof und Wiener Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "1000",
+      "Veranstalter": "natürliche Person",
       "Status": "beschieden"
     },
     {
@@ -115,29 +125,9 @@
     },
     {
       "Datum": "2024-02-10",
-      "Zeit": null,
-      "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "1000",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2024-02-10",
       "Zeit": "07.00 - 20.00 Uhr",
       "Thema": "Dresden ist kein Ort für Nazis",
       "Ort": "Könneritzstraße und Weißeritzstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "1000",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-02-10",
-      "Zeit": "07.00 - 20.00 Uhr",
-      "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
       "Teilnehmer": "1000",
       "Veranstalter": "natürliche Person",
@@ -157,6 +147,16 @@
       "Datum": "2024-02-10",
       "Zeit": "07.00 - 20.00 Uhr",
       "Thema": "Dresden ist kein Ort für Nazis",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "1000",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-02-10",
+      "Zeit": "07.00 - 20.00 Uhr",
+      "Thema": "Dresden ist kein Ort für Nazis",
       "Ort": "Rosa-Luxemburg-Platz",
       "Startpunkt": null,
       "Teilnehmer": "1000",
@@ -165,13 +165,13 @@
     },
     {
       "Datum": "2024-02-10",
-      "Zeit": null,
+      "Zeit": "11.00 - 21.00 Uhr",
       "Thema": "Dresden ist kein Ort für Nazis",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bayrische Straße",
       "Teilnehmer": "2.000",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-02-10",
@@ -205,19 +205,19 @@
     },
     {
       "Datum": "2024-02-11",
-      "Zeit": null,
+      "Zeit": "07.00 - 20.00 Uhr",
       "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": null,
+      "Ort": "Schlesischer Platz und Hansastraße",
       "Startpunkt": null,
       "Teilnehmer": "1000",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-02-11",
       "Zeit": "07.00 - 20.00 Uhr",
       "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": "Schlesischer Platz und Hansastraße",
+      "Ort": "Wiener Straße, Bayrische Straße, Am Hauptbahnhof und Wiener Platz",
       "Startpunkt": null,
       "Teilnehmer": "1000",
       "Veranstalter": "natürliche Person",
@@ -245,16 +245,6 @@
     },
     {
       "Datum": "2024-02-11",
-      "Zeit": null,
-      "Thema": "#platznehmen gegen Nazis in Dresden",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2.000",
-      "Veranstalter": "Aktionsnetzwerk 'Leipzig nimmt Platz' c/o WERK 2 - Kulturfabrik Leipzig e. V.",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2024-02-11",
       "Zeit": "07.00 - 20.00 Uhr",
       "Thema": "Dresden ist kein Ort für Nazis",
       "Ort": "Rosa-Luxemburg-Platz",
@@ -265,13 +255,13 @@
     },
     {
       "Datum": "2024-02-11",
-      "Zeit": null,
+      "Zeit": "11.00 - 21.00 Uhr",
       "Thema": "Dresden ist kein Ort für Nazis",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bayrische Straße",
       "Teilnehmer": "2.000",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-02-11",
@@ -305,12 +295,22 @@
     },
     {
       "Datum": "2024-02-11",
-      "Zeit": null,
+      "Zeit": "13.00 - 21.00 Uhr",
       "Thema": "Dresden ist kein Ort für Nazis",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Lothringer Straße",
       "Teilnehmer": "1000",
       "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-02-11",
+      "Zeit": null,
+      "Thema": "#platznehmen gegen Nazis in Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2.000",
+      "Veranstalter": "Aktionsnetzwerk 'Leipzig nimmt Platz' c/o WERK 2 - Kulturfabrik Leipzig e. V.",
       "Status": "angemeldet"
     },
     {
@@ -335,23 +335,23 @@
     },
     {
       "Datum": "2024-02-11",
-      "Zeit": null,
+      "Zeit": "12.00 - 19.00 Uhr",
       "Thema": "Strehlen ist kein Ort für Nazis",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wasastraße",
       "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-02-11",
-      "Zeit": null,
+      "Zeit": "10.00 - 18.00 Uhr",
       "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": null,
+      "Ort": "Oskarstraße",
       "Startpunkt": null,
       "Teilnehmer": "1.000",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-02-12",
@@ -375,13 +375,13 @@
     },
     {
       "Datum": "2024-02-12",
-      "Zeit": null,
+      "Zeit": "07.00 - 20.00 Uhr",
       "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": null,
+      "Ort": "Wiener Straße, Bayrische Straße, Am Hauptbahnhof und Wiener Platz",
       "Startpunkt": null,
       "Teilnehmer": "1000",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-02-12",
@@ -415,13 +415,13 @@
     },
     {
       "Datum": "2024-02-12",
-      "Zeit": null,
+      "Zeit": "11.00 - 21.00 Uhr",
       "Thema": "Dresden ist kein Ort für Nazis",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bayrische Straße",
       "Teilnehmer": "2.000",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-02-12",
@@ -465,33 +465,33 @@
     },
     {
       "Datum": "2024-02-12",
-      "Zeit": null,
+      "Zeit": "17.00 - 21.00 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-02-12",
-      "Zeit": null,
+      "Zeit": "11.00 - 13.30 Uhr",
       "Thema": "Forderungen zur Reform des Prüfungswesens!",
-      "Ort": null,
+      "Ort": "Zellescher Weg",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Studierendenrat der TU Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-02-12",
-      "Zeit": null,
+      "Zeit": "18.00 - 22.00 Uhr",
       "Thema": "Für ein neues Gedenken!",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-02-13",
@@ -535,13 +535,13 @@
     },
     {
       "Datum": "2024-02-13",
-      "Zeit": null,
+      "Zeit": "07.00 - 22.00 Uhr",
       "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": null,
+      "Ort": "Wiener Straße, Bayrische Straße, Am Hauptbahnhof und Wiener Platz",
       "Startpunkt": null,
       "Teilnehmer": "1000",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-02-13",
@@ -605,13 +605,13 @@
     },
     {
       "Datum": "2024-02-13",
-      "Zeit": null,
+      "Zeit": "11.00 - 21.00 Uhr",
       "Thema": "Dresden ist kein Ort für Nazis",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bayrische Straße",
       "Teilnehmer": "2.000",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-02-13",
@@ -665,13 +665,13 @@
     },
     {
       "Datum": "2024-02-13",
-      "Zeit": null,
+      "Zeit": "10.00 - 18.00 Uhr",
       "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": null,
+      "Ort": "Oskarstraße",
       "Startpunkt": null,
       "Teilnehmer": "1.000",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-02-13",
@@ -725,23 +725,23 @@
     },
     {
       "Datum": "2024-02-16",
-      "Zeit": null,
+      "Zeit": "11.00 - 14.00 Uhr",
       "Thema": "Heizung, Brot & Frieden",
-      "Ort": null,
+      "Ort": "Jacob-Winter-Platz",
       "Startpunkt": null,
       "Teilnehmer": "10 bis 20",
       "Veranstalter": "Deutsche Kommunistische Partei (DKP)",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-02-16",
-      "Zeit": null,
+      "Zeit": "16.00 - 21.00 Uhr",
       "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": null,
+      "Ort": "Wiener Straße, Bayrische Straße, Am Hauptbahnhof und Wiener Platz",
       "Startpunkt": null,
       "Teilnehmer": "1000",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-02-16",
@@ -765,13 +765,13 @@
     },
     {
       "Datum": "2024-02-16",
-      "Zeit": null,
+      "Zeit": "11.00 - 21.00 Uhr",
       "Thema": "Dresden ist kein Ort für Nazis",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bayrische Straße",
       "Teilnehmer": "2.000",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-02-16",
@@ -815,13 +815,13 @@
     },
     {
       "Datum": "2024-02-17",
-      "Zeit": null,
+      "Zeit": "07.00 - 20.00 Uhr",
       "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": null,
+      "Ort": "Wiener Straße, Bayrische Straße, Am Hauptbahnhof und Wiener Platz",
       "Startpunkt": null,
       "Teilnehmer": "1000",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-02-17",
@@ -885,13 +885,13 @@
     },
     {
       "Datum": "2024-02-17",
-      "Zeit": null,
+      "Zeit": "11.00 - 21.00 Uhr",
       "Thema": "Dresden ist kein Ort für Nazis",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bayrische Straße",
       "Teilnehmer": "2.000",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-02-17",
@@ -945,13 +945,13 @@
     },
     {
       "Datum": "2024-02-18",
-      "Zeit": null,
+      "Zeit": "07.00 - 20.00 Uhr",
       "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": null,
+      "Ort": "Wiener Straße, Bayrische Straße, Am Hauptbahnhof und Wiener Platz",
       "Startpunkt": null,
       "Teilnehmer": "1000",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-02-18",
@@ -1005,13 +1005,13 @@
     },
     {
       "Datum": "2024-02-18",
-      "Zeit": null,
+      "Zeit": "11.00 - 21.00 Uhr",
       "Thema": "Dresden ist kein Ort für Nazis",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bayrische Straße",
       "Teilnehmer": "2.000",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-02-18",
