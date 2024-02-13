@@ -111,7 +111,7 @@
       "Startpunkt": null,
       "Teilnehmer": "1000",
       "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2024-02-13",
@@ -245,13 +245,13 @@
     },
     {
       "Datum": "2024-02-13",
-      "Zeit": null,
+      "Zeit": "18.00 - 18.45 Uhr",
       "Thema": "Mit Fahrrädern gegen Repression und Faschismus",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Alaunplatz",
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-02-13",
@@ -331,7 +331,7 @@
       "Startpunkt": null,
       "Teilnehmer": "1000",
       "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2024-02-16",
@@ -401,7 +401,7 @@
       "Startpunkt": null,
       "Teilnehmer": "1000",
       "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2024-02-17",
@@ -505,13 +505,13 @@
     },
     {
       "Datum": "2024-02-18",
-      "Zeit": null,
+      "Zeit": "13.30 - 17.30 Uhr",
       "Thema": "Mahngang Täter*innenspuren 2024",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Theaterstraße",
       "Teilnehmer": "700",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-02-18",
@@ -521,7 +521,7 @@
       "Startpunkt": null,
       "Teilnehmer": "1000",
       "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2024-02-18",
