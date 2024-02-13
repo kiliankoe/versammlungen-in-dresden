@@ -11,15 +11,20 @@ export function formatTitle(t: string) {
 
 export function formatPost(a: Assembly) {
   let lines = [];
+  if (a.Status === "abgemeldet") {
+    lines.push("[Abmeldung] ");
+  } else {
+    lines.push("");
+  }
   if (a.Zeit) {
     if (a.Zeit === "ganztägig") {
-      lines.push(`Ganztägige Versammlung am ${formatDate(a.Datum)} ${a.Status}.`);
+      lines[0] += `Ganztägige Versammlung am ${formatDate(a.Datum)} ${a.Status}.`;
     } else if (a.Zeit.startsWith("bis")) {
-      lines.push(`Versammlung am ${formatDate(a.Datum)} ${a.Zeit} ${a.Status}.`);
+      lines[0] += `Versammlung am ${formatDate(a.Datum)} ${a.Zeit} ${a.Status}.`;
     } else if (a.Zeit.includes("-")) {
-      lines.push(`Versammlung am ${formatDate(a.Datum)} von ${a.Zeit} ${a.Status}.`);
+      lines[0] += `Versammlung am ${formatDate(a.Datum)} von ${a.Zeit} ${a.Status}.`;
     } else {
-      lines.push(`Versammlung am ${formatDate(a.Datum)} um ${a.Zeit} ${a.Status}.`);
+      lines[0] += `Versammlung am ${formatDate(a.Datum)} um ${a.Zeit} ${a.Status}.`;
     }
   } else {
     lines.push(`Versammlung am ${formatDate(a.Datum)} ${a.Status}.`);
@@ -37,7 +42,11 @@ export function formatPost(a: Assembly) {
     lines.push("Ort bisher nicht bekannt.");
   }
 
-  lines.push(`Geplant sind ${a.Teilnehmer} Teilnehmer:innen.`);
+  if (a.Status === "abgemeldet") {
+    lines.push(`Geplant waren ${a.Teilnehmer} Teilnehmer·innen.`);
+  } else {
+    lines.push(`Geplant sind ${a.Teilnehmer} Teilnehmer·innen.`);
+  }
   if (a.Veranstalter !== "natürliche Person") {
     lines.push(`Veranstaltet durch ${formatOrganizer(a.Veranstalter)}`);
   }
