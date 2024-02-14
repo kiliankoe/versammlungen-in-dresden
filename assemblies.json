@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-02-13",
+  "Dateidatum": "2024-02-14",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,256 +14,6 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2024-02-13",
-      "Zeit": null,
-      "Thema": "Kein Platz für Nazis, weg mit dem Opfermythos!",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "GRÜNE JUGEND Dresden",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2024-02-13",
-      "Zeit": "14.00 - 23.59 Uhr",
-      "Thema": "Stilles Ge(h)denken Dresden",
-      "Ort": "Altmarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "unbekannt",
-      "Veranstalter": "Wellenlänge",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-02-13",
-      "Zeit": "14.00 - 23.59 Uhr",
-      "Thema": "Stilles Ge(h)denken Dresden",
-      "Ort": "Neumarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "unbekannt",
-      "Veranstalter": "Wellenlänge",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-02-13",
-      "Zeit": "16.30 - 21.00 Uhr",
-      "Thema": "OPERATION: Trümmerfetisch - Das traditionelle Entnazifizierungsbombardement",
-      "Ort": null,
-      "Startpunkt": "Görlitzer Straße",
-      "Teilnehmer": "50",
-      "Veranstalter": "Die PARTEI Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-02-13",
-      "Zeit": "07.00 - 20.00 Uhr",
-      "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": "Schlesischer Platz und Hansastraße",
-      "Startpunkt": null,
-      "Teilnehmer": "1000",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-02-13",
-      "Zeit": "07.00 - 22.00 Uhr",
-      "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": "Wiener Straße, Bayrische Straße, Am Hauptbahnhof und Wiener Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "1000",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-02-13",
-      "Zeit": "07.00 - 22.00 Uhr",
-      "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": "Könneritzstraße und Weißeritzstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "1000",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-02-13",
-      "Zeit": null,
-      "Thema": "Dresden 1945 - unvergessen!",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "200",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2024-02-13",
-      "Zeit": null,
-      "Thema": "#platznehmen gegen Nazis in Dresden",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2.000",
-      "Veranstalter": "Aktionsnetzwerk 'Leipzig nimmt Platz' c/o WERK 2 - Kulturfabrik Leipzig e. V.",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2024-02-13",
-      "Zeit": "07.00 - 22.00 Uhr",
-      "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "1000",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2024-02-13",
-      "Zeit": "07.00 - 22.00 Uhr",
-      "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": "Rosa-Luxemburg-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "1000",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-02-13",
-      "Zeit": "11.00 - 21.00 Uhr",
-      "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": null,
-      "Startpunkt": "Bayrische Straße",
-      "Teilnehmer": "2.000",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2024-02-13",
-      "Zeit": null,
-      "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "1.000",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2024-02-13",
-      "Zeit": "16.00 - 22.30 Uhr",
-      "Thema": "'Stilles Gedenken vor der Frauenkirche Dresden - wahrhaftig erinnern - versöhnt leben' und 'Dresdner Gedenkweg - unterwegs zur Versöhnung - 13. Februar' ",
-      "Ort": "Neumarkt",
-      "Startpunkt": "Hasenberg",
-      "Teilnehmer": "mehrere tausend über den Tag verteilt",
-      "Veranstalter": "Gesellschaft zur Förderung der Frauenkirche Dresden e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-02-13",
-      "Zeit": "17.00 - 18.10 Uhr",
-      "Thema": "Menschenkette 13. Februar",
-      "Ort": null,
-      "Startpunkt": "Stadtbezirksamt Altstadt und Neustadt",
-      "Teilnehmer": "10.000",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-02-13",
-      "Zeit": "07.00 - 22.00 Uhr",
-      "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": "Nürnberger Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "1.000",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-02-13",
-      "Zeit": "18.15 - 22.00 Uhr",
-      "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": "Altmarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "1.000",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-02-13",
-      "Zeit": "17.30 - 19.00 Uhr",
-      "Thema": "Naziaufmärsche stoppen – Gedenken abschaffen!",
-      "Ort": null,
-      "Startpunkt": "Fritz-Foerster Platz",
-      "Teilnehmer": "500",
-      "Veranstalter": "Studierendenrat der TU Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-02-13",
-      "Zeit": "19.30 - 22.00 Uhr",
-      "Thema": "'Dresden mahnt - Aus der Geschichte lernen'",
-      "Ort": "Altmarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "2.000",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-02-13",
-      "Zeit": "10.00 - 18.00 Uhr",
-      "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": "Oskarstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "1.000",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2024-02-13",
-      "Zeit": "12.00 - 16.00 Uhr",
-      "Thema": "Gedenkversammlung für die Opfer des Bombenangriffs auf Dresden am 13.02.1945",
-      "Ort": "Neumarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-02-13",
-      "Zeit": "12.00 - 17.30 Uhr",
-      "Thema": "Für Frieden - gegen Krieg und Gewalt überall",
-      "Ort": null,
-      "Startpunkt": "Wallstraße",
-      "Teilnehmer": "15",
-      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-02-13",
-      "Zeit": "15.00 - 22.00 Uhr",
-      "Thema": "Tu was gegen Rechts! Demokratie stärken",
-      "Ort": "Rathausplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "BÜNDNIS 90/DIE GRÜNEN Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-02-13",
-      "Zeit": "18.00 - 18.45 Uhr",
-      "Thema": "Mit Fahrrädern gegen Repression und Faschismus",
-      "Ort": null,
-      "Startpunkt": "Alaunplatz",
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-02-13",
-      "Zeit": "21.00 - 22.15 Uhr",
-      "Thema": "Gedenken 13. Februar",
-      "Ort": "Altmarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "200",
-      "Veranstalter": "AfD Dresden",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2024-02-16",
       "Zeit": "11.00 - 14.00 Uhr",
       "Thema": "Heizung, Brot & Frieden",
@@ -277,7 +27,7 @@
       "Datum": "2024-02-16",
       "Zeit": "16.00 - 21.00 Uhr",
       "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": "Wiener Straße, Bayrische Straße, Am Hauptbahnhof und Wiener Platz",
+      "Ort": "Schlesischer Platz und Hansastraße",
       "Startpunkt": null,
       "Teilnehmer": "1000",
       "Veranstalter": "natürliche Person",
@@ -287,7 +37,7 @@
       "Datum": "2024-02-16",
       "Zeit": "16.00 - 21.00 Uhr",
       "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": "Schlesischer Platz und Hansastraße",
+      "Ort": "Wiener Straße, Bayrische Straße, Am Hauptbahnhof und Wiener Platz",
       "Startpunkt": null,
       "Teilnehmer": "1000",
       "Veranstalter": "natürliche Person",
@@ -315,22 +65,22 @@
     },
     {
       "Datum": "2024-02-16",
-      "Zeit": null,
-      "Thema": "#platznehmen gegen Nazis in Dresden",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2.000",
-      "Veranstalter": "Aktionsnetzwerk 'Leipzig nimmt Platz' c/o WERK 2 - Kulturfabrik Leipzig e. V.",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2024-02-16",
       "Zeit": "16.00 - 21.00 Uhr",
       "Thema": "Dresden ist kein Ort für Nazis",
       "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
       "Teilnehmer": "1000",
       "Veranstalter": "natürliche Person",
+      "Status": "abgemeldet"
+    },
+    {
+      "Datum": "2024-02-16",
+      "Zeit": null,
+      "Thema": "#platznehmen gegen Nazis in Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2.000",
+      "Veranstalter": "Aktionsnetzwerk 'Leipzig nimmt Platz' c/o WERK 2 - Kulturfabrik Leipzig e. V.",
       "Status": "abgemeldet"
     },
     {
@@ -395,22 +145,22 @@
     },
     {
       "Datum": "2024-02-17",
-      "Zeit": "07.00 - 20.00 Uhr",
-      "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "1000",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2024-02-17",
       "Zeit": null,
       "Thema": "#platznehmen gegen Nazis in Dresden",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "2.000",
       "Veranstalter": "Aktionsnetzwerk 'Leipzig nimmt Platz' c/o WERK 2 - Kulturfabrik Leipzig e. V.",
+      "Status": "abgemeldet"
+    },
+    {
+      "Datum": "2024-02-17",
+      "Zeit": "07.00 - 20.00 Uhr",
+      "Thema": "Dresden ist kein Ort für Nazis",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "1000",
+      "Veranstalter": "natürliche Person",
       "Status": "abgemeldet"
     },
     {
@@ -465,13 +215,13 @@
     },
     {
       "Datum": "2024-02-17",
-      "Zeit": null,
-      "Thema": "Solidatität mit dem Iranischen Volk und Stopp Hinrichtungen",
-      "Ort": null,
+      "Zeit": "14.00 - 16.00 Uhr",
+      "Thema": "Solidarität mit dem Iranischen Volk und Stopp Hinrichtungen",
+      "Ort": "Theaterplatz",
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-02-18",
