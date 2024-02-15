@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-02-14",
+  "Dateidatum": "2024-02-15",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -27,7 +27,7 @@
       "Datum": "2024-02-16",
       "Zeit": "16.00 - 21.00 Uhr",
       "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": "Schlesischer Platz und Hansastraße",
+      "Ort": "Wiener Straße, Bayrische Straße, Am Hauptbahnhof und Wiener Platz",
       "Startpunkt": null,
       "Teilnehmer": "1000",
       "Veranstalter": "natürliche Person",
@@ -37,7 +37,7 @@
       "Datum": "2024-02-16",
       "Zeit": "16.00 - 21.00 Uhr",
       "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": "Wiener Straße, Bayrische Straße, Am Hauptbahnhof und Wiener Platz",
+      "Ort": "Schlesischer Platz und Hansastraße",
       "Startpunkt": null,
       "Teilnehmer": "1000",
       "Veranstalter": "natürliche Person",
@@ -65,22 +65,22 @@
     },
     {
       "Datum": "2024-02-16",
-      "Zeit": "16.00 - 21.00 Uhr",
-      "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "1000",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2024-02-16",
       "Zeit": null,
       "Thema": "#platznehmen gegen Nazis in Dresden",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "2.000",
       "Veranstalter": "Aktionsnetzwerk 'Leipzig nimmt Platz' c/o WERK 2 - Kulturfabrik Leipzig e. V.",
+      "Status": "abgemeldet"
+    },
+    {
+      "Datum": "2024-02-16",
+      "Zeit": "16.00 - 21.00 Uhr",
+      "Thema": "Dresden ist kein Ort für Nazis",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "1000",
+      "Veranstalter": "natürliche Person",
       "Status": "abgemeldet"
     },
     {
@@ -145,22 +145,22 @@
     },
     {
       "Datum": "2024-02-17",
-      "Zeit": null,
-      "Thema": "#platznehmen gegen Nazis in Dresden",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2.000",
-      "Veranstalter": "Aktionsnetzwerk 'Leipzig nimmt Platz' c/o WERK 2 - Kulturfabrik Leipzig e. V.",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2024-02-17",
       "Zeit": "07.00 - 20.00 Uhr",
       "Thema": "Dresden ist kein Ort für Nazis",
       "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
       "Teilnehmer": "1000",
       "Veranstalter": "natürliche Person",
+      "Status": "abgemeldet"
+    },
+    {
+      "Datum": "2024-02-17",
+      "Zeit": null,
+      "Thema": "#platznehmen gegen Nazis in Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2.000",
+      "Veranstalter": "Aktionsnetzwerk 'Leipzig nimmt Platz' c/o WERK 2 - Kulturfabrik Leipzig e. V.",
       "Status": "abgemeldet"
     },
     {
@@ -265,22 +265,22 @@
     },
     {
       "Datum": "2024-02-18",
-      "Zeit": "07.00 - 20.00 Uhr",
-      "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "1000",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2024-02-18",
       "Zeit": null,
       "Thema": "#platznehmen gegen Nazis in Dresden",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "2.000",
       "Veranstalter": "Aktionsnetzwerk 'Leipzig nimmt Platz' c/o WERK 2 - Kulturfabrik Leipzig e. V.",
+      "Status": "abgemeldet"
+    },
+    {
+      "Datum": "2024-02-18",
+      "Zeit": "07.00 - 20.00 Uhr",
+      "Thema": "Dresden ist kein Ort für Nazis",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "1000",
+      "Veranstalter": "natürliche Person",
       "Status": "abgemeldet"
     },
     {
@@ -346,11 +346,31 @@
     {
       "Datum": "2024-02-19",
       "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Thema": "Wer schweigt stimmt zu- Freiheit für Assange",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-02-21",
+      "Zeit": null,
+      "Thema": "Tarifrunde 2024 SRH BBW (Streik)",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "120",
+      "Veranstalter": "Vereinte Dienstleistungsgewerkschaft (ver.di)",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-02-22",
+      "Zeit": null,
+      "Thema": "Tarifrunde 2024 SRH BBW (Streik)",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "120",
+      "Veranstalter": "Vereinte Dienstleistungsgewerkschaft (ver.di)",
       "Status": "angemeldet"
     },
     {
@@ -366,11 +386,41 @@
     {
       "Datum": "2024-02-24",
       "Zeit": null,
+      "Thema": "LKW-Korso zur Unterstützung der Landwirte und des Mittelstandes",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-02-24",
+      "Zeit": null,
+      "Thema": "Der Kriegstreiber heißt Putin!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "JUSOS Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-02-24",
+      "Zeit": null,
       "Thema": "Solidarität mit der Ukraine ",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-02-25",
+      "Zeit": null,
+      "Thema": "Demonstration in Solidarität mit dem kubanischen Volk, für die Freilassung aller politischen Gefangenen in Kuba.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "40",
+      "Veranstalter": "PatriaYVida e. V.",
       "Status": "angemeldet"
     },
     {
@@ -474,6 +524,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2024-03-08",
+      "Zeit": null,
+      "Thema": "8. März: Feministische Streikgespräche",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-03-11",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
@@ -487,6 +547,16 @@
       "Datum": "2024-03-11",
       "Zeit": null,
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-03-13",
+      "Zeit": null,
+      "Thema": "Mahnwache in Gedenken an den Polizeikessel vom 13.03.2021 auf der Magdeburger Straße",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "300",
