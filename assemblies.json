@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-02-15",
+  "Dateidatum": "2024-02-16",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -27,7 +27,7 @@
       "Datum": "2024-02-16",
       "Zeit": "16.00 - 21.00 Uhr",
       "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": "Wiener Straße, Bayrische Straße, Am Hauptbahnhof und Wiener Platz",
+      "Ort": "Schlesischer Platz und Hansastraße",
       "Startpunkt": null,
       "Teilnehmer": "1000",
       "Veranstalter": "natürliche Person",
@@ -37,7 +37,7 @@
       "Datum": "2024-02-16",
       "Zeit": "16.00 - 21.00 Uhr",
       "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": "Schlesischer Platz und Hansastraße",
+      "Ort": "Wiener Straße, Bayrische Straße, Am Hauptbahnhof und Wiener Platz",
       "Startpunkt": null,
       "Teilnehmer": "1000",
       "Veranstalter": "natürliche Person",
@@ -145,22 +145,22 @@
     },
     {
       "Datum": "2024-02-17",
-      "Zeit": "07.00 - 20.00 Uhr",
-      "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "1000",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2024-02-17",
       "Zeit": null,
       "Thema": "#platznehmen gegen Nazis in Dresden",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "2.000",
       "Veranstalter": "Aktionsnetzwerk 'Leipzig nimmt Platz' c/o WERK 2 - Kulturfabrik Leipzig e. V.",
+      "Status": "abgemeldet"
+    },
+    {
+      "Datum": "2024-02-17",
+      "Zeit": "07.00 - 20.00 Uhr",
+      "Thema": "Dresden ist kein Ort für Nazis",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "1000",
+      "Veranstalter": "natürliche Person",
       "Status": "abgemeldet"
     },
     {
@@ -211,7 +211,7 @@
       "Startpunkt": null,
       "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2024-02-17",
@@ -227,7 +227,7 @@
       "Datum": "2024-02-18",
       "Zeit": "07.00 - 20.00 Uhr",
       "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": "Wiener Straße, Bayrische Straße, Am Hauptbahnhof und Wiener Platz",
+      "Ort": "Schlesischer Platz und Hansastraße",
       "Startpunkt": null,
       "Teilnehmer": "1000",
       "Veranstalter": "natürliche Person",
@@ -237,7 +237,7 @@
       "Datum": "2024-02-18",
       "Zeit": "07.00 - 20.00 Uhr",
       "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": "Schlesischer Platz und Hansastraße",
+      "Ort": "Wiener Straße, Bayrische Straße, Am Hauptbahnhof und Wiener Platz",
       "Startpunkt": null,
       "Teilnehmer": "1000",
       "Veranstalter": "natürliche Person",
@@ -265,22 +265,22 @@
     },
     {
       "Datum": "2024-02-18",
-      "Zeit": null,
-      "Thema": "#platznehmen gegen Nazis in Dresden",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2.000",
-      "Veranstalter": "Aktionsnetzwerk 'Leipzig nimmt Platz' c/o WERK 2 - Kulturfabrik Leipzig e. V.",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2024-02-18",
       "Zeit": "07.00 - 20.00 Uhr",
       "Thema": "Dresden ist kein Ort für Nazis",
       "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
       "Teilnehmer": "1000",
       "Veranstalter": "natürliche Person",
+      "Status": "abgemeldet"
+    },
+    {
+      "Datum": "2024-02-18",
+      "Zeit": null,
+      "Thema": "#platznehmen gegen Nazis in Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2.000",
+      "Veranstalter": "Aktionsnetzwerk 'Leipzig nimmt Platz' c/o WERK 2 - Kulturfabrik Leipzig e. V.",
       "Status": "abgemeldet"
     },
     {
@@ -354,23 +354,13 @@
       "Status": "angemeldet"
     },
     {
-      "Datum": "2024-02-21",
+      "Datum": "2024-02-20",
       "Zeit": null,
-      "Thema": "Tarifrunde 2024 SRH BBW (Streik)",
+      "Thema": "Forderungen zur Reform des Prüfungswesens!",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "120",
-      "Veranstalter": "Vereinte Dienstleistungsgewerkschaft (ver.di)",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2024-02-22",
-      "Zeit": null,
-      "Thema": "Tarifrunde 2024 SRH BBW (Streik)",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "120",
-      "Veranstalter": "Vereinte Dienstleistungsgewerkschaft (ver.di)",
+      "Teilnehmer": "10",
+      "Veranstalter": "Studierendenrat der TU Dresden",
       "Status": "angemeldet"
     },
     {
@@ -534,6 +524,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2024-03-09",
+      "Zeit": null,
+      "Thema": "Demonstration für Menschen mit ME/CFS - Trauergang, Appell für Forschung, Anerkennung, adäquate Versorgung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-03-11",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
@@ -581,6 +581,16 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-03-21",
+      "Zeit": null,
+      "Thema": "Jugend- und Gleichstellungsarbeit sichern",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "250",
+      "Veranstalter": "Stadtjugendring Dresden e.V.",
       "Status": "angemeldet"
     },
     {
