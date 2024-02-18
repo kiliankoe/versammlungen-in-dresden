@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-02-17",
+  "Dateidatum": "2024-02-18",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,130 +14,10 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2024-02-17",
-      "Zeit": "07.00 - 20.00 Uhr",
-      "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": "Schlesischer Platz und Hansastraße",
-      "Startpunkt": null,
-      "Teilnehmer": "1000",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-02-17",
-      "Zeit": "07.00 - 20.00 Uhr",
-      "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": "Wiener Straße, Bayrische Straße, Am Hauptbahnhof und Wiener Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "1000",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-02-17",
-      "Zeit": "07.00 - 20.00 Uhr",
-      "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": "Könneritzstraße und Weißeritzstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "1000",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-02-17",
-      "Zeit": "14.00 - 17.00 Uhr",
-      "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "15",
-      "Veranstalter": "Activists for the Victims e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-02-17",
-      "Zeit": "07.00 - 20.00 Uhr",
-      "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "1000",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2024-02-17",
-      "Zeit": null,
-      "Thema": "#platznehmen gegen Nazis in Dresden",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2.000",
-      "Veranstalter": "Aktionsnetzwerk 'Leipzig nimmt Platz' c/o WERK 2 - Kulturfabrik Leipzig e. V.",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2024-02-17",
-      "Zeit": "07.00 - 20.00 Uhr",
-      "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": "Rosa-Luxemburg-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "1000",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-02-17",
-      "Zeit": "11.00 - 21.00 Uhr",
-      "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": null,
-      "Startpunkt": "Bayrische Straße",
-      "Teilnehmer": "2.000",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2024-02-17",
-      "Zeit": null,
-      "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "1000",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2024-02-17",
-      "Zeit": "07.00 - 20.00 Uhr",
-      "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": "Nürnberger Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "1000",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-02-17",
-      "Zeit": "14.00 - 18.30 Uhr",
-      "Thema": "Mein Dresden. Meine Stadt. Dein Müll. Halte deine Nachbarschaft sauber - gegen jeglichen Dreck auf der Straße.",
-      "Ort": "Reitbahnstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "150",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2024-02-17",
-      "Zeit": "14.00 - 16.00 Uhr",
-      "Thema": "Solidarität mit dem Iranischen Volk und Stopp Hinrichtungen",
-      "Ort": "Theaterplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "200",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2024-02-18",
       "Zeit": "07.00 - 20.00 Uhr",
       "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": "Wiener Straße, Bayrische Straße, Am Hauptbahnhof und Wiener Platz",
+      "Ort": "Schlesischer Platz und Hansastraße",
       "Startpunkt": null,
       "Teilnehmer": "1000",
       "Veranstalter": "natürliche Person",
@@ -147,7 +27,7 @@
       "Datum": "2024-02-18",
       "Zeit": "07.00 - 20.00 Uhr",
       "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": "Schlesischer Platz und Hansastraße",
+      "Ort": "Wiener Straße, Bayrische Straße, Am Hauptbahnhof und Wiener Platz",
       "Startpunkt": null,
       "Teilnehmer": "1000",
       "Veranstalter": "natürliche Person",
@@ -175,22 +55,22 @@
     },
     {
       "Datum": "2024-02-18",
-      "Zeit": null,
-      "Thema": "#platznehmen gegen Nazis in Dresden",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2.000",
-      "Veranstalter": "Aktionsnetzwerk 'Leipzig nimmt Platz' c/o WERK 2 - Kulturfabrik Leipzig e. V.",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2024-02-18",
       "Zeit": "07.00 - 20.00 Uhr",
       "Thema": "Dresden ist kein Ort für Nazis",
       "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
       "Teilnehmer": "1000",
       "Veranstalter": "natürliche Person",
+      "Status": "abgemeldet"
+    },
+    {
+      "Datum": "2024-02-18",
+      "Zeit": null,
+      "Thema": "#platznehmen gegen Nazis in Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2.000",
+      "Veranstalter": "Aktionsnetzwerk 'Leipzig nimmt Platz' c/o WERK 2 - Kulturfabrik Leipzig e. V.",
       "Status": "abgemeldet"
     },
     {
