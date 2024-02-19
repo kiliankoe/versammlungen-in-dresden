@@ -54,6 +54,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2024-02-19",
+      "Zeit": "17.45 - 18.45 Uhr",
+      "Thema": "Kundgebung für Alexei Nawalny",
+      "Ort": "An der Kreuzkirche",
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Ökumenisches Informationszentrum e. V.",
+      "Status": "beschieden"
+    },
+    {
       "Datum": "2024-02-20",
       "Zeit": null,
       "Thema": "Forderungen zur Reform des Prüfungswesens!",
@@ -86,6 +96,16 @@
     {
       "Datum": "2024-02-24",
       "Zeit": null,
+      "Thema": "Antikriegskundgebung russischer Aktivisten",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-02-24",
+      "Zeit": null,
       "Thema": "Der Kriegstreiber heißt Putin!",
       "Ort": null,
       "Startpunkt": null,
@@ -111,6 +131,16 @@
       "Startpunkt": null,
       "Teilnehmer": "40",
       "Veranstalter": "PatriaYVida e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-02-25",
+      "Zeit": null,
+      "Thema": "Wir sind die Brandmauer",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "5.000",
+      "Veranstalter": "Bündnis 'Wir sind die Brandmauer Dresden'",
       "Status": "angemeldet"
     },
     {
@@ -264,6 +294,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2024-03-15",
+      "Zeit": null,
+      "Thema": "Gedenken und Kranzniederlegung am einzigen Ludwig-Kossuth-Denkmal in Deutschland",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-03-18",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
@@ -410,6 +450,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-04-30",
+      "Zeit": null,
+      "Thema": "Take Back The Night",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
