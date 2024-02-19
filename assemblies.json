@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-02-18",
+  "Dateidatum": "2024-02-19",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,96 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-02-18",
-      "Zeit": "07.00 - 20.00 Uhr",
-      "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": "Schlesischer Platz und Hansastraße",
-      "Startpunkt": null,
-      "Teilnehmer": "1000",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-02-18",
-      "Zeit": "07.00 - 20.00 Uhr",
-      "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": "Wiener Straße, Bayrische Straße, Am Hauptbahnhof und Wiener Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "1000",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-02-18",
-      "Zeit": "07.00 - 20.00 Uhr",
-      "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": "Könneritzstraße und Weißeritzstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "1000",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-02-18",
-      "Zeit": "13.30 - 17.30 Uhr",
-      "Thema": "Mahngang Täter*innenspuren 2024",
-      "Ort": null,
-      "Startpunkt": "Theaterstraße",
-      "Teilnehmer": "700",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-02-18",
-      "Zeit": "07.00 - 20.00 Uhr",
-      "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "1000",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2024-02-18",
-      "Zeit": null,
-      "Thema": "#platznehmen gegen Nazis in Dresden",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2.000",
-      "Veranstalter": "Aktionsnetzwerk 'Leipzig nimmt Platz' c/o WERK 2 - Kulturfabrik Leipzig e. V.",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2024-02-18",
-      "Zeit": "07.00 - 20.00 Uhr",
-      "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": "Rosa-Luxemburg-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "1000",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-02-18",
-      "Zeit": "11.00 - 21.00 Uhr",
-      "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": null,
-      "Startpunkt": "Bayrische Straße",
-      "Teilnehmer": "2.000",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-02-18",
-      "Zeit": "07.00 - 20.00 Uhr",
-      "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": "Nürnberger Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "1000",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-02-19",
       "Zeit": "18.00 - 19.30 Uhr",
@@ -591,6 +501,16 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-12",
+      "Zeit": null,
+      "Thema": "Gesundheit statt Profite. Für ein öffentliches Gesundheitswesen für alle!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "Dresdner Bündnis für Pflege",
       "Status": "angemeldet"
     },
     {
