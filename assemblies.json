@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-02-19",
+  "Dateidatum": "2024-02-20",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,64 +14,14 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2024-02-19",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "30",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-02-19",
-      "Zeit": "18.00 - 19.00 Uhr",
-      "Thema": "Say their names - Gedenktag zum 4. Jahrestag vom Anschlag in Hanau",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "120",
-      "Veranstalter": "Initiative Seebrücke Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-02-19",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Königsstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "30-40",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-02-19",
-      "Zeit": "17.00 - 21.00 Uhr",
-      "Thema": "Wer schweigt stimmt zu- Freiheit für Assange",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-02-19",
-      "Zeit": "17.45 - 18.45 Uhr",
-      "Thema": "Kundgebung für Alexei Nawalny",
-      "Ort": "An der Kreuzkirche",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "Ökumenisches Informationszentrum e. V.",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2024-02-20",
-      "Zeit": null,
+      "Zeit": "11.00 - 13.00 Uhr",
       "Thema": "Forderungen zur Reform des Prüfungswesens!",
-      "Ort": null,
+      "Ort": "Zellescher Weg",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Studierendenrat der TU Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-02-24",
@@ -90,6 +40,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-02-24",
+      "Zeit": null,
+      "Thema": "Solidarität mit allen Gefangenen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -181,6 +141,16 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-03-01",
+      "Zeit": null,
+      "Thema": "Kundgebung Verkehrswende",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "450",
+      "Veranstalter": "ver.di - Bezirk Sachsen-West-Ost-Süd",
       "Status": "angemeldet"
     },
     {
@@ -575,6 +545,26 @@
     },
     {
       "Datum": "2024-05-13",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-20",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "30-40",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-05-20",
       "Zeit": null,
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
