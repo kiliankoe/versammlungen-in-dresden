@@ -75,13 +75,13 @@
     },
     {
       "Datum": "2024-02-25",
-      "Zeit": null,
+      "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "Demonstration in Solidarität mit dem kubanischen Volk, für die Freilassung aller politischen Gefangenen in Kuba.",
-      "Ort": null,
+      "Ort": "Alaunplatz",
       "Startpunkt": null,
       "Teilnehmer": "40",
       "Veranstalter": "PatriaYVida e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-02-25",
@@ -126,7 +126,7 @@
     {
       "Datum": "2024-02-26",
       "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Thema": "Wer schweigt stimmt zu- Zeit für Bürgerverantwortung",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "300",
@@ -141,6 +141,16 @@
       "Startpunkt": null,
       "Teilnehmer": "450",
       "Veranstalter": "ver.di - Bezirk Sachsen-West-Ost-Süd",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-03-02",
+      "Zeit": null,
+      "Thema": "'Dresden-Stadt des Friedens Soziales und Bildung statt Rüstung und Krieg' Schwerpunkt: Weltfrieden als Menschenrecht",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -162,6 +172,16 @@
       "Teilnehmer": "30-40",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-03-04",
+      "Zeit": null,
+      "Thema": "Kein Fußbreit dem Quergida-Faschismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-03-04",
@@ -501,6 +521,16 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "AfD Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-04",
+      "Zeit": null,
+      "Thema": "Aufklärung über den Politischen Islam - Diskussion um Moscheebau",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Bürgerbewegung PAX EUROPA e.V.",
       "Status": "angemeldet"
     },
     {
