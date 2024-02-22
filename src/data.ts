@@ -7,6 +7,7 @@ const rightWingOrganizers = [
   "freie sachsen",
   "initiative dresden gegen moschee-(neu)bau",
   "wellenlänge",
+  "bürgerbewegung pax europa e.v.",
 ];
 
 export function contentWarning(assembly: Assembly) {
