@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-02-21",
+  "Dateidatum": "2024-02-22",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -491,7 +491,7 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "ver.di Bezirk SWOS",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2024-05-01",
