@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-02-22",
+  "Dateidatum": "2024-02-23",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -45,13 +45,13 @@
     },
     {
       "Datum": "2024-02-24",
-      "Zeit": null,
+      "Zeit": "12.00 - 14.00 Uhr",
       "Thema": "Antikriegskundgebung russischer Aktivisten",
-      "Ort": null,
+      "Ort": "Schloßplatz",
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-02-24",
@@ -131,6 +131,16 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-02-29",
+      "Zeit": null,
+      "Thema": "Kanzlergespräch? Wir sind dabei!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "Freie Sachsen",
       "Status": "angemeldet"
     },
     {
@@ -275,12 +285,22 @@
     },
     {
       "Datum": "2024-03-15",
-      "Zeit": null,
+      "Zeit": "17.00 - 18.00 Uhr",
       "Thema": "Gedenken und Kranzniederlegung am einzigen Ludwig-Kossuth-Denkmal in Deutschland",
-      "Ort": null,
+      "Ort": "Ludwig-Kossuth Straße",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-03-15",
+      "Zeit": null,
+      "Thema": "Stopp Polizeigewalt!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "Piratenpartei Sachsen",
       "Status": "angemeldet"
     },
     {
