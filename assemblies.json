@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-02-23",
+  "Dateidatum": "2024-02-24",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -65,13 +65,13 @@
     },
     {
       "Datum": "2024-02-24",
-      "Zeit": null,
+      "Zeit": "15.00 - 16.30 Uhr",
       "Thema": "Solidarität mit der Ukraine ",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-02-25",
@@ -85,13 +85,13 @@
     },
     {
       "Datum": "2024-02-25",
-      "Zeit": null,
+      "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "Wir sind die Brandmauer",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Neumarkt",
       "Teilnehmer": "5.000",
       "Veranstalter": "Bündnis 'Wir sind die Brandmauer Dresden'",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-02-26",
@@ -125,13 +125,13 @@
     },
     {
       "Datum": "2024-02-26",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Wer schweigt stimmt zu- Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-02-29",
@@ -151,6 +151,16 @@
       "Startpunkt": null,
       "Teilnehmer": "450",
       "Veranstalter": "ver.di - Bezirk Sachsen-West-Ost-Süd",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-03-02",
+      "Zeit": null,
+      "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Activists for the Victims e. V.",
       "Status": "angemeldet"
     },
     {
@@ -225,13 +235,13 @@
     },
     {
       "Datum": "2024-03-08",
-      "Zeit": null,
+      "Zeit": "11.00 - 15.00 Uhr",
       "Thema": "Feministischer Schulstreik zum feministischen Kampftag",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Alaunplatz",
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-03-08",
@@ -301,6 +311,16 @@
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "Piratenpartei Sachsen",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-03-16",
+      "Zeit": null,
+      "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Activists for the Victims e. V.",
       "Status": "angemeldet"
     },
     {
@@ -630,6 +650,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-24",
+      "Zeit": null,
+      "Thema": "Das Gesundheitswesen steht auf - 75 Grundgesetz",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": null,
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     }
