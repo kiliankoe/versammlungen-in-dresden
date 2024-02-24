@@ -11,7 +11,9 @@ try {
   process.exit(1);
 }
 
-const assembliesToday = newAssemblies.Versammlungen.filter((a: Assembly) => a.Datum === new Date().toISOString().slice(0, 10));
+const assembliesToday = newAssemblies.Versammlungen.filter(
+  (a: Assembly) => a.Datum === new Date().toISOString().slice(0, 10)
+);
 
 const masto = createRestAPIClient({
   url: process.env.MASTO_SERVER_URL!,
@@ -39,5 +41,5 @@ for (const assembly of assembliesToday) {
 for (const status of statusesToday) {
   console.log(`Reblogging ${status.url}: ${status.content}`);
   await masto.v1.statuses.$select(status.id).reblog();
-  await new Promise(r => setTimeout(r, 1000));
+  await new Promise((r) => setTimeout(r, 1000));
 }
