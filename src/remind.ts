@@ -24,7 +24,11 @@ const statuses = await getAllStatuses(masto, process.env.ACCOUNT_ID, { max: 250 
 // Get first post that contains the relevant date and topic
 const statusesToday = [];
 for (const assembly of assembliesToday) {
-  const status = statuses.find((s) => s.content.includes(formatTitle(assembly.Thema)) && s.content.includes(formatDate(assembly.Datum)));
+  const status = statuses.find((s) => {
+    !s.content.includes("[Abmeldung]") &&
+      s.content.includes(formatTitle(assembly.Thema)) &&
+      s.content.includes(formatDate(assembly.Datum));
+  });
   if (status) {
     statusesToday.push(status);
     continue;
