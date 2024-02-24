@@ -42,10 +42,12 @@ export function formatPost(a: Assembly) {
     lines.push("Ort bisher nicht bekannt.");
   }
 
-  if (a.Status === "abgemeldet") {
-    lines.push(`Geplant waren ${a.Teilnehmer} Teilnehmer·innen.`);
-  } else {
-    lines.push(`Geplant sind ${a.Teilnehmer} Teilnehmer·innen.`);
+  if (a.Teilnehmer) {
+    if (a.Status === "abgemeldet") {
+      lines.push(`Geplant waren ${a.Teilnehmer} Teilnehmer·innen.`);
+    } else {
+      lines.push(`Geplant sind ${a.Teilnehmer} Teilnehmer·innen.`);
+    }
   }
   if (a.Veranstalter !== "natürliche Person") {
     lines.push(`Veranstaltet durch ${formatOrganizer(a.Veranstalter)}`);

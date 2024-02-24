@@ -4,7 +4,7 @@ export interface Assembly {
   Thema: string;
   Ort?: string;
   Startpunkt?: string;
-  Teilnehmer: string;
+  Teilnehmer?: string;
   Veranstalter: string;
   Status: string;
 }
