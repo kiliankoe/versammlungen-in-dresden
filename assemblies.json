@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-02-25",
+  "Dateidatum": "2024-02-26",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-02-25",
-      "Zeit": "14.00 - 17.00 Uhr",
-      "Thema": "Demonstration in Solidarität mit dem kubanischen Volk, für die Freilassung aller politischen Gefangenen in Kuba.",
-      "Ort": "Alaunplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "40",
-      "Veranstalter": "PatriaYVida e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-02-25",
-      "Zeit": "15.00 - 18.00 Uhr",
-      "Thema": "Wir sind die Brandmauer",
-      "Ort": null,
-      "Startpunkt": "Neumarkt",
-      "Teilnehmer": "5.000",
-      "Veranstalter": "Bündnis 'Wir sind die Brandmauer Dresden'",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-02-26",
       "Zeit": "18.00 - 19.30 Uhr",
@@ -81,6 +61,16 @@
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "Freie Sachsen",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-02-29",
+      "Zeit": null,
+      "Thema": "Dresden bleibt sicherer Hafen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Initiative Seebrücke Dresden",
       "Status": "angemeldet"
     },
     {
@@ -601,6 +591,16 @@
       "Startpunkt": null,
       "Teilnehmer": null,
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-26",
+      "Zeit": null,
+      "Thema": "ADFC-Fahrraddemo zur Stadtratswahl für: Besseres Radfahren in Dresden. Motto: Macht mehr fürs Rad",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "800",
+      "Veranstalter": "ADFC Dresden e.V.",
       "Status": "angemeldet"
     }
   ]
