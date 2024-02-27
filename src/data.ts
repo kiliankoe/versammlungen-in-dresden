@@ -10,10 +10,16 @@ const rightWingOrganizers = [
   "bürgerbewegung pax europa e.v.",
 ];
 
-export function contentWarning(assembly: Assembly) {
-  return rightWingOrganizers.includes(assembly.Veranstalter.toLowerCase())
-    ? "Rechte Versammlung"
-    : undefined;
+const rightWingTopics = ["bühlau geht spazieren"];
+
+export function contentWarning(assembly: Assembly): string | undefined {
+  if (rightWingTopics.includes(assembly.Thema.toLowerCase())) {
+    return "Rechte Versammlung";
+  }
+  if (rightWingOrganizers.includes(assembly.Veranstalter.toLowerCase())) {
+    return "Rechte Versammlung";
+  }
+  return undefined;
 }
 
 const organizerReplacements: Record<string, string> = {
