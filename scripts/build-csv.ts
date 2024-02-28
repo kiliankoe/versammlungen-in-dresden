@@ -38,7 +38,8 @@ function dedupOrganizers(organizer: string) {
     "GRÜNE JUGEND Dresden": "Grüne Jugend Dresden",
     "BÜNDNIS 90/DIE GRÜNEN Kreisverband Dresden": "BÜNDNIS 90/DIE GRÜNEN Dresden",
   };
-  return replacements[organizer] || organizer;
+  const newOrganizer = replacements[organizer] || organizer;
+  return newOrganizer.trim();
 }
 
 let hashes = await getCommitHashes();
