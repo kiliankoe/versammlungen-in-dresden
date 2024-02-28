@@ -17,11 +17,10 @@ bun install
 To run:
 
 ```bash
+# Fetches new assemblies and posts them to Mastodon
 bun run src/update.ts
-# or
+# Boosts posts for assemblies happening today
 bun run src/remind.ts
 ```
 
 Be sure to set `MASTO_SERVER_URL`, `ACCESS_TOKEN` and `ACCOUNT_ID` in your env.
-
-This project was created using `bun init` in bun v1.0.1. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
