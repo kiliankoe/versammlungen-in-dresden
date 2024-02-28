@@ -9,6 +9,7 @@
   },
   "type": "module",
   "dependencies": {
+    "csv-parser": "^3.0.0",
     "csv-stringify": "^6.4.6",
     "masto": "^6.2.0"
   }

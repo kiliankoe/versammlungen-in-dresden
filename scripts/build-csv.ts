@@ -2,6 +2,7 @@ import { $ } from "bun";
 import { stringify } from "csv-stringify/sync";
 import { createHash } from "crypto";
 import { Assembly } from "../src/assembly";
+import { dedupOrganizers } from "./util";
 
 async function getCommitHashes() {
   const hashes = await $`git log --pretty=format:%H -- assemblies.json`.text();
@@ -28,18 +29,6 @@ function hash(assembly: Assembly) {
   const id = `${assembly.Datum};${assembly.Zeit};${assembly.Thema};${assembly.Ort};${assembly.Startpunkt};${assembly.Teilnehmer};${assembly.Veranstalter};${assembly.Status}`;
   const hash = createHash("sha256").update(id);
   return hash.digest("hex");
-}
-
-function dedupOrganizers(organizer: string) {
-  const replacements: Record<string, string> = {
-    "Partei Freie Sachsen": "Freie Sachsen",
-    "Partei FREIE SACHSEN": "Freie Sachsen",
-    "Partei FREIE Sachsen": "Freie Sachsen",
-    "GRÜNE JUGEND Dresden": "Grüne Jugend Dresden",
-    "BÜNDNIS 90/DIE GRÜNEN Kreisverband Dresden": "BÜNDNIS 90/DIE GRÜNEN Dresden",
-  };
-  const newOrganizer = replacements[organizer] || organizer;
-  return newOrganizer.trim();
 }
 
 let hashes = await getCommitHashes();
