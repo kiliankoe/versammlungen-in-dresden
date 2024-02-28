@@ -2,7 +2,7 @@ import { $ } from "bun";
 import { stringify } from "csv-stringify/sync";
 import { createHash } from "crypto";
 import { Assembly } from "../src/assembly";
-import { dedupOrganizers } from "./util";
+import { cleanOrganizer } from "./util";
 
 async function getCommitHashes() {
   const hashes = await $`git log --pretty=format:%H -- assemblies.json`.text();
@@ -72,7 +72,7 @@ for (const commitHash of hashes) {
       assembly.Ort,
       assembly.Startpunkt,
       assembly.Teilnehmer,
-      dedupOrganizers(assembly.Veranstalter),
+      cleanOrganizer(assembly.Veranstalter),
       assembly.Status,
     ]);
   }

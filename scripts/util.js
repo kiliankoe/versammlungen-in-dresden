@@ -28,15 +28,15 @@ export async function readCSV(filename) {
   });
 }
 
-export function dedupOrganizers(organizer) {
+export function cleanOrganizer(organizer) {
   const replacements = {
     "Partei Freie Sachsen": "Freie Sachsen",
     "Partei FREIE SACHSEN": "Freie Sachsen",
     "Partei FREIE Sachsen": "Freie Sachsen",
     "GRÜNE JUGEND Dresden": "Grüne Jugend Dresden",
-    "BÜNDNIS 90/DIE GRÜNEN Kreisverband Dresden":
-      "BÜNDNIS 90/DIE GRÜNEN Dresden",
+    "BÜNDNIS 90/DIE GRÜNEN Kreisverband Dresden": "BÜNDNIS 90/DIE GRÜNEN Dresden",
   };
+  organizer = organizer.replace(/e\. V\.|e\.V.|e\.V/g, "e.V.");
   const newOrganizer = replacements[organizer] || organizer;
   return newOrganizer.trim();
 }

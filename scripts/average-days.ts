@@ -1,4 +1,4 @@
-import { countWeekDays, dedupOrganizers, readCSV } from "./util";
+import { countWeekDays, cleanOrganizer, readCSV } from "./util";
 const data = await readCSV("./assemblies.csv");
 
 let approvalTimes: Record<string, number[]> = {};
@@ -21,8 +21,7 @@ for (const row of data) {
   const approvalDate = new Date(approval.timestamp);
   const daysUntilApproval = countWeekDays(announcementDate, approvalDate);
   let organizer = row.topic; // organizer or topic
-  organizer = organizer.replace(/e\. V\.|e\.V.|e\.V/g, "e.V.");
-  organizer = dedupOrganizers(organizer);
+  organizer = cleanOrganizer(organizer);
   if (!approvalTimes[organizer]) {
     approvalTimes[organizer] = [];
   }
