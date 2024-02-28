@@ -46,7 +46,7 @@ let hashes = await getCommitHashes();
 hashes = hashes.reverse();
 hashes.splice(0, 3); // remove bogus testing data
 
-let data = [
+let data: Array<Array<string | undefined>> = [
   [
     "timestamp",
     "commit_hash",
@@ -83,7 +83,7 @@ for (const commitHash of hashes) {
       assembly.Ort,
       assembly.Startpunkt,
       assembly.Teilnehmer,
-      assembly.Veranstalter,
+      dedupOrganizers(assembly.Veranstalter),
       assembly.Status,
     ]);
   }
