@@ -95,4 +95,4 @@ data.forEach((row) => {
 });
 
 const csv = stringify(data);
-console.log(csv);
+await Bun.write("./assemblies.csv", csv);

@@ -3,7 +3,7 @@ name: Run bot
 on:
   # workflow_dispatch:
   schedule:
-    - cron: '0 4-20 * * *'
+    - cron: "0 4-20 * * *"
 
 permissions:
   contents: write
@@ -21,6 +21,7 @@ jobs:
         run: |
           bun install
           bun run src/update.ts
+          bun run scripts/build-csv.ts
         env:
           MASTO_SERVER_URL: ${{ secrets.MASTO_SERVER_URL }}
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
