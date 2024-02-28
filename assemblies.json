@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-02-27",
+  "Dateidatum": "2024-02-28",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -15,23 +15,23 @@
   "Versammlungen": [
     {
       "Datum": "2024-02-29",
-      "Zeit": null,
+      "Zeit": "17.00 - 20.00 Uhr",
       "Thema": "Kanzlergespräch? Wir sind dabei!",
-      "Ort": null,
+      "Ort": "Wettiner Platz",
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "Freie Sachsen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-02-29",
-      "Zeit": null,
+      "Zeit": "15.30 - 16.30 Uhr",
       "Thema": "Dresden bleibt sicherer Hafen",
-      "Ort": null,
+      "Ort": "Rathausplatz",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Initiative Seebrücke Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-03-01",
@@ -39,7 +39,7 @@
       "Thema": "Für besseren Klimaschutz, gemeinsam mit den Beschäftigten des ÖPNV´s",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "150",
+      "Teilnehmer": "500",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -66,7 +66,7 @@
     {
       "Datum": "2024-03-02",
       "Zeit": null,
-      "Thema": "'Dresden-Stadt des Friedens Soziales und Bildung statt Rüstung und Krieg' Schwerpunkt: Weltfrieden als Menschenrecht",
+      "Thema": "'Dresden-Stadt des Friedens Soziales und Bildung statt Rüstung und Krieg' - Schwerpunkt: Weltfrieden als Menschenrecht",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "100",
@@ -85,23 +85,13 @@
     },
     {
       "Datum": "2024-03-04",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2024-03-04",
-      "Zeit": null,
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-03-04",
@@ -134,53 +124,23 @@
       "Status": "angemeldet"
     },
     {
-      "Datum": "2024-03-05",
-      "Zeit": null,
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2024-03-06",
-      "Zeit": null,
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
       "Datum": "2024-03-07",
-      "Zeit": null,
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2024-03-07",
-      "Zeit": null,
+      "Zeit": "08.30 - 09.30 Uhr",
       "Thema": "Stoppt den fossilen Wahnsinn! Mit der Aktion fordern wir von der Politik und Verwaltung, dass erneuerbarer Strom und Energiesparen vorangetrieben werden, sodass wir geordnet aus allen fossilen Energieträgern aussteigen können.",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Fritz-Foerster-Platz",
       "Teilnehmer": "27",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-03-08",
       "Zeit": null,
-      "Thema": "Bühlau geht spazieren",
+      "Thema": "Heizung, Brot & Frieden",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
+      "Teilnehmer": "10 bis 20",
+      "Veranstalter": "Deutsche Kommunistische Partei (DKP)",
       "Status": "angemeldet"
     },
     {
@@ -196,21 +156,21 @@
     {
       "Datum": "2024-03-08",
       "Zeit": null,
-      "Thema": "Heizung, Brot & Frieden",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "10 bis 20",
-      "Veranstalter": "Deutsche Kommunistische Partei (DKP)",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2024-03-08",
-      "Zeit": null,
       "Thema": "Demonstration zum feministischen Kampftag",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "200 bis 300",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-03-08",
+      "Zeit": null,
+      "Thema": "Her mit den fünf Tagen Bildungszeit!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Junge GEW Hochschulgruppe",
       "Status": "angemeldet"
     },
     {
@@ -235,16 +195,6 @@
     },
     {
       "Datum": "2024-03-09",
-      "Zeit": null,
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2024-03-09",
       "Zeit": "12.30 - 13.30 Uhr",
       "Thema": "Demonstration für Menschen mit ME/CFS - Trauergang, Appell für Forschung, Anerkennung, adäquate Versorgung",
       "Ort": null,
@@ -254,24 +204,14 @@
       "Status": "beschieden"
     },
     {
-      "Datum": "2024-03-10",
-      "Zeit": null,
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
       "Datum": "2024-03-11",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-03-11",
@@ -335,13 +275,13 @@
     },
     {
       "Datum": "2024-03-18",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-03-18",
@@ -375,13 +315,13 @@
     },
     {
       "Datum": "2024-03-25",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-03-25",
@@ -405,13 +345,13 @@
     },
     {
       "Datum": "2024-04-01",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-04-01",
@@ -444,14 +384,24 @@
       "Status": "angemeldet"
     },
     {
-      "Datum": "2024-04-08",
+      "Datum": "2024-04-07",
       "Zeit": null,
-      "Thema": "Bühlau geht spazieren",
+      "Thema": "Ihr seid die Brandmauer? WIR sind das Volk",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "20",
+      "Teilnehmer": "400",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-04-08",
+      "Zeit": "18.00 - 19.30 Uhr",
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": "Bautzner Landstraße",
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-04-08",
@@ -485,13 +435,13 @@
     },
     {
       "Datum": "2024-04-15",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-04-15",
@@ -515,13 +465,13 @@
     },
     {
       "Datum": "2024-04-22",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-04-22",
@@ -545,13 +495,13 @@
     },
     {
       "Datum": "2024-04-29",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-04-29",
@@ -736,7 +686,7 @@
     {
       "Datum": "2024-05-24",
       "Zeit": null,
-      "Thema": "Das Gesundheitswesen steht auf - 75 Grundgesetz",
+      "Thema": "75 Jahre Grundgesetz",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": null,
