@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-02-28",
+  "Dateidatum": "2024-02-29",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -35,23 +35,23 @@
     },
     {
       "Datum": "2024-03-01",
-      "Zeit": null,
+      "Zeit": "13.30 - 15.30 Uhr",
       "Thema": "Für besseren Klimaschutz, gemeinsam mit den Beschäftigten des ÖPNV´s",
-      "Ort": null,
+      "Ort": "Archivstraße",
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-03-01",
-      "Zeit": null,
+      "Zeit": "09.00 - 13.30 Uhr",
       "Thema": "Kundgebung Verkehrswende",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Schützenplatz",
       "Teilnehmer": "450",
       "Veranstalter": "ver.di - Bezirk Sachsen-West-Ost-Süd",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-03-02",
@@ -65,13 +65,13 @@
     },
     {
       "Datum": "2024-03-02",
-      "Zeit": null,
+      "Zeit": "10.30 - 12.30 Uhr",
       "Thema": "'Dresden-Stadt des Friedens Soziales und Bildung statt Rüstung und Krieg' - Schwerpunkt: Weltfrieden als Menschenrecht",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Dr.-Külz-Ring",
       "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-03-04",
@@ -121,7 +121,7 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2024-03-07",
@@ -245,6 +245,16 @@
     },
     {
       "Datum": "2024-03-15",
+      "Zeit": null,
+      "Thema": "Demonstration für Klimagerechtigkeit ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-03-15",
       "Zeit": "17.00 - 18.00 Uhr",
       "Thema": "Gedenken und Kranzniederlegung am einzigen Ludwig-Kossuth-Denkmal in Deutschland",
       "Ort": "Ludwig-Kossuth Straße",
@@ -305,12 +315,22 @@
     },
     {
       "Datum": "2024-03-21",
-      "Zeit": null,
+      "Zeit": "15.00 - 19.00 Uhr",
       "Thema": "Jugend- und Gleichstellungsarbeit sichern",
-      "Ort": null,
+      "Ort": "Dr.-Külz-Ring",
       "Startpunkt": null,
       "Teilnehmer": "250",
       "Veranstalter": "Stadtjugendring Dresden e.V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-03-21",
+      "Zeit": null,
+      "Thema": "Gegen die menschenfeindliche EU-Asylreform: STOP GEAS",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -601,6 +621,16 @@
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Bürgerbewegung PAX EUROPA e.V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-04",
+      "Zeit": null,
+      "Thema": "Tanzen gegen Soziale Kälte!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "250",
+      "Veranstalter": "Piraten Dresden",
       "Status": "angemeldet"
     },
     {
