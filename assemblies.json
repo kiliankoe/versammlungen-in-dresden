@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-03-01",
+  "Dateidatum": "2024-03-02",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-03-01",
-      "Zeit": "13.30 - 15.30 Uhr",
-      "Thema": "Für besseren Klimaschutz, gemeinsam mit den Beschäftigten des ÖPNV´s",
-      "Ort": "Archivstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "500",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-03-01",
-      "Zeit": "09.00 - 13.30 Uhr",
-      "Thema": "Kundgebung Verkehrswende",
-      "Ort": null,
-      "Startpunkt": "Schützenplatz",
-      "Teilnehmer": "450",
-      "Veranstalter": "ver.di - Bezirk Sachsen-West-Ost-Süd",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-03-02",
       "Zeit": "14.00 - 17.00 Uhr",
@@ -85,13 +65,13 @@
     },
     {
       "Datum": "2024-03-04",
-      "Zeit": null,
+      "Zeit": "17.15 - 22.00 Uhr",
       "Thema": "Kein Fußbreit dem Quergida-Faschismus",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Alaunplatz",
       "Teilnehmer": "500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-03-04",
@@ -105,13 +85,13 @@
     },
     {
       "Datum": "2024-03-04",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.00 Uhr",
       "Thema": "Kein Platz für Rassismus in der Innenstadt",
-      "Ort": null,
+      "Ort": "Wilsdruffer Straße ",
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-03-07",
@@ -385,13 +365,13 @@
     },
     {
       "Datum": "2024-04-06",
-      "Zeit": null,
+      "Zeit": "17.00 - 19.00 Uhr",
       "Thema": "Gedenkkundgebung für Jorge Gomondai",
-      "Ort": null,
+      "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
       "Teilnehmer": "80",
       "Veranstalter": "Ausländerrat Dresden e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-04-07",
