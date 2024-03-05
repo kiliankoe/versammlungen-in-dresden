@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-03-04",
+  "Dateidatum": "2024-03-05",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,76 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-03-04",
-      "Zeit": "18.45 - 21.30 Uhr",
-      "Thema": "Gegen Glaubenskriege auf deutschem Boden",
-      "Ort": null,
-      "Startpunkt": "Neumarkt",
-      "Teilnehmer": "1000",
-      "Veranstalter": "PEGIDA Förderverein e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-03-04",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-03-04",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "30-40",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-03-04",
-      "Zeit": "17.15 - 22.00 Uhr",
-      "Thema": "Kein Fußbreit dem Quergida-Faschismus",
-      "Ort": null,
-      "Startpunkt": "Alaunplatz",
-      "Teilnehmer": "500",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-03-04",
-      "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2024-03-04",
-      "Zeit": "19.00 - 20.00 Uhr",
-      "Thema": "Kein Platz für Rassismus in der Innenstadt",
-      "Ort": "Wilsdruffer Straße ",
-      "Startpunkt": null,
-      "Teilnehmer": "100",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-03-04",
-      "Zeit": null,
-      "Thema": "Feminismus intersektional - Alice Schwarzer den Abend versauen!",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "Linkjugend Dresden",
-      "Status": "angemeldet"
-    },
     {
       "Datum": "2024-03-07",
       "Zeit": "08.30 - 09.30 Uhr",
@@ -132,6 +62,26 @@
       "Teilnehmer": "10",
       "Veranstalter": "Junge GEW Hochschulgruppe",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-03-08",
+      "Zeit": null,
+      "Thema": "Von Religion bis Revolution - heraus zum Internationalen Frauentag",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Internationalistisches Bündnis",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-03-08",
+      "Zeit": null,
+      "Thema": null,
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-03-08",
@@ -187,6 +137,16 @@
       "Datum": "2024-03-11",
       "Zeit": null,
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-03-11",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu- Zeit für Bürgerverantwortung",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "300",
@@ -484,6 +444,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2024-04-26",
+      "Zeit": null,
+      "Thema": "Zustände am Beruflichen Schulzentrum für Gesundheit und Sozialwesen 'Karl August Lingner'",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-04-29",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -694,6 +664,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2024-05-25",
+      "Zeit": null,
+      "Thema": "Stimme von Wissenschaft, Kunst und Kultur",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "unbekannt",
+      "Veranstalter": "Dresden concept und Weltoffenes Dresden",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-05-26",
       "Zeit": null,
       "Thema": "ADFC-Fahrraddemo zur Stadtratswahl für: Besseres Radfahren in Dresden. Motto: Macht mehr fürs Rad",
@@ -771,6 +751,26 @@
       "Startpunkt": null,
       "Teilnehmer": "1000",
       "Veranstalter": "Alternative für Deutschland (AfD) , Bundesverband",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-06-03",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "30-40",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-06-03",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     }
   ]
