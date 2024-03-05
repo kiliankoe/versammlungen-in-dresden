@@ -22,7 +22,7 @@ const savedAssembliesJSON = await savedAssembliesFile.json();
 const savedAssemblies = new Set(savedAssembliesJSON.Versammlungen.map(assemblyId));
 
 // Get a list of assemblies that are new or have been updated, filtering those that are in the past
-const difference = newAssemblies.Versammlungen
+const difference = newAssemblies.Versammlungen.filter((a: Assembly) => a.Thema)
   .filter((a: Assembly) => !savedAssemblies.has(assemblyId(a)))
   .filter((a: Assembly) => a.Datum >= new Date().toISOString().slice(0, 10))
   .sort((lhs: Assembly, rhs: Assembly) => lhs.Datum > rhs.Datum);
@@ -32,7 +32,7 @@ const posts = difference.map((p: Assembly) => {
     status: formatPost(p),
     visibility: "public",
     spoilerText: contentWarning(p),
-  }
+  };
 });
 
 // Save current data for next execution
@@ -48,5 +48,5 @@ for (const post of posts) {
   console.log(post);
   const status = await masto.v1.statuses.create(post);
   console.log(`Posted ${status.url}\n---`);
-  await new Promise(r => setTimeout(r, 1000));
+  await new Promise((r) => setTimeout(r, 1000));
 }
