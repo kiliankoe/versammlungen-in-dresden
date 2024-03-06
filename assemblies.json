@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-03-05",
+  "Dateidatum": "2024-03-06",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -27,7 +27,7 @@
       "Datum": "2024-03-08",
       "Zeit": "11.00 - 14.00 Uhr",
       "Thema": "Heizung, Brot & Frieden",
-      "Ort": "Jacob-Winter-Platz",
+      "Ort": "Dr.-Külz-Ring",
       "Startpunkt": null,
       "Teilnehmer": "10 bis 20",
       "Veranstalter": "Deutsche Kommunistische Partei (DKP)",
@@ -37,7 +37,7 @@
       "Datum": "2024-03-08",
       "Zeit": "11.00 - 14.00 Uhr",
       "Thema": "Heizung, Brot & Frieden",
-      "Ort": "Dr.-Külz-Ring",
+      "Ort": "Jacob-Winter-Platz",
       "Startpunkt": null,
       "Teilnehmer": "10 bis 20",
       "Veranstalter": "Deutsche Kommunistische Partei (DKP)",
@@ -65,18 +65,18 @@
     },
     {
       "Datum": "2024-03-08",
-      "Zeit": null,
+      "Zeit": "16.00 - 17.30 Uhr",
       "Thema": "Von Religion bis Revolution - heraus zum Internationalen Frauentag",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Internationalistisches Bündnis",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-03-08",
       "Zeit": null,
-      "Thema": null,
+      "Thema": "Als in Dresden die Bücher brannten...",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "30",
@@ -95,13 +95,13 @@
     },
     {
       "Datum": "2024-03-08",
-      "Zeit": null,
+      "Zeit": "12.00 - 17.00 Uhr",
       "Thema": "8. März: Feministische Streikgespräche",
-      "Ort": null,
+      "Ort": "Königsufer",
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-03-09",
@@ -136,7 +136,7 @@
     {
       "Datum": "2024-03-11",
       "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Thema": "Wer schweigt stimmt zu- Zeit für Bürgerverantwortung",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "300",
@@ -144,13 +144,13 @@
       "Status": "angemeldet"
     },
     {
-      "Datum": "2024-03-11",
+      "Datum": "2024-03-12",
       "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu- Zeit für Bürgerverantwortung",
+      "Thema": "Autokorso zur Unterstützung der Unterschriftensammlung am Postplatz",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
+      "Teilnehmer": "200",
+      "Veranstalter": "Freie Sachsen",
       "Status": "angemeldet"
     },
     {
@@ -202,6 +202,16 @@
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e. V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-03-17",
+      "Zeit": null,
+      "Thema": "'Druschba' – Ein Zeichen für den Frieden!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-03-18",
@@ -659,7 +669,7 @@
       "Thema": "75 Jahre Grundgesetz",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": null,
+      "Teilnehmer": "etwa 100",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
