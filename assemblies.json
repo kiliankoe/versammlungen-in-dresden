@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-03-06",
+  "Dateidatum": "2024-03-07",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -45,13 +45,13 @@
     },
     {
       "Datum": "2024-03-08",
-      "Zeit": null,
+      "Zeit": "15.30 - 17.00 Uhr",
       "Thema": "Demonstration zum feministischen Kampftag",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Carolaplatz",
       "Teilnehmer": "200 bis 300",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-03-08",
@@ -75,13 +75,13 @@
     },
     {
       "Datum": "2024-03-08",
-      "Zeit": null,
+      "Zeit": "17.00 - 18.00 Uhr",
       "Thema": "Als in Dresden die Bücher brannten...",
-      "Ort": null,
+      "Ort": "Schloßstraße",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-03-08",
@@ -155,13 +155,13 @@
     },
     {
       "Datum": "2024-03-13",
-      "Zeit": null,
-      "Thema": "Mahnwache in Gedenken an den Polizeikessel vom 13.03.2021 auf der Magdeburger Straße",
+      "Zeit": "18.00 - 22.00 Uhr",
+      "Thema": "Festakt für die Aktivisten des Magdeburger Kessels",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Altmarkt",
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-03-15",
@@ -321,6 +321,16 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-04-01",
+      "Zeit": null,
+      "Thema": "OHNE FRIEDEN IST ALLES NICHTS!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "AfD Dresden",
       "Status": "angemeldet"
     },
     {
