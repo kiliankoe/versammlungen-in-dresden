@@ -6,6 +6,7 @@ const rightWingOrganizers = [
   "alternative für deutschland (afd) , bundesverband",
   "pegida förderverein e. v.",
   "freie sachsen",
+  "partei freie sachsen",
   "initiative dresden gegen moschee-(neu)bau",
   "wellenlänge",
   "bürgerbewegung pax europa e.v.",
