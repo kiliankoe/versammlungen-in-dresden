@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-03-07",
+  "Dateidatum": "2024-03-08",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-03-07",
-      "Zeit": "08.30 - 09.30 Uhr",
-      "Thema": "Stoppt den fossilen Wahnsinn! Mit der Aktion fordern wir von der Politik und Verwaltung, dass erneuerbarer Strom und Energiesparen vorangetrieben werden, sodass wir geordnet aus allen fossilen Energieträgern aussteigen können.",
-      "Ort": null,
-      "Startpunkt": "Fritz-Foerster-Platz",
-      "Teilnehmer": "27",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-03-08",
       "Zeit": "11.00 - 14.00 Uhr",
@@ -136,6 +126,16 @@
     {
       "Datum": "2024-03-11",
       "Zeit": null,
+      "Thema": "Frischer Wind in den Dresdner Stadtrat - mit den FREIEN SACHSEN ins Glück!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20 bis 30",
+      "Veranstalter": "Partei FREIE SACHSEN",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-03-11",
+      "Zeit": null,
       "Thema": "Wer schweigt stimmt zu- Zeit für Bürgerverantwortung",
       "Ort": null,
       "Startpunkt": null,
@@ -154,6 +154,26 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2024-03-12",
+      "Zeit": null,
+      "Thema": "Frischer Wind in den Dresdner Stadtrat - mit den FREIEN SACHSEN ins Glück!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20 bis 30",
+      "Veranstalter": "Partei FREIE SACHSEN",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-03-13",
+      "Zeit": null,
+      "Thema": "Frischer Wind in den Dresdner Stadtrat - mit den FREIEN SACHSEN ins Glück!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20 bis 30",
+      "Veranstalter": "Partei FREIE SACHSEN",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-03-13",
       "Zeit": "18.00 - 22.00 Uhr",
       "Thema": "Festakt für die Aktivisten des Magdeburger Kessels",
@@ -164,6 +184,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2024-03-14",
+      "Zeit": null,
+      "Thema": "Frischer Wind in den Dresdner Stadtrat - mit den FREIEN SACHSEN ins Glück!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20 bis 30",
+      "Veranstalter": "Partei FREIE SACHSEN",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-03-15",
       "Zeit": null,
       "Thema": "Demonstration für Klimagerechtigkeit ",
@@ -171,6 +201,16 @@
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-03-15",
+      "Zeit": null,
+      "Thema": "Frischer Wind in den Dresdner Stadtrat - mit den FREIEN SACHSEN ins Glück!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20 bis 30",
+      "Veranstalter": "Partei FREIE SACHSEN",
       "Status": "angemeldet"
     },
     {
@@ -316,10 +356,10 @@
     {
       "Datum": "2024-04-01",
       "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Thema": "Ostermarsch 2024",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "300",
+      "Teilnehmer": "900",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
