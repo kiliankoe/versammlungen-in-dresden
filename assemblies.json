@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-03-08",
+  "Dateidatum": "2024-03-09",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,86 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-03-08",
-      "Zeit": "11.00 - 14.00 Uhr",
-      "Thema": "Heizung, Brot & Frieden",
-      "Ort": "Dr.-Külz-Ring",
-      "Startpunkt": null,
-      "Teilnehmer": "10 bis 20",
-      "Veranstalter": "Deutsche Kommunistische Partei (DKP)",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-03-08",
-      "Zeit": "11.00 - 14.00 Uhr",
-      "Thema": "Heizung, Brot & Frieden",
-      "Ort": "Jacob-Winter-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "10 bis 20",
-      "Veranstalter": "Deutsche Kommunistische Partei (DKP)",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-03-08",
-      "Zeit": "15.30 - 17.00 Uhr",
-      "Thema": "Demonstration zum feministischen Kampftag",
-      "Ort": null,
-      "Startpunkt": "Carolaplatz",
-      "Teilnehmer": "200 bis 300",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-03-08",
-      "Zeit": "11.30 - 13.00 Uhr",
-      "Thema": "Her mit den fünf Tagen Bildungszeit!",
-      "Ort": "Zellescher Weg",
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "Junge GEW Hochschulgruppe",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-03-08",
-      "Zeit": "16.00 - 17.30 Uhr",
-      "Thema": "Von Religion bis Revolution - heraus zum Internationalen Frauentag",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "15",
-      "Veranstalter": "Internationalistisches Bündnis",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-03-08",
-      "Zeit": "17.00 - 18.00 Uhr",
-      "Thema": "Als in Dresden die Bücher brannten...",
-      "Ort": "Schloßstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-03-08",
-      "Zeit": "11.00 - 15.00 Uhr",
-      "Thema": "Feministischer Schulstreik zum feministischen Kampftag",
-      "Ort": null,
-      "Startpunkt": "Alaunplatz",
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-03-08",
-      "Zeit": "12.00 - 17.00 Uhr",
-      "Thema": "8. März: Feministische Streikgespräche",
-      "Ort": "Königsufer",
-      "Startpunkt": null,
-      "Teilnehmer": "200",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-03-09",
       "Zeit": "12.30 - 13.30 Uhr",
@@ -125,33 +45,33 @@
     },
     {
       "Datum": "2024-03-11",
-      "Zeit": null,
+      "Zeit": "09.00 - 16.00 Uhr",
       "Thema": "Frischer Wind in den Dresdner Stadtrat - mit den FREIEN SACHSEN ins Glück!",
-      "Ort": null,
+      "Ort": "Sophienstraße",
       "Startpunkt": null,
       "Teilnehmer": "20 bis 30",
       "Veranstalter": "Partei FREIE SACHSEN",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-03-11",
-      "Zeit": null,
+      "Zeit": "17.00 - 21.00 Uhr",
       "Thema": "Wer schweigt stimmt zu- Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-03-12",
-      "Zeit": null,
+      "Zeit": "16.00 - 18.15 Uhr",
       "Thema": "Autokorso zur Unterstützung der Unterschriftensammlung am Postplatz",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Windmühlenstraße",
       "Teilnehmer": "200",
       "Veranstalter": "Freie Sachsen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-03-12",
@@ -225,13 +145,13 @@
     },
     {
       "Datum": "2024-03-15",
-      "Zeit": null,
+      "Zeit": "17.00 - 20.30 Uhr",
       "Thema": "Stopp Polizeigewalt!",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Postplatz",
       "Teilnehmer": "200",
       "Veranstalter": "Piratenpartei Sachsen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-03-16",
