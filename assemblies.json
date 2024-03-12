@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-03-11",
+  "Dateidatum": "2024-03-12",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,46 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-03-11",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-03-11",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "30-40",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-03-11",
-      "Zeit": "09.00 - 16.00 Uhr",
-      "Thema": "Frischer Wind in den Dresdner Stadtrat - mit den FREIEN SACHSEN ins Glück!",
-      "Ort": "Sophienstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "20 bis 30",
-      "Veranstalter": "Partei FREIE SACHSEN",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-03-11",
-      "Zeit": "17.00 - 21.00 Uhr",
-      "Thema": "Wer schweigt stimmt zu- Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-03-12",
       "Zeit": "16.00 - 18.15 Uhr",
@@ -71,6 +31,16 @@
       "Startpunkt": null,
       "Teilnehmer": "20 bis 30",
       "Veranstalter": "Partei FREIE SACHSEN",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-03-13",
+      "Zeit": null,
+      "Thema": "Ein Betrieb – eine Belegschaft! Insourcing der Küche am Städtischen Klinikum!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Bündnis für mehr Personal im Krankenhaus und in der Pflege",
       "Status": "angemeldet"
     },
     {
@@ -109,7 +79,7 @@
       "Thema": "Demonstration für Klimagerechtigkeit ",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "500",
+      "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -154,14 +124,24 @@
       "Status": "beschieden"
     },
     {
-      "Datum": "2024-03-17",
+      "Datum": "2024-03-16",
       "Zeit": null,
-      "Thema": "'Druschba' – Ein Zeichen für den Frieden!",
+      "Thema": "Cannabisgesetz jetzt, Blockade im Bundesrat verhindern! ",
       "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-03-17",
+      "Zeit": "12.00 - 16.00 Uhr",
+      "Thema": "'Druschba' – Ein Zeichen für den Frieden!",
+      "Ort": "Pieschener Allee",
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-03-18",
@@ -646,6 +626,16 @@
     {
       "Datum": "2024-05-26",
       "Zeit": null,
+      "Thema": "ADFC-Fahrraddemo zur Stadtratswahl für: Besseres Radfahren in Dresden (Ost)",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "ADFC Dresden e.V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-26",
+      "Zeit": null,
       "Thema": "ADFC-Fahrraddemo zur Stadtratswahl für: Besseres Radfahren in Dresden. Motto: Macht mehr fürs Rad",
       "Ort": null,
       "Startpunkt": null,
@@ -735,6 +725,26 @@
     },
     {
       "Datum": "2024-06-03",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-06-10",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "30-40",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-06-10",
       "Zeit": null,
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
