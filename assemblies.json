@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-03-12",
+  "Dateidatum": "2024-03-13",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,24 +14,14 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2024-03-12",
-      "Zeit": "16.00 - 18.15 Uhr",
-      "Thema": "Autokorso zur Unterstützung der Unterschriftensammlung am Postplatz",
-      "Ort": null,
-      "Startpunkt": "Windmühlenstraße",
-      "Teilnehmer": "200",
-      "Veranstalter": "Freie Sachsen",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2024-03-13",
-      "Zeit": null,
+      "Zeit": "16.00 - 17.00 Uhr",
       "Thema": "Ein Betrieb – eine Belegschaft! Insourcing der Küche am Städtischen Klinikum!",
-      "Ort": null,
+      "Ort": "Rathausplatz",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Bündnis für mehr Personal im Krankenhaus und in der Pflege",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-03-13",
@@ -105,6 +95,16 @@
     },
     {
       "Datum": "2024-03-18",
+      "Zeit": null,
+      "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine. Kampf der Weltkriegsgefahr! ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "40",
+      "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-03-18",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
@@ -151,6 +151,16 @@
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-03-25",
+      "Zeit": null,
+      "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine. Kampf der Weltkriegsgefahr! ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "40",
+      "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
       "Status": "angemeldet"
     },
     {
@@ -245,6 +255,16 @@
     },
     {
       "Datum": "2024-04-08",
+      "Zeit": null,
+      "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine. Kampf der Weltkriegsgefahr! ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "40",
+      "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-04-08",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
@@ -281,6 +301,16 @@
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-04-15",
+      "Zeit": null,
+      "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine. Kampf der Weltkriegsgefahr! ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "40",
+      "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
       "Status": "angemeldet"
     },
     {
@@ -456,11 +486,31 @@
     {
       "Datum": "2024-05-01",
       "Zeit": null,
+      "Thema": "31. Familienfest am Fichteturm",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "SPD Dresden-Plauen",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-01",
+      "Zeit": null,
       "Thema": "1. Mai_Kommunal- und Europawahlveranstaltung",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "AfD Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-01",
+      "Zeit": null,
+      "Thema": "Anarchistischer 1. Mai",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -581,6 +631,16 @@
       "Startpunkt": null,
       "Teilnehmer": "unbekannt",
       "Veranstalter": "Dresden concept und Weltoffenes Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-26",
+      "Zeit": null,
+      "Thema": "Zubringer: ADFC-Fahrraddemo zur Stadtratswahl für: Besseres Radfahren in Dresden (West)",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "ADFC Dresden e.V.",
       "Status": "angemeldet"
     },
     {
