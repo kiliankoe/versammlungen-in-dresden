@@ -35,13 +35,13 @@
     },
     {
       "Datum": "2024-03-15",
-      "Zeit": null,
+      "Zeit": "13.00 - 15.30 Uhr",
       "Thema": "Demonstration für Klimagerechtigkeit ",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Pillnitzer Straße",
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-03-15",
@@ -134,6 +134,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2024-03-20",
+      "Zeit": null,
+      "Thema": "Keine Abschiebung von Sachsen nach Venezuela!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": null,
+      "Veranstalter": "Sächsischer Flüchtlingsrat e. V. ",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-03-21",
       "Zeit": "15.00 - 19.00 Uhr",
       "Thema": "Jugend- und Gleichstellungsarbeit sichern",
@@ -191,6 +201,16 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-03-30",
+      "Zeit": null,
+      "Thema": "Demonstration für Palästina.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "Free Palestine Dresden",
       "Status": "angemeldet"
     },
     {
@@ -456,6 +476,16 @@
     {
       "Datum": "2024-05-01",
       "Zeit": null,
+      "Thema": "Anarchistischer 1. Mai",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100 bis 150",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-01",
+      "Zeit": null,
       "Thema": "1. Mai - Unser Tag!",
       "Ort": null,
       "Startpunkt": null,
@@ -501,16 +531,6 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "AfD Dresden",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2024-05-01",
-      "Zeit": null,
-      "Thema": "Anarchistischer 1. Mai",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "150",
-      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -631,6 +651,16 @@
       "Startpunkt": null,
       "Teilnehmer": "unbekannt",
       "Veranstalter": "Dresden concept und Weltoffenes Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-26",
+      "Zeit": null,
+      "Thema": "Zubringer: ADFC-Fahrraddemo zur Stadtratswahl für: Besseres Radfahren in Dresden (Nord)",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "ADFC Dresden e.V.",
       "Status": "angemeldet"
     },
     {
