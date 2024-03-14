@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-03-13",
+  "Dateidatum": "2024-03-14",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-03-13",
-      "Zeit": "16.00 - 17.00 Uhr",
-      "Thema": "Ein Betrieb – eine Belegschaft! Insourcing der Küche am Städtischen Klinikum!",
-      "Ort": "Rathausplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "Bündnis für mehr Personal im Krankenhaus und in der Pflege",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-03-13",
-      "Zeit": "18.00 - 22.00 Uhr",
-      "Thema": "Festakt für die Aktivisten des Magdeburger Kessels",
-      "Ort": null,
-      "Startpunkt": "Altmarkt",
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-03-15",
       "Zeit": "13.00 - 15.30 Uhr",
@@ -75,13 +55,13 @@
     },
     {
       "Datum": "2024-03-16",
-      "Zeit": null,
+      "Zeit": "13.10 - 14.00 Uhr",
       "Thema": "Cannabisgesetz jetzt, Blockade im Bundesrat verhindern! ",
-      "Ort": null,
+      "Ort": "Wettiner Platz",
       "Startpunkt": null,
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-03-17",
@@ -91,17 +71,17 @@
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2024-03-18",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine. Kampf der Weltkriegsgefahr! ",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Prager Straße",
       "Teilnehmer": "40",
       "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-03-18",
@@ -155,23 +135,23 @@
     },
     {
       "Datum": "2024-03-21",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Gegen die menschenfeindliche EU-Asylreform: STOP GEAS",
-      "Ort": null,
+      "Ort": "Wilsdruffer Straße",
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-03-25",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine. Kampf der Weltkriegsgefahr! ",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Prager Straße",
       "Teilnehmer": "40",
       "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-03-25",
@@ -275,13 +255,13 @@
     },
     {
       "Datum": "2024-04-08",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine. Kampf der Weltkriegsgefahr! ",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Prager Straße",
       "Teilnehmer": "40",
       "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-04-08",
@@ -325,13 +305,13 @@
     },
     {
       "Datum": "2024-04-15",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine. Kampf der Weltkriegsgefahr! ",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Prager Straße",
       "Teilnehmer": "40",
       "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-04-15",
@@ -686,6 +666,16 @@
     {
       "Datum": "2024-05-26",
       "Zeit": null,
+      "Thema": "Zubringer ADFC-Fahrraddemo zur Stadtratswahl für: Besseres Radfahren in Dresden (Neustadt)",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "400",
+      "Veranstalter": "ADFC Dresden e.V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-26",
+      "Zeit": null,
       "Thema": "ADFC-Fahrraddemo zur Stadtratswahl für: Besseres Radfahren in Dresden. Motto: Macht mehr fürs Rad",
       "Ort": null,
       "Startpunkt": null,
@@ -731,6 +721,16 @@
       "Startpunkt": null,
       "Teilnehmer": "500/Aufzg: 10000",
       "Veranstalter": "CSD Dresden e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-31",
+      "Zeit": null,
+      "Thema": "Klimastreik zu den Europawahlen ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2.000",
+      "Veranstalter": "Fridays for Future Dresden",
       "Status": "angemeldet"
     },
     {
