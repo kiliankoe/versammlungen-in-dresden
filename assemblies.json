@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-03-16",
+  "Dateidatum": "2024-03-17",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-03-16",
-      "Zeit": "14.00 - 17.00 Uhr",
-      "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "15",
-      "Veranstalter": "Activists for the Victims e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-03-16",
-      "Zeit": "13.10 - 14.00 Uhr",
-      "Thema": "Cannabisgesetz jetzt, Blockade im Bundesrat verhindern! ",
-      "Ort": "Wettiner Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "25",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-03-17",
       "Zeit": "12.00 - 16.00 Uhr",
