@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-03-19",
+  "Dateidatum": "2024-03-20",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -175,13 +175,13 @@
     },
     {
       "Datum": "2024-04-01",
-      "Zeit": null,
+      "Zeit": "15.00 - 17.00 Uhr",
       "Thema": "OHNE FRIEDEN IST ALLES NICHTS!",
-      "Ort": null,
+      "Ort": "Schloßplatz",
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "AfD Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-04-06",
@@ -426,7 +426,7 @@
     {
       "Datum": "2024-05-01",
       "Zeit": null,
-      "Thema": "Kundgebung zum 1. Mai 2024",
+      "Thema": "Heraus zum 1. Mai",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1000",
@@ -760,6 +760,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-06-15",
+      "Zeit": null,
+      "Thema": "Tag für Frieden und Freiheit",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "3.000",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
