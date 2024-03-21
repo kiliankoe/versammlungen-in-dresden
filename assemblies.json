@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-03-20",
+  "Dateidatum": "2024-03-21",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,26 +14,6 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2024-03-20",
-      "Zeit": null,
-      "Thema": "Keine Abschiebung von Sachsen nach Venezuela!",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "150",
-      "Veranstalter": "Sächsischer Flüchtlingsrat e. V. ",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2024-03-20",
-      "Zeit": "17.00 - 19.00 Uhr",
-      "Thema": "Abschiebungen von Venezolanern in Sachsen stoppen. Venezuela ist kein sicheres Land! ",
-      "Ort": "zentraler Theaterplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "100",
-      "Veranstalter": "Venezolanos en Sajonia e. V.",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2024-03-21",
       "Zeit": "15.30 - 16.30 Uhr",
       "Thema": "Dresden bleibt Sicherer Hafen",
@@ -45,13 +25,13 @@
     },
     {
       "Datum": "2024-03-21",
-      "Zeit": null,
+      "Zeit": "10.00 - 16.00 Uhr",
       "Thema": "Klimaschützen ist kein Verbrechen!",
-      "Ort": null,
+      "Ort": "Roßbachstraße",
       "Startpunkt": null,
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-03-21",
@@ -136,12 +116,22 @@
     {
       "Datum": "2024-03-30",
       "Zeit": null,
-      "Thema": "Demonstration für Palästina.",
+      "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
       "Ort": null,
       "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Activists for the Victims e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-03-30",
+      "Zeit": "13.00 - 15.00 Uhr",
+      "Thema": "Demonstration für Palästina.",
+      "Ort": null,
+      "Startpunkt": "Wiener Platz",
       "Teilnehmer": "300",
       "Veranstalter": "Free Palestine Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-04-01",
@@ -301,6 +291,16 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-04-20",
+      "Zeit": null,
+      "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Activists for the Victims e. V.",
       "Status": "angemeldet"
     },
     {
