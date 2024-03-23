@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-03-22",
+  "Dateidatum": "2024-03-23",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-03-22",
-      "Zeit": "14.30 - 15.30 Uhr",
-      "Thema": "Dresden bleibt Sicherer Hafen",
-      "Ort": "Rathausplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "Initiative Seebrücke Dresden",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-03-25",
       "Zeit": "18.00 - 19.30 Uhr",
