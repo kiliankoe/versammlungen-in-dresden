@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-03-23",
+  "Dateidatum": "2024-03-24",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -731,6 +731,26 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-06-22",
+      "Zeit": null,
+      "Thema": "Queer Pride Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.500",
+      "Veranstalter": "Queer Pride Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-06-22",
+      "Zeit": null,
+      "Thema": "Nein zum neuen Versammlungsgesetz",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2000",
+      "Veranstalter": "Bündnis NoVersgSax",
       "Status": "angemeldet"
     }
   ]
