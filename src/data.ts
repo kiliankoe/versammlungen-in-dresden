@@ -31,6 +31,7 @@ const organizerReplacements: Record<string, string> = {
   "Piraten Dresden": "@piratendresden@pirati.ca",
   "JUSOS Dresden": "@jusos@dresden.network",
   "ADFC Dresden e.V.": "@ADFC_Dresden@dresden.network",
+  "Queer Pride Dresden": "@pridedd@eldritch.cafe",
 };
 
 export function formatOrganizer(organizer: string) {
