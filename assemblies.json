@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-03-27",
+  "Dateidatum": "2024-03-28",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -51,7 +51,7 @@
       "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2024-04-01",
@@ -241,6 +241,16 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-04-18",
+      "Zeit": null,
+      "Thema": "Nein zum neuen Versammlungsgesetz",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Bündnis NoVersgSax",
       "Status": "angemeldet"
     },
     {
@@ -554,6 +564,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2024-05-23",
+      "Zeit": null,
+      "Thema": "Frieden! …ohne wenn und aber!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "Helden helfen e. V.",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-05-24",
       "Zeit": null,
       "Thema": "75 Jahre Grundgesetz",
@@ -781,16 +801,6 @@
       "Startpunkt": null,
       "Teilnehmer": "1.500",
       "Veranstalter": "Queer Pride Dresden",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2024-06-22",
-      "Zeit": null,
-      "Thema": "Nein zum neuen Versammlungsgesetz",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "Bündnis NoVersgSax",
       "Status": "angemeldet"
     },
     {
