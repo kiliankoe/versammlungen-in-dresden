@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-03-30",
+  "Dateidatum": "2024-03-31",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,36 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-03-30",
-      "Zeit": "14.00 - 17.00 Uhr",
-      "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "15",
-      "Veranstalter": "Activists for the Victims e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-03-30",
-      "Zeit": "11.00 - 19.00 Uhr",
-      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei China's ein Ende setzen (END CCP)!",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "12",
-      "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-03-30",
-      "Zeit": "13.00 - 15.00 Uhr",
-      "Thema": "Demonstration für Palästina.",
-      "Ort": null,
-      "Startpunkt": "Wiener Platz",
-      "Teilnehmer": "300",
-      "Veranstalter": "Free Palestine Dresden",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-04-01",
       "Zeit": "18.00 - 19.30 Uhr",
