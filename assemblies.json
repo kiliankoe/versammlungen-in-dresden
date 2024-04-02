@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-04-01",
+  "Dateidatum": "2024-04-02",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,56 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-04-01",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2024-04-01",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "30-40",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-04-01",
-      "Zeit": "14.30 - 18.00 Uhr",
-      "Thema": "Keine Eiersuche für die AFD",
-      "Ort": null,
-      "Startpunkt": "Alaunplatz",
-      "Teilnehmer": "450",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-04-01",
-      "Zeit": "09.00 - 14.00 Uhr",
-      "Thema": "Ostermarsch 2024",
-      "Ort": null,
-      "Startpunkt": "Postplatz",
-      "Teilnehmer": "900",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-04-01",
-      "Zeit": "15.00 - 17.00 Uhr",
-      "Thema": "OHNE FRIEDEN IST ALLES NICHTS!",
-      "Ort": "Schloßplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "500 bis 1000",
-      "Veranstalter": "AfD Dresden",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-04-04",
       "Zeit": null,
