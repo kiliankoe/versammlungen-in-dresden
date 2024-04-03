@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-04-02",
+  "Dateidatum": "2024-04-03",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -39,8 +39,8 @@
       "Thema": "Verleihung Landgrabber des Jahres 2024",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "3040",
-      "Veranstalter": "Arbeistgemeinschaft bäuerliche Landwirtschaft",
+      "Teilnehmer": "30 bis 40",
+      "Veranstalter": "Arbeitsgemeinschaft bäuerliche Landwirtschaft",
       "Status": "angemeldet"
     },
     {
@@ -121,6 +121,16 @@
       "Startpunkt": null,
       "Teilnehmer": "45",
       "Veranstalter": "Activists for the Victims e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-04-13",
+      "Zeit": null,
+      "Thema": "Für eine grüne und verkehrsberuhigte Prießnitzallee - gegen Veranstaltungsbürokratie",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Bürgerinitiative Prießnitzallee",
       "Status": "angemeldet"
     },
     {
@@ -356,6 +366,16 @@
     {
       "Datum": "2024-05-01",
       "Zeit": null,
+      "Thema": "Dresden weltoffen und solidarisch",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "mehrere hundert Besucher über den Tag verteilt",
+      "Veranstalter": "Initiative Seebrücke Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-01",
+      "Zeit": null,
       "Thema": "1. Mai - Unser Tag!",
       "Ort": null,
       "Startpunkt": null,
@@ -401,6 +421,16 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "AfD Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-02",
+      "Zeit": null,
+      "Thema": "Stoppt den fossilen Wahnsinn! Mit der Aktion fordern wir von der Politik und Verwaltung, dass erneuerbarer Strom und Energiesparen vorangetrieben werden, sodass wir geordnet aus allen fossilen Energieträgern aussteigen können.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
