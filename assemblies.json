@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-04-03",
+  "Dateidatum": "2024-04-04",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -115,13 +115,13 @@
     },
     {
       "Datum": "2024-04-13",
-      "Zeit": null,
+      "Zeit": "12.00 - 18.00 Uhr",
       "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "45",
       "Veranstalter": "Activists for the Victims e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-04-13",
@@ -484,6 +484,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2024-05-07",
+      "Zeit": null,
+      "Thema": "Kulturzentrum (Operette) Leuben beleben",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-05-12",
       "Zeit": null,
       "Thema": "Gesundheit statt Profite. Für ein öffentliches Gesundheitswesen für alle!",
@@ -696,7 +706,7 @@
     {
       "Datum": "2024-06-02",
       "Zeit": null,
-      "Thema": "Wahlkampfveranstaltung  zur Europawahl",
+      "Thema": "Wahlkampfveranstaltung zur Europawahl",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1000",
