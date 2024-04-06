@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-04-05",
+  "Dateidatum": "2024-04-06",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -25,13 +25,13 @@
     },
     {
       "Datum": "2024-04-06",
-      "Zeit": null,
+      "Zeit": "11.00 - 13.00 Uhr",
       "Thema": "Verleihung Landgrabber des Jahres 2024",
-      "Ort": null,
+      "Ort": "Alaunstraße",
       "Startpunkt": null,
       "Teilnehmer": "30 bis 40",
       "Veranstalter": "Arbeitsgemeinschaft bäuerliche Landwirtschaft",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-04-06",
@@ -45,13 +45,13 @@
     },
     {
       "Datum": "2024-04-07",
-      "Zeit": null,
+      "Zeit": "12.00 - 19.00 Uhr",
       "Thema": "Ihr seid die Brandmauer? WIR sind das Volk",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Theaterplatz",
       "Teilnehmer": "400",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-04-08",
@@ -85,13 +85,13 @@
     },
     {
       "Datum": "2024-04-08",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.45 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-04-13",
@@ -232,6 +232,16 @@
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-04-21",
+      "Zeit": null,
+      "Thema": "Demonstration in Solidarität mit dem kubanischen Volk, für die Freilassung aller politischen Gefangenen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "40",
+      "Veranstalter": "PatriaYVida e. V. ",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-04-22",
