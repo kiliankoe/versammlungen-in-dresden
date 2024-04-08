@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-04-07",
+  "Dateidatum": "2024-04-08",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-04-07",
-      "Zeit": "12.00 - 19.00 Uhr",
-      "Thema": "Ihr seid die Brandmauer? WIR sind das Volk",
-      "Ort": null,
-      "Startpunkt": "Theaterplatz",
-      "Teilnehmer": "400",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-04-08",
       "Zeit": "18.00 - 19.30 Uhr",
@@ -366,7 +356,7 @@
     {
       "Datum": "2024-05-01",
       "Zeit": null,
-      "Thema": "2. Tag des Widerstandes - Fahrzeugkorso",
+      "Thema": "2. Tag des Widerstandes",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "600",
@@ -376,7 +366,7 @@
     {
       "Datum": "2024-05-01",
       "Zeit": null,
-      "Thema": "2. Tag des Widerstandes",
+      "Thema": "2. Tag des Widerstandes - Fahrzeugkorso",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "600",
