@@ -15,13 +15,13 @@
   "Versammlungen": [
     {
       "Datum": "2024-04-10",
-      "Zeit": null,
+      "Zeit": "16.00 - 17.00 Uhr",
       "Thema": "Ein Betrieb – eine Belegschaft! Insourcing der Küche am Städtischen Klinikum!",
-      "Ort": null,
+      "Ort": "Rathausplatz",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Bündnis für mehr Personal im Krankenhaus und in der Pflege",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-04-12",
@@ -71,7 +71,7 @@
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2024-04-15",
@@ -85,13 +85,13 @@
     },
     {
       "Datum": "2024-04-15",
-      "Zeit": null,
+      "Zeit": "18.45 - 21.30 Uhr",
       "Thema": "Gegen Glaubenskriege auf deutschem Boden",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Neumarkt",
       "Teilnehmer": "1000",
       "Veranstalter": "PEGIDA Förderverein e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-04-15",
@@ -131,7 +131,7 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2024-04-15",
@@ -182,6 +182,26 @@
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-04-20",
+      "Zeit": null,
+      "Thema": "Kleidertauschparty in der Fashion Revolution Week zum Rana Plaza Gedenktag",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Greenpeace Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-04-20",
+      "Zeit": null,
+      "Thema": "Galerie der Aufklärung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-04-21",
@@ -466,6 +486,16 @@
     {
       "Datum": "2024-05-04",
       "Zeit": null,
+      "Thema": "Global Marijuana March 2024",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "350",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-04",
+      "Zeit": null,
       "Thema": "Aufklärung über den Politischen Islam - Diskussion um Moscheebau",
       "Ort": null,
       "Startpunkt": null,
@@ -616,11 +646,11 @@
     {
       "Datum": "2024-05-25",
       "Zeit": null,
-      "Thema": "Stimme von Wissenschaft, Kunst und Kultur",
+      "Thema": "GEMEINSAM FÜR DEMOKRATIE – die Stimme der Dresdner Wissenschaft und Kultur",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "unbekannt",
-      "Veranstalter": "Dresden concept und Weltoffenes Dresden",
+      "Teilnehmer": "10.000",
+      "Veranstalter": "DRESDEN-concept e. V.",
       "Status": "angemeldet"
     },
     {
