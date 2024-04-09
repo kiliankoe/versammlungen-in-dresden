@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-04-08",
+  "Dateidatum": "2024-04-09",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,44 +14,24 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2024-04-08",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine. Kampf der Weltkriegsgefahr! ",
+      "Datum": "2024-04-10",
+      "Zeit": null,
+      "Thema": "Ein Betrieb – eine Belegschaft! Insourcing der Küche am Städtischen Klinikum!",
       "Ort": null,
-      "Startpunkt": "Prager Straße",
-      "Teilnehmer": "40",
-      "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-04-08",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-04-08",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
-      "Teilnehmer": "30-40",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Teilnehmer": "10",
+      "Veranstalter": "Bündnis für mehr Personal im Krankenhaus und in der Pflege",
+      "Status": "angemeldet"
     },
     {
-      "Datum": "2024-04-08",
-      "Zeit": "19.00 - 20.45 Uhr",
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Datum": "2024-04-12",
+      "Zeit": null,
+      "Thema": "Bäume Retten - Verkehrsinfarkt im Hechtviertel verhindern - Königsbrücker sanieren und zu einem schönen Boulevard gestalten!",
       "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "'Stadt  muss atmen' und 'Königsbrücker muss leben!'",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-04-13",
@@ -154,6 +134,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2024-04-15",
+      "Zeit": null,
+      "Thema": "Kein Platz für Rassismus in der Innenstadt",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-04-18",
       "Zeit": null,
       "Thema": "Nein zum neuen Versammlungsgesetz",
@@ -161,7 +151,7 @@
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "Bündnis NoVersgSax",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2024-04-18",
@@ -356,7 +346,7 @@
     {
       "Datum": "2024-05-01",
       "Zeit": null,
-      "Thema": "2. Tag des Widerstandes",
+      "Thema": "2. Tag des Widerstandes - Fahrzeugkorso",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "600",
@@ -366,7 +356,7 @@
     {
       "Datum": "2024-05-01",
       "Zeit": null,
-      "Thema": "2. Tag des Widerstandes - Fahrzeugkorso",
+      "Thema": "2. Tag des Widerstandes",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "600",
