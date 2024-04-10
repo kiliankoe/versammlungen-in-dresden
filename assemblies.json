@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-04-09",
+  "Dateidatum": "2024-04-10",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -366,7 +366,7 @@
     {
       "Datum": "2024-05-01",
       "Zeit": null,
-      "Thema": "2. Tag des Widerstandes - Fahrzeugkorso",
+      "Thema": "2. Tag des Widerstandes",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "600",
@@ -376,7 +376,7 @@
     {
       "Datum": "2024-05-01",
       "Zeit": null,
-      "Thema": "2. Tag des Widerstandes",
+      "Thema": "2. Tag des Widerstandes - Fahrzeugkorso",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "600",
@@ -601,6 +601,16 @@
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "GEW Sachsen",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-17",
+      "Zeit": null,
+      "Thema": "Idahit Internationaler Tag gegen Homo,- Bi-, Inter*-, Trans*feindlichkeit ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
+      "Veranstalter": "Gerede e. V.",
       "Status": "angemeldet"
     },
     {
