@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-04-10",
+  "Dateidatum": "2024-04-11",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,24 +14,14 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2024-04-10",
-      "Zeit": "16.00 - 17.00 Uhr",
-      "Thema": "Ein Betrieb – eine Belegschaft! Insourcing der Küche am Städtischen Klinikum!",
-      "Ort": "Rathausplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "Bündnis für mehr Personal im Krankenhaus und in der Pflege",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2024-04-12",
-      "Zeit": null,
+      "Zeit": "17.00 - 19.00 Uhr",
       "Thema": "Bäume Retten - Verkehrsinfarkt im Hechtviertel verhindern - Königsbrücker sanieren und zu einem schönen Boulevard gestalten!",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Königsbrücker Straße",
       "Teilnehmer": "50",
       "Veranstalter": "'Stadt  muss atmen' und 'Königsbrücker muss leben!'",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-04-13",
@@ -144,6 +134,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2024-04-16",
+      "Zeit": null,
+      "Thema": "Kundgebung zum Thälmanngeburtstag. Nie wieder Faschismus, nie wieder Krieg!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-04-18",
       "Zeit": null,
       "Thema": "Nein zum neuen Versammlungsgesetz",
@@ -186,16 +186,6 @@
     {
       "Datum": "2024-04-20",
       "Zeit": null,
-      "Thema": "Kleidertauschparty in der Fashion Revolution Week zum Rana Plaza Gedenktag",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "Greenpeace Dresden",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2024-04-20",
-      "Zeit": null,
       "Thema": "Galerie der Aufklärung",
       "Ort": null,
       "Startpunkt": null,
@@ -204,14 +194,24 @@
       "Status": "angemeldet"
     },
     {
-      "Datum": "2024-04-21",
+      "Datum": "2024-04-20",
       "Zeit": null,
-      "Thema": "Demonstration in Solidarität mit dem kubanischen Volk, für die Freilassung aller politischen Gefangenen",
+      "Thema": "Kleidertauschparty in der Fashion Revolution Week zum Rana Plaza Gedenktag",
       "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Greenpeace Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-04-21",
+      "Zeit": "15.00 - 18.00 Uhr",
+      "Thema": "Demonstration in Solidarität mit dem kubanischen Volk, für die Freilassung aller politischen Gefangenen",
+      "Ort": "Alaunplatz",
       "Startpunkt": null,
       "Teilnehmer": "40",
       "Veranstalter": "PatriaYVida e. V. ",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-04-22",
@@ -281,6 +281,16 @@
       "Startpunkt": null,
       "Teilnehmer": "120",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-04-27",
+      "Zeit": null,
+      "Thema": "Krieg in der Ukraine",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "70",
+      "Veranstalter": "Ukrainian Leadership Academy",
       "Status": "angemeldet"
     },
     {
@@ -396,6 +406,16 @@
     {
       "Datum": "2024-05-01",
       "Zeit": null,
+      "Thema": "OMAS GEGEN RECHTS.DRESDEN - Liebe Leute geht wählen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "8",
+      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-01",
+      "Zeit": null,
       "Thema": "1. Mai - Unser Tag!",
       "Ort": null,
       "Startpunkt": null,
@@ -411,16 +431,6 @@
       "Startpunkt": null,
       "Teilnehmer": "1000",
       "Veranstalter": "DGB Dresden-Oberes Elbtal",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2024-05-01",
-      "Zeit": null,
-      "Thema": "OMAS GEGEN RECHTS.DRESDEN - Liebe Leute geht wählen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "8",
-      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
       "Status": "angemeldet"
     },
     {
@@ -471,6 +481,16 @@
       "Startpunkt": null,
       "Teilnehmer": "100-150",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-03",
+      "Zeit": null,
+      "Thema": "Protestzug anlässlich des Europäischen Protesttages zur Gleichstellung von Menschen m. Behiderung ('5. Mai')",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "80",
+      "Veranstalter": "Zentrum für selbstbestimmt Leben Sachsen",
       "Status": "angemeldet"
     },
     {
