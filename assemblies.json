@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-04-11",
+  "Dateidatum": "2024-04-12",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -105,13 +105,13 @@
     },
     {
       "Datum": "2024-04-15",
-      "Zeit": null,
+      "Zeit": "17.15 - 22.00 Uhr",
       "Thema": "Kein Fußbreit dem Quergida Faschismus",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Alaunplatz",
       "Teilnehmer": "500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-04-15",
@@ -125,13 +125,13 @@
     },
     {
       "Datum": "2024-04-15",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.00 Uhr",
       "Thema": "Kein Platz für Rassismus in der Innenstadt",
-      "Ort": null,
+      "Ort": "Wilsdruffer Straße",
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-04-16",
@@ -155,13 +155,13 @@
     },
     {
       "Datum": "2024-04-18",
-      "Zeit": null,
+      "Zeit": "10.30 - 15.30 Uhr",
       "Thema": "Neues Versammlungsgesetz stoppen!",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Alaunplatz",
       "Teilnehmer": "200",
       "Veranstalter": "linksjugend Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-04-20",
@@ -185,13 +185,13 @@
     },
     {
       "Datum": "2024-04-20",
-      "Zeit": null,
+      "Zeit": "14.00 - 18.00 Uhr",
       "Thema": "Galerie der Aufklärung",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-04-20",
