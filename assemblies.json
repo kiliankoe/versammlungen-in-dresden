@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-04-14",
+  "Dateidatum": "2024-04-15",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-04-14",
-      "Zeit": "13.00 - 14.00 Uhr",
-      "Thema": "Gedenkveranstaltung, helft verfolgten Christen, helft Nigeria",
-      "Ort": "Neumarkt ",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
     {
       "Datum": "2024-04-15",
       "Zeit": "18.00 - 19.30 Uhr",
@@ -901,6 +891,16 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-07-14",
+      "Zeit": null,
+      "Thema": "Internationaler Tag der nichtbinären Menschen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "40",
+      "Veranstalter": "TIN-Vernetzung Dresden",
       "Status": "angemeldet"
     }
   ]
