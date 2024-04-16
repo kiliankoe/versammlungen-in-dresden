@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-04-15",
+  "Dateidatum": "2024-04-16",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,76 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-04-15",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine. Kampf der Weltkriegsgefahr! ",
-      "Ort": null,
-      "Startpunkt": "Prager Straße",
-      "Teilnehmer": "40",
-      "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-04-15",
-      "Zeit": "18.45 - 21.30 Uhr",
-      "Thema": "Gegen Glaubenskriege auf deutschem Boden",
-      "Ort": null,
-      "Startpunkt": "Neumarkt",
-      "Teilnehmer": "1000",
-      "Veranstalter": "PEGIDA Förderverein e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-04-15",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-04-15",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "30-40",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-04-15",
-      "Zeit": "17.15 - 22.00 Uhr",
-      "Thema": "Kein Fußbreit dem Quergida Faschismus",
-      "Ort": null,
-      "Startpunkt": "Alaunplatz",
-      "Teilnehmer": "500",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-04-15",
-      "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2024-04-15",
-      "Zeit": "19.00 - 20.00 Uhr",
-      "Thema": "Kein Platz für Rassismus in der Innenstadt",
-      "Ort": "Wilsdruffer Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "100",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-04-16",
       "Zeit": "17.00 - 18.30 Uhr",
@@ -112,6 +42,16 @@
       "Teilnehmer": "200",
       "Veranstalter": "linksjugend Dresden",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-04-19",
+      "Zeit": null,
+      "Thema": "Königsbrücker muss leben! Bäume erhalten, Baumallee nachpflanzen, Verkehrsinfarkt im Hecht verhindern. Pläne angucken jetzt!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Königsbrücker muss leben!",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-04-20",
@@ -594,6 +534,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2024-05-15",
+      "Zeit": null,
+      "Thema": "Till Verschwindemann - Keine Bühne für Täter",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-05-17",
       "Zeit": null,
       "Thema": "Idahit Internationaler Tag gegen Homo,- Bi-, Inter*-, Trans*feindlichkeit ",
@@ -601,6 +551,16 @@
       "Startpunkt": null,
       "Teilnehmer": "150",
       "Veranstalter": "Gerede e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-20",
+      "Zeit": null,
+      "Thema": "Gegen Glaubenskriege auf deutschem Boden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2000",
+      "Veranstalter": "PEGIDA Förderverein e. V.",
       "Status": "angemeldet"
     },
     {
@@ -801,6 +761,16 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-06-08",
+      "Zeit": null,
+      "Thema": "Wir Sind Die Brandmauer Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "5000",
+      "Veranstalter": "Wir Sind Die Brandmauer Dresden",
       "Status": "angemeldet"
     },
     {
