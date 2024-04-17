@@ -26,7 +26,9 @@ export function contentWarning(assembly: Assembly): string | undefined {
 
 const organizerReplacements: Record<string, string> = {
   "Fridays For Future": "#FridaysForFuture",
+  "Fridays For Future Dresden": "#FridaysForFuture",
   "Fridays For Futhure": "#FridaysForFuture", // sic!
+  "Fridays For Futhure Dresden": "#FridaysForFuture", // sic!
   "Piratenpartei Sachsen": "@piratensachsen@dresden.network",
   "Piraten Dresden": "@piratendresden@pirati.ca",
   "JUSOS Dresden": "@jusos@dresden.network",
