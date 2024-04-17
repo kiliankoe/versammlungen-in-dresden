@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-04-16",
+  "Dateidatum": "2024-04-17",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-04-16",
-      "Zeit": "17.00 - 18.30 Uhr",
-      "Thema": "Kundgebung zum Thälmanngeburtstag. Nie wieder Faschismus, nie wieder Krieg!",
-      "Ort": "Strehlener Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-04-18",
       "Zeit": null,
@@ -46,11 +36,21 @@
     {
       "Datum": "2024-04-19",
       "Zeit": null,
+      "Thema": "Gegen eine Aufweichung des Klimaschutzgesetz",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "Fridays For Futhure Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-04-19",
+      "Zeit": null,
       "Thema": "Königsbrücker muss leben! Bäume erhalten, Baumallee nachpflanzen, Verkehrsinfarkt im Hecht verhindern. Pläne angucken jetzt!",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "10",
-      "Veranstalter": "Königsbrücker muss leben!",
+      "Veranstalter": "Bürgerinitiative Königsbrücker muss leben!",
       "Status": "angemeldet"
     },
     {
@@ -85,23 +85,23 @@
     },
     {
       "Datum": "2024-04-20",
-      "Zeit": null,
-      "Thema": "Liebe Leute,  geht wählen!",
-      "Ort": null,
+      "Zeit": "10.30 - 15.00 Uhr",
+      "Thema": "Liebe Leute, geht wählen!",
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "8",
       "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-04-20",
-      "Zeit": null,
+      "Zeit": "11.30 - 17.30 Uhr",
       "Thema": "Kleidertauschparty in der Fashion Revolution Week zum Rana Plaza Gedenktag",
-      "Ort": null,
+      "Ort": "Martin-Luther-Straße",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Greenpeace Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-04-21",
@@ -225,13 +225,13 @@
     },
     {
       "Datum": "2024-04-30",
-      "Zeit": null,
+      "Zeit": "19.30 - 21.30 Uhr",
       "Thema": "Take Back The Night",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Jorge-Gomondai-Platz",
       "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-01",
