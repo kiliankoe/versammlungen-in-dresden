@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-04-17",
+  "Dateidatum": "2024-04-18",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -22,6 +22,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "Bündnis NoVersgSax",
       "Status": "abgemeldet"
+    },
+    {
+      "Datum": "2024-04-18",
+      "Zeit": "09.00 - 10.00 Uhr",
+      "Thema": "Mehr Beteiligung bei Freiflächen, Solaranlagen und Windenergieanlagen auch in der Landwirtschaft",
+      "Ort": "Bernhard-von-Lindenau-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "AbL Arbeitsgemeinschaft bäuerliche Landwirtschaft",
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-04-18",
@@ -105,6 +115,16 @@
     },
     {
       "Datum": "2024-04-21",
+      "Zeit": null,
+      "Thema": "Banneraktion für Frieden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-04-21",
       "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "Demonstration in Solidarität mit dem kubanischen Volk, für die Freilassung aller politischen Gefangenen",
       "Ort": "Alaunplatz",
@@ -112,6 +132,16 @@
       "Teilnehmer": "40",
       "Veranstalter": "PatriaYVida e. V. ",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-04-22",
+      "Zeit": null,
+      "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine. Kampf der Weltkriegsgefahr! ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "40",
+      "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-04-22",
@@ -140,6 +170,26 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-04-24",
+      "Zeit": null,
+      "Thema": "Kundgebung zum Gedenken an den Fabrikeinsturz Rana Plaza",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Entwicklungspolitisches Netzwerk Sachsen e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-04-25",
+      "Zeit": null,
+      "Thema": "Protestmarsch Letzte Generation - Gegen den Abbruch des Verkehrsversuches am Blauen Wunder - Klimawende braucht auch Verkehrswende!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -180,6 +230,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "120",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-04-27",
+      "Zeit": null,
+      "Thema": "Klimaschutz ist ein Menschenrecht und kein Verbrechen! Eine lebenswerte Zukunft für künftige Generationen bewahren!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -365,13 +425,13 @@
     },
     {
       "Datum": "2024-05-02",
-      "Zeit": null,
+      "Zeit": "08.00 - 09.00 Uhr",
       "Thema": "Stoppt den fossilen Wahnsinn! Mit der Aktion fordern wir von der Politik und Verwaltung, dass erneuerbarer Strom und Energiesparen vorangetrieben werden, sodass wir geordnet aus allen fossilen Energieträgern aussteigen können.",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Friedrich-List-Platz",
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-03",
@@ -455,6 +515,16 @@
     },
     {
       "Datum": "2024-05-06",
+      "Zeit": null,
+      "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine. Kampf der Weltkriegsgefahr! ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "40",
+      "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-06",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
@@ -501,6 +571,16 @@
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "Dresdner Bündnis für Pflege",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-13",
+      "Zeit": null,
+      "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine. Kampf der Weltkriegsgefahr! ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "40",
+      "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
       "Status": "angemeldet"
     },
     {
@@ -661,6 +741,16 @@
       "Startpunkt": null,
       "Teilnehmer": "800",
       "Veranstalter": "ADFC Dresden e.V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-27",
+      "Zeit": null,
+      "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine. Kampf der Weltkriegsgefahr! ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "40",
+      "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
       "Status": "angemeldet"
     },
     {
