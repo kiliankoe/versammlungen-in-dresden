@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-04-21",
+  "Dateidatum": "2024-04-22",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-04-21",
-      "Zeit": null,
-      "Thema": "Banneraktion für Frieden",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "15",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2024-04-21",
-      "Zeit": "15.00 - 18.00 Uhr",
-      "Thema": "Demonstration in Solidarität mit dem kubanischen Volk, für die Freilassung aller politischen Gefangenen",
-      "Ort": "Alaunplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "40",
-      "Veranstalter": "PatriaYVida e. V. ",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-04-22",
       "Zeit": "18.00 - 19.30 Uhr",
