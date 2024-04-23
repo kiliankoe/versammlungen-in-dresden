@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-04-22",
+  "Dateidatum": "2024-04-23",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,54 +14,24 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2024-04-22",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine und den Völkermord in Gaza - Kampf der Weltkriegsgefahr! ",
-      "Ort": null,
-      "Startpunkt": "Prager Straße",
-      "Teilnehmer": "40",
-      "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-04-22",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-04-22",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
+      "Datum": "2024-04-23",
+      "Zeit": "10.30 - 13.00 Uhr",
+      "Thema": "Tarifvertrag für Pharmatec! ",
+      "Ort": "Elisabeth-Boer-Straße ",
       "Startpunkt": null,
-      "Teilnehmer": "30-40",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-04-22",
-      "Zeit": "19.00 - 20.45 Uhr",
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
+      "Teilnehmer": "20",
+      "Veranstalter": "IG Metall Dresden ",
       "Status": "beschieden"
     },
     {
       "Datum": "2024-04-24",
-      "Zeit": null,
+      "Zeit": "16.00 - 17.00 Uhr",
       "Thema": "Kundgebung zum Gedenken an den Fabrikeinsturz Rana Plaza",
-      "Ort": null,
+      "Ort": "Prager Straße ",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Entwicklungspolitisches Netzwerk Sachsen e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-04-25",
@@ -75,23 +45,23 @@
     },
     {
       "Datum": "2024-04-25",
-      "Zeit": null,
+      "Zeit": "16.45 - 18.30 Uhr",
       "Thema": "Protestmarsch Letzte Generation - Gegen den Abbruch des Verkehrsversuches am Blauen Wunder - Klimawende braucht auch Verkehrswende!",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Körnerplatz",
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-04-26",
-      "Zeit": null,
+      "Zeit": "11.30 - 14.30 Uhr",
       "Thema": "Zustände am Beruflichen Schulzentrum für Gesundheit und Sozialwesen 'Karl August Lingner'",
-      "Ort": null,
+      "Ort": "Maxim-Gorki-Straße",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-04-27",
@@ -115,13 +85,13 @@
     },
     {
       "Datum": "2024-04-27",
-      "Zeit": null,
+      "Zeit": "09.30 - 17.00 Uhr",
       "Thema": "Für Frieden und Freiheit",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Zschierener Bootslippe",
       "Teilnehmer": "120",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-04-27",
@@ -135,13 +105,13 @@
     },
     {
       "Datum": "2024-04-27",
-      "Zeit": null,
+      "Zeit": "17.00 - 20.00 Uhr",
       "Thema": "Krieg in der Ukraine",
-      "Ort": null,
+      "Ort": "An der Kreuzkirche",
       "Startpunkt": null,
       "Teilnehmer": "70",
       "Veranstalter": "Ukrainian Leadership Academy",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-04-29",
@@ -175,13 +145,13 @@
     },
     {
       "Datum": "2024-04-29",
-      "Zeit": null,
+      "Zeit": "16.30 - 19.30 Uhr",
       "Thema": "Protest gegen tierschutzwidrige Haltung von Milchkühen der Haltungsform 1",
-      "Ort": null,
+      "Ort": "Königsbrücker Straße",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Greenpeace Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-04-30",
@@ -404,6 +374,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2024-05-05",
+      "Zeit": null,
+      "Thema": "Menschen zu erst - sicher und komfortabel mobil auf dem 26er Ring",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-05-06",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine und den Völkermord in Gaza - Kampf der Weltkriegsgefahr! ",
@@ -412,6 +392,16 @@
       "Teilnehmer": "40",
       "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-05-06",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-05-06",
@@ -456,6 +446,16 @@
     {
       "Datum": "2024-05-12",
       "Zeit": null,
+      "Thema": "Freiheit für Julian Assange!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Seifenhaus Wehlen",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-12",
+      "Zeit": null,
       "Thema": "Gesundheit statt Profite. Für ein öffentliches Gesundheitswesen für alle!",
       "Ort": null,
       "Startpunkt": null,
@@ -472,6 +472,16 @@
       "Teilnehmer": "40",
       "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-05-13",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-05-13",
@@ -541,6 +551,16 @@
       "Startpunkt": null,
       "Teilnehmer": "2000",
       "Veranstalter": "PEGIDA Förderverein e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-20",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -665,6 +685,16 @@
     },
     {
       "Datum": "2024-05-27",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-27",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
@@ -745,6 +775,16 @@
     },
     {
       "Datum": "2024-06-03",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-06-03",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
@@ -785,6 +825,16 @@
     },
     {
       "Datum": "2024-06-10",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-06-10",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
@@ -815,6 +865,16 @@
     },
     {
       "Datum": "2024-06-17",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-06-17",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
@@ -841,6 +901,16 @@
       "Startpunkt": null,
       "Teilnehmer": "1.500",
       "Veranstalter": "Queer Pride Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-06-24",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
