@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-04-23",
+  "Dateidatum": "2024-04-24",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,16 +14,6 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2024-04-23",
-      "Zeit": "10.30 - 13.00 Uhr",
-      "Thema": "Tarifvertrag für Pharmatec! ",
-      "Ort": "Elisabeth-Boer-Straße ",
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "IG Metall Dresden ",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2024-04-24",
       "Zeit": "16.00 - 17.00 Uhr",
       "Thema": "Kundgebung zum Gedenken an den Fabrikeinsturz Rana Plaza",
@@ -35,13 +25,13 @@
     },
     {
       "Datum": "2024-04-25",
-      "Zeit": null,
+      "Zeit": "11.30 - 16.40 Uhr",
       "Thema": "'Miteinander statt übereinander sprechen!'",
-      "Ort": null,
+      "Ort": "Bergstraße",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Zeugen der Flucht Dresden e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-04-25",
@@ -75,13 +65,13 @@
     },
     {
       "Datum": "2024-04-27",
-      "Zeit": null,
+      "Zeit": "15.00 - 19.00 Uhr",
       "Thema": "Freiheit für Palästina. Freiheit für Gaza",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wiener Platz",
       "Teilnehmer": "1.000",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-04-27",
@@ -95,13 +85,13 @@
     },
     {
       "Datum": "2024-04-27",
-      "Zeit": null,
+      "Zeit": "11.30 - 13.00 Uhr",
       "Thema": "Klimaschutz ist ein Menschenrecht und kein Verbrechen! Eine lebenswerte Zukunft für künftige Generationen bewahren!",
-      "Ort": null,
+      "Ort": "Archivstraße",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-04-27",
@@ -140,6 +130,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-04-29",
+      "Zeit": null,
+      "Thema": "Nie wieder ist jetzt - Keine Nazis vor der Synagoge!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "bis zu 50",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -246,6 +246,16 @@
     {
       "Datum": "2024-05-01",
       "Zeit": null,
+      "Thema": "Kein Fußbreit dem Quergida Faschismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-01",
+      "Zeit": null,
       "Thema": "1. Mai - Unser Tag!",
       "Ort": null,
       "Startpunkt": null,
@@ -262,6 +272,16 @@
       "Teilnehmer": "1000",
       "Veranstalter": "DGB Dresden-Oberes Elbtal",
       "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-01",
+      "Zeit": "10.00 - 18.30 Uhr",
+      "Thema": "31. Familienfest am Fichteturm",
+      "Ort": "Spielplatz am Fichtepark",
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "SPD Dresden-Plauen",
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-01",
@@ -336,6 +356,16 @@
     {
       "Datum": "2024-05-04",
       "Zeit": null,
+      "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Activists for the Victims e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-04",
+      "Zeit": null,
       "Thema": "Aufklärung über den Politischen Islam - Diskussion um Moscheebau",
       "Ort": null,
       "Startpunkt": null,
@@ -365,16 +395,6 @@
     },
     {
       "Datum": "2024-05-05",
-      "Zeit": "14.00 - 15.30 Uhr",
-      "Thema": "Aufruf für Europa und Werbung, wählen zu gehen",
-      "Ort": "Neumarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "500",
-      "Veranstalter": "Pulse of Europe e. V. - Regionalgruppe Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-05-05",
       "Zeit": null,
       "Thema": "Menschen zu erst - sicher und komfortabel mobil auf dem 26er Ring",
       "Ort": null,
@@ -382,6 +402,16 @@
       "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-05",
+      "Zeit": "14.00 - 15.30 Uhr",
+      "Thema": "Aufruf für Europa und Werbung, wählen zu gehen",
+      "Ort": "Neumarkt",
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "Pulse of Europe e. V. - Regionalgruppe Dresden",
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-06",
@@ -420,6 +450,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-06",
+      "Zeit": null,
+      "Thema": "Nie wieder ist jetzt - Keine Nazis vor der Synagoge!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "bis zu 50",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -506,6 +546,16 @@
     {
       "Datum": "2024-05-13",
       "Zeit": null,
+      "Thema": "Nie wieder ist jetzt - Keine Nazis vor der Synagoge!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "bis zu 50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-13",
+      "Zeit": null,
       "Thema": "Starke Kitas für starke Kinder - dringende Investitionen in die frühkindliche Bildung",
       "Ort": null,
       "Startpunkt": null,
@@ -541,6 +591,16 @@
       "Startpunkt": null,
       "Teilnehmer": "150",
       "Veranstalter": "Gerede e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-18",
+      "Zeit": null,
+      "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Activists for the Victims e. V.",
       "Status": "angemeldet"
     },
     {
@@ -580,6 +640,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-20",
+      "Zeit": null,
+      "Thema": "Nie wieder ist jetzt - Keine Nazis vor der Synagoge!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "bis zu 50",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -714,6 +784,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2024-05-27",
+      "Zeit": null,
+      "Thema": "Nie wieder ist jetzt - Keine Nazis vor der Synagoge!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "bis zu 50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-05-30",
       "Zeit": null,
       "Thema": "31. Christopher Street Day Dresden 2024",
@@ -800,6 +880,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-06-03",
+      "Zeit": null,
+      "Thema": "Nie wieder ist jetzt - Keine Nazis vor der Synagoge!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "bis zu 50",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
