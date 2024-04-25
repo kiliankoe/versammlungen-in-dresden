@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-04-24",
+  "Dateidatum": "2024-04-25",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-04-24",
-      "Zeit": "16.00 - 17.00 Uhr",
-      "Thema": "Kundgebung zum Gedenken an den Fabrikeinsturz Rana Plaza",
-      "Ort": "Prager Straße ",
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "Entwicklungspolitisches Netzwerk Sachsen e. V.",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-04-25",
       "Zeit": "11.30 - 16.40 Uhr",
@@ -126,20 +116,20 @@
     {
       "Datum": "2024-04-29",
       "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Thema": "Nie wieder ist jetzt - Keine Nazis vor der Synagoge!",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "300",
+      "Teilnehmer": "bis zu 50",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
       "Datum": "2024-04-29",
       "Zeit": null,
-      "Thema": "Nie wieder ist jetzt - Keine Nazis vor der Synagoge!",
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "bis zu 50",
+      "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -215,13 +205,13 @@
     },
     {
       "Datum": "2024-05-01",
-      "Zeit": null,
+      "Zeit": "12.00 - 18.00 Uhr",
       "Thema": "2. Tag des Widerstandes - Fahrzeugkorso",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Lingnerallee",
       "Teilnehmer": "600",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-01",
@@ -235,13 +225,13 @@
     },
     {
       "Datum": "2024-05-01",
-      "Zeit": null,
+      "Zeit": "11.00 - 15.00 Uhr",
       "Thema": "OMAS GEGEN RECHTS.DRESDEN - Liebe Leute geht wählen",
-      "Ort": null,
+      "Ort": "Postplatz",
       "Startpunkt": null,
       "Teilnehmer": "8",
       "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-01",
@@ -294,6 +284,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2024-05-01",
+      "Zeit": null,
+      "Thema": "Internationalistischer 1. Mai",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-05-02",
       "Zeit": null,
       "Thema": "2. Tag des Widerstandes - Protestcamp",
@@ -326,7 +326,7 @@
     {
       "Datum": "2024-05-03",
       "Zeit": null,
-      "Thema": "Protestzug anlässlich des Europäischen Protesttages zur Gleichstellung von Menschen m. Behiderung ('5. Mai')",
+      "Thema": "Protestzug anlässlich des Europäischen Protesttages zur Gleichstellung von Menschen mit Behinderung",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "80",
@@ -365,13 +365,13 @@
     },
     {
       "Datum": "2024-05-04",
-      "Zeit": null,
+      "Zeit": "12.00 - 18.00 Uhr",
       "Thema": "Aufklärung über den Politischen Islam - Diskussion um Moscheebau",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "30",
-      "Veranstalter": "Bürgerbewegung PAX EUROPA e.V.",
-      "Status": "angemeldet"
+      "Veranstalter": "Bürgerbewegung PAX EUROPA e. V.",
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-04",
@@ -425,13 +425,13 @@
     },
     {
       "Datum": "2024-05-06",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-06",
@@ -461,6 +461,16 @@
       "Startpunkt": null,
       "Teilnehmer": "bis zu 50",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-06",
+      "Zeit": null,
+      "Thema": "'Liebe Leute, geht wählen!' - Kundgebung zur Wahlermutigung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "8",
+      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
       "Status": "angemeldet"
     },
     {
@@ -515,13 +525,13 @@
     },
     {
       "Datum": "2024-05-13",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-13",
@@ -574,6 +584,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2024-05-14",
+      "Zeit": null,
+      "Thema": "'Liebe Leute, geht wählen!' - Kundgebung zur Wahlermutigung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "8",
+      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-05-15",
       "Zeit": null,
       "Thema": "Till Verschwindemann - Keine Bühne für Täter",
@@ -615,13 +635,13 @@
     },
     {
       "Datum": "2024-05-20",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-20",
@@ -651,6 +671,16 @@
       "Startpunkt": null,
       "Teilnehmer": "bis zu 50",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-23",
+      "Zeit": null,
+      "Thema": "'Liebe Leute, geht wählen!' - Kundgebung zur Wahlermutigung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "8",
+      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
       "Status": "angemeldet"
     },
     {
@@ -755,13 +785,13 @@
     },
     {
       "Datum": "2024-05-27",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-27",
@@ -824,6 +854,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2024-05-31",
+      "Zeit": null,
+      "Thema": "'Liebe Leute, geht wählen!' - Kundgebung zur Wahlermutigung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "8",
+      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-06-01",
       "Zeit": null,
       "Thema": "31. Christopher Street Day Dresden 2024",
@@ -855,13 +895,13 @@
     },
     {
       "Datum": "2024-06-03",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-06-03",
@@ -894,6 +934,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2024-06-07",
+      "Zeit": null,
+      "Thema": "'Liebe Leute, geht wählen!' - Kundgebung zur Wahlermutigung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "8",
+      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-06-08",
       "Zeit": null,
       "Thema": "Wir Sind Die Brandmauer Dresden",
@@ -915,13 +965,13 @@
     },
     {
       "Datum": "2024-06-10",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-06-10",
@@ -955,13 +1005,13 @@
     },
     {
       "Datum": "2024-06-17",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-06-17",
@@ -995,13 +1045,13 @@
     },
     {
       "Datum": "2024-06-24",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-06-24",
