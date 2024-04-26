@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-04-25",
+  "Dateidatum": "2024-04-26",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-04-25",
-      "Zeit": "11.30 - 16.40 Uhr",
-      "Thema": "'Miteinander statt übereinander sprechen!'",
-      "Ort": "Bergstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "Zeugen der Flucht Dresden e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-04-25",
-      "Zeit": "16.45 - 18.30 Uhr",
-      "Thema": "Protestmarsch Letzte Generation - Gegen den Abbruch des Verkehrsversuches am Blauen Wunder - Klimawende braucht auch Verkehrswende!",
-      "Ort": null,
-      "Startpunkt": "Körnerplatz",
-      "Teilnehmer": "25",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-04-26",
       "Zeit": "11.30 - 14.30 Uhr",
@@ -125,13 +105,13 @@
     },
     {
       "Datum": "2024-04-29",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-04-29",
@@ -152,6 +132,16 @@
       "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-04-30",
+      "Zeit": null,
+      "Thema": "Tanz in den Mai",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2000",
+      "Veranstalter": "Bündnis aus Jugendorganisationen",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-05-01",
@@ -195,16 +185,6 @@
     },
     {
       "Datum": "2024-05-01",
-      "Zeit": null,
-      "Thema": "2. Tag des Widerstandes",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "600",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2024-05-01",
       "Zeit": "12.00 - 18.00 Uhr",
       "Thema": "2. Tag des Widerstandes - Fahrzeugkorso",
       "Ort": null,
@@ -212,6 +192,16 @@
       "Teilnehmer": "600",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-05-01",
+      "Zeit": null,
+      "Thema": "2. Tag des Widerstandes",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "600",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-05-01",
@@ -355,13 +345,13 @@
     },
     {
       "Datum": "2024-05-04",
-      "Zeit": null,
+      "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Activists for the Victims e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-04",
@@ -471,6 +461,16 @@
       "Startpunkt": null,
       "Teilnehmer": "8",
       "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-06",
+      "Zeit": null,
+      "Thema": "Namenlesung ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Ökumenisches Informationszentrum e. V.",
       "Status": "angemeldet"
     },
     {
@@ -615,13 +615,13 @@
     },
     {
       "Datum": "2024-05-18",
-      "Zeit": null,
+      "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
-      "Ort": null,
+      "Ort": "Wiener Platz",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Activists for the Victims e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-20",
