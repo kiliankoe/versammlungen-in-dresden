@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-04-26",
+  "Dateidatum": "2024-04-27",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-04-26",
-      "Zeit": "11.30 - 14.30 Uhr",
-      "Thema": "Zustände am Beruflichen Schulzentrum für Gesundheit und Sozialwesen 'Karl August Lingner'",
-      "Ort": "Maxim-Gorki-Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-04-27",
       "Zeit": "11.00 - 19.00 Uhr",
@@ -714,6 +704,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2024-05-24",
+      "Zeit": null,
+      "Thema": "Klimaschützen ist kein Verbrechen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-05-25",
       "Zeit": null,
       "Thema": "GEMEINSAM FÜR DEMOKRATIE – die Stimme der Dresdner Wissenschaft und Kultur",
@@ -851,6 +851,16 @@
       "Startpunkt": null,
       "Teilnehmer": "2.000",
       "Veranstalter": "Fridays for Future Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-31",
+      "Zeit": null,
+      "Thema": "Klimaschützen ist kein Verbrechen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
