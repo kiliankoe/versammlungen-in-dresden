@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-04-28",
+  "Dateidatum": "2024-04-29",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -430,6 +430,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "30",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-08",
+      "Zeit": null,
+      "Thema": "Gedenkveranstaltung zum Tag der Befreiung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
