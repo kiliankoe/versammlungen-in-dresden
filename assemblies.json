@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-04-29",
+  "Dateidatum": "2024-04-30",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,56 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-04-29",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-04-29",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "30-40",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-04-29",
-      "Zeit": "19.20 - 20.50 Uhr",
-      "Thema": "Nie wieder ist jetzt - Keine Nazis vor der Synagoge!",
-      "Ort": "Akademiestraße",
-      "Startpunkt": null,
-      "Teilnehmer": "bis zu 50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-04-29",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-04-29",
-      "Zeit": "16.30 - 19.30 Uhr",
-      "Thema": "Protest gegen tierschutzwidrige Haltung von Milchkühen der Haltungsform 1",
-      "Ort": "Königsbrücker Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "Greenpeace Dresden",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-04-30",
       "Zeit": "19.30 - 21.30 Uhr",
@@ -95,13 +45,13 @@
     },
     {
       "Datum": "2024-05-01",
-      "Zeit": null,
+      "Zeit": "11.00 - 18.00 Uhr",
       "Thema": "1. Mai Kundgebung",
-      "Ort": null,
+      "Ort": "Alaunplatz",
       "Startpunkt": null,
       "Teilnehmer": "800",
       "Veranstalter": "DIE LINKE Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-01",
@@ -115,13 +65,13 @@
     },
     {
       "Datum": "2024-05-01",
-      "Zeit": null,
+      "Zeit": "12.00 - 16.00 Uhr",
       "Thema": "Dresden weltoffen und solidarisch",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "mehrere hundert Besucher über den Tag verteilt",
       "Veranstalter": "Initiative Seebrücke Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-01",
@@ -165,13 +115,23 @@
     },
     {
       "Datum": "2024-05-01",
-      "Zeit": null,
+      "Zeit": "12.00 - 17.00 Uhr",
       "Thema": "Kein Fußbreit dem Quergida Faschismus",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Lingnerallee",
       "Teilnehmer": "500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-05-01",
+      "Zeit": "12.00 - 18.00 Uhr",
+      "Thema": "Stand against the rising facism!",
+      "Ort": null,
+      "Startpunkt": "Lingnerallee",
+      "Teilnehmer": "1-10",
+      "Veranstalter": "natürliche Person",
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2024-05-01",
@@ -205,23 +165,33 @@
     },
     {
       "Datum": "2024-05-01",
-      "Zeit": null,
+      "Zeit": "12.00 - 17.00 Uhr",
       "Thema": "1. Mai_Kommunal- und Europawahlveranstaltung",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "AfD Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-01",
       "Zeit": null,
-      "Thema": "Internationalistischer 1. Mai",
+      "Thema": "Schluss mit den Faxen, hirnfreie Sachsen! Echsenmenschen für mehr Verfassungsschutz!",
       "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Antiverschwurbelte Aktion",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-01",
+      "Zeit": "13.00 - 14.30 Uhr",
+      "Thema": "Internationalistischer 1. Mai",
+      "Ort": "Theaterplatz",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-02",
@@ -255,13 +225,13 @@
     },
     {
       "Datum": "2024-05-03",
-      "Zeit": null,
+      "Zeit": "14.30 - 18.00 Uhr",
       "Thema": "Protestzug anlässlich des Europäischen Protesttages zur Gleichstellung von Menschen mit Behinderung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bernhard-von-Lindenau-Platz",
       "Teilnehmer": "80",
       "Veranstalter": "Zentrum für selbstbestimmt Leben Sachsen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-04",
@@ -325,13 +295,13 @@
     },
     {
       "Datum": "2024-05-05",
-      "Zeit": null,
-      "Thema": "Menschen zu erst - sicher und komfortabel mobil auf dem 26er Ring",
+      "Zeit": "15.10 - 17.05 Uhr",
+      "Thema": "Menschen zuerst - sicher und komfortabel mobil auf dem 26er Ring",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Straße",
       "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-05",
@@ -395,13 +365,13 @@
     },
     {
       "Datum": "2024-05-06",
-      "Zeit": null,
+      "Zeit": "10.00 - 14.00 Uhr",
       "Thema": "'Liebe Leute, geht wählen!' - Kundgebung zur Wahlermutigung",
-      "Ort": null,
+      "Ort": "Merianplatz",
       "Startpunkt": null,
       "Teilnehmer": "8",
       "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-06",
@@ -411,16 +381,6 @@
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "Ökumenisches Informationszentrum e. V.",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2024-05-07",
-      "Zeit": null,
-      "Thema": "Kulturzentrum (Operette) Leuben beleben",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -650,6 +610,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-23",
+      "Zeit": null,
+      "Thema": "Putin nach Den Haag, Demokratie & Menschenrechte verteidigen, keine Stimme für Putinisten",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
