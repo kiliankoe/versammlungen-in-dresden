@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-05-02",
+  "Dateidatum": "2024-05-03",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -34,16 +34,6 @@
       "Status": "abgemeldet"
     },
     {
-      "Datum": "2024-05-02",
-      "Zeit": "08.00 - 09.00 Uhr",
-      "Thema": "Stoppt den fossilen Wahnsinn! Mit der Aktion fordern wir von der Politik und Verwaltung, dass erneuerbarer Strom und Energiesparen vorangetrieben werden, sodass wir geordnet aus allen fossilen Energieträgern aussteigen können.",
-      "Ort": null,
-      "Startpunkt": "Friedrich-List-Platz",
-      "Teilnehmer": "25",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2024-05-03",
       "Zeit": null,
       "Thema": "2. Tag des Widerstandes - Protestcamp",
@@ -64,6 +54,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2024-05-03",
+      "Zeit": "18.15 - 19.45 Uhr",
+      "Thema": "NO MORE LIES (Keine Lüge mehr)",
+      "Ort": null,
+      "Startpunkt": "Alaunstraße",
+      "Teilnehmer": "20",
+      "Veranstalter": "Internationales Steiger Zentrum e.V.",
+      "Status": "beschieden"
+    },
+    {
       "Datum": "2024-05-04",
       "Zeit": null,
       "Thema": "2. Tag des Widerstandes - Protestcamp",
@@ -75,13 +75,13 @@
     },
     {
       "Datum": "2024-05-04",
-      "Zeit": null,
+      "Zeit": "13.37 - 19.50 Uhr",
       "Thema": "Global Marijuana March 2024",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Postplatz",
       "Teilnehmer": "350",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-04",
@@ -95,6 +95,16 @@
     },
     {
       "Datum": "2024-05-04",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutsche Falun Dafa Verein e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-04",
       "Zeit": "12.00 - 18.00 Uhr",
       "Thema": "Aufklärung über den Politischen Islam - Diskussion um Moscheebau",
       "Ort": "Neumarkt",
@@ -105,13 +115,13 @@
     },
     {
       "Datum": "2024-05-04",
-      "Zeit": null,
+      "Zeit": "15.00 - 20.00 Uhr",
       "Thema": "Tanzen gegen Soziale Kälte!",
-      "Ort": null,
+      "Ort": "Alaunplatz",
       "Startpunkt": null,
       "Teilnehmer": "250",
       "Veranstalter": "Piraten Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-05",
@@ -244,6 +254,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2024-05-08",
+      "Zeit": null,
+      "Thema": "Wer nicht feiert hat verloren!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "90",
+      "Veranstalter": "Linkjugend Dresden",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-05-10",
       "Zeit": null,
       "Thema": "Mahnwache 'Barwinka' ziviler ukrainischer Krankenwagen, zerschossen bei russischem Angriff",
@@ -260,6 +280,26 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-11",
+      "Zeit": null,
+      "Thema": "Für Klimaschutz und Demokratie - Vorbereitung für den Klimastreik",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-11",
+      "Zeit": null,
+      "Thema": "Die Ukraine in Europa",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -370,6 +410,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "100",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-16",
+      "Zeit": null,
+      "Thema": "Wir sind das HSKD - Dresdens kommunale Musikschule",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -506,20 +556,20 @@
     {
       "Datum": "2024-05-25",
       "Zeit": null,
-      "Thema": "„GEMEINSAM FÜR DEMOKRATIE – die Dresdner Wissenschaft und Kultur lädt ein“ - SÜD",
+      "Thema": "„GEMEINSAM FÜR DEMOKRATIE – die Dresdner Wissenschaft und Kultur lädt ein“ ",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "2.000",
+      "Teilnehmer": "2000",
       "Veranstalter": "Technische Universität Dresden",
       "Status": "angemeldet"
     },
     {
       "Datum": "2024-05-25",
       "Zeit": null,
-      "Thema": "„GEMEINSAM FÜR DEMOKRATIE – die Dresdner Wissenschaft und Kultur lädt ein“ ",
+      "Thema": "„GEMEINSAM FÜR DEMOKRATIE – die Dresdner Wissenschaft und Kultur lädt ein“ - SÜD",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "2000",
+      "Teilnehmer": "2.000",
       "Veranstalter": "Technische Universität Dresden",
       "Status": "angemeldet"
     },
