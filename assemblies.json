@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-05-03",
+  "Dateidatum": "2024-05-04",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -44,26 +44,6 @@
       "Status": "abgemeldet"
     },
     {
-      "Datum": "2024-05-03",
-      "Zeit": "14.30 - 18.00 Uhr",
-      "Thema": "Protestzug anlässlich des Europäischen Protesttages zur Gleichstellung von Menschen mit Behinderung",
-      "Ort": null,
-      "Startpunkt": "Bernhard-von-Lindenau-Platz",
-      "Teilnehmer": "80",
-      "Veranstalter": "Zentrum für selbstbestimmt Leben Sachsen",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-05-03",
-      "Zeit": "18.15 - 19.45 Uhr",
-      "Thema": "NO MORE LIES (Keine Lüge mehr)",
-      "Ort": null,
-      "Startpunkt": "Alaunstraße",
-      "Teilnehmer": "20",
-      "Veranstalter": "Internationales Steiger Zentrum e.V.",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2024-05-04",
       "Zeit": null,
       "Thema": "2. Tag des Widerstandes - Protestcamp",
@@ -95,13 +75,13 @@
     },
     {
       "Datum": "2024-05-04",
-      "Zeit": null,
+      "Zeit": "11.00 - 19.00 Uhr",
       "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "12",
       "Veranstalter": "Deutsche Falun Dafa Verein e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-04",
@@ -235,13 +215,13 @@
     },
     {
       "Datum": "2024-05-07",
-      "Zeit": null,
+      "Zeit": "18.00 - 20.00 Uhr",
       "Thema": "Russinnen und Russen gegen Putin",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "400",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-08",
@@ -401,6 +381,16 @@
       "Startpunkt": null,
       "Teilnehmer": "8",
       "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-14",
+      "Zeit": null,
+      "Thema": "14. Mai, Israelischer Unabhängigkeitstag",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "Deutsch-Israelische Gesellschaft e. V.",
       "Status": "angemeldet"
     },
     {
