@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-05-04",
+  "Dateidatum": "2024-05-05",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -52,56 +52,6 @@
       "Teilnehmer": "100-150",
       "Veranstalter": "natürliche Person",
       "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2024-05-04",
-      "Zeit": "13.37 - 19.50 Uhr",
-      "Thema": "Global Marijuana March 2024",
-      "Ort": null,
-      "Startpunkt": "Postplatz",
-      "Teilnehmer": "350",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-05-04",
-      "Zeit": "15.00 - 18.00 Uhr",
-      "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "Activists for the Victims e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-05-04",
-      "Zeit": "11.00 - 19.00 Uhr",
-      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "12",
-      "Veranstalter": "Deutsche Falun Dafa Verein e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-05-04",
-      "Zeit": "12.00 - 18.00 Uhr",
-      "Thema": "Aufklärung über den Politischen Islam - Diskussion um Moscheebau",
-      "Ort": "Neumarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "Bürgerbewegung PAX EUROPA e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-05-04",
-      "Zeit": "15.00 - 20.00 Uhr",
-      "Thema": "Tanzen gegen Soziale Kälte!",
-      "Ort": "Alaunplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "250",
-      "Veranstalter": "Piraten Dresden",
-      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-05",
