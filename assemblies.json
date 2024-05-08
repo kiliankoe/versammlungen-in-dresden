@@ -65,6 +65,16 @@
     },
     {
       "Datum": "2024-05-11",
+      "Zeit": null,
+      "Thema": "Hands of Rafah!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
+      "Veranstalter": "Free Palestine Dresden ",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-11",
       "Zeit": "16.00 - 19.00 Uhr",
       "Thema": "Die Ukraine in Europa",
       "Ort": "Neumarkt",
@@ -375,43 +385,33 @@
     },
     {
       "Datum": "2024-05-25",
-      "Zeit": null,
+      "Zeit": "13.30 - 15.00 Uhr",
       "Thema": "'GEMEINSAM FÜR DEMOKRATIE - die Dresdner Wissenschaft und Kultur lädt ein' (OST)",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Lothringer Straße",
       "Teilnehmer": "2.000",
       "Veranstalter": "Technische Sammlungen Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-25",
-      "Zeit": null,
-      "Thema": "„GEMEINSAM FÜR DEMOKRATIE – die Dresdner Wissenschaft und Kultur lädt ein“ ",
+      "Zeit": "13.30 - 15.00 Uhr",
+      "Thema": "„GEMEINSAM FÜR DEMOKRATIE – die Dresdner Wissenschaft und Kultur lädt ein“  (SÜD)",
       "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2000",
-      "Veranstalter": "Technische Universität Dresden",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2024-05-25",
-      "Zeit": null,
-      "Thema": "„GEMEINSAM FÜR DEMOKRATIE – die Dresdner Wissenschaft und Kultur lädt ein“ - SÜD",
-      "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Fritz-Förster-Platz",
       "Teilnehmer": "2.000",
       "Veranstalter": "Technische Universität Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-25",
-      "Zeit": null,
+      "Zeit": "13.30 - 15.00 Uhr",
       "Thema": "'GEMEINSAM FÜR DEMOKRATIE - die Dresdner Wissenschaft und Kultur lädt ein' (NORD)",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Jorge-Gomondai-Platz",
       "Teilnehmer": "2.000",
       "Veranstalter": "Helmholtz-Zentrum Dresden-Rossendorf",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-25",
