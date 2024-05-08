@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-05-07",
+  "Dateidatum": "2024-05-08",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,26 +14,6 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2024-05-07",
-      "Zeit": "16.00 - 18.00 Uhr",
-      "Thema": "Kulturzentrum (Operette) Leuben beleben",
-      "Ort": "Pirnaer Landstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-05-07",
-      "Zeit": "18.00 - 20.00 Uhr",
-      "Thema": "Russinnen und Russen gegen Putin",
-      "Ort": "Neumarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "400",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2024-05-08",
       "Zeit": "13.00 - 15.00 Uhr",
       "Thema": "Gedenkveranstaltung zum Tag der Befreiung",
@@ -45,33 +25,33 @@
     },
     {
       "Datum": "2024-05-08",
-      "Zeit": null,
+      "Zeit": "18.00 - 21.00 Uhr",
       "Thema": "Wer nicht feiert hat verloren!",
-      "Ort": null,
+      "Ort": "Alaunpark",
       "Startpunkt": null,
       "Teilnehmer": "90",
       "Veranstalter": "Linkjugend Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-10",
-      "Zeit": null,
+      "Zeit": "09.30 - 22.30 Uhr",
       "Thema": "Mahnwache 'Barwinka' ziviler ukrainischer Krankenwagen, zerschossen bei russischem Angriff",
-      "Ort": null,
+      "Ort": "An der Kreuzkirche",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-11",
-      "Zeit": null,
+      "Zeit": "09.30 - 22.30 Uhr",
       "Thema": "Mahnwache 'Barwinka' ziviler ukrainischer Krankenwagen, zerschossen bei russischem Angriff",
-      "Ort": null,
+      "Ort": "An der Kreuzkirche",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-11",
@@ -95,13 +75,13 @@
     },
     {
       "Datum": "2024-05-12",
-      "Zeit": null,
+      "Zeit": "10.00 - 12.00 Uhr",
       "Thema": "Freiheit für Julian Assange!",
-      "Ort": null,
+      "Ort": "Postplatz",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Bündnis Sahra Wagenknecht ",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-12",
@@ -135,16 +115,6 @@
     },
     {
       "Datum": "2024-05-13",
-      "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2024-05-13",
       "Zeit": "15.00 - 22.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
@@ -165,6 +135,16 @@
     },
     {
       "Datum": "2024-05-13",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Fred die Linke Socke",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-13",
       "Zeit": "11.30 - 13.00 Uhr",
       "Thema": "Starke Kitas für starke Kinder - dringende Investitionen in die frühkindliche Bildung",
       "Ort": "Parkplatz Sarrasanistraße",
@@ -174,14 +154,24 @@
       "Status": "beschieden"
     },
     {
-      "Datum": "2024-05-14",
+      "Datum": "2024-05-13",
       "Zeit": null,
-      "Thema": "'Liebe Leute, geht wählen!' - Kundgebung zur Wahlermutigung",
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-14",
+      "Zeit": "14.00 - 18.00 Uhr",
+      "Thema": "'Liebe Leute, geht wählen!' - Kundgebung zur Wahlermutigung",
+      "Ort": "Albertplatz",
       "Startpunkt": null,
       "Teilnehmer": "8",
       "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-14",
@@ -205,13 +195,13 @@
     },
     {
       "Datum": "2024-05-15",
-      "Zeit": null,
+      "Zeit": "14.00 - 20.00 Uhr",
       "Thema": "76 Jahre Nakba. ",
-      "Ort": null,
+      "Ort": "Wiener Platz",
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "Free Palestine Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-16",
@@ -304,6 +294,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2024-05-20",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Fred die Linke Socke",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-05-23",
       "Zeit": null,
       "Thema": "'Liebe Leute, geht wählen!' - Kundgebung zur Wahlermutigung",
@@ -355,13 +355,13 @@
     },
     {
       "Datum": "2024-05-24",
-      "Zeit": null,
+      "Zeit": "08.00 - 14.00 Uhr",
       "Thema": "Klimaschützen ist kein Verbrechen",
-      "Ort": null,
+      "Ort": "Roßbachstraße ",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-25",
@@ -425,33 +425,33 @@
     },
     {
       "Datum": "2024-05-26",
-      "Zeit": null,
+      "Zeit": "13.15 - 14.30 Uhr",
       "Thema": "Zubringer: ADFC-Fahrraddemo zur Stadtratswahl für: Besseres Radfahren in Dresden (Nord)",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Königswaldplatz",
       "Teilnehmer": "200",
       "Veranstalter": "ADFC Dresden e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-26",
-      "Zeit": null,
+      "Zeit": "13.45 - 15.00 Uhr",
       "Thema": "Zubringer: ADFC-Fahrraddemo zur Stadtratswahl für: Besseres Radfahren in Dresden (West)",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Conertplatz",
       "Teilnehmer": "200",
       "Veranstalter": "ADFC Dresden e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-26",
-      "Zeit": null,
+      "Zeit": "14.00 - 15.00 Uhr",
       "Thema": "Zubringer: ADFC-Fahrraddemo zur Stadtratswahl für: Besseres Radfahren in Dresden (Ost)",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Kipsdorfer Straße",
       "Teilnehmer": "200",
       "Veranstalter": "ADFC Dresden e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-26",
@@ -465,23 +465,23 @@
     },
     {
       "Datum": "2024-05-26",
-      "Zeit": null,
+      "Zeit": "14.15 - 15.00 Uhr",
       "Thema": "Zubringer ADFC-Fahrraddemo zur Stadtratswahl für: Besseres Radfahren in Dresden (Neustadt)",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Schlesischer Platz",
       "Teilnehmer": "400",
       "Veranstalter": "ADFC Dresden e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-26",
-      "Zeit": null,
+      "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "ADFC-Fahrraddemo zur Stadtratswahl für: Besseres Radfahren in Dresden. Motto: Macht mehr fürs Rad",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "800",
-      "Veranstalter": "ADFC Dresden e.V.",
-      "Status": "angemeldet"
+      "Veranstalter": "ADFC Dresden e. V.",
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-27",
@@ -534,6 +534,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2024-05-27",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Fred die Linke Socke",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-05-30",
       "Zeit": null,
       "Thema": "31. Christopher Street Day Dresden 2024",
@@ -565,13 +575,13 @@
     },
     {
       "Datum": "2024-05-31",
-      "Zeit": null,
+      "Zeit": "08.00 - 14.00 Uhr",
       "Thema": "Klimaschützen ist kein Verbrechen",
-      "Ort": null,
+      "Ort": "Roßbachstraße",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-31",
@@ -581,6 +591,16 @@
       "Startpunkt": null,
       "Teilnehmer": "8",
       "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-31",
+      "Zeit": null,
+      "Thema": "TU Dresden Zubringerdemo Globaler Klimastreik Fridays For Future",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "TU Umweltinitiative (tuuwi)",
       "Status": "angemeldet"
     },
     {
@@ -611,6 +631,16 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-06-01",
+      "Zeit": null,
+      "Thema": "Kinder - Straßen - Parade für, von und mit - kleinen und grossen Kindern für ihre Rechte",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
+      "Veranstalter": "Zentralwerk e. V.",
       "Status": "angemeldet"
     },
     {
@@ -662,6 +692,16 @@
       "Teilnehmer": "bis zu 50",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-06-03",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Fred die Linke Socke",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-06-06",
@@ -734,6 +774,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2024-06-10",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Fred die Linke Socke",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-06-15",
       "Zeit": null,
       "Thema": "Tag für Frieden und Freiheit",
@@ -771,6 +821,16 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-06-17",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Fred die Linke Socke",
       "Status": "angemeldet"
     },
     {
