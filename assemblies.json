@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-05-08",
+  "Dateidatum": "2024-05-09",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-05-08",
-      "Zeit": "13.00 - 15.00 Uhr",
-      "Thema": "Gedenkveranstaltung zum Tag der Befreiung",
-      "Ort": "Albertplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-05-08",
-      "Zeit": "18.00 - 21.00 Uhr",
-      "Thema": "Wer nicht feiert hat verloren!",
-      "Ort": "Alaunpark",
-      "Startpunkt": null,
-      "Teilnehmer": "90",
-      "Veranstalter": "Linkjugend Dresden",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-05-10",
       "Zeit": "09.30 - 22.30 Uhr",
@@ -104,6 +84,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2024-05-12",
+      "Zeit": "14.00 - 15.00 Uhr",
+      "Thema": "Frauen sind mehr wert als Zellhaufen",
+      "Ort": "Carolabrücke",
+      "Startpunkt": null,
+      "Teilnehmer": "7",
+      "Veranstalter": "GRÜNE JUGEND Dresden",
+      "Status": "beschieden"
+    },
+    {
       "Datum": "2024-05-13",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine und den Völkermord in Gaza - Kampf der Weltkriegsgefahr! ",
@@ -145,13 +135,13 @@
     },
     {
       "Datum": "2024-05-13",
-      "Zeit": null,
+      "Zeit": "19.00 - 22.00 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "50",
       "Veranstalter": "Fred die Linke Socke",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-13",
@@ -165,13 +155,13 @@
     },
     {
       "Datum": "2024-05-13",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-14",
@@ -251,6 +241,16 @@
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Activists for the Victims e. V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-05-18",
+      "Zeit": "11.00 - 19.00 Uhr",
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": "Prager Straße",
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutsche Falun Dafa Verein e. V.",
       "Status": "beschieden"
     },
     {
@@ -375,6 +375,16 @@
     },
     {
       "Datum": "2024-05-25",
+      "Zeit": "11.00 - 19.00 Uhr",
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": "Prager Straße",
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutsche Falun Dafa Verein e. V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-05-25",
       "Zeit": null,
       "Thema": "- Move & Groove - Auftakt zur Unterschriftensammlung des Bürgerbegehrens Fuß- und Radentscheid",
       "Ort": null,
@@ -386,7 +396,7 @@
     {
       "Datum": "2024-05-25",
       "Zeit": "13.30 - 15.00 Uhr",
-      "Thema": "'GEMEINSAM FÜR DEMOKRATIE - die Dresdner Wissenschaft und Kultur lädt ein' (OST)",
+      "Thema": "GEMEINSAM FÜR DEMOKRATIE - die Dresdner Wissenschaft und Kultur lädt ein (OST)",
       "Ort": null,
       "Startpunkt": "Lothringer Straße",
       "Teilnehmer": "2.000",
@@ -396,7 +406,7 @@
     {
       "Datum": "2024-05-25",
       "Zeit": "13.30 - 15.00 Uhr",
-      "Thema": "„GEMEINSAM FÜR DEMOKRATIE – die Dresdner Wissenschaft und Kultur lädt ein“  (SÜD)",
+      "Thema": "GEMEINSAM FÜR DEMOKRATIE – die Dresdner Wissenschaft und Kultur lädt ein  (SÜD)",
       "Ort": null,
       "Startpunkt": "Fritz-Förster-Platz",
       "Teilnehmer": "2.000",
@@ -406,7 +416,7 @@
     {
       "Datum": "2024-05-25",
       "Zeit": "13.30 - 15.00 Uhr",
-      "Thema": "'GEMEINSAM FÜR DEMOKRATIE - die Dresdner Wissenschaft und Kultur lädt ein' (NORD)",
+      "Thema": "GEMEINSAM FÜR DEMOKRATIE - die Dresdner Wissenschaft und Kultur lädt ein (NORD)",
       "Ort": null,
       "Startpunkt": "Jorge-Gomondai-Platz",
       "Teilnehmer": "2.000",
@@ -415,13 +425,13 @@
     },
     {
       "Datum": "2024-05-25",
-      "Zeit": null,
-      "Thema": "„GEMEINSAM FÜR DEMOKRATIE – die Dresdner Wissenschaft und Kultur lädt ein“ (WEST)",
+      "Zeit": "13.30 - 15.00 Uhr",
+      "Thema": "GEMEINSAM FÜR DEMOKRATIE – die Dresdner Wissenschaft und Kultur lädt ein (WEST)",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wettiner Platz",
       "Teilnehmer": "2.000",
       "Veranstalter": "Staatsschaupiel Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-26",
@@ -575,11 +585,11 @@
     },
     {
       "Datum": "2024-05-31",
-      "Zeit": "08.00 - 14.00 Uhr",
+      "Zeit": "08.00 - 13.00 Uhr",
       "Thema": "Klimaschützen ist kein Verbrechen",
       "Ort": "Roßbachstraße",
       "Startpunkt": null,
-      "Teilnehmer": "50",
+      "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
     },
