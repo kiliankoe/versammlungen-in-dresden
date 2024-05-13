@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-05-12",
+  "Dateidatum": "2024-05-13",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,36 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-05-12",
-      "Zeit": "10.00 - 12.00 Uhr",
-      "Thema": "Freiheit für Julian Assange!",
-      "Ort": "Postplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "Bündnis Sahra Wagenknecht ",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-05-12",
-      "Zeit": "14.00 - 16.30 Uhr",
-      "Thema": "Gesundheit statt Profite. Für ein öffentliches Gesundheitswesen für alle!",
-      "Ort": null,
-      "Startpunkt": "Jorge-Gomondai-Platz",
-      "Teilnehmer": "100",
-      "Veranstalter": "Dresdner Bündnis für Pflege",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-05-12",
-      "Zeit": "14.00 - 15.00 Uhr",
-      "Thema": "Frauen sind mehr wert als Zellhaufen",
-      "Ort": "Carolabrücke",
-      "Startpunkt": null,
-      "Teilnehmer": "7",
-      "Veranstalter": "GRÜNE JUGEND Dresden",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-05-13",
       "Zeit": "18.00 - 19.30 Uhr",
@@ -136,7 +106,7 @@
     {
       "Datum": "2024-05-15",
       "Zeit": null,
-      "Thema": "Till Verschwindemann - Keine Bühne für Täter",
+      "Thema": "Kein Rammstein in Dresden!",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "100",
