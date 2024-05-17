@@ -10,6 +10,7 @@ const rightWingOrganizers = [
   "initiative dresden gegen moschee-(neu)bau",
   "wellenlänge",
   "bürgerbewegung pax europa e.v.",
+  "junge alternative dresden",
 ];
 
 const rightWingTopics = ["bühlau geht spazieren"];
