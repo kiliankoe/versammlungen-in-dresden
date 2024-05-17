@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-05-16",
+  "Dateidatum": "2024-05-17",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,34 +14,24 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2024-05-16",
-      "Zeit": "15.00 - 16.30 Uhr",
-      "Thema": "Wir sind das HSKD - Dresdens kommunale Musikschule",
-      "Ort": "Rathausplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "1.000",
+      "Datum": "2024-05-17",
+      "Zeit": "17.00 - 18.00 Uhr",
+      "Thema": "Solidarität mit den Hungerstreikenden von 'Hungern bis ihr ehrlich seid' im klimapolitischen Hungerstreik in Berlin",
+      "Ort": null,
+      "Startpunkt": "Dippoldiswalder Platz",
+      "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
     },
     {
       "Datum": "2024-05-17",
-      "Zeit": null,
-      "Thema": "Solidarität mit den Hungerstreikenden von 'Hungern bis ihr ehrlich seid' im klimapolitischen Hungerstreik in Berlin",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2024-05-17",
-      "Zeit": null,
+      "Zeit": "16.00 - 21.00 Uhr",
       "Thema": "Idahit Internationaler Tag gegen Homo,- Bi-, Inter*-, Trans*feindlichkeit ",
-      "Ort": null,
+      "Ort": "Alaunplatz",
       "Startpunkt": null,
       "Teilnehmer": "150",
       "Veranstalter": "Gerede e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-18",
@@ -65,13 +55,13 @@
     },
     {
       "Datum": "2024-05-19",
-      "Zeit": null,
+      "Zeit": "14.00 - 18.00 Uhr",
       "Thema": "Dresden AUF DIE KETTE KRIEGEN! - Sichere und schnell Radwege wie in Kopenhagen! ",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Straße",
       "Teilnehmer": "40",
       "Veranstalter": "Volt Deutschland Landesverband Sachsen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-20",
@@ -232,6 +222,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-05-24",
+      "Zeit": null,
+      "Thema": "Arbeitskräfteabbau und deren Abwanderung nach China",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-05-25",
@@ -421,6 +421,16 @@
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "Fred die Linke Socke",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-27",
+      "Zeit": null,
+      "Thema": "Europa statt EU",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Junge Alternative Dresden",
       "Status": "angemeldet"
     },
     {
