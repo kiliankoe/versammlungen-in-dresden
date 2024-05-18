@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-05-17",
+  "Dateidatum": "2024-05-18",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-05-17",
-      "Zeit": "17.00 - 18.00 Uhr",
-      "Thema": "Solidarität mit den Hungerstreikenden von 'Hungern bis ihr ehrlich seid' im klimapolitischen Hungerstreik in Berlin",
-      "Ort": null,
-      "Startpunkt": "Dippoldiswalder Platz",
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-05-17",
-      "Zeit": "16.00 - 21.00 Uhr",
-      "Thema": "Idahit Internationaler Tag gegen Homo,- Bi-, Inter*-, Trans*feindlichkeit ",
-      "Ort": "Alaunplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "150",
-      "Veranstalter": "Gerede e. V.",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-05-18",
       "Zeit": "15.00 - 18.00 Uhr",
@@ -65,13 +45,13 @@
     },
     {
       "Datum": "2024-05-20",
-      "Zeit": null,
+      "Zeit": "18.45 - 21.30 Uhr",
       "Thema": "Gegen Glaubenskriege auf deutschem Boden",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Neumarkt",
       "Teilnehmer": "2000",
       "Veranstalter": "PEGIDA Förderverein e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-20",
@@ -85,13 +65,13 @@
     },
     {
       "Datum": "2024-05-20",
-      "Zeit": null,
+      "Zeit": "17.30 - 21.00 Uhr",
       "Thema": "Jetzt ist Schluss mit lustig, jetzt kommt der Trauti: FREIE SACHSEN unterstützen den Protest von PEGIDA!",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "20 bis 30",
       "Veranstalter": "Partei FREIE SACHSEN",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-20",
@@ -102,16 +82,6 @@
       "Teilnehmer": "30-40",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-05-20",
-      "Zeit": null,
-      "Thema": "Kein Fußbreit dem Quergida Faschismus",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "450",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
     },
     {
       "Datum": "2024-05-20",
@@ -141,27 +111,37 @@
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "Fred die Linke Socke",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2024-05-20",
-      "Zeit": null,
+      "Zeit": "18.15 - 21.00 Uhr",
       "Thema": "Dresden positiv besetzen",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "Initiative 'Herz statt Hetze'",
-      "Status": "angemeldet"
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-05-20",
+      "Zeit": "16.00 - 22.00 Uhr",
+      "Thema": "Kein Fußbreit dem Quergida Faschismus",
+      "Ort": null,
+      "Startpunkt": "Alaunplatz",
+      "Teilnehmer": "450",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-21",
-      "Zeit": null,
+      "Zeit": "14.00 - 21.00 Uhr",
       "Thema": "Fürs Klima gegen Rechts ",
-      "Ort": null,
+      "Ort": "Neustädter Markt",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Fridays for Future Ortsgruppe Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-23",
@@ -205,13 +185,13 @@
     },
     {
       "Datum": "2024-05-24",
-      "Zeit": null,
+      "Zeit": "18.00 - 21.00 Uhr",
       "Thema": "75 Jahre Grundgesetz",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Theaterplatz",
       "Teilnehmer": "unbekannt (zurückliegende Versammlungen etwa 100)",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-24",
@@ -555,13 +535,13 @@
     },
     {
       "Datum": "2024-06-01",
-      "Zeit": null,
+      "Zeit": "13.30 - 15.30 Uhr",
       "Thema": "Kinder für das Klima und für die Welt",
-      "Ort": null,
+      "Ort": "Alaunplatz",
       "Startpunkt": null,
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-06-01",
@@ -841,6 +821,16 @@
       "Startpunkt": null,
       "Teilnehmer": "40",
       "Veranstalter": "TIN-Vernetzung Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-08-16",
+      "Zeit": null,
+      "Thema": "'Refugees unite!' - Empowerment von Geflüchteten zur Teilhabe an gesellschaftlichen Prozessen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "400",
+      "Veranstalter": "Sächsischer Flüchtlingsrat e. V.",
       "Status": "angemeldet"
     }
   ]
