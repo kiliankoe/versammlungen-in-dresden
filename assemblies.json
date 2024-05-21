@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-05-20",
+  "Dateidatum": "2024-05-21",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,96 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-05-20",
-      "Zeit": "18.45 - 21.30 Uhr",
-      "Thema": "Gegen Glaubenskriege auf deutschem Boden",
-      "Ort": null,
-      "Startpunkt": "Neumarkt",
-      "Teilnehmer": "2000",
-      "Veranstalter": "PEGIDA Förderverein e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-05-20",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-05-20",
-      "Zeit": "17.30 - 21.00 Uhr",
-      "Thema": "Jetzt ist Schluss mit lustig, jetzt kommt der Trauti: FREIE SACHSEN unterstützen den Protest von PEGIDA!",
-      "Ort": "Neumarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "20 bis 30",
-      "Veranstalter": "Partei FREIE SACHSEN",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-05-20",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "30-40",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-05-20",
-      "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2024-05-20",
-      "Zeit": "19.20 - 20.50 Uhr",
-      "Thema": "Nie wieder ist jetzt - Keine Nazis vor der Synagoge!",
-      "Ort": "Akademiestraße",
-      "Startpunkt": null,
-      "Teilnehmer": "bis zu 50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-05-20",
-      "Zeit": null,
-      "Thema": "Fred stellt sich in den Weg",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "Fred die Linke Socke",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2024-05-20",
-      "Zeit": "18.15 - 21.00 Uhr",
-      "Thema": "Dresden positiv besetzen",
-      "Ort": "Neumarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "300",
-      "Veranstalter": "Initiative 'Herz statt Hetze'",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-05-20",
-      "Zeit": "16.00 - 22.00 Uhr",
-      "Thema": "Kein Fußbreit dem Quergida Faschismus",
-      "Ort": null,
-      "Startpunkt": "Alaunplatz",
-      "Teilnehmer": "450",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-05-21",
       "Zeit": "14.00 - 21.00 Uhr",
@@ -149,7 +59,7 @@
       "Thema": "Putin nach Den Haag, Demokratie & Menschenrechte verteidigen, keine Stimme für Putinisten",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "20",
+      "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
