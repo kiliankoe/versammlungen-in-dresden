@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-05-21",
+  "Dateidatum": "2024-05-22",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,14 +14,14 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2024-05-21",
-      "Zeit": "14.00 - 21.00 Uhr",
-      "Thema": "Fürs Klima gegen Rechts ",
-      "Ort": "Neustädter Markt",
+      "Datum": "2024-05-23",
+      "Zeit": "19.00 - 22.00 Uhr",
+      "Thema": "Die Würde des Menschen ist….",
+      "Ort": "Friedrich-Wieck-Straße",
       "Startpunkt": null,
-      "Teilnehmer": "15",
-      "Veranstalter": "Fridays for Future Ortsgruppe Dresden",
-      "Status": "abgemeldet"
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-23",
@@ -42,16 +42,6 @@
       "Teilnehmer": "500",
       "Veranstalter": "Helden helfen e. V.",
       "Status": "angemeldet"
-    },
-    {
-      "Datum": "2024-05-23",
-      "Zeit": "18.00 - 22.00 Uhr",
-      "Thema": "Die Würde des Menschen ist….",
-      "Ort": "Friedrich-Wieck-Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-23",
@@ -92,6 +82,16 @@
       "Teilnehmer": "2",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-24",
+      "Zeit": null,
+      "Thema": "Fürs Klima gegen Rechts ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Fridays for Future Ortsgruppe Dresden",
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2024-05-25",
@@ -155,13 +155,13 @@
     },
     {
       "Datum": "2024-05-25",
-      "Zeit": null,
+      "Zeit": "15.00 - 17.30 Uhr",
       "Thema": "Tierrechte, Tierschutz",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-26",
@@ -691,6 +691,16 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-07-01",
+      "Zeit": null,
+      "Thema": "Gegen Glaubenskriege auf deutschem Boden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1000",
+      "Veranstalter": "PEGIDA Förderverein e. V.",
       "Status": "angemeldet"
     },
     {
