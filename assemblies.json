@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-05-22",
+  "Dateidatum": "2024-05-23",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -25,6 +25,16 @@
     },
     {
       "Datum": "2024-05-23",
+      "Zeit": "20.30 - 23.59 Uhr",
+      "Thema": "Die brühlsche Terrasse: von der Klimakrise bedroht - ausgetrocknet und dennoch überschwemmt",
+      "Ort": "Terrassenufer",
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-05-23",
       "Zeit": "11.00 - 15.00 Uhr",
       "Thema": "'Liebe Leute, geht wählen!' - Kundgebung zur Wahlermutigung",
       "Ort": "Leipziger Straße",
@@ -41,17 +51,17 @@
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "Helden helfen e. V.",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2024-05-23",
-      "Zeit": null,
+      "Zeit": "18.00 - 22.00 Uhr",
       "Thema": "Putin nach Den Haag, Demokratie & Menschenrechte verteidigen, keine Stimme für Putinisten",
-      "Ort": null,
+      "Ort": "Wettiner Platz",
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-24",
@@ -75,13 +85,13 @@
     },
     {
       "Datum": "2024-05-24",
-      "Zeit": null,
+      "Zeit": "11.00 - 12.00 Uhr",
       "Thema": "Arbeitskräfteabbau und deren Abwanderung nach China",
-      "Ort": null,
+      "Ort": "Grenzstraße",
       "Startpunkt": null,
       "Teilnehmer": "2",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-24",
@@ -111,6 +121,16 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "Fuß- und Radentscheid Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-25",
+      "Zeit": null,
+      "Thema": "Wir weichen nicht! – Plakate für unsere Demokratie.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "BÜNDNIS 90/DIE GRÜNEN Sachsen",
       "Status": "angemeldet"
     },
     {
@@ -195,13 +215,13 @@
     },
     {
       "Datum": "2024-05-26",
-      "Zeit": null,
+      "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "Demonstration in Solidarität mit dem kubanischen Volk, für die Freilassung aller politischen Gefangenen in Kuba",
-      "Ort": null,
+      "Ort": "Alaunplatz",
       "Startpunkt": null,
       "Teilnehmer": "40",
       "Veranstalter": "PatriaYVida e.V",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-26",
@@ -255,16 +275,6 @@
     },
     {
       "Datum": "2024-05-27",
-      "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2024-05-27",
       "Zeit": "19.20 - 20.50 Uhr",
       "Thema": "Nie wieder ist jetzt - Keine Nazis vor der Synagoge!",
       "Ort": "Akademiestraße",
@@ -294,6 +304,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2024-05-27",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-05-28",
       "Zeit": null,
       "Thema": "Awareness-Aktion anlässlich des Tages der Frauengesundheit",
@@ -305,13 +325,13 @@
     },
     {
       "Datum": "2024-05-28",
-      "Zeit": null,
+      "Zeit": "17.30 - 19.00 Uhr",
       "Thema": "Performance gegen Flächenversiegelung im Rahmen des DearFuture Festivals",
-      "Ort": null,
+      "Ort": "Altmarkt",
       "Startpunkt": null,
       "Teilnehmer": "25",
       "Veranstalter": "Architects4Future Ortsgruppe Dresden ",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-30",
@@ -366,12 +386,22 @@
     {
       "Datum": "2024-05-31",
       "Zeit": null,
-      "Thema": "'Liebe Leute, geht wählen!' - Kundgebung zur Wahlermutigung",
+      "Thema": "Zubringer zum Klimastreik ",
       "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-31",
+      "Zeit": "10.00 - 14.00 Uhr",
+      "Thema": "'Liebe Leute, geht wählen!' - Kundgebung zur Wahlermutigung",
+      "Ort": "Lennéstraße",
       "Startpunkt": null,
       "Teilnehmer": "8",
       "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-31",
@@ -511,6 +541,26 @@
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "Fred die Linke Socke",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-06-04",
+      "Zeit": null,
+      "Thema": "feministische Versammlung zum Thema Repräsentation von Frauen in der Politik ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Bündnis 90 / Die Grünen Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-06-05",
+      "Zeit": null,
+      "Thema": "Hitzeaktionstag 2024",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Health for Future Dresden",
       "Status": "angemeldet"
     },
     {
@@ -714,7 +764,17 @@
       "Status": "angemeldet"
     },
     {
-      "Datum": "2024-08-16",
+      "Datum": "2024-08-09",
+      "Zeit": null,
+      "Thema": "'Refugees unite!' - Empowerment von Geflüchteten zur Teilhabe an gesellschaftlichen Prozessen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "400",
+      "Veranstalter": "Sächsischer Flüchtlingsrat e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-08-10",
       "Zeit": null,
       "Thema": "'Refugees unite!' - Empowerment von Geflüchteten zur Teilhabe an gesellschaftlichen Prozessen",
       "Ort": null,
