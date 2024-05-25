@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-05-24",
+  "Dateidatum": "2024-05-25",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,46 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-05-24",
-      "Zeit": "18.00 - 21.00 Uhr",
-      "Thema": "75 Jahre Grundgesetz",
-      "Ort": null,
-      "Startpunkt": "Theaterplatz",
-      "Teilnehmer": "unbekannt (zurückliegende Versammlungen etwa 100)",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-05-24",
-      "Zeit": "08.00 - 14.00 Uhr",
-      "Thema": "Klimaschützen ist kein Verbrechen",
-      "Ort": "Roßbachstraße ",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-05-24",
-      "Zeit": "11.00 - 12.00 Uhr",
-      "Thema": "Arbeitskräfteabbau und deren Abwanderung nach China",
-      "Ort": "Grenzstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "2",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-05-24",
-      "Zeit": null,
-      "Thema": "Fürs Klima gegen Rechts ",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "15",
-      "Veranstalter": "Fridays for Future Ortsgruppe Dresden",
-      "Status": "abgemeldet"
-    },
     {
       "Datum": "2024-05-25",
       "Zeit": "11.00 - 19.00 Uhr",
@@ -255,13 +215,13 @@
     },
     {
       "Datum": "2024-05-27",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.45 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-28",
@@ -345,6 +305,16 @@
     },
     {
       "Datum": "2024-05-31",
+      "Zeit": null,
+      "Thema": "Kleine Kippen ganz groß!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Pinke Hände",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-05-31",
       "Zeit": "10.00 - 14.00 Uhr",
       "Thema": "'Liebe Leute, geht wählen!' - Kundgebung zur Wahlermutigung",
       "Ort": "Lennéstraße",
@@ -395,6 +365,16 @@
     },
     {
       "Datum": "2024-06-01",
+      "Zeit": null,
+      "Thema": "Make Blasewitz grey again - Für ein blaues Wunder in strahlendem grau.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Die PARTEI Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-06-01",
       "Zeit": "13.30 - 15.30 Uhr",
       "Thema": "Kinder für das Klima und für die Welt",
       "Ort": "Alaunplatz",
@@ -441,6 +421,26 @@
       "Startpunkt": null,
       "Teilnehmer": "1000",
       "Veranstalter": "Alternative für Deutschland (AfD) , Bundesverband",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-06-02",
+      "Zeit": null,
+      "Thema": "Kein Fußbreit dem Quergida Faschismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-06-02",
+      "Zeit": null,
+      "Thema": "Gemeinsam für die Demokratie",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
