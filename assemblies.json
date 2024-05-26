@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-05-25",
+  "Dateidatum": "2024-05-26",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,86 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-05-25",
-      "Zeit": "11.00 - 19.00 Uhr",
-      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "12",
-      "Veranstalter": "Deutsche Falun Dafa Verein e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-05-25",
-      "Zeit": "15.00 - 19.15 Uhr",
-      "Thema": "- Move & Groove - Auftakt zur Unterschriftensammlung des Bürgerbegehrens Fuß- und Radentscheid",
-      "Ort": null,
-      "Startpunkt": "Alaunplatz",
-      "Teilnehmer": "300",
-      "Veranstalter": "Fuß- und Radentscheid Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-05-25",
-      "Zeit": "11.00 - 12.30 Uhr",
-      "Thema": "Wir weichen nicht! – Plakate für unsere Demokratie.",
-      "Ort": "Conertplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "BÜNDNIS 90/DIE GRÜNEN Sachsen",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-05-25",
-      "Zeit": "13.30 - 15.00 Uhr",
-      "Thema": "GEMEINSAM FÜR DEMOKRATIE - die Dresdner Wissenschaft und Kultur lädt ein (OST)",
-      "Ort": null,
-      "Startpunkt": "Lothringer Straße",
-      "Teilnehmer": "1.000",
-      "Veranstalter": "Technische Sammlungen Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-05-25",
-      "Zeit": "13.30 - 15.00 Uhr",
-      "Thema": "GEMEINSAM FÜR DEMOKRATIE – die Dresdner Wissenschaft und Kultur lädt ein  (SÜD)",
-      "Ort": null,
-      "Startpunkt": "Fritz-Förster-Platz",
-      "Teilnehmer": "1.000",
-      "Veranstalter": "Technische Universität Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-05-25",
-      "Zeit": "13.30 - 15.00 Uhr",
-      "Thema": "GEMEINSAM FÜR DEMOKRATIE - die Dresdner Wissenschaft und Kultur lädt ein (NORD)",
-      "Ort": null,
-      "Startpunkt": "Jorge-Gomondai-Platz",
-      "Teilnehmer": "1.000",
-      "Veranstalter": "Helmholtz-Zentrum Dresden-Rossendorf",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-05-25",
-      "Zeit": "13.30 - 15.00 Uhr",
-      "Thema": "GEMEINSAM FÜR DEMOKRATIE – die Dresdner Wissenschaft und Kultur lädt ein (WEST)",
-      "Ort": null,
-      "Startpunkt": "Wettiner Platz",
-      "Teilnehmer": "1.000",
-      "Veranstalter": "Staatsschaupiel Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-05-25",
-      "Zeit": "15.00 - 17.30 Uhr",
-      "Thema": "Tierrechte, Tierschutz",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-05-26",
       "Zeit": "13.15 - 14.30 Uhr",
@@ -741,6 +661,16 @@
       "Startpunkt": null,
       "Teilnehmer": "400",
       "Veranstalter": "Sächsischer Flüchtlingsrat e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-08-24",
+      "Zeit": null,
+      "Thema": "Dresden positiv besetzen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2.000",
+      "Veranstalter": "Initiative 'Herz statt Hetze'",
       "Status": "angemeldet"
     }
   ]
