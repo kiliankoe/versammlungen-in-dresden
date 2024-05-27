@@ -104,6 +104,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2024-05-29",
+      "Zeit": null,
+      "Thema": "Sichere, breite und durchgängige Radwege zum Hauptcampus der TU Dresden!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Grüne Jugend Dresden",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-05-30",
       "Zeit": null,
       "Thema": "31. Christopher Street Day Dresden 2024",
@@ -300,6 +310,36 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-06-02",
+      "Zeit": null,
+      "Thema": "Wählen ist wie Zähneputzen - machst du's nicht, wird's braun",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-06-02",
+      "Zeit": null,
+      "Thema": "Zähneputzen für die Demokratie",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "250",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-06-02",
+      "Zeit": null,
+      "Thema": "Zähneputzen gegen Hass und Hetze",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
