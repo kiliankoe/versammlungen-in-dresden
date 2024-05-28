@@ -55,11 +55,11 @@
     },
     {
       "Datum": "2024-05-30",
-      "Zeit": "ab 12.00 Uhr",
+      "Zeit": "08.00 - 22.00 Uhr",
       "Thema": "31. Christopher Street Day Dresden 2024",
       "Ort": "Altmarkt",
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "500/Aufzg: 10000",
+      "Startpunkt": null,
+      "Teilnehmer": "500",
       "Veranstalter": "CSD Dresden e. V.",
       "Status": "beschieden"
     },
@@ -72,16 +72,6 @@
       "Teilnehmer": "30",
       "Veranstalter": "Kinder- und Jugendbüro Dresden",
       "Status": "angemeldet"
-    },
-    {
-      "Datum": "2024-05-31",
-      "Zeit": "ganztägig",
-      "Thema": "31. Christopher Street Day Dresden 2024",
-      "Ort": "Altmarkt",
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "500/Aufzg: 10000",
-      "Veranstalter": "CSD Dresden e. V.",
-      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-31",
@@ -135,6 +125,16 @@
     },
     {
       "Datum": "2024-05-31",
+      "Zeit": "08.00 - 23.59 Uhr",
+      "Thema": "31. Christopher Street Day Dresden 2024",
+      "Ort": "Altmarkt",
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "CSD Dresden e. V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-05-31",
       "Zeit": "10.00 - 14.00 Uhr",
       "Thema": "'Liebe Leute, geht wählen!' - Kundgebung zur Wahlermutigung",
       "Ort": "Lennéstraße",
@@ -165,11 +165,21 @@
     },
     {
       "Datum": "2024-06-01",
-      "Zeit": "bis 16.00 Uhr",
+      "Zeit": "12.00 - 16.00 Uhr",
+      "Thema": "31. Christopher Street Day Dresden 2024",
+      "Ort": null,
+      "Startpunkt": "Wilsdruffer Straße",
+      "Teilnehmer": "10000",
+      "Veranstalter": "CSD Dresden e. V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-06-01",
+      "Zeit": "ab 08.00 Uhr",
       "Thema": "31. Christopher Street Day Dresden 2024",
       "Ort": "Altmarkt",
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "500/Aufzg: 10000",
+      "Startpunkt": null,
+      "Teilnehmer": "500",
       "Veranstalter": "CSD Dresden e. V.",
       "Status": "beschieden"
     },
@@ -245,6 +255,16 @@
     },
     {
       "Datum": "2024-06-02",
+      "Zeit": "bis 01.00 Uhr",
+      "Thema": "31. Christopher Street Day Dresden 2024",
+      "Ort": "Altmarkt",
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "CSD Dresden e. V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-06-02",
       "Zeit": null,
       "Thema": "Wahlkampfveranstaltung zur Europawahl",
       "Ort": null,
@@ -266,20 +286,20 @@
     {
       "Datum": "2024-06-02",
       "Zeit": null,
-      "Thema": "Wählen ist wie Zähneputzen - machst du's nicht, wird's braun",
+      "Thema": "Zähneputzen für die Demokratie",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "300",
+      "Teilnehmer": "250",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
       "Datum": "2024-06-02",
       "Zeit": null,
-      "Thema": "Zähneputzen für die Demokratie",
+      "Thema": "Wählen ist wie Zähneputzen - machst du's nicht, wird's braun",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "250",
+      "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
