@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-05-27",
+  "Dateidatum": "2024-05-28",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,76 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-05-27",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine und den Völkermord in Gaza - Kampf der Weltkriegsgefahr! ",
-      "Ort": null,
-      "Startpunkt": "Prager Straße",
-      "Teilnehmer": "40",
-      "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-05-27",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-05-27",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "30-40",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-05-27",
-      "Zeit": "19.20 - 20.50 Uhr",
-      "Thema": "Nie wieder ist jetzt - Keine Nazis vor der Synagoge!",
-      "Ort": "Akademiestraße",
-      "Startpunkt": null,
-      "Teilnehmer": "bis zu 50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-05-27",
-      "Zeit": "19.00 - 22.00 Uhr",
-      "Thema": "Fred stellt sich in den Weg",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "50",
-      "Veranstalter": "Fred die Linke Socke",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-05-27",
-      "Zeit": "14.30 - 19.30 Uhr",
-      "Thema": "Europa statt EU",
-      "Ort": "Moritzgasse",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "Junge Alternative Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-05-27",
-      "Zeit": "19.00 - 20.45 Uhr",
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-05-28",
       "Zeit": "10.00 - 11.30 Uhr",
@@ -104,6 +34,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2024-05-28",
+      "Zeit": null,
+      "Thema": "Eilversammlung. Rafah brennt!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "Free Palestine Dresden",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-05-29",
       "Zeit": null,
       "Thema": "Sichere, breite und durchgängige Radwege zum Hauptcampus der TU Dresden!",
@@ -115,23 +55,33 @@
     },
     {
       "Datum": "2024-05-30",
-      "Zeit": null,
+      "Zeit": "ab 12.00 Uhr",
       "Thema": "31. Christopher Street Day Dresden 2024",
-      "Ort": null,
-      "Startpunkt": null,
+      "Ort": "Altmarkt",
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "500/Aufzg: 10000",
       "Veranstalter": "CSD Dresden e. V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-05-30",
+      "Zeit": null,
+      "Thema": "Wahllokal U18-Wahl",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Kinder- und Jugendbüro Dresden",
       "Status": "angemeldet"
     },
     {
       "Datum": "2024-05-31",
-      "Zeit": null,
+      "Zeit": "ganztägig",
       "Thema": "31. Christopher Street Day Dresden 2024",
-      "Ort": null,
-      "Startpunkt": null,
+      "Ort": "Altmarkt",
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "500/Aufzg: 10000",
       "Veranstalter": "CSD Dresden e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-31",
@@ -215,11 +165,21 @@
     },
     {
       "Datum": "2024-06-01",
-      "Zeit": null,
+      "Zeit": "bis 16.00 Uhr",
       "Thema": "31. Christopher Street Day Dresden 2024",
+      "Ort": "Altmarkt",
+      "Startpunkt": "Wilsdruffer Straße",
+      "Teilnehmer": "500/Aufzg: 10000",
+      "Veranstalter": "CSD Dresden e. V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-06-01",
+      "Zeit": null,
+      "Thema": "Sicher zum 31. Christopher Street Day Dresden 2024",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "500/Aufzg: 10000",
+      "Teilnehmer": "100",
       "Veranstalter": "CSD Dresden e. V.",
       "Status": "angemeldet"
     },
@@ -271,7 +231,7 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2024-06-01",
@@ -306,16 +266,6 @@
     {
       "Datum": "2024-06-02",
       "Zeit": null,
-      "Thema": "Gemeinsam für die Demokratie",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "500",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2024-06-02",
-      "Zeit": null,
       "Thema": "Wählen ist wie Zähneputzen - machst du's nicht, wird's braun",
       "Ort": null,
       "Startpunkt": null,
@@ -340,6 +290,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-06-02",
+      "Zeit": null,
+      "Thema": "In den Farben getrennt für die Demokratie vereint ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -505,13 +465,13 @@
     },
     {
       "Datum": "2024-06-13",
-      "Zeit": null,
+      "Zeit": "10.00 - 14.00 Uhr",
       "Thema": "Politische Kundgebung im Rahmen der Landtagswahl",
-      "Ort": null,
+      "Ort": "Devrientstraße",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "FDP Sachsen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-06-15",
