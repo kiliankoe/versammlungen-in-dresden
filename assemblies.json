@@ -25,13 +25,13 @@
     },
     {
       "Datum": "2024-05-30",
-      "Zeit": null,
+      "Zeit": "15.00 - 19.00 Uhr",
       "Thema": "Wahllokal U18-Wahl",
-      "Ort": null,
+      "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Kinder- und Jugendbüro Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-31",
@@ -256,32 +256,12 @@
     {
       "Datum": "2024-06-02",
       "Zeit": null,
-      "Thema": "Wahlkampfveranstaltung zur Europawahl",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "1000",
-      "Veranstalter": "Alternative für Deutschland (AfD), Bundesverband",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2024-06-02",
-      "Zeit": null,
       "Thema": "Kein Fußbreit dem Quergida Faschismus",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
-    },
-    {
-      "Datum": "2024-06-02",
-      "Zeit": null,
-      "Thema": "Zähneputzen gegen Hass und Hetze",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
     },
     {
       "Datum": "2024-06-02",
@@ -296,12 +276,22 @@
     {
       "Datum": "2024-06-02",
       "Zeit": null,
-      "Thema": "In den Farben getrennt, für die Demokratie vereint!",
+      "Thema": "Zähneputzen gegen Hass und Hetze",
       "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "abgemeldet"
+    },
+    {
+      "Datum": "2024-06-02",
+      "Zeit": "13.30 - 20.00 Uhr",
+      "Thema": "In den Farben getrennt, für die Demokratie vereint!",
+      "Ort": "Schloßplatz",
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-06-02",
@@ -311,6 +301,16 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-06-02",
+      "Zeit": null,
+      "Thema": "Wahlkampfveranstaltung zur Europawahl",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1000",
+      "Veranstalter": "Alternative für Deutschland (AfD), Bundesverband",
       "Status": "angemeldet"
     },
     {
