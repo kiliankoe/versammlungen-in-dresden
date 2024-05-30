@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-05-29",
+  "Dateidatum": "2024-05-30",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-05-29",
-      "Zeit": "08.40 - 09.10 Uhr",
-      "Thema": "Sichere, breite und durchgängige Radwege zum Hauptcampus der TU Dresden!",
-      "Ort": null,
-      "Startpunkt": "Jorge-Gomondai-Platz",
-      "Teilnehmer": "10",
-      "Veranstalter": "Grüne Jugend Dresden",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-05-30",
       "Zeit": "08.00 - 22.00 Uhr",
@@ -65,23 +55,23 @@
     },
     {
       "Datum": "2024-05-31",
-      "Zeit": null,
+      "Zeit": "13.00 - 14.00 Uhr",
       "Thema": "Kundgebung für Klimagerechtigkeit in Europa und weltweit",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Roßbachstraße",
       "Teilnehmer": "100",
       "Veranstalter": "Vernetzung von Einzelpersonen mit inhaltlichen und personellen Überschneidungen zu FFF Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-31",
-      "Zeit": null,
+      "Zeit": "13.15 - 14.00 Uhr",
       "Thema": "Zubringer zum Klimastreik ",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Pillnitzer Straße",
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-31",
@@ -115,13 +105,13 @@
     },
     {
       "Datum": "2024-05-31",
-      "Zeit": null,
+      "Zeit": "13.00 - 14.00 Uhr",
       "Thema": "TU Dresden Zubringerdemo Globaler Klimastreik Fridays For Future",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Fritz-Foerster-Platz",
       "Teilnehmer": "300",
       "Veranstalter": "TU Umweltinitiative (tuuwi)",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-05-31",
@@ -165,6 +155,36 @@
     },
     {
       "Datum": "2024-06-01",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)! ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-06-01",
+      "Zeit": null,
+      "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Activists for the Victims  e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-06-01",
+      "Zeit": null,
+      "Thema": "Bunte Farben gegen braune Hetze",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-06-01",
       "Zeit": "10.00 - 12.00 Uhr",
       "Thema": "Kein Parkhaus am Fernsehturm",
       "Ort": "Oberwachwitzer Weg",
@@ -195,13 +215,13 @@
     },
     {
       "Datum": "2024-06-01",
-      "Zeit": null,
+      "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "Louisenstraße lebenswert - Parkraum beleben statt belegen",
-      "Ort": null,
+      "Ort": "Louisenstraße",
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "BÜNDNIS 90/DIE GRÜNEN Kreisverband Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-06-01",
@@ -240,7 +260,7 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1000",
-      "Veranstalter": "Alternative für Deutschland (AfD) , Bundesverband",
+      "Veranstalter": "Alternative für Deutschland (AfD), Bundesverband",
       "Status": "angemeldet"
     },
     {
@@ -315,16 +335,6 @@
     },
     {
       "Datum": "2024-06-03",
-      "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2024-06-03",
       "Zeit": "19.20 - 20.50 Uhr",
       "Thema": "Nie wieder ist jetzt - Keine Nazis vor der Synagoge!",
       "Ort": "Akademiestraße",
@@ -344,6 +354,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2024-06-03",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-06-04",
       "Zeit": null,
       "Thema": "feministische Versammlung zum Thema Repräsentation von Frauen in der Politik ",
@@ -351,6 +371,26 @@
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "Bündnis 90 / Die Grünen Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-06-04",
+      "Zeit": null,
+      "Thema": "FALUN DAFA und die Verfolgung von Falun Dafa-Praktizierenden in China durch die Kommunistische Partei Chinas",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "9",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-06-05",
+      "Zeit": null,
+      "Thema": "FALUN DAFA und die Verfolgung von Falun Dafa-Praktizierenden in China durch die Kommunistische Partei Chinas",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "9",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -406,11 +446,31 @@
     {
       "Datum": "2024-06-08",
       "Zeit": null,
+      "Thema": "Strehlen fährt zur Brandmauer",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-06-08",
+      "Zeit": null,
       "Thema": "Tag für Frieden und Freiheit",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-06-08",
+      "Zeit": null,
+      "Thema": "#nurmitlinks",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "Linkjugend Dresden",
       "Status": "angemeldet"
     },
     {
@@ -462,6 +522,26 @@
       "Teilnehmer": "20",
       "Veranstalter": "FDP Sachsen",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-06-15",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)! ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-06-15",
+      "Zeit": null,
+      "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Activists for the Victims  e. V.",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-06-15",
@@ -524,6 +604,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2024-06-22",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)! ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-06-24",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -551,6 +641,16 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-06-29",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)! ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
       "Status": "angemeldet"
     },
     {
