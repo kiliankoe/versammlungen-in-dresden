@@ -125,13 +125,13 @@
     },
     {
       "Datum": "2024-06-01",
-      "Zeit": null,
+      "Zeit": "10.00 - 11.45 Uhr",
       "Thema": "Sicher zum 31. Christopher Street Day Dresden 2024",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Altmarkt",
       "Teilnehmer": "100",
       "Veranstalter": "CSD Dresden e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-06-01",
@@ -161,17 +161,27 @@
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2024-06-01",
-      "Zeit": null,
+      "Zeit": "16.00 - 18.00 Uhr",
       "Thema": "Freiheit für Palästina. Freiheit für Gaza",
-      "Ort": null,
+      "Ort": "Prager Straße ",
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
+    },
+    {
+      "Datum": "2024-06-01",
+      "Zeit": "12.00 - 18.00 Uhr",
+      "Thema": "Normal statt PRIDE",
+      "Ort": "Wilsdruffer Straße",
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "Die HEIMAT",
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-06-01",
@@ -251,16 +261,6 @@
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2024-06-02",
-      "Zeit": null,
-      "Thema": "Zähneputzen gegen Hass und Hetze",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
       "Status": "abgemeldet"
     },
     {
@@ -275,13 +275,23 @@
     },
     {
       "Datum": "2024-06-02",
+      "Zeit": null,
+      "Thema": "Zähneputzen gegen Hass und Hetze",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "abgemeldet"
+    },
+    {
+      "Datum": "2024-06-02",
       "Zeit": "13.30 - 20.00 Uhr",
       "Thema": "In den Farben getrennt, für die Demokratie vereint!",
       "Ort": "Schloßplatz",
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2024-06-02",
@@ -291,7 +301,7 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2024-06-02",
@@ -301,7 +311,7 @@
       "Startpunkt": null,
       "Teilnehmer": "1000",
       "Veranstalter": "Alternative für Deutschland (AfD), Bundesverband",
-      "Status": "beschieden"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2024-06-03",
@@ -355,13 +365,13 @@
     },
     {
       "Datum": "2024-06-03",
-      "Zeit": null,
+      "Zeit": "16.30 - 19.30 Uhr",
       "Thema": "Banner Drop – Demokratie verteidigen",
-      "Ort": null,
+      "Ort": "Carolabrücke",
       "Startpunkt": null,
       "Teilnehmer": "5",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-06-04",
@@ -375,23 +385,23 @@
     },
     {
       "Datum": "2024-06-04",
-      "Zeit": null,
+      "Zeit": "15.00 - 20.30 Uhr",
       "Thema": "FALUN DAFA und die Verfolgung von Falun Dafa-Praktizierenden in China durch die Kommunistische Partei Chinas",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Theaterplatz",
       "Teilnehmer": "9",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-06-05",
-      "Zeit": null,
+      "Zeit": "15.00 - 20.30 Uhr",
       "Thema": "FALUN DAFA und die Verfolgung von Falun Dafa-Praktizierenden in China durch die Kommunistische Partei Chinas",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Theaterplatz",
       "Teilnehmer": "9",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-06-05",
@@ -415,13 +425,13 @@
     },
     {
       "Datum": "2024-06-06",
-      "Zeit": null,
+      "Zeit": "16.00 - 17.30 Uhr",
       "Thema": "Gregor Gysi (DIE LINKE) zu Gast in Dresden vor den Kommunal- und Europawahlen ",
-      "Ort": null,
+      "Ort": "Dr. Külz-Ring",
       "Startpunkt": null,
       "Teilnehmer": "400",
       "Veranstalter": "DIE LINKE Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-06-07",
@@ -506,21 +516,21 @@
     {
       "Datum": "2024-06-10",
       "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2024-06-10",
-      "Zeit": null,
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "Fred die Linke Socke",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-06-10",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -586,21 +596,21 @@
     {
       "Datum": "2024-06-17",
       "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2024-06-17",
-      "Zeit": null,
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "Fred die Linke Socke",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-06-17",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -674,6 +684,26 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2024-07-01",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-07-08",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-07-14",
       "Zeit": null,
       "Thema": "Internationaler Tag der nichtbinären Menschen",
@@ -681,6 +711,46 @@
       "Startpunkt": null,
       "Teilnehmer": "40",
       "Veranstalter": "TIN-Vernetzung Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-07-15",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-07-22",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-07-29",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-08-05",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -704,6 +774,26 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2024-08-12",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-08-19",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-08-24",
       "Zeit": null,
       "Thema": "Dresden positiv besetzen",
@@ -711,6 +801,16 @@
       "Startpunkt": null,
       "Teilnehmer": "2.000",
       "Veranstalter": "Initiative 'Herz statt Hetze'",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-08-26",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     }
   ]
