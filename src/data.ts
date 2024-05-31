@@ -12,6 +12,7 @@ const rightWingOrganizers = [
   "wellenlänge",
   "bürgerbewegung pax europa e.v.",
   "junge alternative dresden",
+  "die heimat",
 ];
 
 const rightWingTopics = ["bühlau geht spazieren"];
