@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-06-01",
+  "Dateidatum": "2024-06-02",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -15,142 +15,12 @@
   "Versammlungen": [
     {
       "Datum": "2024-06-01",
-      "Zeit": "12.00 - 16.00 Uhr",
-      "Thema": "31. Christopher Street Day Dresden 2024",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "10000",
-      "Veranstalter": "CSD Dresden e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-06-01",
       "Zeit": "ab 08.00 Uhr",
       "Thema": "31. Christopher Street Day Dresden 2024",
       "Ort": "Altmarkt",
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "CSD Dresden e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-06-01",
-      "Zeit": "10.00 - 11.45 Uhr",
-      "Thema": "Sicher zum 31. Christopher Street Day Dresden 2024",
-      "Ort": null,
-      "Startpunkt": "Altmarkt",
-      "Teilnehmer": "100",
-      "Veranstalter": "CSD Dresden e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-06-01",
-      "Zeit": "13.20 - 18.30 Uhr",
-      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)! ",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "12",
-      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-06-01",
-      "Zeit": "15.00 - 18.00 Uhr",
-      "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "Activists for the Victims  e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-06-01",
-      "Zeit": "20.00 - 22.00 Uhr",
-      "Thema": "Bunte Farben gegen braune Hetze",
-      "Ort": "Theaterplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2024-06-01",
-      "Zeit": "16.00 - 18.00 Uhr",
-      "Thema": "Freiheit für Palästina. Freiheit für Gaza",
-      "Ort": "Prager Straße ",
-      "Startpunkt": null,
-      "Teilnehmer": "200",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2024-06-01",
-      "Zeit": "12.00 - 18.00 Uhr",
-      "Thema": "Normal statt PRIDE",
-      "Ort": "Wilsdruffer Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "100",
-      "Veranstalter": "Die HEIMAT",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-06-01",
-      "Zeit": "10.00 - 12.00 Uhr",
-      "Thema": "Kein Parkhaus am Fernsehturm",
-      "Ort": "Oberwachwitzer Weg",
-      "Startpunkt": null,
-      "Teilnehmer": "50 bis 100",
-      "Veranstalter": "Bürgerinitiative Fernsehturm Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-06-01",
-      "Zeit": "10.00 - 15.00 Uhr",
-      "Thema": "Make Blasewitz grey again - Für ein blaues Wunder in strahlendem grau.",
-      "Ort": "Schillerplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "Die PARTEI Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-06-01",
-      "Zeit": "13.30 - 15.30 Uhr",
-      "Thema": "Kinder für das Klima und für die Welt",
-      "Ort": "Alaunplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "25",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-06-01",
-      "Zeit": "14.00 - 17.00 Uhr",
-      "Thema": "Louisenstraße lebenswert - Parkraum beleben statt belegen",
-      "Ort": "Louisenstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "100",
-      "Veranstalter": "BÜNDNIS 90/DIE GRÜNEN Kreisverband Dresden",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2024-06-01",
-      "Zeit": null,
-      "Thema": "Natur für Alle - Fußgänger und Radfahrer gemeinsam für ein faires Betretungsrecht!",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2024-06-01",
-      "Zeit": "14.30 - 15.45 Uhr",
-      "Thema": "Kinder - Straßen - Parade für, von und mit - kleinen und grossen Kindern für ihre Rechte",
-      "Ort": null,
-      "Startpunkt": "Riesaer Straße",
-      "Teilnehmer": "150",
-      "Veranstalter": "Zentralwerk e. V.",
       "Status": "beschieden"
     },
     {
@@ -176,20 +46,20 @@
     {
       "Datum": "2024-06-02",
       "Zeit": null,
-      "Thema": "Zähneputzen für die Demokratie",
+      "Thema": "Zähneputzen gegen Hass und Hetze",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "250",
+      "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
       "Status": "abgemeldet"
     },
     {
       "Datum": "2024-06-02",
       "Zeit": null,
-      "Thema": "Zähneputzen gegen Hass und Hetze",
+      "Thema": "Zähneputzen für die Demokratie",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "300",
+      "Teilnehmer": "250",
       "Veranstalter": "natürliche Person",
       "Status": "abgemeldet"
     },
@@ -721,6 +591,16 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-08-31",
+      "Zeit": null,
+      "Thema": "Tolerade 2024 - Sachsen bleibt demokratisch!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "5.000",
+      "Veranstalter": "Tolerave e. V.",
       "Status": "angemeldet"
     }
   ]
