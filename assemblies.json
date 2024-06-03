@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-06-02",
+  "Dateidatum": "2024-06-03",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,86 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-06-01",
-      "Zeit": "ab 08.00 Uhr",
-      "Thema": "31. Christopher Street Day Dresden 2024",
-      "Ort": "Altmarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "500",
-      "Veranstalter": "CSD Dresden e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-06-02",
-      "Zeit": "bis 01.00 Uhr",
-      "Thema": "31. Christopher Street Day Dresden 2024",
-      "Ort": "Altmarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "500",
-      "Veranstalter": "CSD Dresden e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-06-02",
-      "Zeit": null,
-      "Thema": "Kein Fußbreit dem Quergida Faschismus",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "500",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2024-06-02",
-      "Zeit": null,
-      "Thema": "Zähneputzen gegen Hass und Hetze",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2024-06-02",
-      "Zeit": null,
-      "Thema": "Zähneputzen für die Demokratie",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "250",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2024-06-02",
-      "Zeit": "13.30 - 20.00 Uhr",
-      "Thema": "In den Farben getrennt, für die Demokratie vereint!",
-      "Ort": "Schloßplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "500",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2024-06-02",
-      "Zeit": null,
-      "Thema": "Wählen ist wie Zähneputzen - machst du's nicht, wird's braun",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2024-06-02",
-      "Zeit": "13.00 - 18.00 Uhr",
-      "Thema": "Wahlkampfveranstaltung zur Europawahl",
-      "Ort": "Theaterplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "1000",
-      "Veranstalter": "Alternative für Deutschland (AfD), Bundesverband",
-      "Status": "abgemeldet"
-    },
     {
       "Datum": "2024-06-03",
       "Zeit": "18.00 - 19.30 Uhr",
@@ -250,6 +170,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "100",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-06-08",
+      "Zeit": null,
+      "Thema": "Zubringer zur 'Wir sind die Brandmauer'-Demo auf dem Theatherplatz",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -601,6 +531,26 @@
       "Startpunkt": null,
       "Teilnehmer": "5.000",
       "Veranstalter": "Tolerave e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-09-01",
+      "Zeit": null,
+      "Thema": "Demokratie leben - Grundrechte schützen - Versammlungsfreiheit sichern.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "250",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-09-01",
+      "Zeit": null,
+      "Thema": "Zusammen für die Demokratie",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "Campact e.V.",
       "Status": "angemeldet"
     }
   ]
