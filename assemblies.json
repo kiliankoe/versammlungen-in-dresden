@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-06-04",
+  "Dateidatum": "2024-06-05",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,36 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-06-04",
-      "Zeit": "15.00 - 18.00 Uhr",
-      "Thema": "feministische Versammlung zum Thema Repräsentation von Frauen in der Politik ",
-      "Ort": "Rathausplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "Bündnis 90 / Die Grünen Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-06-04",
-      "Zeit": "15.00 - 20.30 Uhr",
-      "Thema": "FALUN DAFA und die Verfolgung von Falun Dafa-Praktizierenden in China durch die Kommunistische Partei Chinas",
-      "Ort": null,
-      "Startpunkt": "Theaterplatz",
-      "Teilnehmer": "9",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-06-04",
-      "Zeit": "16.45 - 18.30 Uhr",
-      "Thema": "Letzte Generation Dresden - Solidarität mit den Hungerstreikenden in Berlin - Unterstützung Kampagne 'Hungern bis ihr ehrlich seid'",
-      "Ort": null,
-      "Startpunkt": "Rathausplatz",
-      "Teilnehmer": "22",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-06-05",
       "Zeit": "15.00 - 20.30 Uhr",
