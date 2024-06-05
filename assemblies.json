@@ -41,7 +41,7 @@
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "Health for Future Dresden",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2024-06-06",
@@ -85,6 +85,26 @@
     },
     {
       "Datum": "2024-06-07",
+      "Zeit": null,
+      "Thema": "Klimaschützen ist kein Verbrechen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-06-07",
+      "Zeit": null,
+      "Thema": "Nie wieder ist JETZT!!! Mannheim in Dresden verhindern!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "49",
+      "Veranstalter": "Wellenlänge",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-06-07",
       "Zeit": "13.00 - 17.00 Uhr",
       "Thema": "'Liebe Leute, geht wählen!' - Kundgebung zur Wahlermutigung",
       "Ort": "Jakob-Winter-Platz",
@@ -96,7 +116,7 @@
     {
       "Datum": "2024-06-08",
       "Zeit": null,
-      "Thema": "Wir Sind Die Brandmauer Dresden",
+      "Thema": "Demo 'Wir Sind die Brandmauer'",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "5000",
@@ -135,13 +155,13 @@
     },
     {
       "Datum": "2024-06-08",
-      "Zeit": null,
+      "Zeit": "11.00 - 12.30 Uhr",
       "Thema": "'Echter Sozialismus statt globaler Umweltkatastrophe'- Kundgebung der Internationalistischen Liste/ MLPD zur Europawahl",
-      "Ort": null,
+      "Ort": "Wiener Platz",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Internationalistische Liste/ MLPD",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-06-08",
@@ -272,6 +292,16 @@
       "Teilnehmer": "10",
       "Veranstalter": "Activists for the Victims  e. V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-06-15",
+      "Zeit": null,
+      "Thema": "Galerie der Aufklärung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-06-15",
@@ -461,6 +491,16 @@
       "Startpunkt": null,
       "Teilnehmer": "40",
       "Veranstalter": "Demokratische Montagsaktion/ Montag Tag des Widerstands/Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-07-19",
+      "Zeit": null,
+      "Thema": "Wahlkampfauftakt zur Landtagswahl  der SPD Sachsen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "SPD Landesverband Sachsen",
       "Status": "angemeldet"
     },
     {
