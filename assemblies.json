@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-06-05",
+  "Dateidatum": "2024-06-06",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,36 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-06-05",
-      "Zeit": "15.00 - 20.30 Uhr",
-      "Thema": "FALUN DAFA und die Verfolgung von Falun Dafa-Praktizierenden in China durch die Kommunistische Partei Chinas",
-      "Ort": null,
-      "Startpunkt": "Theaterplatz",
-      "Teilnehmer": "9",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-06-05",
-      "Zeit": "16.45 - 18.30 Uhr",
-      "Thema": "Letzte Generation Dresden - Solidarität mit den Hungerstreikenden in Berlin - Unterstützung Kampagne 'Hungern bis ihr ehrlich seid'",
-      "Ort": null,
-      "Startpunkt": "Rathausplatz",
-      "Teilnehmer": "22",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-06-05",
-      "Zeit": null,
-      "Thema": "Hitzeaktionstag 2024",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "Health for Future Dresden",
-      "Status": "abgemeldet"
-    },
     {
       "Datum": "2024-06-06",
       "Zeit": "08.00 - 09.05 Uhr",
@@ -650,6 +620,106 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-09-04",
+      "Zeit": null,
+      "Thema": "Tierschutz-Camp für Tier-, Menschenrechte, Veganismus und Umweltschutz 2024",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "60",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-09-05",
+      "Zeit": null,
+      "Thema": "Tierschutz-Camp für Tier-, Menschenrechte, Veganismus und Umweltschutz 2024",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "60",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-09-06",
+      "Zeit": null,
+      "Thema": "Tierschutz-Camp für Tier-, Menschenrechte, Veganismus und Umweltschutz 2024",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "60",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-09-07",
+      "Zeit": null,
+      "Thema": "Tierschutz-Camp für Tier-, Menschenrechte, Veganismus und Umweltschutz 2024",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "60",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-09-08",
+      "Zeit": null,
+      "Thema": "Tierschutz-Camp für Tier-, Menschenrechte, Veganismus und Umweltschutz 2024",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "60",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-09-09",
+      "Zeit": null,
+      "Thema": "Tierschutz-Camp für Tier-, Menschenrechte, Veganismus und Umweltschutz 2024",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "60",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-09-10",
+      "Zeit": null,
+      "Thema": "Tierschutz-Camp für Tier-, Menschenrechte, Veganismus und Umweltschutz 2024",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "60",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-09-11",
+      "Zeit": null,
+      "Thema": "Tierschutz-Camp für Tier-, Menschenrechte, Veganismus und Umweltschutz 2024",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "60",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-09-12",
+      "Zeit": null,
+      "Thema": "Tierschutz-Camp für Tier-, Menschenrechte, Veganismus und Umweltschutz 2024",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "60",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-09-13",
+      "Zeit": null,
+      "Thema": "Tierschutz-Camp für Tier-, Menschenrechte, Veganismus und Umweltschutz 2024",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "60",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     }
