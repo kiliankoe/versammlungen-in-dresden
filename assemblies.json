@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-06-09",
+  "Dateidatum": "2024-06-10",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -32,6 +32,16 @@
       "Teilnehmer": "30-40",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-06-10",
+      "Zeit": null,
+      "Thema": "Nie wieder ist jetzt - Keine Nazis vor der Synagoge!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "bis zu 50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-06-10",
@@ -136,6 +146,16 @@
     {
       "Datum": "2024-06-17",
       "Zeit": null,
+      "Thema": "Nie wieder ist jetzt - Keine Nazis vor der Synagoge!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "bis zu 50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-06-17",
+      "Zeit": null,
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
       "Startpunkt": null,
@@ -232,6 +252,16 @@
       "Teilnehmer": "30-40",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-06-24",
+      "Zeit": null,
+      "Thema": "Nie wieder ist jetzt - Keine Nazis vor der Synagoge!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "bis zu 50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-06-24",
