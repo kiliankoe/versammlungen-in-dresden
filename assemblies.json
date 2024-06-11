@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-06-10",
+  "Dateidatum": "2024-06-11",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,64 +14,14 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2024-06-10",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-06-10",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "30-40",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-06-10",
-      "Zeit": "19.20 - 20.50 Uhr",
-      "Thema": "Nie wieder ist jetzt - Keine Nazis vor der Synagoge!",
-      "Ort": "Akademiestraße",
-      "Startpunkt": null,
-      "Teilnehmer": "bis zu 50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-06-10",
-      "Zeit": "19.00 - 22.00 Uhr",
-      "Thema": "Fred stellt sich in den Weg",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "50",
-      "Veranstalter": "Fred die Linke Socke",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-06-10",
-      "Zeit": "19.00 - 20.30 Uhr",
-      "Thema": "Wer schweigt stimmt zu-Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": "Willsdruffer Straße",
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2024-06-12",
-      "Zeit": null,
+      "Zeit": "08.00 - 14.00 Uhr",
       "Thema": "Klimaschützen ist kein Verbrechen - Protest zur Einhaltung des Grundgesetzes",
-      "Ort": null,
+      "Ort": "Roßbachstraße ",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "Unterstützer der Letzten Generation",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-06-13",
@@ -102,6 +52,16 @@
       "Teilnehmer": "10",
       "Veranstalter": "Activists for the Victims  e. V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-06-15",
+      "Zeit": null,
+      "Thema": "Mehr Demokratie wagen - ohne Unterstützungsunterschriften für kleine Parteien",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Die PARTEI Dresden",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-06-15",
@@ -170,6 +130,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-06-18",
+      "Zeit": null,
+      "Thema": "Artgerecht ist nur die Freiheit - Protest gegen die Eröffnung des neugebauten Orang-Utan-Hauses und für die Transformation des Dresdner Zoo's",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -570,6 +540,26 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "60",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-09-09",
+      "Zeit": null,
+      "Thema": "Dresden.Respekt: Interkulturelles Gastmahl auf der Augustusbrücke und dem Schloßplatz zur Demonstration von Vielfalt und Weltoffenheit, Dialog und Respekt",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "4.000",
+      "Veranstalter": "CSD Dresden e. V. & Cellex-Stiftung",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-09-09",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
