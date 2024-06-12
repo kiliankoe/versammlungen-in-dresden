@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-06-11",
+  "Dateidatum": "2024-06-12",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -55,23 +55,23 @@
     },
     {
       "Datum": "2024-06-15",
-      "Zeit": null,
+      "Zeit": "10.00 - 16.00 Uhr",
       "Thema": "Mehr Demokratie wagen - ohne Unterstützungsunterschriften für kleine Parteien",
-      "Ort": null,
+      "Ort": "Schillerplatz",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Die PARTEI Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-06-15",
-      "Zeit": null,
+      "Zeit": "13.00 - 18.00 Uhr",
       "Thema": "Galerie der Aufklärung",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-06-15",
@@ -136,21 +136,21 @@
     {
       "Datum": "2024-06-18",
       "Zeit": null,
-      "Thema": "Artgerecht ist nur die Freiheit - Protest gegen die Eröffnung des neugebauten Orang-Utan-Hauses und für die Transformation des Dresdner Zoo's",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2024-06-18",
-      "Zeit": null,
       "Thema": "Faires PJ",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "400",
       "Veranstalter": "Verein der Fachschaft ",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-06-18",
+      "Zeit": null,
+      "Thema": "Artgerecht ist nur die Freiheit - Protest gegen die Eröffnung des neugebauten Orang-Utan-Hauses und für die Transformation des Dresdner Zoo's",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -281,6 +281,26 @@
       "Startpunkt": null,
       "Teilnehmer": "40",
       "Veranstalter": "Demokratische Montagsaktion/ Montag Tag des Widerstands/Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-07-01",
+      "Zeit": null,
+      "Thema": "Gedenken an Marwa El-Sherbini",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Ausländerrat Dresden e.V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-07-07",
+      "Zeit": null,
+      "Thema": "Blaue Welle",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
