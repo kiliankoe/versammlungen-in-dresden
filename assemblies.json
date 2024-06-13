@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-06-12",
+  "Dateidatum": "2024-06-13",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-06-12",
-      "Zeit": "08.00 - 14.00 Uhr",
-      "Thema": "Klimaschützen ist kein Verbrechen - Protest zur Einhaltung des Grundgesetzes",
-      "Ort": "Roßbachstraße ",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "Unterstützer der Letzten Generation",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-06-13",
       "Zeit": "10.00 - 14.00 Uhr",
@@ -126,12 +116,22 @@
     {
       "Datum": "2024-06-17",
       "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Thema": "Klimaschützen ist kein Verbrechen",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "300",
+      "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-06-17",
+      "Zeit": "19.00 - 20.30 Uhr",
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": "Wilsdruffer Straße",
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-06-18",
@@ -146,12 +146,22 @@
     {
       "Datum": "2024-06-18",
       "Zeit": null,
-      "Thema": "Artgerecht ist nur die Freiheit - Protest gegen die Eröffnung des neugebauten Orang-Utan-Hauses und für die Transformation des Dresdner Zoo's",
+      "Thema": "Sexuelle Missbrauch am Arbeitsplatz",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-06-18",
+      "Zeit": "13.00 - 17.00 Uhr",
+      "Thema": "Artgerecht ist nur die Freiheit - Protest gegen die Eröffnung des neugebauten Orang-Utan-Hauses und für die Transformation des Dresdner Zoo's",
+      "Ort": "Tiergartenstraße",
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-06-20",
@@ -451,6 +461,26 @@
       "Startpunkt": null,
       "Teilnehmer": "2.000",
       "Veranstalter": "Initiative 'Herz statt Hetze'",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-08-24",
+      "Zeit": null,
+      "Thema": "Demokratie verteidigen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-08-25",
+      "Zeit": null,
+      "Thema": "Demokratie verteidigen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
