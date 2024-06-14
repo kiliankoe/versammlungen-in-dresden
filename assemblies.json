@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-06-13",
+  "Dateidatum": "2024-06-14",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-06-13",
-      "Zeit": "10.00 - 14.00 Uhr",
-      "Thema": "Politische Kundgebung im Rahmen der Landtagswahl",
-      "Ort": "Devrientstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "FDP Sachsen",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-06-15",
       "Zeit": "13.20 - 18.30 Uhr",
@@ -105,13 +95,13 @@
     },
     {
       "Datum": "2024-06-17",
-      "Zeit": null,
+      "Zeit": "19.00 - 22.00 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "50",
       "Veranstalter": "Fred die Linke Socke",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-06-17",
@@ -146,7 +136,7 @@
     {
       "Datum": "2024-06-18",
       "Zeit": null,
-      "Thema": "Sexuelle Missbrauch am Arbeitsplatz",
+      "Thema": "Sexueller Missbrauch am Arbeitsplatz",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "50",
@@ -165,13 +155,13 @@
     },
     {
       "Datum": "2024-06-20",
-      "Zeit": null,
+      "Zeit": "10.30 - 13.30 Uhr",
       "Thema": "Ein kostenloses Mittagessen für alle",
-      "Ort": null,
+      "Ort": "Elberadweg",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Die Linke. Sachsen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-06-22",
@@ -266,6 +256,16 @@
     {
       "Datum": "2024-07-01",
       "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-07-01",
+      "Zeit": null,
       "Thema": "Gegen Glaubenskriege auf deutschem Boden",
       "Ort": null,
       "Startpunkt": null,
@@ -304,12 +304,32 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2024-07-04",
+      "Zeit": "08.15 - 09.05 Uhr",
+      "Thema": "Stoppt den fossilen Wahnsinn! Mit der Aktion fordern wir, dass keine neuen fossilen Projekte vom Staat genehmigt oder finanziert werden.",
+      "Ort": "Albertplatz ",
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
       "Datum": "2024-07-07",
       "Zeit": null,
       "Thema": "Blaue Welle",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-07-08",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -331,6 +351,16 @@
       "Startpunkt": null,
       "Teilnehmer": "40",
       "Veranstalter": "TIN-Vernetzung Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-07-15",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -366,10 +396,30 @@
     {
       "Datum": "2024-07-22",
       "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-07-22",
+      "Zeit": null,
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-07-29",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -391,6 +441,16 @@
       "Startpunkt": null,
       "Teilnehmer": "40",
       "Veranstalter": "Demokratische Montagsaktion/ Montag Tag des Widerstands/Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-08-05",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -426,6 +486,16 @@
     {
       "Datum": "2024-08-12",
       "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-08-12",
+      "Zeit": null,
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
       "Startpunkt": null,
@@ -441,6 +511,16 @@
       "Startpunkt": null,
       "Teilnehmer": "40",
       "Veranstalter": "Demokratische Montagsaktion/ Montag Tag des Widerstands/Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-08-19",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -474,12 +554,32 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2024-08-24",
+      "Zeit": null,
+      "Thema": "Transparenter politischer Dialog",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "3.000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-08-25",
       "Zeit": null,
       "Thema": "Demokratie verteidigen",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-08-26",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
