@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-06-14",
+  "Dateidatum": "2024-06-15",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -105,13 +105,13 @@
     },
     {
       "Datum": "2024-06-17",
-      "Zeit": null,
+      "Zeit": "10.30 - 18.00 Uhr",
       "Thema": "Klimaschützen ist kein Verbrechen",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Alaunstraße",
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-06-17",
@@ -125,23 +125,23 @@
     },
     {
       "Datum": "2024-06-18",
-      "Zeit": null,
+      "Zeit": "14.30 - 16.30 Uhr",
       "Thema": "Faires PJ",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Fiedlerstraße",
       "Teilnehmer": "400",
       "Veranstalter": "Verein der Fachschaft ",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-06-18",
-      "Zeit": null,
+      "Zeit": "09.00 - 12.00 Uhr",
       "Thema": "Sexueller Missbrauch am Arbeitsplatz",
-      "Ort": null,
+      "Ort": "Marwa El-Sherbini Park",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-06-18",
@@ -162,6 +162,16 @@
       "Teilnehmer": "30",
       "Veranstalter": "Die Linke. Sachsen",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-06-21",
+      "Zeit": null,
+      "Thema": "Nach der Wahl ist vor der Wahl - Für ein gutes Klima im Osten",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-06-22",
@@ -305,13 +315,13 @@
     },
     {
       "Datum": "2024-07-04",
-      "Zeit": "08.15 - 09.05 Uhr",
-      "Thema": "Stoppt den fossilen Wahnsinn! Mit der Aktion fordern wir, dass keine neuen fossilen Projekte vom Staat genehmigt oder finanziert werden.",
-      "Ort": "Albertplatz ",
+      "Zeit": null,
+      "Thema": "Stoppt den fossilen Wahnsinn! Mit der Aktion fordern wir von der Politik und Verwaltung, dass Erneuerbarer Strom und Energiesparen vorangetrieben werden, …",
+      "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "25",
+      "Teilnehmer": "22",
       "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-07-07",
