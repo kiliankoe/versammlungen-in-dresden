@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-06-18",
+  "Dateidatum": "2024-06-19",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,46 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-06-18",
-      "Zeit": "14.30 - 16.30 Uhr",
-      "Thema": "Faires PJ",
-      "Ort": null,
-      "Startpunkt": "Fiedlerstraße",
-      "Teilnehmer": "400",
-      "Veranstalter": "Verein der Fachschaft ",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-06-18",
-      "Zeit": "09.00 - 12.00 Uhr",
-      "Thema": "Sexueller Missbrauch am Arbeitsplatz",
-      "Ort": "Marwa El-Sherbini Park",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-06-18",
-      "Zeit": null,
-      "Thema": "Stillen Protest gegen die aktuelle Haushaltssperre des Finanzministeriums",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "80",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2024-06-18",
-      "Zeit": "13.00 - 17.00 Uhr",
-      "Thema": "Artgerecht ist nur die Freiheit - Protest gegen die Eröffnung des neugebauten Orang-Utan-Hauses und für die Transformation des Dresdner Zoo's",
-      "Ort": "Tiergartenstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-06-20",
       "Zeit": "10.30 - 13.30 Uhr",
@@ -95,13 +55,13 @@
     },
     {
       "Datum": "2024-06-22",
-      "Zeit": null,
+      "Zeit": "12.00 - 16.00 Uhr",
       "Thema": "Nein zum neuen Versammlungsgesetz",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wiener Platz",
       "Teilnehmer": "150",
       "Veranstalter": "Initiative NoVersgSax",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-06-22",
@@ -156,7 +116,17 @@
     {
       "Datum": "2024-06-24",
       "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Fred die Linke Socke",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-06-24",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu-Zeit für Bürgerverantwortung",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "300",
@@ -176,11 +146,31 @@
     {
       "Datum": "2024-06-29",
       "Zeit": null,
+      "Thema": "Erhalt der christlichen Werte in unserer Gesellschaft",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "Mennoniten-Brüder-Gemeinde Brakel e.V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-06-29",
+      "Zeit": null,
       "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Activists for the Victims e.V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-06-29",
+      "Zeit": null,
+      "Thema": "Caravana por la libertad de Venezuela (Karawane für die Freiheit Venezuelas )",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "Refugiados sin fronteras",
       "Status": "angemeldet"
     },
     {
@@ -191,6 +181,16 @@
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-07-01",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Fred die Linke Socke",
       "Status": "angemeldet"
     },
     {
@@ -286,6 +286,16 @@
     {
       "Datum": "2024-07-08",
       "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Fred die Linke Socke",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-07-08",
+      "Zeit": null,
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
       "Startpunkt": null,
@@ -311,6 +321,16 @@
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-07-15",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Fred die Linke Socke",
       "Status": "angemeldet"
     },
     {
@@ -366,6 +386,16 @@
     {
       "Datum": "2024-07-22",
       "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Fred die Linke Socke",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-07-22",
+      "Zeit": null,
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
       "Startpunkt": null,
@@ -381,6 +411,16 @@
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-07-29",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Fred die Linke Socke",
       "Status": "angemeldet"
     },
     {
@@ -411,6 +451,16 @@
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-08-05",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Fred die Linke Socke",
       "Status": "angemeldet"
     },
     {
@@ -456,6 +506,16 @@
     {
       "Datum": "2024-08-12",
       "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Fred die Linke Socke",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-08-12",
+      "Zeit": null,
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
       "Startpunkt": null,
@@ -481,6 +541,16 @@
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-08-19",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Fred die Linke Socke",
       "Status": "angemeldet"
     },
     {
@@ -546,6 +616,16 @@
     {
       "Datum": "2024-08-26",
       "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Fred die Linke Socke",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-08-26",
+      "Zeit": null,
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
       "Startpunkt": null,
@@ -571,6 +651,16 @@
       "Startpunkt": null,
       "Teilnehmer": "250",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-09-01",
+      "Zeit": null,
+      "Thema": "Egal, wie die Wahl ausgeht - Dresden positiv besetzen !",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "400",
+      "Veranstalter": "Initiative 'Herz statt Hetze'",
       "Status": "angemeldet"
     },
     {
