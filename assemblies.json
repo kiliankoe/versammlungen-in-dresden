@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-06-19",
+  "Dateidatum": "2024-06-20",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -25,13 +25,13 @@
     },
     {
       "Datum": "2024-06-21",
-      "Zeit": null,
+      "Zeit": "12.00 - 19.00 Uhr",
       "Thema": "Nach der Wahl ist vor der Wahl - Für ein gutes Klima im Osten",
-      "Ort": null,
+      "Ort": "Prager Straße,",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-06-22",
@@ -65,13 +65,13 @@
     },
     {
       "Datum": "2024-06-22",
-      "Zeit": null,
+      "Zeit": "15.00 - 17.00 Uhr",
       "Thema": "Der Mensch ist keine Maus - Tierversuche beenden!",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-06-23",
@@ -125,13 +125,13 @@
     },
     {
       "Datum": "2024-06-24",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Wer schweigt stimmt zu-Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-06-29",
@@ -155,13 +155,13 @@
     },
     {
       "Datum": "2024-06-29",
-      "Zeit": null,
+      "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Activists for the Victims e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-06-29",
@@ -199,7 +199,7 @@
       "Thema": "Gegen Glaubenskriege auf deutschem Boden",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "1000",
+      "Teilnehmer": "1.000",
       "Veranstalter": "PEGIDA Förderverein e. V.",
       "Status": "angemeldet"
     },
@@ -226,6 +226,16 @@
     {
       "Datum": "2024-07-01",
       "Zeit": null,
+      "Thema": "Kein Fußbreit Pegida",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-07-01",
+      "Zeit": null,
       "Thema": "Gedenken an Marwa El-Sherbini",
       "Ort": null,
       "Startpunkt": null,
@@ -245,13 +255,13 @@
     },
     {
       "Datum": "2024-07-06",
-      "Zeit": null,
+      "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Activists for the Victims e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-07-06",
@@ -365,13 +375,13 @@
     },
     {
       "Datum": "2024-07-20",
-      "Zeit": null,
+      "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Activists for the Victims e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-07-22",
