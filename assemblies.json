@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-06-21",
+  "Dateidatum": "2024-06-22",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-06-21",
-      "Zeit": "12.00 - 19.00 Uhr",
-      "Thema": "Nach der Wahl ist vor der Wahl - Für ein gutes Klima im Osten",
-      "Ort": "Prager Straße,",
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-06-22",
       "Zeit": "14.00 - 19.00 Uhr",
