@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-06-25",
+  "Dateidatum": "2024-06-26",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -81,7 +81,7 @@
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "Fred die Linke Socke",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2024-07-01",
@@ -101,17 +101,17 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2024-07-01",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.00 Uhr",
       "Thema": "Tag des Widerstands, gegen Hartz IV, Rasismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine. Kampf der Weltkriegsgefahr! Solidarität mit Gaza!",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "40",
       "Veranstalter": "Demokratische Montagsaktion/ Montag Tag des Widerstands/Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-07-01",
@@ -191,6 +191,16 @@
       "Startpunkt": null,
       "Teilnehmer": "1.000",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-07-07",
+      "Zeit": null,
+      "Thema": "Querdullis von der Straße flauschen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "250",
+      "Veranstalter": "Fred, die linke Socke",
       "Status": "angemeldet"
     },
     {
@@ -285,13 +295,13 @@
     },
     {
       "Datum": "2024-07-15",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.00 Uhr",
       "Thema": "Tag des Widerstands, gegen Hartz IV, Rasismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine. Kampf der Weltkriegsgefahr! Solidarität mit Gaza!",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "40",
       "Veranstalter": "Demokratische Montagsaktion/ Montag Tag des Widerstands/Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-07-19",
@@ -395,13 +405,13 @@
     },
     {
       "Datum": "2024-07-29",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.00 Uhr",
       "Thema": "Tag des Widerstands, gegen Hartz IV, Rasismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine. Kampf der Weltkriegsgefahr! Solidarität mit Gaza!",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "40",
       "Veranstalter": "Demokratische Montagsaktion/ Montag Tag des Widerstands/Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-05",
@@ -545,13 +555,13 @@
     },
     {
       "Datum": "2024-08-12",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.00 Uhr",
       "Thema": "Tag des Widerstands, gegen Hartz IV, Rasismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine. Kampf der Weltkriegsgefahr! Solidarität mit Gaza!",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "40",
       "Veranstalter": "Demokratische Montagsaktion/ Montag Tag des Widerstands/Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-19",
