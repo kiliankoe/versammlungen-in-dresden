@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-06-26",
+  "Dateidatum": "2024-06-27",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -55,23 +55,23 @@
     },
     {
       "Datum": "2024-07-01",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-07-01",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": null,
+      "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
       "Teilnehmer": "30-40",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-07-01",
@@ -125,12 +125,22 @@
     },
     {
       "Datum": "2024-07-01",
-      "Zeit": null,
+      "Zeit": "18.15 - 21.00 Uhr",
       "Thema": "Dresden positiv besetzen",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-07-01",
+      "Zeit": null,
+      "Thema": "Tri, Tra, Trauti - mit uns in die neue Zeit: FREIE SACHSEN unterstützen den Protest von PEGIDA!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20- 30",
+      "Veranstalter": "FREIE SACHSEN",
       "Status": "angemeldet"
     },
     {
@@ -205,23 +215,23 @@
     },
     {
       "Datum": "2024-07-08",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-07-08",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": null,
+      "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
       "Teilnehmer": "30-40",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-07-08",
@@ -255,23 +265,23 @@
     },
     {
       "Datum": "2024-07-15",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-07-15",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": null,
+      "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
       "Teilnehmer": "30-40",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-07-15",
@@ -325,23 +335,23 @@
     },
     {
       "Datum": "2024-07-22",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-07-22",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": null,
+      "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
       "Teilnehmer": "30-40",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-07-22",
@@ -365,23 +375,23 @@
     },
     {
       "Datum": "2024-07-29",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-07-29",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": null,
+      "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
       "Teilnehmer": "30-40",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-07-29",
@@ -415,23 +425,23 @@
     },
     {
       "Datum": "2024-08-05",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-05",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": null,
+      "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
       "Teilnehmer": "30-40",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-05",
@@ -515,23 +525,23 @@
     },
     {
       "Datum": "2024-08-12",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-12",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": null,
+      "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
       "Teilnehmer": "30-40",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-12",
@@ -565,23 +575,23 @@
     },
     {
       "Datum": "2024-08-19",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-19",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": null,
+      "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
       "Teilnehmer": "30-40",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-19",
@@ -645,23 +655,23 @@
     },
     {
       "Datum": "2024-08-26",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-26",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": null,
+      "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
       "Teilnehmer": "30-40",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-26",
@@ -725,13 +735,13 @@
     },
     {
       "Datum": "2024-09-02",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": null,
+      "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
       "Teilnehmer": "30-40",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-09-02",
@@ -815,13 +825,13 @@
     },
     {
       "Datum": "2024-09-09",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": null,
+      "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
       "Teilnehmer": "30-40",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-09-09",
@@ -875,13 +885,13 @@
     },
     {
       "Datum": "2024-09-16",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": null,
+      "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
       "Teilnehmer": "30-40",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-09-16",
@@ -895,13 +905,13 @@
     },
     {
       "Datum": "2024-09-23",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": null,
+      "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
       "Teilnehmer": "30-40",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-09-23",
