@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-06-27",
+  "Dateidatum": "2024-06-28",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -85,13 +85,13 @@
     },
     {
       "Datum": "2024-07-01",
-      "Zeit": null,
+      "Zeit": "18.30 - 21.30 Uhr",
       "Thema": "Gegen Glaubenskriege auf deutschem Boden",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Moritzgasse",
       "Teilnehmer": "1.000",
       "Veranstalter": "PEGIDA Förderverein e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-07-01",
@@ -115,13 +115,13 @@
     },
     {
       "Datum": "2024-07-01",
-      "Zeit": null,
+      "Zeit": "17.00 - 21.00 Uhr",
       "Thema": "Kein Fußbreit Pegida",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Alaunplatz",
       "Teilnehmer": "500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-07-01",
@@ -135,13 +135,13 @@
     },
     {
       "Datum": "2024-07-01",
-      "Zeit": null,
+      "Zeit": "17.30 - 21.00 Uhr",
       "Thema": "Tri, Tra, Trauti - mit uns in die neue Zeit: FREIE SACHSEN unterstützen den Protest von PEGIDA!",
-      "Ort": null,
+      "Ort": "Moritzgasse",
       "Startpunkt": null,
       "Teilnehmer": "20- 30",
       "Veranstalter": "FREIE SACHSEN",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-07-01",
@@ -165,13 +165,13 @@
     },
     {
       "Datum": "2024-07-04",
-      "Zeit": null,
+      "Zeit": "17.00 - 19.00 Uhr",
       "Thema": "Kundgebung und Infotisch für Palästina",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "Free Palestine Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-07-06",
@@ -251,6 +251,16 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-07-13",
+      "Zeit": null,
+      "Thema": "Herbert-Wehner-Gedenken",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "SPD - Ortsverein Striesen Blasewitz Gruna",
       "Status": "angemeldet"
     },
     {
