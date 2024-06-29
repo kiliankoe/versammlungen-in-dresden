@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-06-28",
+  "Dateidatum": "2024-06-29",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -136,7 +136,7 @@
     {
       "Datum": "2024-07-01",
       "Zeit": "17.30 - 21.00 Uhr",
-      "Thema": "Tri, Tra, Trauti - mit uns in die neue Zeit: FREIE SACHSEN unterstützen den Protest von PEGIDA!",
+      "Thema": "Mi, Ma Michael - mit uns in die neue Zeit: FREIE SACHSEN unterstützen den Protest von PEGIDA! Michael Brück zeigt euch den Weg zum Frieden! ",
       "Ort": "Moritzgasse",
       "Startpunkt": null,
       "Teilnehmer": "20- 30",
@@ -701,6 +701,16 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-08-28",
+      "Zeit": null,
+      "Thema": "Gemeinsam für Vernunft und Gerechtigkeit - auch im Landtag!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "BSW (Bündnis Sahra Wagenknecht)",
       "Status": "angemeldet"
     },
     {
