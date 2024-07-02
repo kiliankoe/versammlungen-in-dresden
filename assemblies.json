@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-07-01",
+  "Dateidatum": "2024-07-02",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,106 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-07-01",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-07-01",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "30-40",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-07-01",
-      "Zeit": null,
-      "Thema": "Fred stellt sich in den Weg",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "Fred die Linke Socke",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2024-07-01",
-      "Zeit": "18.30 - 21.30 Uhr",
-      "Thema": "Gegen Glaubenskriege auf deutschem Boden",
-      "Ort": null,
-      "Startpunkt": "Moritzgasse",
-      "Teilnehmer": "1.000",
-      "Veranstalter": "PEGIDA Förderverein e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-07-01",
-      "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2024-07-01",
-      "Zeit": "18.00 - 19.00 Uhr",
-      "Thema": "Tag des Widerstands, gegen Hartz IV, Rasismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine. Kampf der Weltkriegsgefahr! Solidarität mit Gaza!",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "40",
-      "Veranstalter": "Demokratische Montagsaktion/ Montag Tag des Widerstands/Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-07-01",
-      "Zeit": "17.00 - 21.00 Uhr",
-      "Thema": "Kein Fußbreit Pegida",
-      "Ort": null,
-      "Startpunkt": "Alaunplatz",
-      "Teilnehmer": "500",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-07-01",
-      "Zeit": "18.15 - 21.00 Uhr",
-      "Thema": "Dresden positiv besetzen",
-      "Ort": "Neumarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "150",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-07-01",
-      "Zeit": "17.30 - 21.00 Uhr",
-      "Thema": "Mi, Ma Michael - mit uns in die neue Zeit: FREIE SACHSEN unterstützen den Protest von PEGIDA! Michael Brück zeigt euch den Weg zum Frieden! ",
-      "Ort": "Moritzgasse",
-      "Startpunkt": null,
-      "Teilnehmer": "20- 30",
-      "Veranstalter": "FREIE SACHSEN",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-07-01",
-      "Zeit": "17.00 - 18.00 Uhr",
-      "Thema": "Gedenken an Marwa El-Sherbini",
-      "Ort": "Marwa El-Sherbini-Park",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "Ausländerrat Dresden e.V.",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-07-04",
       "Zeit": "07.40 - 08.45 Uhr",
@@ -151,7 +51,7 @@
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "Jusos in der SPD Sachsen",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2024-07-07",
@@ -895,6 +795,26 @@
     },
     {
       "Datum": "2024-09-23",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-09-30",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "30-40",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-09-30",
       "Zeit": null,
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
