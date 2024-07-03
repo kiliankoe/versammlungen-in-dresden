@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-07-02",
+  "Dateidatum": "2024-07-03",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -121,6 +121,26 @@
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "SPD - Ortsverein Striesen Blasewitz Gruna",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-07-13",
+      "Zeit": null,
+      "Thema": "AfD Sachsen -Wahlkampfauftakt ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "AfD Sachsen",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-07-13",
+      "Zeit": null,
+      "Thema": "Sisters e.V.- für den Ausstieg aus der Prostitution",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Sisters e.V. ",
       "Status": "angemeldet"
     },
     {
