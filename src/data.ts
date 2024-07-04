@@ -16,7 +16,7 @@ const rightWingOrganizers = [
   "die heimat",
 ];
 
-const rightWingTopics = ["bühlau geht spazieren"];
+const rightWingTopics = ["bühlau geht spazieren", "blaue welle"];
 
 export function contentWarning(assembly: Assembly): string | undefined {
   if (rightWingTopics.includes(assembly.Thema.toLowerCase())) {
