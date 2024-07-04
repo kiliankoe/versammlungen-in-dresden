@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-07-03",
+  "Dateidatum": "2024-07-04",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -55,13 +55,13 @@
     },
     {
       "Datum": "2024-07-07",
-      "Zeit": null,
+      "Zeit": "15.50 - 21.00 Uhr",
       "Thema": "Blaue Welle",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Altmarkt ",
       "Teilnehmer": "1.000",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-07-07",
@@ -106,10 +106,10 @@
     {
       "Datum": "2024-07-08",
       "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Thema": "Wer schweigt stimmt zu-Zeit für Bürgerverantwortung",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "300",
+      "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -145,13 +145,13 @@
     },
     {
       "Datum": "2024-07-14",
-      "Zeit": null,
+      "Zeit": "15.00 - 22.00 Uhr",
       "Thema": "Internationaler Tag der nichtbinären Menschen",
-      "Ort": null,
+      "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
       "Teilnehmer": "40",
       "Veranstalter": "TIN-Vernetzung Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-07-15",
@@ -185,16 +185,6 @@
     },
     {
       "Datum": "2024-07-15",
-      "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2024-07-15",
       "Zeit": "18.00 - 19.00 Uhr",
       "Thema": "Tag des Widerstands, gegen Hartz IV, Rasismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine. Kampf der Weltkriegsgefahr! Solidarität mit Gaza!",
       "Ort": "Prager Straße",
@@ -202,6 +192,16 @@
       "Teilnehmer": "40",
       "Veranstalter": "Demokratische Montagsaktion/ Montag Tag des Widerstands/Dresden",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-07-15",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu-Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-07-19",
@@ -256,10 +256,10 @@
     {
       "Datum": "2024-07-22",
       "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Thema": "Wer schweigt stimmt zu-Zeit für Bürgerverantwortung",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "300",
+      "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -291,16 +291,6 @@
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "Fred die Linke Socke",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2024-07-29",
-      "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -314,6 +304,26 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2024-07-29",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu-Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-08-04",
+      "Zeit": null,
+      "Thema": "Protestkundgebung zum Tag des offenen Regierungsviertels.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-08-05",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -346,10 +356,10 @@
     {
       "Datum": "2024-08-05",
       "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Thema": "Wer schweigt stimmt zu-Zeit für Bürgerverantwortung",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "300",
+      "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -604,6 +614,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2024-08-31",
+      "Zeit": null,
+      "Thema": "Patriotisches Sommerfest - Demokratie gestalten - Wählen gehen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "PEGIDA Förderverein e. V.",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-09-01",
       "Zeit": null,
       "Thema": "Demokratie leben - Grundrechte schützen - Versammlungsfreiheit sichern.",
@@ -801,6 +821,16 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-09-20",
+      "Zeit": null,
+      "Thema": "Globaler Klimastreik",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "Fridays for Future Dresden",
       "Status": "angemeldet"
     },
     {
