@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-07-05",
+  "Dateidatum": "2024-07-06",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -25,19 +25,19 @@
     },
     {
       "Datum": "2024-07-06",
-      "Zeit": null,
+      "Zeit": "13.30 - 18.30 Uhr",
       "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)! ",
-      "Ort": null,
+      "Ort": "Altmarkt",
       "Startpunkt": null,
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-07-06",
-      "Zeit": null,
+      "Zeit": "14.00 - 16.00 Uhr",
       "Thema": "Wahlkampfauftakt der Jusos Sachsen - Ich könnte 100 Dinge aufzählen, die ich ändern mag.",
-      "Ort": null,
+      "Ort": "Bernhard-von-Lindenau-Platz",
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "Jusos in der SPD Sachsen",
@@ -101,6 +101,16 @@
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-07-13",
+      "Zeit": "13.30 - 18.30 Uhr",
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)! ",
+      "Ort": "Altmarkt",
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
       "Status": "beschieden"
     },
     {
@@ -214,6 +224,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2024-07-20",
+      "Zeit": "13.30 - 18.30 Uhr",
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)! ",
+      "Ort": "Prager Straße",
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "beschieden"
+    },
+    {
       "Datum": "2024-07-22",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -251,6 +271,16 @@
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-07-27",
+      "Zeit": "13.30 - 18.30 Uhr",
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)! ",
+      "Ort": "Prager Straße",
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
       "Status": "beschieden"
     },
     {
