@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-07-06",
+  "Dateidatum": "2024-07-07",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,36 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-07-06",
-      "Zeit": "15.00 - 18.00 Uhr",
-      "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "Activists for the Victims e.V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-07-06",
-      "Zeit": "13.30 - 18.30 Uhr",
-      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)! ",
-      "Ort": "Altmarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "12",
-      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-07-06",
-      "Zeit": "14.00 - 16.00 Uhr",
-      "Thema": "Wahlkampfauftakt der Jusos Sachsen - Ich könnte 100 Dinge aufzählen, die ich ändern mag.",
-      "Ort": "Bernhard-von-Lindenau-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "100",
-      "Veranstalter": "Jusos in der SPD Sachsen",
-      "Status": "abgemeldet"
-    },
     {
       "Datum": "2024-07-07",
       "Zeit": "15.50 - 21.00 Uhr",
