@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-07-07",
+  "Dateidatum": "2024-07-08",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-07-07",
-      "Zeit": "15.50 - 21.00 Uhr",
-      "Thema": "Blaue Welle",
-      "Ort": null,
-      "Startpunkt": "Altmarkt ",
-      "Teilnehmer": "1.000",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-07-07",
-      "Zeit": "15.30 - 20.00 Uhr",
-      "Thema": "Querdullis von der Straße flauschen",
-      "Ort": null,
-      "Startpunkt": "Altmarkt",
-      "Teilnehmer": "250",
-      "Veranstalter": "Fred, die linke Socke",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-07-08",
       "Zeit": "18.00 - 19.30 Uhr",
