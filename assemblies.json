@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-07-08",
+  "Dateidatum": "2024-07-09",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,46 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-07-08",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-07-08",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "30-40",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-07-08",
-      "Zeit": "19.00 - 21.30 Uhr",
-      "Thema": "Fred stellt sich in den Weg",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "50",
-      "Veranstalter": "Fred die Linke Socke",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-07-08",
-      "Zeit": "19.00 - 20.00 Uhr",
-      "Thema": "Wer schweigt stimmt zu-Zeit für Bürgerverantwortung",
-      "Ort": "Wilsdruffer Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-07-13",
       "Zeit": "13.30 - 18.30 Uhr",
@@ -91,6 +51,16 @@
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Sisters e.V. ",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-07-14",
+      "Zeit": null,
+      "Thema": "Tierrechte - Stoppt die Zootierzucht!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "5",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -156,6 +126,16 @@
     {
       "Datum": "2024-07-19",
       "Zeit": null,
+      "Thema": "Gegen Unsozialdemokratie - niemand fährt 3 Stunden für einen Knochenjob!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-07-19",
+      "Zeit": null,
       "Thema": "Wahlkampfauftakt zur Landtagswahl  der SPD Sachsen",
       "Ort": null,
       "Startpunkt": null,
@@ -182,6 +162,16 @@
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-07-20",
+      "Zeit": null,
+      "Thema": "Kriege, eine unsichere Wirtschaft, Politische Unruhe und Umweltsorgen: ist es möglich in einer Welt im Kaus innere frieden zu finden.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "Weltweite Missionsbewegung e.V",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-07-22",
@@ -282,6 +272,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-08-01",
+      "Zeit": null,
+      "Thema": "Stoppt den fossilen Wahnsinn! Mit der Aktion fordern wir von der Politik und Verwaltung, dass Erneuerbarer Strom und Energiesparen vorangetrieben werden, sodass wir geordnet aus allen fossilen Energieträgern aussteigen können.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-08-04",
@@ -564,6 +564,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2024-08-27",
+      "Zeit": null,
+      "Thema": "Wahlkampfkundgebung mit Christian Lindner",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "FDP ",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-08-28",
       "Zeit": null,
       "Thema": "Gemeinsam für Vernunft und Gerechtigkeit - auch im Landtag!",
@@ -842,6 +852,16 @@
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-10-07",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "30-40",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
     }
   ]
 }
