@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-07-10",
+  "Dateidatum": "2024-07-11",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -35,13 +35,13 @@
     },
     {
       "Datum": "2024-07-13",
-      "Zeit": null,
+      "Zeit": "13.00 - 17.00 Uhr",
       "Thema": "AfD Sachsen -Wahlkampfauftakt ",
-      "Ort": null,
+      "Ort": "Schloßplatz",
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "AfD Sachsen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-07-13",
@@ -534,6 +534,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2024-08-25",
+      "Zeit": null,
+      "Thema": "Demo 'Wir Sind die Brandmauer'",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "5.000",
+      "Veranstalter": "DGB Region Dresden-Oberes Elbtal",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-08-26",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -591,6 +601,16 @@
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "BSW (Bündnis Sahra Wagenknecht)",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-08-29",
+      "Zeit": null,
+      "Thema": "AfD-Wahlkampfabschlussveranstaltung Landtagswahl Sachsen 2024",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1000",
+      "Veranstalter": "AfD Sachsen",
       "Status": "angemeldet"
     },
     {
@@ -790,6 +810,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "60",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-09-15",
+      "Zeit": null,
+      "Thema": "Hoffnung für die Erde leben",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "250",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
