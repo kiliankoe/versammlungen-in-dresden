@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-07-11",
+  "Dateidatum": "2024-07-12",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -130,6 +130,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-07-19",
+      "Zeit": null,
+      "Thema": "SPD wach auf! Appeasement-Politik bringt bei Putin nichts!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
