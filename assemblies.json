@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-07-12",
+  "Dateidatum": "2024-07-13",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -45,23 +45,23 @@
     },
     {
       "Datum": "2024-07-13",
-      "Zeit": null,
+      "Zeit": "16.00 - 19.00 Uhr",
       "Thema": "Sisters e.V.- für den Ausstieg aus der Prostitution",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Sisters e.V. ",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-07-14",
-      "Zeit": null,
+      "Zeit": "10.00 - 15.00 Uhr",
       "Thema": "Tierrechte - Stoppt die Zootierzucht!",
-      "Ort": null,
+      "Ort": "Tiergartenstraße",
       "Startpunkt": null,
       "Teilnehmer": "5",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-07-14",
