@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-07-14",
+  "Dateidatum": "2024-07-15",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-07-14",
-      "Zeit": "10.00 - 15.00 Uhr",
-      "Thema": "Tierrechte - Stoppt die Zootierzucht!",
-      "Ort": "Tiergartenstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "5",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-07-14",
-      "Zeit": "15.00 - 22.00 Uhr",
-      "Thema": "Internationaler Tag der nichtbinären Menschen",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "40",
-      "Veranstalter": "TIN-Vernetzung Dresden",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-07-15",
       "Zeit": "18.00 - 19.30 Uhr",
