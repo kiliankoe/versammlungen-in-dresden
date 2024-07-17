@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-07-16",
+  "Dateidatum": "2024-07-17",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -65,13 +65,13 @@
     },
     {
       "Datum": "2024-07-20",
-      "Zeit": null,
+      "Zeit": "12.00 - 16.00 Uhr",
       "Thema": "Kriege, eine unsichere Wirtschaft, Politische Unruhe und Umweltsorgen: ist es möglich in einer Welt im Kaus innere frieden zu finden.",
-      "Ort": null,
+      "Ort": "Wiener Platz",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "Weltweite Missionsbewegung e.V",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-07-21",
@@ -446,7 +446,7 @@
     {
       "Datum": "2024-08-25",
       "Zeit": null,
-      "Thema": "Demo 'Wir Sind die Brandmauer'",
+      "Thema": "Wir Sind die Brandmauer",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "5.000",
@@ -561,6 +561,16 @@
       "Startpunkt": null,
       "Teilnehmer": "400",
       "Veranstalter": "Initiative 'Herz statt Hetze'",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-09-01",
+      "Zeit": null,
+      "Thema": "1. September - Weltfriedenstag",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
