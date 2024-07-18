@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-07-17",
+  "Dateidatum": "2024-07-18",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -16,12 +16,22 @@
     {
       "Datum": "2024-07-19",
       "Zeit": null,
-      "Thema": "Gegen Unsozialdemokratie - niemand fährt 3 Stunden für einen Knochenjob!",
+      "Thema": "Nancy Faeser verbieten! Freie Sachsen für Freie Presse",
       "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "Freie Sachsen",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-07-19",
+      "Zeit": "15.00 - 18.00 Uhr",
+      "Thema": "Gegen Unsozialdemokratie - niemand fährt 3 Stunden für einen Knochenjob!",
+      "Ort": "Brühlsche Treppe",
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-07-19",
@@ -135,13 +145,13 @@
     },
     {
       "Datum": "2024-07-28",
-      "Zeit": null,
+      "Zeit": "14.00 - 18.00 Uhr",
       "Thema": "Venezolaner vereinigt für die Freiheit ",
-      "Ort": null,
+      "Ort": "Theaterplatz",
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "Venezolanos en Sajonia e.V",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-07-29",
