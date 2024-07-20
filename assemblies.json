@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-07-19",
+  "Dateidatum": "2024-07-20",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,46 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-07-19",
-      "Zeit": "15.00 - 20.00 Uhr",
-      "Thema": "Nancy Faeser verbieten! Freie Sachsen für Freie Presse",
-      "Ort": "Augustusbrücke",
-      "Startpunkt": null,
-      "Teilnehmer": "200",
-      "Veranstalter": "Freie Sachsen",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-07-19",
-      "Zeit": "15.00 - 18.00 Uhr",
-      "Thema": "Gegen Unsozialdemokratie - niemand fährt 3 Stunden für einen Knochenjob!",
-      "Ort": "Brühlsche Treppe",
-      "Startpunkt": null,
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-07-19",
-      "Zeit": "15.00 - 18.00 Uhr",
-      "Thema": "SPD wach auf! Appeasement-Politik bringt bei Putin nichts!",
-      "Ort": "Sophienstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "150",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-07-19",
-      "Zeit": "15.30 - 17.55 Uhr",
-      "Thema": "Wahlkampfauftakt zur Landtagswahl der SPD Sachsen",
-      "Ort": "Schloßplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "500",
-      "Veranstalter": "SPD Landesverband Sachsen",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-07-20",
       "Zeit": "15.00 - 18.00 Uhr",
@@ -141,7 +101,7 @@
       "Startpunkt": null,
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
-      "Status": "beschieden"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2024-07-28",
@@ -295,13 +255,13 @@
     },
     {
       "Datum": "2024-08-09",
-      "Zeit": null,
+      "Zeit": "14.00 - 22.00 Uhr",
       "Thema": "'Refugees unite!' - Empowerment von Geflüchteten zur Teilhabe an gesellschaftlichen Prozessen",
-      "Ort": null,
+      "Ort": "Alaunplatz",
       "Startpunkt": null,
       "Teilnehmer": "400",
       "Veranstalter": "Sächsischer Flüchtlingsrat e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-09",
@@ -315,13 +275,13 @@
     },
     {
       "Datum": "2024-08-10",
-      "Zeit": null,
+      "Zeit": "14.00 - 22.00 Uhr",
       "Thema": "'Refugees unite!' - Empowerment von Geflüchteten zur Teilhabe an gesellschaftlichen Prozessen",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Alaunplatz",
       "Teilnehmer": "400",
       "Veranstalter": "Sächsischer Flüchtlingsrat e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-12",
