@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-07-21",
+  "Dateidatum": "2024-07-22",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-07-21",
-      "Zeit": "10.00 - 12.00 Uhr",
-      "Thema": "Wahlkampfauftakt Landtagswahl 2024 BÜNDNIS 90/DIE GRÜNEN Sachsen",
-      "Ort": "Fläche in Höhe des Milchpavillons",
-      "Startpunkt": null,
-      "Teilnehmer": "40",
-      "Veranstalter": "BÜNDNIS 90/DIE GRÜNEN Sachsen",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-07-22",
       "Zeit": "18.00 - 19.30 Uhr",
@@ -72,6 +62,16 @@
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
       "Status": "abgemeldet"
+    },
+    {
+      "Datum": "2024-07-27",
+      "Zeit": null,
+      "Thema": "Austausch mit Ukrainerinnen und Ukrainern - liebe Dresdnerinnen und Dresdner, wir müssen reden!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-07-28",
@@ -241,6 +241,16 @@
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "Attac Dresden c/o ÖIZ Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-08-09",
+      "Zeit": null,
+      "Thema": "'Liebe Leute geht wählen!' - Kundgebung zur Wahlermutigung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "8",
+      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
       "Status": "angemeldet"
     },
     {
