@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-07-23",
+  "Dateidatum": "2024-07-24",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,6 +14,16 @@
   ],
   "Versammlungen": [
     {
+      "Datum": "2024-07-26",
+      "Zeit": null,
+      "Thema": "Solidarität mit Studenten in Bangladesch",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-07-27",
       "Zeit": "13.30 - 18.30 Uhr",
       "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)! ",
@@ -25,13 +35,13 @@
     },
     {
       "Datum": "2024-07-27",
-      "Zeit": null,
+      "Zeit": "11.00 - 14.00 Uhr",
       "Thema": "Austausch mit Ukrainerinnen und Ukrainern - liebe Dresdnerinnen und Dresdner, wir müssen reden!",
-      "Ort": null,
+      "Ort": "Dr.-Külz-Ring",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-07-28",
@@ -410,7 +420,7 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "80",
-      "Veranstalter": "DGB Dresden-Oberes Elbtal",
+      "Veranstalter": "DGB Dresden-Oberes Elbtal und IG NGG Dresden-Chemnitz ",
       "Status": "angemeldet"
     },
     {
