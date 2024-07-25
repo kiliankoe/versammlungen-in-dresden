@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-07-24",
+  "Dateidatum": "2024-07-25",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -15,13 +15,13 @@
   "Versammlungen": [
     {
       "Datum": "2024-07-26",
-      "Zeit": null,
+      "Zeit": "18.00 - 20.00 Uhr",
       "Thema": "Solidarität mit Studenten in Bangladesch",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-07-27",
@@ -215,13 +215,13 @@
     },
     {
       "Datum": "2024-08-09",
-      "Zeit": null,
+      "Zeit": "10.00 - 14.00 Uhr",
       "Thema": "'Liebe Leute geht wählen!' - Kundgebung zur Wahlermutigung",
-      "Ort": null,
+      "Ort": "Lennéstraße",
       "Startpunkt": null,
       "Teilnehmer": "8",
       "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-10",
@@ -282,6 +282,16 @@
       "Teilnehmer": "40",
       "Veranstalter": "Demokratische Montagsaktion/ Montag Tag des Widerstands/Dresden",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-08-17",
+      "Zeit": null,
+      "Thema": "Stadtgeschichte 2025",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-08-19",
@@ -411,6 +421,16 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-08-26",
+      "Zeit": null,
+      "Thema": "Eintreten für die Tarifwende",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "DGB Dresden-Oberes Elbtal und IG Metall Dresden",
       "Status": "angemeldet"
     },
     {
