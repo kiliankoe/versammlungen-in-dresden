@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-07-25",
+  "Dateidatum": "2024-07-26",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -105,13 +105,13 @@
     },
     {
       "Datum": "2024-08-01",
-      "Zeit": null,
+      "Zeit": "07.40 - 08.45 Uhr",
       "Thema": "Stoppt den fossilen Wahnsinn! Mit der Aktion fordern wir von der Politik und Verwaltung, dass Erneuerbarer Strom und Energiesparen vorangetrieben werden, sodass wir geordnet aus allen fossilen Energieträgern aussteigen können.",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Stauffenbergallee",
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-04",
@@ -435,13 +435,13 @@
     },
     {
       "Datum": "2024-08-27",
-      "Zeit": null,
+      "Zeit": "13.00 - 15.00 Uhr",
       "Thema": "Eintreten für die Tarifwende",
-      "Ort": null,
+      "Ort": "Offenburger Straße",
       "Startpunkt": null,
       "Teilnehmer": "80",
       "Veranstalter": "DGB Dresden-Oberes Elbtal und IG NGG Dresden-Chemnitz ",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-27",
@@ -476,21 +476,21 @@
     {
       "Datum": "2024-08-31",
       "Zeit": null,
-      "Thema": "Patriotisches Sommerfest - Demokratie gestalten - Wählen gehen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "1.000",
-      "Veranstalter": "PEGIDA Förderverein e. V.",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2024-08-31",
-      "Zeit": null,
       "Thema": "Tolerade 2024 - Sachsen bleibt demokratisch!",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "8.000",
       "Veranstalter": "Tolerave e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-08-31",
+      "Zeit": null,
+      "Thema": "Patriotisches Sommerfest - Demokratie gestalten - Wählen gehen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "PEGIDA Förderverein e. V.",
       "Status": "angemeldet"
     },
     {
@@ -761,6 +761,16 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-10-03",
+      "Zeit": null,
+      "Thema": "3. Oktober_Deutschland unsere Heimat.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "AfD Dresden",
       "Status": "angemeldet"
     },
     {
