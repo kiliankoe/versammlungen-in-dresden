@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-07-26",
+  "Dateidatum": "2024-07-27",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-07-26",
-      "Zeit": "18.00 - 20.00 Uhr",
-      "Thema": "Solidarität mit Studenten in Bangladesch",
-      "Ort": "Neumarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-07-27",
       "Zeit": "13.30 - 18.30 Uhr",
@@ -425,13 +415,13 @@
     },
     {
       "Datum": "2024-08-26",
-      "Zeit": null,
+      "Zeit": "12.00 - 14.30 Uhr",
       "Thema": "Eintreten für die Tarifwende",
-      "Ort": null,
+      "Ort": "Elisabeth-Boer-Straße",
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "DGB Dresden-Oberes Elbtal und IG Metall Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-27",
