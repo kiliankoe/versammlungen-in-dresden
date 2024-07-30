@@ -15,13 +15,13 @@
   "Versammlungen": [
     {
       "Datum": "2024-07-30",
-      "Zeit": null,
+      "Zeit": "14.00 - 18.00 Uhr",
       "Thema": "Freiheit für Venezuela ",
-      "Ort": null,
+      "Ort": "Theaterplatz",
       "Startpunkt": null,
       "Teilnehmer": "400",
       "Veranstalter": "Venezolanos en Sajonia e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-07-31",
@@ -31,7 +31,7 @@
       "Startpunkt": null,
       "Teilnehmer": "400",
       "Veranstalter": "Venezolanos en Sajonia e. V.",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2024-08-01",
@@ -45,13 +45,13 @@
     },
     {
       "Datum": "2024-08-01",
-      "Zeit": null,
+      "Zeit": "14.00 - 18.00 Uhr",
       "Thema": "Freiheit für Venezuela ",
-      "Ort": null,
+      "Ort": "Theaterplatz",
       "Startpunkt": null,
       "Teilnehmer": "400",
       "Veranstalter": "Venezolanos en Sajonia e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-03",
@@ -310,6 +310,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-08-23",
+      "Zeit": null,
+      "Thema": "Aktiv für die Umsetung der Verkehrswende lebenswerte Städte im Sinne des Klimaschutz´ & Generations Vertrages, Klimaneutrale - Auto unabhängiger Mobilität, Stärkung des ÖPNV. Reformierung STVO, VwVSTVO, sicherer Altersunabhänhige in der urb",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "60",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
