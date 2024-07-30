@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-07-29",
+  "Dateidatum": "2024-07-30",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,54 +14,24 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2024-07-29",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
+      "Datum": "2024-07-30",
+      "Zeit": null,
+      "Thema": "Freiheit für Venezuela ",
       "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-07-29",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
-      "Teilnehmer": "30-40",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Teilnehmer": "400",
+      "Veranstalter": "Venezolanos en Sajonia e. V.",
+      "Status": "angemeldet"
     },
     {
-      "Datum": "2024-07-29",
-      "Zeit": "19.00 - 21.30 Uhr",
-      "Thema": "Fred stellt sich in den Weg",
+      "Datum": "2024-07-31",
+      "Zeit": null,
+      "Thema": "Freiheit für Venezuela ",
       "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "50",
-      "Veranstalter": "Fred die Linke Socke",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-07-29",
-      "Zeit": "18.00 - 19.00 Uhr",
-      "Thema": "Tag des Widerstands, gegen Hartz IV, Rasismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine. Kampf der Weltkriegsgefahr! Solidarität mit Gaza!",
-      "Ort": "Prager Straße",
       "Startpunkt": null,
-      "Teilnehmer": "40",
-      "Veranstalter": "Demokratische Montagsaktion/ Montag Tag des Widerstands/Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-07-29",
-      "Zeit": "19.00 - 20.00 Uhr",
-      "Thema": "Wer schweigt stimmt zu-Zeit für Bürgerverantwortung",
-      "Ort": "Wilsdruffer Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Teilnehmer": "400",
+      "Veranstalter": "Venezolanos en Sajonia e. V.",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-08-01",
@@ -72,6 +42,26 @@
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-08-01",
+      "Zeit": null,
+      "Thema": "Freiheit für Venezuela ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "400",
+      "Veranstalter": "Venezolanos en Sajonia e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-08-03",
+      "Zeit": null,
+      "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Activists for the Victims e. V.",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-08-04",
@@ -194,6 +184,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2024-08-11",
+      "Zeit": null,
+      "Thema": "Demonstration in Solidarität mit dem kubanischen Volk, für die Freilassung aller politischen Gefangenen in Kuba",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "40",
+      "Veranstalter": "PatriaYVida e. V.",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-08-12",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -246,6 +246,16 @@
     {
       "Datum": "2024-08-17",
       "Zeit": null,
+      "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Activists for the Victims e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-08-17",
+      "Zeit": null,
       "Thema": "Stadtgeschichte 2025",
       "Ort": null,
       "Startpunkt": null,
@@ -290,6 +300,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-08-21",
+      "Zeit": null,
+      "Thema": "Ohne Kerosin Nach Berlin",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -755,6 +775,16 @@
     },
     {
       "Datum": "2024-10-21",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "30-40",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-10-28",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
