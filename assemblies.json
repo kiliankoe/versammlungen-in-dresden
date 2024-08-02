@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-08-01",
+  "Dateidatum": "2024-08-02",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,44 +14,24 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2024-08-01",
-      "Zeit": "07.40 - 08.45 Uhr",
-      "Thema": "Stoppt den fossilen Wahnsinn! Mit der Aktion fordern wir von der Politik und Verwaltung, dass Erneuerbarer Strom und Energiesparen vorangetrieben werden, sodass wir geordnet aus allen fossilen Energieträgern aussteigen können.",
-      "Ort": null,
-      "Startpunkt": "Stauffenbergallee",
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-08-01",
-      "Zeit": "14.00 - 18.00 Uhr",
-      "Thema": "Freiheit für Venezuela ",
-      "Ort": "Theaterplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "400",
-      "Veranstalter": "Venezolanos en Sajonia e. V.",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2024-08-03",
-      "Zeit": null,
+      "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "12",
       "Veranstalter": "Activists for the Victims e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-03",
-      "Zeit": null,
+      "Zeit": "11.00 - 14.00 Uhr",
       "Thema": "Austausch mit Ukrainerinnen und Ukrainern - liebe Dresdnerinnen und Dresdner, wir müssen reden!",
-      "Ort": null,
+      "Ort": "Dr.-Külz-Ring",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-04",
@@ -175,13 +155,13 @@
     },
     {
       "Datum": "2024-08-11",
-      "Zeit": null,
+      "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "Demonstration in Solidarität mit dem kubanischen Volk, für die Freilassung aller politischen Gefangenen in Kuba",
-      "Ort": null,
+      "Ort": "Alaunplatz",
       "Startpunkt": null,
       "Teilnehmer": "40",
       "Veranstalter": "PatriaYVida e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-12",
@@ -235,13 +215,13 @@
     },
     {
       "Datum": "2024-08-17",
-      "Zeit": null,
+      "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "12",
       "Veranstalter": "Activists for the Victims e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-17",
@@ -341,6 +321,16 @@
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "Stützpunkt Ukraine e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-08-24",
+      "Zeit": null,
+      "Thema": "Tour de Verkehrswende 2024",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -550,26 +540,6 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2024-09-04",
-      "Zeit": null,
-      "Thema": "Tierschutz-Camp für Tier-, Menschenrechte, Veganismus und Umweltschutz 2024",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "60",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2024-09-05",
-      "Zeit": null,
-      "Thema": "Tierschutz-Camp für Tier-, Menschenrechte, Veganismus und Umweltschutz 2024",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "60",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
