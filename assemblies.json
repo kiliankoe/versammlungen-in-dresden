@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-08-02",
+  "Dateidatum": "2024-08-03",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -112,6 +112,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "Attac Dresden c/o ÖIZ Dresden",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-08-08",
+      "Zeit": null,
+      "Thema": "ZAAVV-Sommertour - Demokratie (er)leben",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-08-09",
@@ -510,6 +520,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-09-01",
+      "Zeit": null,
+      "Thema": "Gegen Besatzung und Völkermord. Freiheit für Palästina",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
