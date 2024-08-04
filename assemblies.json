@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-08-03",
+  "Dateidatum": "2024-08-04",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-08-03",
-      "Zeit": "15.00 - 18.00 Uhr",
-      "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "12",
-      "Veranstalter": "Activists for the Victims e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-08-03",
-      "Zeit": "11.00 - 14.00 Uhr",
-      "Thema": "Austausch mit Ukrainerinnen und Ukrainern - liebe Dresdnerinnen und Dresdner, wir müssen reden!",
-      "Ort": "Dr.-Külz-Ring",
-      "Startpunkt": null,
-      "Teilnehmer": "15",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-08-04",
       "Zeit": null,
