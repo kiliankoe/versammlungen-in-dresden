@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-08-04",
+  "Dateidatum": "2024-08-05",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-08-04",
-      "Zeit": null,
-      "Thema": "Protestkundgebung zum Tag des offenen Regierungsviertels.",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "100",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
     {
       "Datum": "2024-08-05",
       "Zeit": "18.00 - 19.30 Uhr",
