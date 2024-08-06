@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-08-05",
+  "Dateidatum": "2024-08-06",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,46 +14,6 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2024-08-05",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-08-05",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "30-40",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-08-05",
-      "Zeit": "19.00 - 21.30 Uhr",
-      "Thema": "Fred stellt sich in den Weg",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "50",
-      "Veranstalter": "Fred die Linke Socke",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-08-05",
-      "Zeit": "19.00 - 20.00 Uhr",
-      "Thema": "Wer schweigt stimmt zu-Zeit für Bürgerverantwortung",
-      "Ort": "Wilsdruffer Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2024-08-06",
       "Zeit": "08.00 - 22.00 Uhr",
       "Thema": "Abschaffung von Atomwaffen. Anlass der Mahnwache sind die Atombombenabwürfe auf Hiroshima und Nagasaki am 6.8. und 9.8.1945.",
@@ -61,6 +21,16 @@
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "Attac Dresden c/o ÖIZ Dresden",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-08-06",
+      "Zeit": "15.00 - 17.00 Uhr",
+      "Thema": "Isolationshaft beenden - Freiheit für Abdullah Öcalan",
+      "Ort": "Dr.-Külz-Ring",
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
       "Status": "beschieden"
     },
     {
@@ -74,6 +44,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2024-08-07",
+      "Zeit": null,
+      "Thema": "Jesus - Friedefürst",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-08-08",
       "Zeit": "08.00 - 22.00 Uhr",
       "Thema": "Abschaffung von Atomwaffen. Anlass der Mahnwache sind die Atombombenabwürfe auf Hiroshima und Nagasaki am 6.8. und 9.8.1945.",
@@ -82,6 +62,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "Attac Dresden c/o ÖIZ Dresden",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-08-08",
+      "Zeit": null,
+      "Thema": "Jesus unser Friede",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-08-08",
@@ -144,6 +134,26 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2024-08-11",
+      "Zeit": null,
+      "Thema": "Ein Herz für Bullen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Die PARTEI",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-08-11",
+      "Zeit": null,
+      "Thema": "Victory March for Bangladesh",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-08-12",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -192,6 +202,26 @@
       "Teilnehmer": "40",
       "Veranstalter": "Demokratische Montagsaktion/ Montag Tag des Widerstands/Dresden",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-08-13",
+      "Zeit": null,
+      "Thema": "Kundgebung zum Jahrestag des Mauerbaus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "FDP Sachsen",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-08-15",
+      "Zeit": null,
+      "Thema": "'Liebe Leute geht wählen!' Kundgebung zur Wahlermutigung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "8",
+      "Veranstalter": "OMAS GEGEN RECHTS:DRESDEN",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-08-17",
@@ -264,6 +294,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2024-08-21",
+      "Zeit": null,
+      "Thema": "'Liebe Leute geht wählen!' - Kundgebung zur Wahlermutigung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "8",
+      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-08-23",
       "Zeit": null,
       "Thema": "Aktiv für die Umsetzung der Verkehrswende lebenswerte Städte im Sinne des Klimaschutz´ & Generations Vertrages, Klimaneutrale - Auto unabhängiger Mobilität, Stärkung des ÖPNV. Reformierung STVO, VwVSTVO, sicherer Altersunabhängige [...]",
@@ -324,6 +364,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2024-08-24",
+      "Zeit": null,
+      "Thema": "Demostration der Freiwilligendienstleistenden in Sachsen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "Engagementstiftung Sachsen",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-08-25",
       "Zeit": null,
       "Thema": "Demokratie verteidigen",
@@ -381,6 +431,16 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-08-26",
+      "Zeit": null,
+      "Thema": "'Liebe Leute geht wählen!' - Kundgebung zur Wahlermutigung ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "8",
+      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
       "Status": "angemeldet"
     },
     {
@@ -765,6 +825,16 @@
     },
     {
       "Datum": "2024-10-28",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "30-40",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-11-04",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
