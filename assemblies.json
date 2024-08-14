@@ -35,13 +35,13 @@
     },
     {
       "Datum": "2024-08-16",
-      "Zeit": null,
+      "Zeit": "09.00 - 12.00 Uhr",
       "Thema": "Kundgebung für eine gerechte Gesundheits- und Rentenpolitik",
-      "Ort": null,
+      "Ort": "Helmut-Schön-Allee/Ecke Lennéstraße",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Sozialdemokratische Partei Deutschlands - Landesverband Sachsen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-17",
@@ -75,13 +75,13 @@
     },
     {
       "Datum": "2024-08-17",
-      "Zeit": null,
+      "Zeit": "11.00 - 14.00 Uhr",
       "Thema": "Dresden steht an der Seite Israels",
-      "Ort": null,
+      "Ort": "Dr.-Külz-Ring",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Bündnis C - Christen für Deutschland LV Sachsen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-17",
@@ -145,13 +145,13 @@
     },
     {
       "Datum": "2024-08-19",
-      "Zeit": null,
+      "Zeit": "17.00 - 21.00 Uhr",
       "Thema": "'Wer Bäume will, soll in den Alaunpark ... Nein! Wir wollen eine Baumallee auf der Königsbrücker!'",
-      "Ort": null,
+      "Ort": "Alaunpark ",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "Bürgerinitiative 'Stadt muss atmen' und 'Königsbrücker muss leben!'",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-21",
@@ -190,6 +190,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "60",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-08-23",
+      "Zeit": null,
+      "Thema": "Galerie der Aufklärung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -300,6 +310,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "5.000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-08-25",
+      "Zeit": null,
+      "Thema": "Strehlen bleibt kein Ort für Nazis!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
