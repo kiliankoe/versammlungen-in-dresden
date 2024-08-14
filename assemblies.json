@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-08-13",
+  "Dateidatum": "2024-08-14",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,24 +14,14 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2024-08-13",
-      "Zeit": "10.00 - 11.00 Uhr",
-      "Thema": "Kundgebung zum Jahrestag des Mauerbaus",
-      "Ort": "Archivstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "FDP Sachsen",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2024-08-15",
-      "Zeit": null,
+      "Zeit": "17.30 - 18.00 Uhr",
       "Thema": "Drei Jahre Taliban in Afghanistan und alle schauen weg",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Pirnaischer Platz",
       "Teilnehmer": "25",
       "Veranstalter": "Seebrücke Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-15",
@@ -42,6 +32,16 @@
       "Teilnehmer": "8",
       "Veranstalter": "OMAS GEGEN RECHTS:DRESDEN",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-08-16",
+      "Zeit": null,
+      "Thema": "Kundgebung für eine gerechte Gesundheits- und Rentenpolitik",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Sozialdemokratische Partei Deutschlands - Landesverband Sachsen",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-08-16",
@@ -65,13 +65,13 @@
     },
     {
       "Datum": "2024-08-17",
-      "Zeit": null,
+      "Zeit": "17.00 - 17.30 Uhr",
       "Thema": "Stadtgeschichte 2025",
-      "Ort": null,
+      "Ort": "Königsufer",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-17",
@@ -95,13 +95,13 @@
     },
     {
       "Datum": "2024-08-17",
-      "Zeit": null,
+      "Zeit": "14.00 - 18.00 Uhr",
       "Thema": "Freiheit für Venezuela ",
-      "Ort": null,
+      "Ort": "Wiener Platz",
       "Startpunkt": null,
       "Teilnehmer": "400",
       "Veranstalter": "Venezolanos en Sajonia e.V",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-19",
@@ -126,21 +126,21 @@
     {
       "Datum": "2024-08-19",
       "Zeit": null,
-      "Thema": "Fred stellt sich in den Weg",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "Fred die Linke Socke",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2024-08-19",
-      "Zeit": null,
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-08-19",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Fred die Linke Socke",
       "Status": "angemeldet"
     },
     {
