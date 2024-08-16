@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-08-15",
+  "Dateidatum": "2024-08-16",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-08-15",
-      "Zeit": "17.30 - 18.00 Uhr",
-      "Thema": "Drei Jahre Taliban in Afghanistan und alle schauen weg",
-      "Ort": null,
-      "Startpunkt": "Pirnaischer Platz",
-      "Teilnehmer": "25",
-      "Veranstalter": "Seebrücke Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-08-15",
-      "Zeit": "14.00 - 18.00 Uhr",
-      "Thema": "'Liebe Leute geht wählen!' Kundgebung zur Wahlermutigung",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "8",
-      "Veranstalter": "OMAS GEGEN RECHTS:DRESDEN",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-08-16",
       "Zeit": "09.00 - 12.00 Uhr",
@@ -94,6 +74,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2024-08-18",
+      "Zeit": null,
+      "Thema": "Gespräch mit Dresdnern und Dresdnerinnen über den Krieg in der Ukraine",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-08-19",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -125,13 +115,13 @@
     },
     {
       "Datum": "2024-08-19",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.30 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "50",
       "Veranstalter": "Fred die Linke Socke",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-19",
@@ -441,6 +431,16 @@
       "Startpunkt": null,
       "Teilnehmer": "1000",
       "Veranstalter": "AfD Sachsen",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-08-30",
+      "Zeit": null,
+      "Thema": "Grüne Faschisten sind in Dresden nicht willkommen!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
