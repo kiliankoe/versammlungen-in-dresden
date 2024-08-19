@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-08-18",
+  "Dateidatum": "2024-08-19",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-08-18",
-      "Zeit": "10.55 - 14.15 Uhr",
-      "Thema": "Gespräch mit Dresdnern und Dresdnerinnen über den Krieg in der Ukraine",
-      "Ort": "Seestraße",
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-08-19",
       "Zeit": "18.00 - 19.30 Uhr",
