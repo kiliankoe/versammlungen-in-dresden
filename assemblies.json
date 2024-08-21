@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-08-20",
+  "Dateidatum": "2024-08-21",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -15,13 +15,13 @@
   "Versammlungen": [
     {
       "Datum": "2024-08-21",
-      "Zeit": null,
+      "Zeit": "10.00 - 17.00 Uhr",
       "Thema": "Ohne Kerosin Nach Berlin",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Neumarkt",
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-21",
@@ -35,12 +35,22 @@
     },
     {
       "Datum": "2024-08-22",
-      "Zeit": null,
+      "Zeit": "15.30 - 17.00 Uhr",
       "Thema": "Wer eine*n angreift, greift alle an! Soziale Rechte bewahren, Kürzungen verhindern!",
-      "Ort": null,
+      "Ort": "Rathausplatz",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "Bündnis für Pflege",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-08-22",
+      "Zeit": null,
+      "Thema": "Solidarität mit der ermordeten Ärztin aus Kolkata - Gegen Gewalt und für Gerechtigkeit ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -70,6 +80,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "60",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-08-24",
+      "Zeit": null,
+      "Thema": "Solidarität mit Gaza",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -145,13 +165,13 @@
     },
     {
       "Datum": "2024-08-24",
-      "Zeit": null,
+      "Zeit": "14.00 - 16.00 Uhr",
       "Thema": "Demostration der Freiwilligendienstleistenden in Sachsen",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Jorge Gomondai Platz",
       "Teilnehmer": "100",
       "Veranstalter": "Engagementstiftung Sachsen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-25",
@@ -181,6 +201,16 @@
       "Startpunkt": null,
       "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-08-25",
+      "Zeit": null,
+      "Thema": "Demo 'Zubringer Wir Sind die Brandmauer'",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "Wir sind die Brandmauer",
       "Status": "angemeldet"
     },
     {
@@ -301,22 +331,22 @@
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2024-08-28",
-      "Zeit": null,
+      "Zeit": "14.30 - 17.00 Uhr",
       "Thema": "Kundgebung zum Apothekenreformgesetz",
-      "Ort": null,
+      "Ort": "Postplatz",
       "Startpunkt": null,
       "Teilnehmer": "1000",
       "Veranstalter": "Sächsicher Apothekerverband e. V. (SAV)",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-29",
       "Zeit": null,
-      "Thema": "AfD-Wahlkampfabschlussveranstaltung Landtagswahl Sachsen 2024",
+      "Thema": "AfD-Wahlkampfhöhepunkt mit Alice Weidel, Tino Chrupalla und Jörg Urban",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1000",
@@ -374,6 +404,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2024-08-31",
+      "Zeit": null,
+      "Thema": "Nach den Rechten sehen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-09-01",
       "Zeit": null,
       "Thema": "Demokratie leben - Grundrechte schützen - Versammlungsfreiheit sichern.",
@@ -381,7 +421,7 @@
       "Startpunkt": null,
       "Teilnehmer": "250",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2024-09-01",
@@ -461,6 +501,16 @@
       "Startpunkt": null,
       "Teilnehmer": "40",
       "Veranstalter": "Demokratische Montagsaktion/ Montag Tag des Widerstands/Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-09-05",
+      "Zeit": null,
+      "Thema": "Stoppt den fossilen Wahnsinn! Mit der Aktion fordern wir von der Politik und Verwaltung, dass Erneuerbarer Strom und Energiesparen vorangetrieben werden, sodass wir geordnet aus allen fossilen Energieträgern aussteigen können.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "23",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -621,6 +671,26 @@
       "Startpunkt": null,
       "Teilnehmer": "1.000",
       "Veranstalter": "Fridays for Future Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-09-20",
+      "Zeit": null,
+      "Thema": "Kita-Moratorium jetzt! - die letzte Chance",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "Gewerkschaft Erziehung und Wissenschaft (GEW) LV Sachsen",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-09-20",
+      "Zeit": null,
+      "Thema": "Park(ing) Day 2024 - Parkplätze zu Parks, Zusammenleben in Löbtau",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "Allgemeiner Deutscher Fahrrad Club (ADFC) Dresden e.V.",
       "Status": "angemeldet"
     },
     {
