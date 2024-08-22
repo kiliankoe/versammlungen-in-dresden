@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-08-21",
+  "Dateidatum": "2024-08-22",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,26 +14,6 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2024-08-21",
-      "Zeit": "10.00 - 17.00 Uhr",
-      "Thema": "Ohne Kerosin Nach Berlin",
-      "Ort": null,
-      "Startpunkt": "Neumarkt",
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-08-21",
-      "Zeit": "11.00 - 15.00 Uhr",
-      "Thema": "'Liebe Leute geht wählen!' - Kundgebung zur Wahlermutigung",
-      "Ort": "Leipziger Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "8",
-      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2024-08-22",
       "Zeit": "15.30 - 17.00 Uhr",
       "Thema": "Wer eine*n angreift, greift alle an! Soziale Rechte bewahren, Kürzungen verhindern!",
@@ -45,13 +25,13 @@
     },
     {
       "Datum": "2024-08-22",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Solidarität mit der ermordeten Ärztin aus Kolkata - Gegen Gewalt und für Gerechtigkeit ",
-      "Ort": null,
+      "Ort": "Wiener Platz",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-23",
@@ -75,22 +55,22 @@
     },
     {
       "Datum": "2024-08-23",
-      "Zeit": null,
+      "Zeit": "15.30 - 18.00 Uhr",
       "Thema": "Tour de Verkehrswende - die Zukunft radelt wieder",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Rathausplatz",
       "Teilnehmer": "60",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
-      "Datum": "2024-08-24",
+      "Datum": "2024-08-23",
       "Zeit": null,
-      "Thema": "Solidarität mit Gaza",
+      "Thema": "Waiting to Die?",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "500",
-      "Veranstalter": "natürliche Person",
+      "Teilnehmer": "150",
+      "Veranstalter": "Internationales Steiger Zentrum e.V.",
       "Status": "angemeldet"
     },
     {
@@ -132,6 +112,16 @@
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-08-24",
+      "Zeit": null,
+      "Thema": "Solidarität mit Gaza",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-08-24",
@@ -215,13 +205,13 @@
     },
     {
       "Datum": "2024-08-25",
-      "Zeit": null,
+      "Zeit": "13.45 - 15.00 Uhr",
       "Thema": "Strehlen bleibt kein Ort für Nazis!",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wasaplatz",
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-26",
@@ -265,13 +255,13 @@
     },
     {
       "Datum": "2024-08-26",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.00 Uhr",
       "Thema": "Tag des Widerstands, gegen Hartz IV, Rasismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine und den Völkermord in Gaza. Kampf der Weltkriegsgefahr!",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "40",
       "Veranstalter": "Demokratische Montagsaktion/ Montag Tag des Widerstands/Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-26",
@@ -292,6 +282,16 @@
       "Teilnehmer": "200",
       "Veranstalter": "DGB Dresden-Oberes Elbtal und IG Metall Dresden",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-08-26",
+      "Zeit": null,
+      "Thema": "15 Euro Mindestlohn für die Arbeitnehmer:innen in Sachsen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "SPD-Landesverband Sachsen",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-08-27",
@@ -344,6 +344,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2024-08-28",
+      "Zeit": null,
+      "Thema": "Keine Stimme dem Giftzwerg von der Angelikastraße -  Zarenknechte können keine gute Welt machen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-08-29",
       "Zeit": null,
       "Thema": "AfD-Wahlkampfhöhepunkt mit Alice Weidel, Tino Chrupalla und Jörg Urban",
@@ -365,13 +375,13 @@
     },
     {
       "Datum": "2024-08-30",
-      "Zeit": null,
+      "Zeit": "17.00 - 20.00 Uhr",
       "Thema": "Frieden und Freiheit für Mensch und Gesellschaft durch Hochheben christlicher Werte ",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "75",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-31",
@@ -441,6 +451,16 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-09-01",
+      "Zeit": null,
+      "Thema": "Erinnerung an vergessene Kriege - das Grauen von Kriegen außerhalb der öffentlichen Wahrnehmung soll für mehr Friedensbemühungen sensibilisieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "AG Antifa Die Linke Dresden",
       "Status": "angemeldet"
     },
     {
@@ -711,6 +731,16 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-09-28",
+      "Zeit": null,
+      "Thema": "Run for Rescue  - Spendenlauf für die Seenotrettung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "Initiative Seebrücke Dresden",
       "Status": "angemeldet"
     },
     {
