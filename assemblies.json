@@ -65,13 +65,13 @@
     },
     {
       "Datum": "2024-08-23",
-      "Zeit": null,
+      "Zeit": "18.45 - 20.00 Uhr",
       "Thema": "Waiting to Die?",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Alaunstraße",
       "Teilnehmer": "150",
       "Veranstalter": "Internationales Steiger Zentrum e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-24",
@@ -81,7 +81,7 @@
       "Startpunkt": null,
       "Teilnehmer": "2.000",
       "Veranstalter": "Initiative 'Herz statt Hetze'",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2024-08-24",
@@ -95,13 +95,13 @@
     },
     {
       "Datum": "2024-08-24",
-      "Zeit": null,
+      "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "Unerschütterlicher Geist - Ukrainische Unabhängigkeit in Dresden ",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Schloßplatz",
       "Teilnehmer": "500",
       "Veranstalter": "Stützpunkt Ukraine e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-24",
@@ -125,13 +125,13 @@
     },
     {
       "Datum": "2024-08-24",
-      "Zeit": null,
+      "Zeit": "09.00 - 16.00 Uhr",
       "Thema": "Tour de Verkehrswende 2024",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Espenstraße",
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-24",
@@ -285,12 +285,32 @@
     },
     {
       "Datum": "2024-08-26",
-      "Zeit": null,
+      "Zeit": "16.00 - 17.30 Uhr",
       "Thema": "15 Euro Mindestlohn für die Arbeitnehmer:innen in Sachsen",
-      "Ort": null,
+      "Ort": "Dr.-Külz-Ring",
       "Startpunkt": null,
       "Teilnehmer": "25",
       "Veranstalter": "SPD-Landesverband Sachsen",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-08-26",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu-Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-08-27",
+      "Zeit": null,
+      "Thema": "Keine Einschränkung des Streikrechts! Mehr Personal für Pflege und Gesundheitswesen.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Bündnis für Pflege",
       "Status": "angemeldet"
     },
     {
@@ -461,6 +481,16 @@
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "AG Antifa Die Linke Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-09-01",
+      "Zeit": null,
+      "Thema": "Weltfriedenstag und Demokratie (er)leben ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
