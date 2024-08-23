@@ -95,13 +95,13 @@
     },
     {
       "Datum": "2024-08-24",
-      "Zeit": null,
+      "Zeit": "18.30 - 21.00 Uhr",
       "Thema": "Solidarität mit Gaza",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-24",
@@ -165,23 +165,23 @@
     },
     {
       "Datum": "2024-08-25",
-      "Zeit": null,
+      "Zeit": "15.30 - 17.00 Uhr",
       "Thema": "Treppe hoch statt Rechtsruck!",
-      "Ort": null,
+      "Ort": "Schloßplatz",
       "Startpunkt": null,
       "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-25",
-      "Zeit": null,
+      "Zeit": "13.30 - 15.00 Uhr",
       "Thema": "Demo 'Zubringer Wir Sind die Brandmauer'",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Alaunplatz",
       "Teilnehmer": "200",
       "Veranstalter": "Wir sind die Brandmauer",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-25",
@@ -321,7 +321,7 @@
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-08-28",
@@ -711,7 +711,7 @@
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "Gewerkschaft Erziehung und Wissenschaft (GEW) LV Sachsen",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2024-09-20",
@@ -741,6 +741,16 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-09-26",
+      "Zeit": null,
+      "Thema": "Alarmstufe Rot! - Kitas retten, Personalabbau stoppen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "GEW Sachsen",
       "Status": "angemeldet"
     },
     {
