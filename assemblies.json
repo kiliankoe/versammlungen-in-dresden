@@ -85,13 +85,13 @@
     },
     {
       "Datum": "2024-08-26",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Wer schweigt stimmt zu-Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-27",
@@ -160,6 +160,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "10",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-08-29",
+      "Zeit": null,
+      "Thema": "Nett hier! Aber waren Sie schon mal in einer Stadt ohne Rechtspopulismus?",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
