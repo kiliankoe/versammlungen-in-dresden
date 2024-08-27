@@ -35,13 +35,13 @@
     },
     {
       "Datum": "2024-08-27",
-      "Zeit": null,
+      "Zeit": "18.00 - 21.00 Uhr",
       "Thema": "Fred stellt sich in den Weg",
-      "Ort": null,
+      "Ort": " Schandauer Straße",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "Fred die Linke Socke",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-27",
@@ -204,6 +204,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2024-08-31",
+      "Zeit": null,
+      "Thema": "Landtagswahl, Vorstellung des Wahlprogrammes und  Kandidaten der DieBasis",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Basisdemokratische Partei Deutschland /Die Basis - LV sachsen",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-09-01",
       "Zeit": null,
       "Thema": "Demokratie leben - Grundrechte schützen - Versammlungsfreiheit sichern.",
@@ -280,6 +290,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "250",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-09-02",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -375,6 +395,16 @@
     },
     {
       "Datum": "2024-09-09",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-09-09",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
@@ -440,6 +470,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "250",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-09-16",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -515,6 +555,16 @@
     },
     {
       "Datum": "2024-09-23",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-09-23",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
@@ -551,6 +601,16 @@
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "Initiative Seebrücke Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-09-30",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -595,6 +655,16 @@
     },
     {
       "Datum": "2024-10-07",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-10-07",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
@@ -602,6 +672,16 @@
       "Teilnehmer": "30-40",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-10-14",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-10-14",
@@ -625,6 +705,16 @@
     },
     {
       "Datum": "2024-10-21",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-10-21",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
@@ -632,6 +722,16 @@
       "Teilnehmer": "30-40",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-10-28",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-10-28",
