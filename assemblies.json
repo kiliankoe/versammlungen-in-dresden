@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-08-26",
+  "Dateidatum": "2024-08-27",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,84 +14,14 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2024-08-26",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-08-26",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "30-40",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-08-26",
-      "Zeit": "19.00 - 21.30 Uhr",
+      "Datum": "2024-08-27",
+      "Zeit": null,
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
+      "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "Fred die Linke Socke",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-08-26",
-      "Zeit": "18.00 - 19.00 Uhr",
-      "Thema": "Tag des Widerstands, gegen Hartz IV, Rasismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine und den Völkermord in Gaza. Kampf der Weltkriegsgefahr!",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "40",
-      "Veranstalter": "Demokratische Montagsaktion/ Montag Tag des Widerstands/Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-08-26",
-      "Zeit": "10.00 - 14.00 Uhr",
-      "Thema": "'Liebe Leute geht wählen!' - Kundgebung zur Wahlermutigung ",
-      "Ort": "Merianplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "8",
-      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-08-26",
-      "Zeit": "12.00 - 14.30 Uhr",
-      "Thema": "Eintreten für die Tarifwende",
-      "Ort": "Elisabeth-Boer-Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "200",
-      "Veranstalter": "DGB Dresden-Oberes Elbtal und IG Metall Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-08-26",
-      "Zeit": "16.00 - 17.30 Uhr",
-      "Thema": "15 Euro Mindestlohn für die Arbeitnehmer:innen in Sachsen",
-      "Ort": "Dr.-Külz-Ring",
-      "Startpunkt": null,
-      "Teilnehmer": "25",
-      "Veranstalter": "SPD-Landesverband Sachsen",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-08-26",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Wer schweigt stimmt zu-Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-08-27",
@@ -125,23 +55,23 @@
     },
     {
       "Datum": "2024-08-28",
-      "Zeit": null,
+      "Zeit": "16.00 - 20.00 Uhr",
       "Thema": "Gemeinsam für Vernunft und Gerechtigkeit - auch im Landtag!",
-      "Ort": null,
+      "Ort": "Schloßplatz",
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "BSW (Bündnis Sahra Wagenknecht)",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-28",
-      "Zeit": null,
+      "Zeit": "12.00 - 21.00 Uhr",
       "Thema": "! Weil Wir Menschen Sind ! Staatsverbrechen seit 2020; insbesondere Corona - Aufklärung in Bild, Text & Musik",
-      "Ort": null,
+      "Ort": "Theaterplatz",
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-28",
@@ -155,12 +85,22 @@
     },
     {
       "Datum": "2024-08-28",
-      "Zeit": null,
+      "Zeit": "16.15 - 19.00 Uhr",
       "Thema": "Keine Stimme dem Giftzwerg von der Angelikastraße -  Zarenknechte können keine gute Welt machen",
-      "Ort": null,
+      "Ort": "Brühlsche Terasse",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-08-29",
+      "Zeit": null,
+      "Thema": "Fred stellt sich gegen die AFD",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "Fred die Linke Socke",
       "Status": "angemeldet"
     },
     {
@@ -171,6 +111,16 @@
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-08-29",
+      "Zeit": null,
+      "Thema": "Zubringerdemo zu 'Fred stellt sich gegen die AFD'",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Fred die Linke Socke",
       "Status": "angemeldet"
     },
     {
@@ -195,13 +145,13 @@
     },
     {
       "Datum": "2024-08-30",
-      "Zeit": null,
+      "Zeit": "16.00 - 18.00 Uhr",
       "Thema": "Kundgebung zur Landtagswahl. Was bewegt die Menschen?",
-      "Ort": null,
+      "Ort": "Prohliser Allee",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-30",
@@ -271,7 +221,7 @@
       "Startpunkt": null,
       "Teilnehmer": "400",
       "Veranstalter": "Initiative 'Herz statt Hetze'",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2024-09-01",
@@ -296,6 +246,16 @@
     {
       "Datum": "2024-09-01",
       "Zeit": null,
+      "Thema": "Gemeinsam durch den Wahlabend!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1000",
+      "Veranstalter": "Herz statt Hetze",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-09-01",
+      "Zeit": null,
       "Thema": "Weltfriedenstag und Demokratie (er)leben ",
       "Ort": null,
       "Startpunkt": null,
@@ -311,16 +271,6 @@
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2024-09-01",
-      "Zeit": null,
-      "Thema": "Zusammen für die Demokratie",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "100",
-      "Veranstalter": "Campact e.V.",
       "Status": "angemeldet"
     },
     {
@@ -554,6 +504,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2024-09-21",
+      "Zeit": null,
+      "Thema": "Pop-up-Radweg auf der Antonstraße",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Fuß- und Radentscheid Dresden",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-09-23",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
@@ -722,6 +682,26 @@
       "Teilnehmer": "30-40",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-11-25",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "30-40",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-11-25",
+      "Zeit": null,
+      "Thema": "Kundgebung zum Internationalen Tag gegen Gewalt an Frauen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Landesfrauenrat Sachsen e. V.",
+      "Status": "angemeldet"
     }
   ]
 }
