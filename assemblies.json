@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-08-27",
+  "Dateidatum": "2024-08-28",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,46 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-08-27",
-      "Zeit": "16.00 - 19.00 Uhr",
-      "Thema": "Keine Einschränkung des Streikrechts! Mehr Personal für Pflege und Gesundheitswesen.",
-      "Ort": "Dr.-Külz-Ring",
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "Bündnis für Pflege",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-08-27",
-      "Zeit": "13.00 - 15.00 Uhr",
-      "Thema": "Eintreten für die Tarifwende",
-      "Ort": "Offenburger Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "80",
-      "Veranstalter": "DGB Dresden-Oberes Elbtal und IG NGG Dresden-Chemnitz ",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-08-27",
-      "Zeit": "18.00 - 21.00 Uhr",
-      "Thema": "Fred stellt sich in den Weg",
-      "Ort": " Schandauer Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "Fred die Linke Socke",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-08-27",
-      "Zeit": "17.30 - 19.00 Uhr",
-      "Thema": "Wahlkampfkundgebung mit Christian Lindner",
-      "Ort": "Dr.-Külz-Ring",
-      "Startpunkt": null,
-      "Teilnehmer": "200",
-      "Veranstalter": "FDP ",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-08-28",
       "Zeit": "16.00 - 20.00 Uhr",
@@ -175,13 +135,13 @@
     },
     {
       "Datum": "2024-08-31",
-      "Zeit": null,
+      "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "Patriotisches Sommerfest - Demokratie gestalten - Wählen gehen",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Altmarkt",
       "Teilnehmer": "1.000",
       "Veranstalter": "PEGIDA Förderverein e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-31",
@@ -210,7 +170,7 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "30",
-      "Veranstalter": "Basisdemokratische Partei Deutschland /Die Basis - LV sachsen",
+      "Veranstalter": "Basisdemokratische Partei Deutschland /Die Basis - LV Sachsen",
       "Status": "angemeldet"
     },
     {
