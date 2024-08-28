@@ -55,53 +55,53 @@
     },
     {
       "Datum": "2024-08-29",
-      "Zeit": null,
+      "Zeit": "18.00 - 21.30 Uhr",
       "Thema": "Fred stellt sich gegen die AFD",
-      "Ort": null,
+      "Ort": "Theaterplatz",
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "Fred die Linke Socke",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-29",
-      "Zeit": null,
+      "Zeit": "17.30 - 22.00 Uhr",
       "Thema": "Nett hier! Aber waren Sie schon mal in einer Stadt ohne Rechtspopulismus?",
-      "Ort": null,
+      "Ort": "Theaterplatz",
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-29",
-      "Zeit": null,
+      "Zeit": "17.00 - 18.30 Uhr",
       "Thema": "Zubringerdemo zu 'Fred stellt sich gegen die AFD'",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Prager Straße",
       "Teilnehmer": "50",
       "Veranstalter": "Fred die Linke Socke",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-29",
-      "Zeit": null,
+      "Zeit": "18.00 - 20.00 Uhr",
       "Thema": "AfD-Wahlkampfhöhepunkt mit Alice Weidel, Tino Chrupalla und Jörg Urban",
-      "Ort": null,
+      "Ort": "Theaterplatz",
       "Startpunkt": null,
       "Teilnehmer": "1000",
       "Veranstalter": "AfD Sachsen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-30",
-      "Zeit": null,
+      "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "Grüne Faschisten sind in Dresden nicht willkommen!",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-30",
@@ -125,13 +125,13 @@
     },
     {
       "Datum": "2024-08-31",
-      "Zeit": null,
+      "Zeit": "14.00 - 21.15 Uhr",
       "Thema": "Tolerade 2024 - Sachsen bleibt demokratisch!",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Schlesischer Platz",
       "Teilnehmer": "8.000",
       "Veranstalter": "Tolerave e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-08-31",
@@ -225,13 +225,13 @@
     },
     {
       "Datum": "2024-09-01",
-      "Zeit": null,
+      "Zeit": "13.00 - 20.00 Uhr",
       "Thema": "Weltfriedenstag und Demokratie (er)leben ",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-09-01",
@@ -276,21 +276,21 @@
     {
       "Datum": "2024-09-02",
       "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2024-09-02",
-      "Zeit": null,
       "Thema": "Tag des Widerstands, gegen Hartz IV, Rasismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine und den Völkermord in Gaza. Kampf der Weltkriegsgefahr!",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "40",
       "Veranstalter": "Demokratische Montagsaktion/ Montag Tag des Widerstands/Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-09-02",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu-Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
