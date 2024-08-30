@@ -81,7 +81,7 @@
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2024-08-31",
@@ -95,13 +95,13 @@
     },
     {
       "Datum": "2024-08-31",
-      "Zeit": null,
+      "Zeit": "17.00 - 18.30 Uhr",
       "Thema": "Protest gegen Staatsversagen Regierung von Westbengalen, Indien",
-      "Ort": null,
+      "Ort": "Wiener Platz",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-09-01",
@@ -175,13 +175,13 @@
     },
     {
       "Datum": "2024-09-01",
-      "Zeit": null,
+      "Zeit": "20.00 - 22.30 Uhr",
       "Thema": "Wir bleiben (un)regierbar",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Martin-Luther-Platz",
       "Teilnehmer": "250",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-09-02",
@@ -215,13 +215,13 @@
     },
     {
       "Datum": "2024-09-02",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Wer schweigt stimmt zu-Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-09-05",
@@ -241,6 +241,16 @@
       "Startpunkt": null,
       "Teilnehmer": "60",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-09-06",
+      "Zeit": null,
+      "Thema": "Alle Parteien müssen das Klima schützen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Fridays For Future Dresden",
       "Status": "angemeldet"
     },
     {
@@ -321,6 +331,16 @@
       "Startpunkt": null,
       "Teilnehmer": "60",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-09-10",
+      "Zeit": null,
+      "Thema": "Kundgebung zur Tarifrunde der Reinigungskräfte: 3 Euro mehr!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Industriegewerkschaft Bauen-Agrar-Umwelt SATS",
       "Status": "angemeldet"
     },
     {
