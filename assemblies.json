@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-08-30",
+  "Dateidatum": "2024-08-31",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,36 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-08-30",
-      "Zeit": "15.00 - 18.00 Uhr",
-      "Thema": "Grüne Faschisten sind in Dresden nicht willkommen!",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "100",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-08-30",
-      "Zeit": "16.00 - 18.00 Uhr",
-      "Thema": "Kundgebung zur Landtagswahl. Was bewegt die Menschen?",
-      "Ort": "Prohliser Allee",
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-08-30",
-      "Zeit": "17.00 - 20.00 Uhr",
-      "Thema": "Frieden und Freiheit für Mensch und Gesellschaft durch Hochheben christlicher Werte ",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "75",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-08-31",
       "Zeit": "14.00 - 21.15 Uhr",
@@ -145,13 +115,13 @@
     },
     {
       "Datum": "2024-09-01",
-      "Zeit": null,
+      "Zeit": "17.00 - 22.00 Uhr",
       "Thema": "Gemeinsam durch den Wahlabend!",
-      "Ort": null,
+      "Ort": "Theaterplatz",
       "Startpunkt": null,
       "Teilnehmer": "1000",
       "Veranstalter": "Herz statt Hetze",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-09-01",
