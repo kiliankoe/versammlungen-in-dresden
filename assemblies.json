@@ -35,13 +35,13 @@
     },
     {
       "Datum": "2024-09-02",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.30 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "50",
       "Veranstalter": "Fred die Linke Socke",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-09-02",
@@ -101,6 +101,16 @@
       "Startpunkt": null,
       "Teilnehmer": "60",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-09-07",
+      "Zeit": null,
+      "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Activists for the Victims e.V.",
       "Status": "angemeldet"
     },
     {
@@ -175,13 +185,13 @@
     },
     {
       "Datum": "2024-09-10",
-      "Zeit": null,
+      "Zeit": "15.00 - 16.00 Uhr",
       "Thema": "Kundgebung zur Tarifrunde der Reinigungskräfte: 3 Euro mehr!",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Industriegewerkschaft Bauen-Agrar-Umwelt SATS",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-09-11",
@@ -301,6 +311,16 @@
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "Allgemeiner Deutscher Fahrrad Club (ADFC) Dresden e.V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-09-21",
+      "Zeit": null,
+      "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Activists for the Victims e.V.",
       "Status": "angemeldet"
     },
     {
