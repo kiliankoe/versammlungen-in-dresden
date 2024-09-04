@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-09-03",
+  "Dateidatum": "2024-09-04",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,6 +14,16 @@
   ],
   "Versammlungen": [
     {
+      "Datum": "2024-09-04",
+      "Zeit": null,
+      "Thema": "Solidarität mit der Ukraine",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-09-05",
       "Zeit": "16.00 - 16.50 Uhr",
       "Thema": "Stoppt den fossilen Wahnsinn! Mit der Aktion fordern wir von der Politik und Verwaltung, dass Erneuerbarer Strom und Energiesparen vorangetrieben werden, sodass wir geordnet aus allen fossilen Energieträgern aussteigen können.",
@@ -22,6 +32,16 @@
       "Teilnehmer": "23",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-09-05",
+      "Zeit": null,
+      "Thema": "Für die 4 Tage Woche",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-09-06",
@@ -41,6 +61,16 @@
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "Fridays For Future Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-09-06",
+      "Zeit": null,
+      "Thema": "Baummassaker verhindern! Kein vierspuriger Ausbau! Königsbrücker muss leben!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Königsbrücker muss leben!",
       "Status": "angemeldet"
     },
     {
@@ -71,7 +101,7 @@
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2024-09-07",
@@ -90,6 +120,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "60",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-09-08",
+      "Zeit": null,
+      "Thema": "Galerie der Aufklärung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -141,6 +181,26 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-09-09",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Fred die linke Socke",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-09-09",
+      "Zeit": null,
+      "Thema": "'Wer Bäume will, soll in den Alaunpark ... Nein! Wir wollen eine Baumallee auf der Königsbrücker'",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "Stadt muss atmen!",
       "Status": "angemeldet"
     },
     {
@@ -254,6 +314,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2024-09-16",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Fred die linke Socke",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-09-20",
       "Zeit": null,
       "Thema": "Globaler Klimastreik",
@@ -344,6 +414,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2024-09-23",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Fred die linke Socke",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-09-26",
       "Zeit": null,
       "Thema": "Alarmstufe Rot! - Kitas retten, Personalabbau stoppen",
@@ -402,6 +482,16 @@
       "Teilnehmer": "40",
       "Veranstalter": "Demokratische Montagsaktion/ Montag Tag des Widerstands/Dresden",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-09-30",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Fred die linke Socke",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-10-03",
