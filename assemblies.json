@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-09-04",
+  "Dateidatum": "2024-09-05",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-09-04",
-      "Zeit": "19.00 - 20.30 Uhr",
-      "Thema": "Solidarität mit der Ukraine",
-      "Ort": "Schloßplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "100",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-09-05",
       "Zeit": "16.00 - 16.50 Uhr",
@@ -252,6 +242,16 @@
       "Teilnehmer": "60",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-09-14",
+      "Zeit": null,
+      "Thema": "Schlauchboottour für Frieden und Freiheit",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-09-15",
