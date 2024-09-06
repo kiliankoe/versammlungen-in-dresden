@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-09-05",
+  "Dateidatum": "2024-09-06",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-09-05",
-      "Zeit": "16.00 - 16.50 Uhr",
-      "Thema": "Stoppt den fossilen Wahnsinn! Mit der Aktion fordern wir von der Politik und Verwaltung, dass Erneuerbarer Strom und Energiesparen vorangetrieben werden, sodass wir geordnet aus allen fossilen Energieträgern aussteigen können.",
-      "Ort": null,
-      "Startpunkt": "Washingtonstraße",
-      "Teilnehmer": "23",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-09-06",
       "Zeit": "ab 14.00 Uhr",
@@ -95,13 +85,13 @@
     },
     {
       "Datum": "2024-09-07",
-      "Zeit": null,
-      "Thema": "Gedenken an die Opfern des Terroranschlags in Solingen",
-      "Ort": null,
+      "Zeit": "17.00 - 18.30 Uhr",
+      "Thema": "Gedenken an die Opfer des Terroranschlags in Solingen",
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-09-08",
@@ -532,6 +522,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "Fred die linke Socke",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-10-03",
+      "Zeit": null,
+      "Thema": "Fred sagt: 'Es ist auch mein Land'",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "Fred die linke Socke",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-10-03",
