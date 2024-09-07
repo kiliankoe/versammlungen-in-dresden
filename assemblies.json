@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-09-06",
+  "Dateidatum": "2024-09-07",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -21,26 +21,6 @@
       "Startpunkt": null,
       "Teilnehmer": "60",
       "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-09-06",
-      "Zeit": "16.30 - 18.30 Uhr",
-      "Thema": "Alle Parteien müssen das Klima schützen",
-      "Ort": null,
-      "Startpunkt": "Schlesischer Platz",
-      "Teilnehmer": "50",
-      "Veranstalter": "Fridays For Future Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-09-06",
-      "Zeit": "17.00 - 19.30 Uhr",
-      "Thema": "Baummassaker verhindern! Kein vierspuriger Ausbau! Königsbrücker muss leben!",
-      "Ort": "Königsbrücker Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "Königsbrücker muss leben!",
       "Status": "beschieden"
     },
     {
