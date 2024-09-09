@@ -199,7 +199,7 @@
       "Thema": "Hoffnung für die Erde leben",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "250",
+      "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -372,6 +372,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "Fred die linke Socke",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-09-24",
+      "Zeit": null,
+      "Thema": "Demonstration zur Sanierung der Turnhalle für die 30. Grundschule Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "Elternrat Hechtschule",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-09-26",
