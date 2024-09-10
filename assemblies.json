@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-09-09",
+  "Dateidatum": "2024-09-10",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -51,76 +51,6 @@
       "Startpunkt": null,
       "Teilnehmer": "60",
       "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-09-09",
-      "Zeit": "14.30 - 20.30 Uhr",
-      "Thema": "Dresden.Respekt: Interkulturelles Gastmahl auf der Augustusbrücke und dem Schloßplatz zur Demonstration von Vielfalt und Weltoffenheit, Dialog und Respekt",
-      "Ort": "Augustusbrücke und Schloßplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "4.000",
-      "Veranstalter": "CSD Dresden e. V. & Cellex-Stiftung",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-09-09",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "25",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-09-09",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "30-40",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-09-09",
-      "Zeit": "19.00 - 20.30 Uhr",
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-09-09",
-      "Zeit": "18.00 - 19.00 Uhr",
-      "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine und den Völkermord in Gaza. Kampf der Weltkriegsgefahr!",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "40",
-      "Veranstalter": "Demokratische Montagsaktion/ Montag Tag des Widerstands/Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-09-09",
-      "Zeit": "17.00 - 20.00 Uhr",
-      "Thema": "'Wer Bäume will, soll in den Alaunpark ... Nein! Wir wollen eine Baumallee auf der Königsbrücker'",
-      "Ort": "Alaunplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "Stadt muss atmen!",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-09-09",
-      "Zeit": "19.00 - 21.30 Uhr",
-      "Thema": "Fred stellt sich in den Weg",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "50",
-      "Veranstalter": "Fred die linke Socke",
       "Status": "beschieden"
     },
     {
@@ -195,23 +125,23 @@
     },
     {
       "Datum": "2024-09-15",
-      "Zeit": null,
+      "Zeit": "11.30 - 14.05 Uhr",
       "Thema": "Hoffnung für die Erde leben",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "An der Kreuzkirche",
       "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-09-15",
-      "Zeit": null,
+      "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "'Jugend regiert' - politische Teilhabe von Kindern und Jugendlichen",
-      "Ort": null,
+      "Ort": "Bamberger Straße",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "SPD Ortsverein Dresden-Plauen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-09-16",
@@ -534,6 +464,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2024-10-19",
+      "Zeit": null,
+      "Thema": "Kriege, eine unsichere Wirtschaft, Politische Unruhe und Umweltsorgen: ist es möglich im einer Welt im Kaus innere frieden zu finden?",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Weltweite Missionsbewegung e. V.",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-10-21",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -635,6 +575,16 @@
     },
     {
       "Datum": "2024-12-02",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "30-40",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-12-09",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
