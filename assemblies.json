@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-09-10",
+  "Dateidatum": "2024-09-11",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -61,16 +61,6 @@
       "Startpunkt": null,
       "Teilnehmer": "60",
       "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-09-10",
-      "Zeit": "15.00 - 16.00 Uhr",
-      "Thema": "Kundgebung zur Tarifrunde der Reinigungskräfte: 3 Euro mehr!",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "Industriegewerkschaft Bauen-Agrar-Umwelt SATS",
       "Status": "beschieden"
     },
     {
@@ -165,16 +155,6 @@
     },
     {
       "Datum": "2024-09-16",
-      "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2024-09-16",
       "Zeit": "18.00 - 19.00 Uhr",
       "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine und den Völkermord in Gaza. Kampf der Weltkriegsgefahr!",
       "Ort": "Prager Straße",
@@ -182,6 +162,16 @@
       "Teilnehmer": "40",
       "Veranstalter": "Demokratische Montagsaktion/ Montag Tag des Widerstands/Dresden",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-09-16",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-09-16",
@@ -406,12 +396,22 @@
     {
       "Datum": "2024-10-03",
       "Zeit": null,
+      "Thema": "Zubringer Demonstration für Fred sagt: 'Das ist auch mein Land'",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
+      "Veranstalter": "Linksjugend Pirna",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-10-03",
+      "Zeit": null,
       "Thema": "3. Oktober_Deutschland unsere Heimat.",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "AfD Dresden",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2024-10-07",
@@ -432,6 +432,16 @@
       "Teilnehmer": "30-40",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-10-07",
+      "Zeit": null,
+      "Thema": "07. Oktober - 1. Jahrestag des Angriffs auf Israel - Wir stehen zu Israel",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "Deutsch-Israelische Gesellschaft e. V.",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-10-14",
