@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-09-11",
+  "Dateidatum": "2024-09-12",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -101,7 +101,7 @@
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2024-09-14",
@@ -581,6 +581,16 @@
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "Landesfrauenrat Sachsen e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-11-30",
+      "Zeit": null,
+      "Thema": "Light the Sky - Gedenken an die Tiere in den Tiertransportern (Dieses Gedenken findet in zahlreichen Orten in Deutschland und Europa statt)",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "80",
+      "Veranstalter": "Die Tierstimme e. V.",
       "Status": "angemeldet"
     },
     {
