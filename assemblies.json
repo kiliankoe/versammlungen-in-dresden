@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-09-12",
+  "Dateidatum": "2024-09-13",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -216,6 +216,16 @@
     {
       "Datum": "2024-09-21",
       "Zeit": null,
+      "Thema": "Besseres Verkehrskonzept am Fernsehturm",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50 bis 100",
+      "Veranstalter": "Bürgerinitiative Fernsehturm Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-09-21",
+      "Zeit": null,
       "Thema": "Louisenstraße autofrei",
       "Ort": null,
       "Startpunkt": null,
@@ -295,13 +305,13 @@
     },
     {
       "Datum": "2024-09-24",
-      "Zeit": null,
+      "Zeit": "16.30 - 18.00 Uhr",
       "Thema": "Demonstration zur Sanierung der Turnhalle für die 30. Grundschule Dresden",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Johann-Mayer-Straße",
       "Teilnehmer": "500",
       "Veranstalter": "Elternrat Hechtschule",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-09-26",
@@ -382,6 +392,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "Fred die linke Socke",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-10-02",
+      "Zeit": null,
+      "Thema": "Politischer Aufruhr, statt rechter Tumult!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-10-03",
@@ -481,6 +501,16 @@
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Weltweite Missionsbewegung e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-10-19",
+      "Zeit": null,
+      "Thema": "Sisters e. V. für den Ausstieg aus der Prostitution",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Sisters e. V.",
       "Status": "angemeldet"
     },
     {
