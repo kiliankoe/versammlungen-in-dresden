@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-09-13",
+  "Dateidatum": "2024-09-14",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,86 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-09-06",
-      "Zeit": "ab 14.00 Uhr",
-      "Thema": "Tierschutz-Camp für Tier-, Menschenrechte, Veganismus und Umweltschutz 2024",
-      "Ort": "Schanzenstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "60",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-09-07",
-      "Zeit": "ganztägig",
-      "Thema": "Tierschutz-Camp für Tier-, Menschenrechte, Veganismus und Umweltschutz 2024",
-      "Ort": "Schanzenstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "60",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-09-08",
-      "Zeit": "ganztägig",
-      "Thema": "Tierschutz-Camp für Tier-, Menschenrechte, Veganismus und Umweltschutz 2024",
-      "Ort": "Schanzenstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "60",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-09-09",
-      "Zeit": "ganztägig",
-      "Thema": "Tierschutz-Camp für Tier-, Menschenrechte, Veganismus und Umweltschutz 2024",
-      "Ort": "Schanzenstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "60",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-09-10",
-      "Zeit": "ganztägig",
-      "Thema": "Tierschutz-Camp für Tier-, Menschenrechte, Veganismus und Umweltschutz 2024",
-      "Ort": "Schanzenstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "60",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-09-11",
-      "Zeit": "ganztägig",
-      "Thema": "Tierschutz-Camp für Tier-, Menschenrechte, Veganismus und Umweltschutz 2024",
-      "Ort": "Schanzenstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "60",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-09-12",
-      "Zeit": "ganztägig",
-      "Thema": "Tierschutz-Camp für Tier-, Menschenrechte, Veganismus und Umweltschutz 2024",
-      "Ort": "Schanzenstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "60",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-09-13",
-      "Zeit": "bis 15.00 Uhr",
-      "Thema": "Tierschutz-Camp für Tier-, Menschenrechte, Veganismus und Umweltschutz 2024",
-      "Ort": "Schanzenstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "60",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-09-14",
       "Zeit": null,
@@ -165,13 +85,13 @@
     },
     {
       "Datum": "2024-09-16",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.30 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-09-16",
@@ -434,6 +354,16 @@
       "Status": "abgemeldet"
     },
     {
+      "Datum": "2024-10-05",
+      "Zeit": null,
+      "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Activists for the Victims e. V.",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-10-07",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -461,6 +391,16 @@
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "Deutsch-Israelische Gesellschaft e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-10-10",
+      "Zeit": null,
+      "Thema": "Gutes Studium - Gute Arbeit! Für deutliche Verbesserungen Jetzt!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "DGB Jugend Sachsen",
       "Status": "angemeldet"
     },
     {
@@ -492,6 +432,16 @@
       "Teilnehmer": "40",
       "Veranstalter": "Demokratische Montagsaktion/ Montag Tag des Widerstands/Dresden",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-10-19",
+      "Zeit": null,
+      "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Activists for the Victims e. V.",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-10-19",
@@ -554,6 +504,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2024-11-02",
+      "Zeit": null,
+      "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Activists for the Victims e. V.",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-11-04",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
@@ -582,6 +542,16 @@
       "Teilnehmer": "30-40",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-11-16",
+      "Zeit": null,
+      "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Activists for the Victims e. V.",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-11-18",
@@ -621,6 +591,16 @@
       "Startpunkt": null,
       "Teilnehmer": "80",
       "Veranstalter": "Die Tierstimme e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-11-30",
+      "Zeit": null,
+      "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Activists for the Victims e. V.",
       "Status": "angemeldet"
     },
     {
