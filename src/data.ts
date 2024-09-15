@@ -41,6 +41,7 @@ const organizerReplacements: Record<string, string> = {
   "Queer Pride Dresden": "@pridedd@eldritch.cafe",
   "Initiative Seebrücke Dresden": "@seebrueckeDD@dresden.network",
   "TU Umweltinitiative (tuuwi)": "@tuuwi@mstdn.social",
+  "Fred die Linke Socke": "@Fred_die_linke_socke@freeradical.zone",
   "Fred die linke Socke": "@Fred_die_linke_socke@freeradical.zone",
 };
 
