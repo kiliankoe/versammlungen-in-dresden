@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-09-15",
+  "Dateidatum": "2024-09-16",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-09-15",
-      "Zeit": "11.30 - 14.05 Uhr",
-      "Thema": "Hoffnung für die Erde leben",
-      "Ort": null,
-      "Startpunkt": "An der Kreuzkirche",
-      "Teilnehmer": "100",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-09-15",
-      "Zeit": "14.00 - 17.00 Uhr",
-      "Thema": "'Jugend regiert' - politische Teilhabe von Kindern und Jugendlichen",
-      "Ort": "Bamberger Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "SPD Ortsverein Dresden-Plauen",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-09-16",
       "Zeit": "18.00 - 19.30 Uhr",
@@ -111,6 +91,16 @@
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "Allgemeiner Deutscher Fahrrad Club (ADFC) Dresden e.V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-09-20",
+      "Zeit": null,
+      "Thema": "Parking Day 2024",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Verkehrsclub Deutschland VCD e. V.",
       "Status": "angemeldet"
     },
     {
