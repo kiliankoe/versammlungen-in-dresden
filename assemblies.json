@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-09-17",
+  "Dateidatum": "2024-09-18",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,6 +13,16 @@
     }
   ],
   "Versammlungen": [
+    {
+      "Datum": "2024-09-18",
+      "Zeit": null,
+      "Thema": "Klimakrise ist jetzt",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Fridays for Future Dresden",
+      "Status": "angemeldet"
+    },
     {
       "Datum": "2024-09-20",
       "Zeit": "15.00 - 19.00 Uhr",
@@ -169,7 +179,7 @@
       "Thema": "Alarmstufe Rot! - Kitas retten, Personalabbau stoppen",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "50",
+      "Teilnehmer": "100",
       "Veranstalter": "GEW Sachsen",
       "Status": "angemeldet"
     },
