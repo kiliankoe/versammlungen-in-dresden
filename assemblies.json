@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-09-18",
+  "Dateidatum": "2024-09-19",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-09-18",
-      "Zeit": "11.00 - 14.00 Uhr",
-      "Thema": "Klimakrise ist jetzt",
-      "Ort": "Augustusbrücke",
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "Fridays for Future Dresden",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-09-20",
       "Zeit": "15.00 - 19.00 Uhr",
@@ -56,12 +46,22 @@
     {
       "Datum": "2024-09-20",
       "Zeit": null,
-      "Thema": "Parking Day 2024",
+      "Thema": "Teilnahme am Park(ing) Day",
       "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "natürliche Person",
+      "Status": "abgemeldet"
+    },
+    {
+      "Datum": "2024-09-20",
+      "Zeit": "14.30 - 19.00 Uhr",
+      "Thema": "Parking Day 2024",
+      "Ort": "Schloßstraße",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Verkehrsclub Deutschland VCD e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-09-21",
@@ -105,23 +105,23 @@
     },
     {
       "Datum": "2024-09-21",
-      "Zeit": null,
+      "Zeit": "14.00 - 18.00 Uhr",
       "Thema": "Pop-up-Radweg auf der Antonstraße",
-      "Ort": null,
+      "Ort": "Antonstraße",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Fuß- und Radentscheid Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-09-22",
-      "Zeit": null,
+      "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "'Jugend regiert' - politische Teilhabe von Kinder und Jugendlichen",
-      "Ort": null,
+      "Ort": "Münchner Platz",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "Sozialdemokratische Partei Deutschlands, Ortsverein Dresden-Plauen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-09-23",
@@ -301,6 +301,16 @@
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-10-05",
+      "Zeit": null,
+      "Thema": "Freiheit für Palästina. Freiheit für Gaza",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "Free Palestine Dresden",
       "Status": "angemeldet"
     },
     {
