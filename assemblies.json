@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-09-20",
+  "Dateidatum": "2024-09-21",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,56 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-09-20",
-      "Zeit": "15.00 - 19.00 Uhr",
-      "Thema": "Globaler Klimastreik",
-      "Ort": null,
-      "Startpunkt": "Neustädter Markt",
-      "Teilnehmer": "1.000",
-      "Veranstalter": "Fridays for Future Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-09-20",
-      "Zeit": null,
-      "Thema": "Kita-Moratorium jetzt! - die letzte Chance",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "500",
-      "Veranstalter": "Gewerkschaft Erziehung und Wissenschaft (GEW) LV Sachsen",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2024-09-20",
-      "Zeit": null,
-      "Thema": "Park(ing) Day 2024 - Parkplätze zu Parks, Zusammenleben in Löbtau",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "200",
-      "Veranstalter": "Allgemeiner Deutscher Fahrrad Club (ADFC) Dresden e.V.",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2024-09-20",
-      "Zeit": null,
-      "Thema": "Teilnahme am Park(ing) Day",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2024-09-20",
-      "Zeit": "14.30 - 19.00 Uhr",
-      "Thema": "Parking Day 2024",
-      "Ort": "Schloßstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "15",
-      "Veranstalter": "Verkehrsclub Deutschland VCD e. V.",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-09-21",
       "Zeit": "10.00 - 12.00 Uhr",
@@ -145,13 +95,13 @@
     },
     {
       "Datum": "2024-09-23",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.30 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-09-23",
