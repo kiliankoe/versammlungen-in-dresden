@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-09-22",
+  "Dateidatum": "2024-09-23",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-09-22",
-      "Zeit": "14.00 - 17.00 Uhr",
-      "Thema": "'Jugend regiert' - politische Teilhabe von Kinder und Jugendlichen",
-      "Ort": "Münchner Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "Sozialdemokratische Partei Deutschlands, Ortsverein Dresden-Plauen",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-09-23",
       "Zeit": "18.00 - 19.30 Uhr",
