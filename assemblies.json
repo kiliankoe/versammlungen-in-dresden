@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-09-24",
+  "Dateidatum": "2024-09-25",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,16 +14,6 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2024-09-24",
-      "Zeit": "16.30 - 18.00 Uhr",
-      "Thema": "Demonstration zur Sanierung der Turnhalle für die 30. Grundschule Dresden",
-      "Ort": null,
-      "Startpunkt": "Johann-Mayer-Straße",
-      "Teilnehmer": "500",
-      "Veranstalter": "Elternrat Hechtschule",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2024-09-26",
       "Zeit": "09.00 - 11.00 Uhr",
       "Thema": "Alarmstufe Rot! - Kitas retten, Personalabbau stoppen",
@@ -35,13 +25,13 @@
     },
     {
       "Datum": "2024-09-28",
-      "Zeit": null,
+      "Zeit": "14.00 - 19.00 Uhr",
       "Thema": "Run for Rescue  - Spendenlauf für die Seenotrettung",
-      "Ort": null,
+      "Ort": "Alaunplatz",
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "Initiative Seebrücke Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-09-28",
@@ -105,13 +95,13 @@
     },
     {
       "Datum": "2024-10-02",
-      "Zeit": null,
+      "Zeit": "18.00 - 20.00 Uhr",
       "Thema": "Politischer Aufruhr, statt rechter Tumult!",
-      "Ort": null,
+      "Ort": "Wasaplatz",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-10-03",
