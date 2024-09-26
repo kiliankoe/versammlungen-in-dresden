@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-09-25",
+  "Dateidatum": "2024-09-26",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -22,6 +22,16 @@
       "Teilnehmer": "100",
       "Veranstalter": "GEW Sachsen",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-09-27",
+      "Zeit": null,
+      "Thema": "Stilles Gedenken an die Opfer des Krieges",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "70",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-09-28",
@@ -65,16 +75,6 @@
     },
     {
       "Datum": "2024-09-30",
-      "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2024-09-30",
       "Zeit": "18.00 - 19.00 Uhr",
       "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine und den Völkermord in Gaza. Kampf der Weltkriegsgefahr!",
       "Ort": "Prager Straße",
@@ -94,6 +94,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2024-09-30",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-10-02",
       "Zeit": "18.00 - 20.00 Uhr",
       "Thema": "Politischer Aufruhr, statt rechter Tumult!",
@@ -105,13 +115,13 @@
     },
     {
       "Datum": "2024-10-03",
-      "Zeit": null,
+      "Zeit": "16.00 - 22.00 Uhr",
       "Thema": "Fred sagt: 'Es ist auch mein Land'",
-      "Ort": null,
+      "Ort": "Alaunplatz",
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "Fred die linke Socke",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-10-03",
@@ -141,6 +151,16 @@
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-10-05",
+      "Zeit": null,
+      "Thema": "Pop-up-Radweg auf der Antonstraße",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Fuß- und Radentscheid Dresden",
       "Status": "angemeldet"
     },
     {
@@ -302,6 +322,16 @@
       "Teilnehmer": "30-40",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-10-26",
+      "Zeit": null,
+      "Thema": "Tag für Frieden und Freiheit",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-10-28",
