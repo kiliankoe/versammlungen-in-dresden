@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-09-26",
+  "Dateidatum": "2024-09-27",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,24 +14,14 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2024-09-26",
-      "Zeit": "09.00 - 11.00 Uhr",
-      "Thema": "Alarmstufe Rot! - Kitas retten, Personalabbau stoppen",
-      "Ort": "Bernhard-von-Lindenau-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "100",
-      "Veranstalter": "GEW Sachsen",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2024-09-27",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.00 Uhr",
       "Thema": "Stilles Gedenken an die Opfer des Krieges",
-      "Ort": null,
+      "Ort": "Hauptstraße",
       "Startpunkt": null,
       "Teilnehmer": "70",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-09-28",
@@ -95,13 +85,13 @@
     },
     {
       "Datum": "2024-09-30",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.35 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-10-02",
@@ -125,13 +115,13 @@
     },
     {
       "Datum": "2024-10-03",
-      "Zeit": null,
+      "Zeit": "14.15 - 16.00 Uhr",
       "Thema": "Zubringer Demonstration für Fred sagt: 'Das ist auch mein Land'",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Schlesischer Platz",
       "Teilnehmer": "150",
       "Veranstalter": "Linksjugend Pirna",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-10-03",
@@ -145,13 +135,13 @@
     },
     {
       "Datum": "2024-10-05",
-      "Zeit": null,
+      "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
-      "Ort": null,
+      "Ort": "Prager Straße ",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-10-05",
@@ -265,13 +255,13 @@
     },
     {
       "Datum": "2024-10-19",
-      "Zeit": null,
+      "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
-      "Ort": null,
+      "Ort": "Prager Straße ",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-10-19",
@@ -355,13 +345,13 @@
     },
     {
       "Datum": "2024-11-02",
-      "Zeit": null,
+      "Zeit": "14.00 - 18.00 Uhr",
       "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
-      "Ort": null,
+      "Ort": "Prager Straße ",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-11-04",
@@ -405,13 +395,13 @@
     },
     {
       "Datum": "2024-11-16",
-      "Zeit": null,
+      "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
-      "Ort": null,
+      "Ort": "Prager Straße ",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-11-18",
@@ -455,13 +445,13 @@
     },
     {
       "Datum": "2024-11-30",
-      "Zeit": null,
+      "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
-      "Ort": null,
+      "Ort": "Prager Straße ",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-12-02",
@@ -485,13 +475,13 @@
     },
     {
       "Datum": "2024-12-14",
-      "Zeit": null,
+      "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
-      "Ort": null,
+      "Ort": "Prager Straße ",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-12-16",
