@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-09-29",
+  "Dateidatum": "2024-09-30",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -104,6 +104,16 @@
       "Status": "abgemeldet"
     },
     {
+      "Datum": "2024-10-04",
+      "Zeit": null,
+      "Thema": "Kuchen gegen Rechts",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-10-05",
       "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
@@ -152,6 +162,16 @@
       "Teilnehmer": "30-40",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-10-07",
+      "Zeit": null,
+      "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine und den Völkermord in Gaza. Kampf der Weltkriegsgefahr!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "40",
+      "Veranstalter": "Demokratische Montagsaktion/ Montag Tag des Widerstands/Dresden",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-10-07",
@@ -291,6 +311,16 @@
       "Startpunkt": null,
       "Teilnehmer": "1000",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-10-27",
+      "Zeit": null,
+      "Thema": "Demonstration in Solidarität mit dem kubanischen Volk, für die Freilassung aller politischen Gefangenen in Kuba ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "40",
+      "Veranstalter": "PatriaYVida e.V",
       "Status": "angemeldet"
     },
     {
