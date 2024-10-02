@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-10-01",
+  "Dateidatum": "2024-10-02",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -55,13 +55,13 @@
     },
     {
       "Datum": "2024-10-04",
-      "Zeit": null,
+      "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "Kuchen gegen Rechts",
-      "Ort": null,
+      "Ort": "Alaunstraße",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-10-05",
@@ -75,13 +75,13 @@
     },
     {
       "Datum": "2024-10-05",
-      "Zeit": null,
+      "Zeit": "14.00 - 18.00 Uhr",
       "Thema": "Pop-up-Radweg auf der Antonstraße",
-      "Ort": null,
+      "Ort": "Antonstraße",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Fuß- und Radentscheid Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-10-05",
