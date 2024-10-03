@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-10-02",
+  "Dateidatum": "2024-10-03",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-10-02",
-      "Zeit": "18.00 - 20.00 Uhr",
-      "Thema": "Politischer Aufruhr, statt rechter Tumult!",
-      "Ort": "Wasaplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-10-03",
       "Zeit": "16.00 - 22.00 Uhr",
@@ -86,12 +76,22 @@
     {
       "Datum": "2024-10-05",
       "Zeit": null,
-      "Thema": "Freiheit für Palästina. Freiheit für Gaza",
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
       "Ort": null,
       "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-10-05",
+      "Zeit": "13.00 - 15.15 Uhr",
+      "Thema": "Freiheit für Palästina. Freiheit für Gaza",
+      "Ort": null,
+      "Startpunkt": "Wiener Platz",
       "Teilnehmer": "200",
       "Veranstalter": "Free Palestine Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-10-07",
@@ -125,12 +125,22 @@
     },
     {
       "Datum": "2024-10-07",
-      "Zeit": null,
+      "Zeit": "17.30 - 19.00 Uhr",
       "Thema": "07. Oktober - 1. Jahrestag des Angriffs auf Israel - Wir stehen zu Israel",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Neumarkt",
       "Teilnehmer": "100",
       "Veranstalter": "Deutsch-Israelische Gesellschaft e. V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-10-07",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
