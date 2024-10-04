@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-10-03",
+  "Dateidatum": "2024-10-04",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,36 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-10-03",
-      "Zeit": "16.00 - 22.00 Uhr",
-      "Thema": "Fred sagt: 'Es ist auch mein Land'",
-      "Ort": "Alaunplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "300",
-      "Veranstalter": "Fred die linke Socke",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-10-03",
-      "Zeit": "14.15 - 16.00 Uhr",
-      "Thema": "Zubringer Demonstration für Fred sagt: 'Das ist auch mein Land'",
-      "Ort": null,
-      "Startpunkt": "Schlesischer Platz",
-      "Teilnehmer": "150",
-      "Veranstalter": "Linksjugend Pirna",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-10-03",
-      "Zeit": null,
-      "Thema": "3. Oktober_Deutschland unsere Heimat.",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "300",
-      "Veranstalter": "AfD Dresden",
-      "Status": "abgemeldet"
-    },
     {
       "Datum": "2024-10-04",
       "Zeit": "15.00 - 18.00 Uhr",
@@ -88,7 +58,7 @@
       "Zeit": "13.00 - 15.15 Uhr",
       "Thema": "Freiheit für Palästina. Freiheit für Gaza",
       "Ort": null,
-      "Startpunkt": "Wiener Platz",
+      "Startpunkt": "Alaunplatz",
       "Teilnehmer": "200",
       "Veranstalter": "Free Palestine Dresden",
       "Status": "beschieden"
