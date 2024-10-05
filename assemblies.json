@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-10-04",
+  "Dateidatum": "2024-10-05",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-10-04",
-      "Zeit": "15.00 - 18.00 Uhr",
-      "Thema": "Kuchen gegen Rechts",
-      "Ort": "Alaunstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-10-04",
-      "Zeit": "19.00 - 20.00 Uhr",
-      "Thema": "Stilles Gedenken an die Opfer des Krieges",
-      "Ort": "Alaunplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "70",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-10-05",
       "Zeit": "15.00 - 18.00 Uhr",
