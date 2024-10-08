@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-10-07",
+  "Dateidatum": "2024-10-08",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,84 +14,14 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2024-10-07",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "25",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-10-07",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "30-40",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-10-07",
-      "Zeit": "18.00 - 19.00 Uhr",
-      "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine und den Völkermord in Gaza. Kampf der Weltkriegsgefahr!",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "40",
-      "Veranstalter": "Demokratische Montagsaktion/ Montag Tag des Widerstands/Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-10-07",
-      "Zeit": "17.30 - 19.00 Uhr",
-      "Thema": "07. Oktober - 1. Jahrestag des Angriffs auf Israel - Wir stehen zu Israel",
-      "Ort": null,
-      "Startpunkt": "Neumarkt",
-      "Teilnehmer": "100",
-      "Veranstalter": "Deutsch-Israelische Gesellschaft e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-10-07",
-      "Zeit": "19.00 - 20.30 Uhr",
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße;",
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-10-07",
-      "Zeit": "18.00 - 20.00 Uhr",
-      "Thema": "Fred stellt sich in den Weg",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "50",
-      "Veranstalter": "Fred die Linke Socke",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-10-07",
-      "Zeit": null,
-      "Thema": "Nett hier, aber waren sie schon mal in einer Stadt ohne Faschos",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "250",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
       "Datum": "2024-10-09",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.00 Uhr",
       "Thema": "In Gedenken an das Attentat in Halle ",
-      "Ort": null,
+      "Ort": "Hasenberg",
       "Startpunkt": null,
       "Teilnehmer": "35",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-10-10",
@@ -111,6 +41,26 @@
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "Dresden Stadt des Friedens",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-10-11",
+      "Zeit": null,
+      "Thema": "AfD Verbot Jetzt!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "linksjugend Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-10-12",
+      "Zeit": null,
+      "Thema": "Isolationshaft beenden! Freiheit für Öcalan, Frieden für Kurdistan!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -194,6 +144,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2024-10-20",
+      "Zeit": null,
+      "Thema": "Die Rückkehr der Namen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Russischsprachige Demokratinnen und Demokraten e. V.",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-10-21",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -212,6 +172,16 @@
       "Teilnehmer": "30-40",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-10-21",
+      "Zeit": null,
+      "Thema": "Frieden statt Krieg! Das Volk Irans will Ruhe und Frieden! Solidarität mit den Menschen,die im Iran hingerichtet.Nein zur Islamischen Republik!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-10-26",
@@ -265,6 +235,16 @@
     },
     {
       "Datum": "2024-11-04",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-11-04",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
@@ -295,6 +275,16 @@
     },
     {
       "Datum": "2024-11-11",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-11-11",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
@@ -315,6 +305,16 @@
     },
     {
       "Datum": "2024-11-18",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-11-18",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
@@ -324,6 +324,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2024-11-21",
+      "Zeit": null,
+      "Thema": "Kürzungen? Nicht mit uns!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "Bündnis für Pflege",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-11-22",
       "Zeit": null,
       "Thema": "Schülis gegen Rechts",
@@ -331,6 +341,16 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "Initiative Schülis gegen Rechts",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-11-25",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -375,6 +395,16 @@
     },
     {
       "Datum": "2024-12-02",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-12-02",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
@@ -382,6 +412,16 @@
       "Teilnehmer": "30-40",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-12-09",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-12-09",
@@ -405,6 +445,16 @@
     },
     {
       "Datum": "2024-12-16",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-12-16",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
@@ -415,6 +465,16 @@
     },
     {
       "Datum": "2024-12-23",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-12-23",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
@@ -422,6 +482,16 @@
       "Teilnehmer": "30-40",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-12-30",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-12-30",
