@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-10-08",
+  "Dateidatum": "2024-10-09",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -35,13 +35,13 @@
     },
     {
       "Datum": "2024-10-10",
-      "Zeit": null,
+      "Zeit": "16.00 - 18.00 Uhr",
       "Thema": "Biden in Berlin, Frieden in Dresden – Gegen US-Waffen in Deutschland!",
-      "Ort": null,
+      "Ort": "Wilsdruffer Straße",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "Dresden Stadt des Friedens",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-10-11",
@@ -104,6 +104,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2024-10-14",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Fred die linke Socke",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-10-19",
       "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
@@ -115,12 +125,22 @@
     },
     {
       "Datum": "2024-10-19",
-      "Zeit": null,
+      "Zeit": "13.00 - 15.00 Uhr",
       "Thema": "Kriege, eine unsichere Wirtschaft, Politische Unruhe und Umweltsorgen: ist es möglich im einer Welt im Kaus innere frieden zu finden?",
-      "Ort": null,
+      "Ort": "Wiener Platz ",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Weltweite Missionsbewegung e. V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-10-19",
+      "Zeit": null,
+      "Thema": "Kidical Mass - Straßen sind für alle da!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
