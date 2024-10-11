@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-10-10",
+  "Dateidatum": "2024-10-11",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,26 +14,6 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2024-10-10",
-      "Zeit": "13.00 - 15.00 Uhr",
-      "Thema": "Gutes Studium - Gute Arbeit! Für deutliche Verbesserungen Jetzt!",
-      "Ort": "Bergstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "15",
-      "Veranstalter": "DGB Jugend Sachsen",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2024-10-10",
-      "Zeit": "16.00 - 18.00 Uhr",
-      "Thema": "Biden in Berlin, Frieden in Dresden – Gegen US-Waffen in Deutschland!",
-      "Ort": "Wilsdruffer Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "Dresden Stadt des Friedens",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2024-10-11",
       "Zeit": "17.00 - 18.25 Uhr",
       "Thema": "AfD Verbot Jetzt!",
@@ -46,12 +26,22 @@
     {
       "Datum": "2024-10-12",
       "Zeit": null,
-      "Thema": "Isolationshaft beenden! Freiheit für Öcalan, Frieden für Kurdistan!",
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
       "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-10-12",
+      "Zeit": "14.00 - 16.00 Uhr",
+      "Thema": "Isolationshaft beenden! Freiheit für Öcalan, Frieden für Kurdistan!",
+      "Ort": "Dr.-Külz-Ring",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-10-13",
@@ -105,12 +95,32 @@
     },
     {
       "Datum": "2024-10-14",
-      "Zeit": null,
+      "Zeit": "18.15 - 22.00 Uhr",
+      "Thema": "Nett hier, aber waren sie schon mal in einer Stadt ohne Faschos",
+      "Ort": null,
+      "Startpunkt": "Albertplatz",
+      "Teilnehmer": "250",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-10-14",
+      "Zeit": "18.00 - 21.30 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "50",
       "Veranstalter": "Fred die linke Socke",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-10-14",
+      "Zeit": null,
+      "Thema": "Demonstration für die Enteignung Vonovia.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Linksjugend Dresden",
       "Status": "angemeldet"
     },
     {
@@ -122,6 +132,26 @@
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e. V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-10-19",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-10-19",
+      "Zeit": null,
+      "Thema": "Erhalt der christlichen Werte in unserer Gesellschaft",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "Mennoniten-Brüder-Gemeinde Brakel e.V.",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-10-19",
@@ -166,12 +196,22 @@
     {
       "Datum": "2024-10-20",
       "Zeit": null,
-      "Thema": "Die Rückkehr der Namen",
+      "Thema": "10 Jahre PEGIDA, 37 Jahre Stefan Trautmann - der Widerstand lebt!",
       "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20 bis 30",
+      "Veranstalter": "Partei FREIE SACHSEN",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-10-20",
+      "Zeit": "14.00 - 15.30 Uhr",
+      "Thema": "Die Rückkehr der Namen",
+      "Ort": "An der Kreuzkirche",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Russischsprachige Demokratinnen und Demokraten e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-10-21",
@@ -195,13 +235,13 @@
     },
     {
       "Datum": "2024-10-21",
-      "Zeit": null,
+      "Zeit": "18.00 - 21.30 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Willdruffer Straße",
       "Teilnehmer": "50",
       "Veranstalter": "Fred die linke Socke",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-10-21",
@@ -255,13 +295,13 @@
     },
     {
       "Datum": "2024-10-28",
-      "Zeit": null,
+      "Zeit": "18.00 - 21.30 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "50",
       "Veranstalter": "Fred die linke Socke",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-11-02",
