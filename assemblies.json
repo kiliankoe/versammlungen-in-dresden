@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-10-14",
+  "Dateidatum": "2024-10-15",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,74 +14,14 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2024-10-14",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
+      "Datum": "2024-10-17",
+      "Zeit": null,
+      "Thema": "Mahnwache der OMAS GEGEN RECHTS.DRESDEN für Frieden - gegen Krieg und Gewalt überall",
       "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "25",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-10-14",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
-      "Teilnehmer": "30-40",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-10-14",
-      "Zeit": "18.00 - 19.00 Uhr",
-      "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine und den Völkermord in Gaza. Kampf der Weltkriegsgefahr!",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "40",
-      "Veranstalter": "Demokratische Montagsaktion/ Montag Tag des Widerstands/Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-10-14",
-      "Zeit": "19.00 - 20.30 Uhr",
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-10-14",
-      "Zeit": "18.15 - 22.00 Uhr",
-      "Thema": "Nett hier, aber waren sie schon mal in einer Stadt ohne Faschos",
-      "Ort": null,
-      "Startpunkt": "Albertplatz",
-      "Teilnehmer": "250",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-10-14",
-      "Zeit": "18.00 - 21.30 Uhr",
-      "Thema": "Fred stellt sich in den Weg",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "50",
-      "Veranstalter": "Fred die linke Socke",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-10-14",
-      "Zeit": "17.30 - 21.00 Uhr",
-      "Thema": "Demonstration für die Enteignung Vonovia.",
-      "Ort": "Jacob-Winter-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "15",
-      "Veranstalter": "Linksjugend Dresden",
-      "Status": "beschieden"
+      "Teilnehmer": "10",
+      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-10-19",
@@ -144,14 +84,24 @@
       "Status": "beschieden"
     },
     {
-      "Datum": "2024-10-20",
+      "Datum": "2024-10-19",
       "Zeit": null,
-      "Thema": "10 Jahre Pegida",
+      "Thema": "Frieden statt Krieg! Das Volk Irans will Ruhe und Frieden! Solidarität mit den Menschen,die im Iran hingerichtet.Nein zur Islamischen Republik!",
       "Ort": null,
       "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-10-20",
+      "Zeit": "14.00 - 18.00 Uhr",
+      "Thema": "10 Jahre Pegida",
+      "Ort": null,
+      "Startpunkt": "Neumarkt",
       "Teilnehmer": "3000 bis 5000",
       "Veranstalter": "PEGIDA Förderverein e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-10-20",
@@ -169,7 +119,37 @@
       "Thema": "Kein Fußbreit dem Pegida Faschismus",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-10-20",
+      "Zeit": null,
+      "Thema": "Ohne Motto gegen Rechts.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "bis zu 600",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-10-20",
+      "Zeit": null,
+      "Thema": "Ohne Motto gegen Rechts.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "bis zu 100",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-10-20",
+      "Zeit": null,
+      "Thema": "Pegida macht Schluss. Es ist höchste Zeit, Dresden wieder positiv besetzen ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.500-2.000",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -205,6 +185,16 @@
     },
     {
       "Datum": "2024-10-21",
+      "Zeit": null,
+      "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine und den Völkermord in Gaza. Kampf der Weltkriegsgefahr! ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "40",
+      "Veranstalter": "Demokratische Montagsaktion/ Montag Tag des Widerstands/Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-10-21",
       "Zeit": "18.00 - 21.30 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
@@ -214,12 +204,12 @@
       "Status": "beschieden"
     },
     {
-      "Datum": "2024-10-21",
+      "Datum": "2024-10-26",
       "Zeit": null,
-      "Thema": "Frieden statt Krieg! Das Volk Irans will Ruhe und Frieden! Solidarität mit den Menschen,die im Iran hingerichtet.Nein zur Islamischen Republik!",
+      "Thema": "Menschenwürde statt Machtspielchen - Kritik an der derzeitigen Asylpolitik der SPD",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "30",
+      "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -314,6 +304,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2024-11-04",
+      "Zeit": null,
+      "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine und den Völkermord in Gaza. Kampf der Weltkriegsgefahr! ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "40",
+      "Veranstalter": "Demokratische Montagsaktion/ Montag Tag des Widerstands/Dresden",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-11-09",
       "Zeit": null,
       "Thema": "Mahnwache gegen Antisemitismus, Faschismus und Rassismus in Gedenken an die Opfer der Novemberpogrome 1938",
@@ -382,6 +382,16 @@
       "Teilnehmer": "30-40",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-11-18",
+      "Zeit": null,
+      "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine und den Völkermord in Gaza. Kampf der Weltkriegsgefahr! ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "40",
+      "Veranstalter": "Demokratische Montagsaktion/ Montag Tag des Widerstands/Dresden",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-11-21",
@@ -474,6 +484,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2024-12-02",
+      "Zeit": null,
+      "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine und den Völkermord in Gaza. Kampf der Weltkriegsgefahr! ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "40",
+      "Veranstalter": "Demokratische Montagsaktion/ Montag Tag des Widerstands/Dresden",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-12-09",
       "Zeit": null,
       "Thema": "Bühlau geht spazieren",
@@ -522,6 +542,16 @@
       "Teilnehmer": "30-40",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-12-16",
+      "Zeit": null,
+      "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine und den Völkermord in Gaza. Kampf der Weltkriegsgefahr! ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "40",
+      "Veranstalter": "Demokratische Montagsaktion/ Montag Tag des Widerstands/Dresden",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-12-23",
