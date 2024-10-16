@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-10-15",
+  "Dateidatum": "2024-10-16",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -15,13 +15,13 @@
   "Versammlungen": [
     {
       "Datum": "2024-10-17",
-      "Zeit": null,
+      "Zeit": "16.00 - 18.00 Uhr",
       "Thema": "Mahnwache der OMAS GEGEN RECHTS.DRESDEN für Frieden - gegen Krieg und Gewalt überall",
-      "Ort": null,
+      "Ort": "Kleiner Kirchgasse",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-10-19",
@@ -45,13 +45,13 @@
     },
     {
       "Datum": "2024-10-19",
-      "Zeit": null,
+      "Zeit": "11.00 - 15.00 Uhr",
       "Thema": "Erhalt der christlichen Werte in unserer Gesellschaft",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "25",
       "Veranstalter": "Mennoniten-Brüder-Gemeinde Brakel e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-10-19",
@@ -85,13 +85,13 @@
     },
     {
       "Datum": "2024-10-19",
-      "Zeit": null,
+      "Zeit": "15.00 - 16.00 Uhr",
       "Thema": "Frieden statt Krieg! Das Volk Irans will Ruhe und Frieden! Solidarität mit den Menschen,die im Iran hingerichtet.Nein zur Islamischen Republik!",
-      "Ort": null,
+      "Ort": "Theaterplatz",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-10-20",
@@ -105,13 +105,13 @@
     },
     {
       "Datum": "2024-10-20",
-      "Zeit": null,
+      "Zeit": "13.00 - 18.00 Uhr",
       "Thema": "10 Jahre PEGIDA, 37 Jahre Stefan Trautmann - der Widerstand lebt!",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "20 bis 30",
       "Veranstalter": "Partei FREIE SACHSEN",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-10-20",
@@ -202,6 +202,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "Fred die linke Socke",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-10-21",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-10-26",
