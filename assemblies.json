@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-10-17",
+  "Dateidatum": "2024-10-18",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,24 +14,14 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2024-10-17",
-      "Zeit": "16.00 - 18.00 Uhr",
-      "Thema": "Mahnwache der OMAS GEGEN RECHTS.DRESDEN für Frieden - gegen Krieg und Gewalt überall",
-      "Ort": "Kleiner Kirchgasse",
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2024-10-18",
-      "Zeit": null,
+      "Zeit": "16.00 - 18.00 Uhr",
       "Thema": "Anlässlich des Bidenbesuchs: Dresden für den Frieden und gegen US-Waffen in Deutschland",
-      "Ort": null,
+      "Ort": "Wilsdruffer Straße",
       "Startpunkt": null,
       "Teilnehmer": "40",
       "Veranstalter": "Dresden Stadt des Friedens",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-10-19",
@@ -129,7 +119,7 @@
       "Thema": "Kein Fußbreit dem Pegida Faschismus",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "500",
+      "Teilnehmer": "1000",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -215,13 +205,13 @@
     },
     {
       "Datum": "2024-10-21",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.30 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-10-24",
@@ -231,6 +221,16 @@
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "Bündnis für Pflege",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-10-25",
+      "Zeit": null,
+      "Thema": "Kein Werben für's Sterben - Wehrpflicht stoppen!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Sozialistische Deutsche Arbeiterjugend",
       "Status": "angemeldet"
     },
     {
