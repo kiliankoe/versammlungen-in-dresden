@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-10-20",
+  "Dateidatum": "2024-10-21",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,76 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-10-20",
-      "Zeit": "14.00 - 18.00 Uhr",
-      "Thema": "10 Jahre Pegida",
-      "Ort": null,
-      "Startpunkt": "Neumarkt",
-      "Teilnehmer": "3000 bis 5000",
-      "Veranstalter": "PEGIDA Förderverein e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-10-20",
-      "Zeit": "13.00 - 18.00 Uhr",
-      "Thema": "10 Jahre PEGIDA, 37 Jahre Stefan Trautmann - der Widerstand lebt!",
-      "Ort": "Neumarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "20 bis 30",
-      "Veranstalter": "Partei FREIE SACHSEN",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-10-20",
-      "Zeit": "12.30 - 14.00 Uhr",
-      "Thema": "Kein Fußbreit dem Pegida Faschismus",
-      "Ort": null,
-      "Startpunkt": "Alaunpark",
-      "Teilnehmer": "1000",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-10-20",
-      "Zeit": "13.30 - 17.30 Uhr",
-      "Thema": "Ohne Motto gegen Rechts.",
-      "Ort": "Neumarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "bis zu 600",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-10-20",
-      "Zeit": "15.00 - 16.00 Uhr",
-      "Thema": "Ohne Motto gegen Rechts.",
-      "Ort": "Dr.-Külz-Ring",
-      "Startpunkt": null,
-      "Teilnehmer": "bis zu 100",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-10-20",
-      "Zeit": "13.30 - 18.00 Uhr",
-      "Thema": "Pegida macht Schluss. Es ist höchste Zeit, Dresden wieder positiv besetzen ",
-      "Ort": "Neumarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "1.500-2.000",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-10-20",
-      "Zeit": "14.00 - 15.30 Uhr",
-      "Thema": "Die Rückkehr der Namen",
-      "Ort": "An der Kreuzkirche",
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "Russischsprachige Demokratinnen und Demokraten e. V.",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-10-21",
       "Zeit": "18.00 - 19.30 Uhr",
@@ -212,6 +142,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "Fred die linke Socke",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-10-29",
+      "Zeit": null,
+      "Thema": "Mach Dich auf Deinem Gott zu begegnen.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "80",
+      "Veranstalter": "Verein Neues Leben in Remsa S.D.G. e.V. ",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-11-01",
