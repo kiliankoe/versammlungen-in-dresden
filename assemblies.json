@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-10-21",
+  "Dateidatum": "2024-10-22",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,74 +14,24 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2024-10-21",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "25",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-10-21",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "30-40",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-10-21",
-      "Zeit": "18.00 - 19.00 Uhr",
-      "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine und den Völkermord in Gaza. Kampf der Weltkriegsgefahr! ",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "40",
-      "Veranstalter": "Demokratische Montagsaktion/ Montag Tag des Widerstands/Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-10-21",
-      "Zeit": "18.00 - 21.30 Uhr",
-      "Thema": "Fred stellt sich in den Weg",
-      "Ort": null,
-      "Startpunkt": "Willdruffer Straße",
-      "Teilnehmer": "50",
-      "Veranstalter": "Fred die linke Socke",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-10-21",
-      "Zeit": "19.00 - 20.30 Uhr",
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2024-10-24",
-      "Zeit": null,
+      "Zeit": "15.45 - 17.00 Uhr",
       "Thema": "Die Liste der Grausamkeiten muss vom Tisch! Kürzungen? Nicht mit uns!",
-      "Ort": null,
+      "Ort": "Rathausplatz",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "Bündnis für Pflege",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2024-10-25",
-      "Zeit": null,
+      "Zeit": "13.00 - 18.00 Uhr",
       "Thema": "Kein Werben für's Sterben - Wehrpflicht stoppen!",
-      "Ort": null,
+      "Ort": "Bautzner Straße",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Sozialistische Deutsche Arbeiterjugend",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-10-26",
@@ -105,13 +55,13 @@
     },
     {
       "Datum": "2024-10-27",
-      "Zeit": null,
+      "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "Demonstration in Solidarität mit dem kubanischen Volk, für die Freilassung aller politischen Gefangenen in Kuba ",
-      "Ort": null,
+      "Ort": "Alaunplatz",
       "Startpunkt": null,
       "Teilnehmer": "40",
-      "Veranstalter": "PatriaYVida e.V",
-      "Status": "angemeldet"
+      "Veranstalter": "PatriaYVida e. V.",
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-10-28",
@@ -144,6 +94,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2024-10-28",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-10-29",
       "Zeit": null,
       "Thema": "Mach Dich auf Deinem Gott zu begegnen.",
@@ -155,13 +115,13 @@
     },
     {
       "Datum": "2024-11-01",
-      "Zeit": null,
+      "Zeit": "13.00 - 17.00 Uhr",
       "Thema": "Pop-Up-Radweg auf der Antonstraße",
-      "Ort": null,
+      "Ort": "Antonstraße",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Fuß- und Radentscheid Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-11-02",
@@ -172,6 +132,16 @@
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e. V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-11-02",
+      "Zeit": null,
+      "Thema": "Galerie der Aufklärung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-11-04",
@@ -202,6 +172,16 @@
       "Teilnehmer": "40",
       "Veranstalter": "Demokratische Montagsaktion/ Montag Tag des Widerstands/Dresden",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-11-07",
+      "Zeit": null,
+      "Thema": "Stoppt den fossilen Wahnsinn! Mit der Aktion fordern wir von der Politik und Verwaltung, dass erneuerbarer Strom und Energiesparen vorangetrieben werden, sodass wir geordnet aus allen fossilen Energieträgern aussteigen können.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-11-09",
