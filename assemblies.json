@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-10-23",
+  "Dateidatum": "2024-10-24",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -25,13 +25,13 @@
     },
     {
       "Datum": "2024-10-25",
-      "Zeit": null,
+      "Zeit": "09.00 - 10.00 Uhr",
       "Thema": "CDU missachtet Verfassungsrechte von Eltern und Kindern; CDU sorgt für Ausgrenzung, Mobbing und Diskriminierung unseres Kindes an Schule ",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Devrientstraße",
       "Teilnehmer": "3",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-10-25",
@@ -44,14 +44,24 @@
       "Status": "beschieden"
     },
     {
-      "Datum": "2024-10-26",
+      "Datum": "2024-10-25",
       "Zeit": null,
-      "Thema": "Wenn der Lügenfuchs den Gänsen predigt, ist Widerspruch angesagt. ",
+      "Thema": "Kundgebung gegen Krieg und für Frieden",
       "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-10-26",
+      "Zeit": "13.45 - 18.00 Uhr",
+      "Thema": "Wenn der Lügenfuchs den Gänsen predigt, ist Widerspruch angesagt. ",
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "250",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-10-26",
@@ -72,6 +82,16 @@
       "Teilnehmer": "1000",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-10-27",
+      "Zeit": null,
+      "Thema": "Abolish ABH - fight racism",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "bis zu 50",
+      "Veranstalter": "Initiative Seebrücke Dresden",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-10-27",
@@ -115,23 +135,33 @@
     },
     {
       "Datum": "2024-10-28",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.35 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-10-29",
       "Zeit": null,
-      "Thema": "Mach Dich auf Deinem Gott zu begegnen.",
+      "Thema": "Sozialismus",
       "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Juso Hochschulgruppe Dresden ",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-10-29",
+      "Zeit": "16.00 - 18.00 Uhr",
+      "Thema": "Mach Dich auf Deinem Gott zu begegnen.",
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "80",
       "Veranstalter": "Verein Neues Leben in Remsa S.D.G. e.V. ",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-11-01",
@@ -155,13 +185,13 @@
     },
     {
       "Datum": "2024-11-02",
-      "Zeit": null,
+      "Zeit": "11.30 - 16.30 Uhr",
       "Thema": "Galerie der Aufklärung",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-11-04",
