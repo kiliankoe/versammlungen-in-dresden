@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-10-25",
+  "Dateidatum": "2024-10-26",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,36 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-10-25",
-      "Zeit": "09.00 - 10.00 Uhr",
-      "Thema": "CDU missachtet Verfassungsrechte von Eltern und Kindern; CDU sorgt für Ausgrenzung, Mobbing und Diskriminierung unseres Kindes an Schule ",
-      "Ort": null,
-      "Startpunkt": "Devrientstraße",
-      "Teilnehmer": "3",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-10-25",
-      "Zeit": "13.00 - 18.00 Uhr",
-      "Thema": "Kein Werben für's Sterben - Wehrpflicht stoppen!",
-      "Ort": "Bautzner Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "Sozialistische Deutsche Arbeiterjugend",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-10-25",
-      "Zeit": "15.30 - 17.30 Uhr",
-      "Thema": "Kundgebung gegen Krieg und für Frieden",
-      "Ort": "Albertplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "25",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-10-26",
       "Zeit": "13.45 - 18.00 Uhr",
@@ -75,23 +45,23 @@
     },
     {
       "Datum": "2024-10-26",
-      "Zeit": null,
+      "Zeit": "17.00 - 20.00 Uhr",
       "Thema": "Solidarität mit Gaza",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-10-27",
-      "Zeit": null,
+      "Zeit": "17.00 - 19.00 Uhr",
       "Thema": "Abolish ABH - fight racism",
-      "Ort": null,
+      "Ort": "Theaterstraße",
       "Startpunkt": null,
       "Teilnehmer": "bis zu 50",
       "Veranstalter": "Initiative Seebrücke Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-10-27",
@@ -132,6 +102,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "Fred die linke Socke",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-10-28",
+      "Zeit": null,
+      "Thema": "Nett hier, aber waren sie schon mal in einer Stadt ohne Faschos",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "250",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-10-28",
