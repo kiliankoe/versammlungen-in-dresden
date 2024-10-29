@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-10-28",
+  "Dateidatum": "2024-10-29",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,64 +14,14 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2024-10-28",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "25",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-10-28",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "30-40",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-10-28",
-      "Zeit": "18.00 - 21.30 Uhr",
-      "Thema": "Fred stellt sich in den Weg",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "50",
-      "Veranstalter": "Fred die linke Socke",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-10-28",
-      "Zeit": null,
-      "Thema": "Nett hier, aber waren sie schon mal in einer Stadt ohne Faschos",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "250",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2024-10-28",
-      "Zeit": "19.00 - 20.35 Uhr",
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2024-10-29",
-      "Zeit": null,
+      "Zeit": "11.00 - 14.30 Uhr",
       "Thema": "Sozialismus",
-      "Ort": null,
+      "Ort": "Mommsenstraße",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Juso Hochschulgruppe Dresden ",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-10-29",
@@ -92,6 +42,16 @@
       "Teilnehmer": "10",
       "Veranstalter": "Fuß- und Radentscheid Dresden",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-11-01",
+      "Zeit": null,
+      "Thema": "Schülis gegen Rechts ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-11-02",
@@ -144,12 +104,32 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2024-11-04",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Fred die linke Socke",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-11-07",
       "Zeit": null,
       "Thema": "Stoppt den fossilen Wahnsinn! Mit der Aktion fordern wir von der Politik und Verwaltung, dass erneuerbarer Strom und Energiesparen vorangetrieben werden, sodass wir geordnet aus allen fossilen Energieträgern aussteigen können.",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-11-07",
+      "Zeit": null,
+      "Thema": "Schulsozialarbeit erhalten",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -166,16 +146,6 @@
     {
       "Datum": "2024-11-09",
       "Zeit": null,
-      "Thema": "Kuchen gegen Rechts",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2024-11-09",
-      "Zeit": null,
       "Thema": "Nie wieder Faschismus - Demokratie verteidigen",
       "Ort": null,
       "Startpunkt": null,
@@ -184,13 +154,33 @@
       "Status": "angemeldet"
     },
     {
-      "Datum": "2024-11-10",
+      "Datum": "2024-11-09",
       "Zeit": null,
-      "Thema": "Weg der Erinnerung - Die Gleichschaltung der Künste 1933",
+      "Thema": "Kuchen gegen Rechts",
       "Ort": null,
       "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-11-10",
+      "Zeit": "11.00 - 14.00 Uhr",
+      "Thema": "Weg der Erinnerung - Die Gleichschaltung der Künste 1933",
+      "Ort": null,
+      "Startpunkt": "An der Kreuzkirche",
       "Teilnehmer": "80 bis 150",
       "Veranstalter": "Ev.-Luth. Stadtjugendpfarramt Dresden in Zusammenarbeit mit der Gesellschaft für Christlich-Jüdische Zusammenarbeit, Katholische Dekanatsjugendseelsorge und der Jüdischen Gemeinde Dresden",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-11-10",
+      "Zeit": null,
+      "Thema": "Solidarität mit der Ukraine ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -212,6 +202,16 @@
       "Teilnehmer": "30-40",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-11-11",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Fred die linke Socke",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-11-16",
@@ -254,14 +254,24 @@
       "Status": "beschieden"
     },
     {
-      "Datum": "2024-11-20",
+      "Datum": "2024-11-18",
       "Zeit": null,
-      "Thema": "Mahnwache zum Gedenktag an die Opfer von Transfeindlichkeit",
+      "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Fred die linke Socke",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-11-20",
+      "Zeit": "16.00 - 18.00 Uhr",
+      "Thema": "Mahnwache zum Gedenktag an die Opfer von Transfeindlichkeit",
+      "Ort": "Alaunplatz",
       "Startpunkt": null,
       "Teilnehmer": "40",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-11-21",
@@ -305,13 +315,13 @@
     },
     {
       "Datum": "2024-11-25",
-      "Zeit": null,
+      "Zeit": "15.00 - 20.00 Uhr",
       "Thema": "Kundgebung zum Internationalen Tag gegen Gewalt an Frauen",
-      "Ort": null,
+      "Ort": "Wilsdruffer Straße",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "Landesfrauenrat Sachsen e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-11-30",
