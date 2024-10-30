@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-10-29",
+  "Dateidatum": "2024-10-30",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,26 +14,6 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2024-10-29",
-      "Zeit": "11.00 - 14.30 Uhr",
-      "Thema": "Sozialismus",
-      "Ort": "Mommsenstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "Juso Hochschulgruppe Dresden ",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-10-29",
-      "Zeit": "16.00 - 18.00 Uhr",
-      "Thema": "Mach Dich auf Deinem Gott zu begegnen.",
-      "Ort": "Neumarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "80",
-      "Veranstalter": "Verein Neues Leben in Remsa S.D.G. e.V. ",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2024-11-01",
       "Zeit": "13.00 - 17.00 Uhr",
       "Thema": "Pop-Up-Radweg auf der Antonstraße",
@@ -45,13 +25,13 @@
     },
     {
       "Datum": "2024-11-01",
-      "Zeit": null,
+      "Zeit": "16.00 - 18.30 Uhr",
       "Thema": "Schülis gegen Rechts ",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Brühlsche Terasse",
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-11-02",
@@ -114,6 +94,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2024-11-04",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-11-07",
       "Zeit": null,
       "Thema": "Stoppt den fossilen Wahnsinn! Mit der Aktion fordern wir von der Politik und Verwaltung, dass erneuerbarer Strom und Energiesparen vorangetrieben werden, sodass wir geordnet aus allen fossilen Energieträgern aussteigen können.",
@@ -156,12 +146,22 @@
     {
       "Datum": "2024-11-09",
       "Zeit": null,
-      "Thema": "Kuchen gegen Rechts",
+      "Thema": "'Wir alle haben geschwiegen' - Gedenkveranstaltung zum 86. Jahrestag der Reichspogromnacht",
       "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Initiative 'Dresden WiEdersetzen' ",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-11-09",
+      "Zeit": "14.00 - 18.00 Uhr",
+      "Thema": "Kuchen gegen Rechts",
+      "Ort": "Alaunstraße",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-11-10",
@@ -261,6 +261,16 @@
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "Fred die linke Socke",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-11-18",
+      "Zeit": null,
+      "Thema": "Russland die Stirn bieten – für eine Ukraine in Frieden und Freiheit ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Jungliberale Aktion Dresden",
       "Status": "angemeldet"
     },
     {
