@@ -44,6 +44,7 @@ const organizerReplacements: Record<string, string> = {
   "Fred die Linke Socke": "@Fred_die_linke_socke@freeradical.zone",
   "Fred die linke Socke": "@Fred_die_linke_socke@freeradical.zone",
   "Fuß- und Radentscheid Dresden": "@furedd@dresden.network",
+  "Initiative 'Dresden WiEdersetzen'": "@ddwiedersetzen@dresden.network"
 };
 
 export function formatOrganizer(organizer: string) {
