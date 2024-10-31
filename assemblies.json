@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-10-30",
+  "Dateidatum": "2024-10-31",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -22,6 +22,16 @@
       "Teilnehmer": "10",
       "Veranstalter": "Fuß- und Radentscheid Dresden",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-11-01",
+      "Zeit": null,
+      "Thema": "Solidarität mit Gaza",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20- 30 Fahrzeuge, 200 Personen Abschlusskundgebung",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-11-01",
@@ -85,23 +95,23 @@
     },
     {
       "Datum": "2024-11-04",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.30 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Willsdruffer Straße",
       "Teilnehmer": "50",
       "Veranstalter": "Fred die linke Socke",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-11-04",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-11-07",
@@ -176,6 +186,16 @@
     {
       "Datum": "2024-11-10",
       "Zeit": null,
+      "Thema": "Zwangsarbeit in der Zeit des Nationalsozialismus - ein historischer Stadtrundgang",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50-100",
+      "Veranstalter": "Initiative 'Dresden WiEdersetzen' ",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-11-10",
+      "Zeit": null,
       "Thema": "Solidarität mit der Ukraine ",
       "Ort": null,
       "Startpunkt": null,
@@ -205,13 +225,13 @@
     },
     {
       "Datum": "2024-11-11",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.30 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "50",
       "Veranstalter": "Fred die linke Socke",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-11-16",
@@ -255,13 +275,13 @@
     },
     {
       "Datum": "2024-11-18",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.30 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "50",
       "Veranstalter": "Fred die linke Socke",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-11-18",
