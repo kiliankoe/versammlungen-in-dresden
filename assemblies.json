@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-10-31",
+  "Dateidatum": "2024-11-01",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -42,6 +42,16 @@
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-11-01",
+      "Zeit": null,
+      "Thema": "Gegen jeden Antisemitismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Herr Benjamin Höntsch",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-11-02",
