@@ -25,13 +25,13 @@
     },
     {
       "Datum": "2024-11-01",
-      "Zeit": null,
+      "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "Solidarität mit Gaza",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Marschnerstraße",
       "Teilnehmer": "20- 30 Fahrzeuge, 200 Personen Abschlusskundgebung",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-11-01",
@@ -51,7 +51,7 @@
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2024-11-02",
