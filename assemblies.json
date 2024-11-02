@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-11-01",
+  "Dateidatum": "2024-11-02",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,46 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-11-01",
-      "Zeit": "13.00 - 17.00 Uhr",
-      "Thema": "Pop-Up-Radweg auf der Antonstraße",
-      "Ort": "Antonstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "Fuß- und Radentscheid Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-11-01",
-      "Zeit": "15.00 - 18.00 Uhr",
-      "Thema": "Solidarität mit Gaza",
-      "Ort": null,
-      "Startpunkt": "Marschnerstraße",
-      "Teilnehmer": "20- 30 Fahrzeuge, 200 Personen Abschlusskundgebung",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-11-01",
-      "Zeit": "16.00 - 18.30 Uhr",
-      "Thema": "Schülis gegen Rechts ",
-      "Ort": null,
-      "Startpunkt": "Brühlsche Terasse",
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-11-01",
-      "Zeit": null,
-      "Thema": "Gegen jeden Antisemitismus",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
     {
       "Datum": "2024-11-02",
       "Zeit": "14.00 - 18.00 Uhr",
@@ -139,7 +99,7 @@
       "Thema": "Schulsozialarbeit erhalten",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "200",
+      "Teilnehmer": "300-400",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
