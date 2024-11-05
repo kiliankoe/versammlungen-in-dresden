@@ -15,13 +15,13 @@
   "Versammlungen": [
     {
       "Datum": "2024-11-07",
-      "Zeit": null,
+      "Zeit": "08.15 - 09.00 Uhr",
       "Thema": "Stoppt den fossilen Wahnsinn! Mit der Aktion fordern wir von der Politik und Verwaltung, dass erneuerbarer Strom und Energiesparen vorangetrieben werden, sodass wir geordnet aus allen fossilen Energieträgern aussteigen können.",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Fritz-Foerster-Platz",
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-11-07",
@@ -46,21 +46,21 @@
     {
       "Datum": "2024-11-09",
       "Zeit": null,
-      "Thema": "'Wir alle haben geschwiegen' - Gedenkveranstaltung zum 86. Jahrestag der Reichspogromnacht",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "Initiative 'Dresden WiEdersetzen' ",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2024-11-09",
-      "Zeit": null,
       "Thema": "Nie wieder Faschismus - Demokratie verteidigen",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-11-09",
+      "Zeit": null,
+      "Thema": "'Wir alle haben geschwiegen' - Gedenkveranstaltung zum 86. Jahrestag der Reichspogromnacht",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
+      "Veranstalter": "Initiative 'Dresden WiEdersetzen' ",
       "Status": "angemeldet"
     },
     {
