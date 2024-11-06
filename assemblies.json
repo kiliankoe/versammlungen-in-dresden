@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-11-05",
+  "Dateidatum": "2024-11-06",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -45,23 +45,23 @@
     },
     {
       "Datum": "2024-11-09",
-      "Zeit": null,
+      "Zeit": "14.30 - 16.30 Uhr",
       "Thema": "Nie wieder Faschismus - Demokratie verteidigen",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Schloßplatz",
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-11-09",
-      "Zeit": null,
+      "Zeit": "18.15 - 19.00 Uhr",
       "Thema": "'Wir alle haben geschwiegen' - Gedenkveranstaltung zum 86. Jahrestag der Reichspogromnacht",
-      "Ort": null,
+      "Ort": "Eisenbahnstraße",
       "Startpunkt": null,
       "Teilnehmer": "150",
-      "Veranstalter": "Initiative 'Dresden WiEdersetzen' ",
-      "Status": "angemeldet"
+      "Veranstalter": "Initiative 'Herz statt Hetze' ",
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-11-09",
@@ -85,16 +85,6 @@
     },
     {
       "Datum": "2024-11-10",
-      "Zeit": null,
-      "Thema": "Zwangsarbeit in der Zeit des Nationalsozialismus - ein historischer Stadtrundgang",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "50-100",
-      "Veranstalter": "Initiative 'Dresden WiEdersetzen' ",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2024-11-10",
       "Zeit": "14.00 - 18.00 Uhr",
       "Thema": "Solidarität mit der Ukraine ",
       "Ort": "An der Frauenkirche",
@@ -102,6 +92,16 @@
       "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-11-10",
+      "Zeit": null,
+      "Thema": "Zwangsarbeit in der Zeit des Nationalsozialismus - ein historischer Stadtrundgang",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50 bis 100",
+      "Veranstalter": "Initiative 'Dresden WiEdersetzen' ",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-11-11",
@@ -132,6 +132,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "Fred die linke Socke",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-11-11",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-11-16",
@@ -262,6 +272,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "Landesfrauenrat Sachsen e. V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-11-25",
+      "Zeit": null,
+      "Thema": "Gemeinsam gegen patriarchale Gewalt - intersektionale Perspektiven erkämpfen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-11-30",
