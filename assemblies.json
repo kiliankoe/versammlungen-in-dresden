@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-11-06",
+  "Dateidatum": "2024-11-07",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -65,6 +65,26 @@
     },
     {
       "Datum": "2024-11-09",
+      "Zeit": null,
+      "Thema": "Fred's Zubringerdemo zum Schlossplatz",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Fred die linke Socke",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-11-09",
+      "Zeit": null,
+      "Thema": "Fred sagt: 'NIE WIEDER IST JETZT!'",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Fred die linke Socke",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-11-09",
       "Zeit": "14.00 - 18.00 Uhr",
       "Thema": "Kuchen gegen Rechts",
       "Ort": "Alaunstraße",
@@ -95,13 +115,13 @@
     },
     {
       "Datum": "2024-11-10",
-      "Zeit": null,
+      "Zeit": "14.00 - 16.00 Uhr",
       "Thema": "Zwangsarbeit in der Zeit des Nationalsozialismus - ein historischer Stadtrundgang",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Eisenbahnstraße",
       "Teilnehmer": "50 bis 100",
       "Veranstalter": "Initiative 'Dresden WiEdersetzen' ",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-11-11",
@@ -136,6 +156,16 @@
     {
       "Datum": "2024-11-11",
       "Zeit": null,
+      "Thema": "Nett hier, aber waren sie schon mal in einer Stadt ohne Faschos",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-11-11",
+      "Zeit": null,
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
       "Startpunkt": null,
@@ -156,12 +186,22 @@
     {
       "Datum": "2024-11-17",
       "Zeit": null,
-      "Thema": "Demonstration in Solidarität mit dem kubanischen Volk, für Freiheit und Demokratie ",
+      "Thema": "Gedenken zum Volkstrauertag",
       "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Heimatverein Niedersedlitz e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-11-17",
+      "Zeit": "14.00 - 17.00 Uhr",
+      "Thema": "Demonstration in Solidarität mit dem kubanischen Volk, für Freiheit und Demokratie ",
+      "Ort": "Alaunplatz",
       "Startpunkt": null,
       "Teilnehmer": "40",
       "Veranstalter": "PatriaYVida e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-11-18",
@@ -234,6 +274,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2024-11-21",
+      "Zeit": null,
+      "Thema": "Für eine attraktive und sichere Radanbindung des Dresdner Nordens an das Stadtzentrum",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "ADFC Dresden e.V.",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-11-22",
       "Zeit": null,
       "Thema": "Schülis gegen Rechts",
@@ -285,13 +335,13 @@
     },
     {
       "Datum": "2024-11-30",
-      "Zeit": null,
+      "Zeit": "15.00 - 19.00 Uhr",
       "Thema": "Light the Sky - Gedenken an die Tiere in den Tiertransportern (Dieses Gedenken findet in zahlreichen Orten in Deutschland und Europa statt)",
-      "Ort": null,
+      "Ort": "Theaterplatz",
       "Startpunkt": null,
       "Teilnehmer": "80",
       "Veranstalter": "Die Tierstimme e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-11-30",
