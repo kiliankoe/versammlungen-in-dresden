@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-11-07",
+  "Dateidatum": "2024-11-08",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-11-07",
-      "Zeit": "08.15 - 09.00 Uhr",
-      "Thema": "Stoppt den fossilen Wahnsinn! Mit der Aktion fordern wir von der Politik und Verwaltung, dass erneuerbarer Strom und Energiesparen vorangetrieben werden, sodass wir geordnet aus allen fossilen Energieträgern aussteigen können.",
-      "Ort": null,
-      "Startpunkt": "Fritz-Foerster-Platz",
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-11-07",
-      "Zeit": "17.00 - 19.00 Uhr",
-      "Thema": "Schulsozialarbeit erhalten",
-      "Ort": "Rathausplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "300-400",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-11-09",
       "Zeit": null,
@@ -65,23 +45,23 @@
     },
     {
       "Datum": "2024-11-09",
-      "Zeit": null,
+      "Zeit": "13.30 - 14.30 Uhr",
       "Thema": "Fred's Zubringerdemo zum Schlossplatz",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Alaunplatz",
       "Teilnehmer": "50",
       "Veranstalter": "Fred die linke Socke",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-11-09",
-      "Zeit": null,
+      "Zeit": "16.30 - 18.00 Uhr",
       "Thema": "Fred sagt: 'NIE WIEDER IST JETZT!'",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Schloßplatz",
       "Teilnehmer": "50",
       "Veranstalter": "Fred die linke Socke",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-11-09",
@@ -105,22 +85,22 @@
     },
     {
       "Datum": "2024-11-10",
-      "Zeit": "14.00 - 18.00 Uhr",
-      "Thema": "Solidarität mit der Ukraine ",
-      "Ort": "An der Frauenkirche",
-      "Startpunkt": null,
-      "Teilnehmer": "100",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-11-10",
       "Zeit": "14.00 - 16.00 Uhr",
       "Thema": "Zwangsarbeit in der Zeit des Nationalsozialismus - ein historischer Stadtrundgang",
       "Ort": null,
       "Startpunkt": "Eisenbahnstraße",
       "Teilnehmer": "50 bis 100",
       "Veranstalter": "Initiative 'Dresden WiEdersetzen' ",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-11-10",
+      "Zeit": "15.00 - 18.00 Uhr",
+      "Thema": "Solidarität mit der Ukraine ",
+      "Ort": "An der Frauenkirche",
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "natürliche Person",
       "Status": "beschieden"
     },
     {
@@ -155,13 +135,13 @@
     },
     {
       "Datum": "2024-11-11",
-      "Zeit": null,
+      "Zeit": "17.30 - 22.00 Uhr",
       "Thema": "Nett hier, aber waren sie schon mal in einer Stadt ohne Faschos",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Alaunpark",
       "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-11-11",
@@ -291,6 +271,16 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "Initiative Schülis gegen Rechts",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-11-24",
+      "Zeit": null,
+      "Thema": "Tag gegen Gewalt an Frauen und Mädchen - Sisters - Für den Ausstieg aus der Prostitution ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Sisters e. V.",
       "Status": "angemeldet"
     },
     {
