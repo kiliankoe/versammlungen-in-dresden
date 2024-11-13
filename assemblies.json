@@ -105,6 +105,16 @@
     },
     {
       "Datum": "2024-11-18",
+      "Zeit": null,
+      "Thema": "Nett hier, aber waren sie schon mal in einer Stadt ohne Faschos",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-11-18",
       "Zeit": "17.30 - 19.00 Uhr",
       "Thema": "Russland die Stirn bieten – für eine Ukraine in Frieden und Freiheit",
       "Ort": "Schloßplatz",
@@ -165,13 +175,13 @@
     },
     {
       "Datum": "2024-11-21",
-      "Zeit": null,
+      "Zeit": "13.00 - 15.15 Uhr",
       "Thema": "Zubringerdemo: Kürzungen? Nicht mit uns!",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Fritz-Foerster-Platz",
       "Teilnehmer": "200",
       "Veranstalter": "Studierendenrat der TU Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-11-21",
