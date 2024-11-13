@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-11-12",
+  "Dateidatum": "2024-11-13",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,6 +13,16 @@
     }
   ],
   "Versammlungen": [
+    {
+      "Datum": "2024-11-13",
+      "Zeit": null,
+      "Thema": "gegen Rechts, für bunte Gesellschaft",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
     {
       "Datum": "2024-11-16",
       "Zeit": "14.00 - 17.00 Uhr",
@@ -195,13 +205,13 @@
     },
     {
       "Datum": "2024-11-24",
-      "Zeit": null,
+      "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "Tag gegen Gewalt an Frauen und Mädchen - Sisters - Für den Ausstieg aus der Prostitution ",
-      "Ort": null,
+      "Ort": "Bautzner Straße",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Sisters e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-11-25",
@@ -235,13 +245,13 @@
     },
     {
       "Datum": "2024-11-25",
-      "Zeit": null,
+      "Zeit": "16.00 - 20.00 Uhr",
       "Thema": "Gemeinsam gegen patriarchale Gewalt - intersektionale Perspektiven erkämpfen",
-      "Ort": null,
+      "Ort": "Martin-Luther-Platz",
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-11-29",
