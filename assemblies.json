@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-11-13",
+  "Dateidatum": "2024-11-14",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,14 +14,14 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2024-11-13",
-      "Zeit": "11.30 - 14.30 Uhr",
-      "Thema": "gegen Rechts, für bunte Gesellschaft",
-      "Ort": "Nürnberger Straße",
+      "Datum": "2024-11-15",
+      "Zeit": null,
+      "Thema": "Gegen Wehrpflicht und Krieg - für ein friedliches Dresden!",
+      "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "15",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Teilnehmer": "30",
+      "Veranstalter": "Dresden Stadt des Friedens",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-11-16",
@@ -115,6 +115,16 @@
     },
     {
       "Datum": "2024-11-18",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-11-18",
       "Zeit": "17.30 - 19.00 Uhr",
       "Thema": "Russland die Stirn bieten – für eine Ukraine in Frieden und Freiheit",
       "Ort": "Schloßplatz",
@@ -155,13 +165,13 @@
     },
     {
       "Datum": "2024-11-21",
-      "Zeit": null,
+      "Zeit": "13.30 - 15.00 Uhr",
       "Thema": "Kürzungen? Nicht mit uns! - Zubringer zum Rathaus",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Marschnerstraße",
       "Teilnehmer": "250",
       "Veranstalter": "Initiative 'Studierende gegen Kürzungen'",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-11-21",
