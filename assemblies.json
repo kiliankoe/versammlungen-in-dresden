@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-11-14",
+  "Dateidatum": "2024-11-15",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -15,13 +15,13 @@
   "Versammlungen": [
     {
       "Datum": "2024-11-15",
-      "Zeit": null,
+      "Zeit": "15.00 - 17.00 Uhr",
       "Thema": "Gegen Wehrpflicht und Krieg - für ein friedliches Dresden!",
-      "Ort": null,
+      "Ort": "Wilsdruffer Straße",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Dresden Stadt des Friedens",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-11-16",
@@ -106,22 +106,22 @@
     {
       "Datum": "2024-11-18",
       "Zeit": null,
-      "Thema": "Nett hier, aber waren sie schon mal in einer Stadt ohne Faschos",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "150",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2024-11-18",
-      "Zeit": null,
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-11-18",
+      "Zeit": "17.45 - 19.00 Uhr",
+      "Thema": "Nett hier, aber waren sie schon mal in einer Stadt ohne Faschos",
+      "Ort": null,
+      "Startpunkt": "Alaunplatz, befestigte Wochenmarktfläche",
+      "Teilnehmer": "150",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-11-18",
@@ -216,12 +216,12 @@
     {
       "Datum": "2024-11-22",
       "Zeit": null,
-      "Thema": "Rudolf rollt gegen Kürzungen",
+      "Thema": "Rudolf rollt gegen Kürzungen ",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "Rudolf rollt",
-      "Status": "abgemeldet"
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-11-24",
@@ -1091,6 +1091,286 @@
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
+      "Thema": "Tu was gegen rechts - Demokratie stärken",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Bündnis 90 / Die Grünen, Stadtverband Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
+      "Thema": "'Stilles Gedenken vor der Frauenkirche Dresden - wahrhaftig erinnern - versöhnt leben' und 'Dresdner Gedenkweg - unterwegs zur Versöhnung - 13. Februar' ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": null,
+      "Veranstalter": "Gesellschaft zur Förderung der Frauenkirche Dresden e. V., Herrn Prof. Ludwig Güttler ",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
+      "Thema": "Kein Platz für Nazis, weg mit dem Opfermythos!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "GRÜNE JUGEND Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
+      "Thema": "Stilles Ge(h)denken Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "unbekannt",
+      "Veranstalter": "Wellenlänge",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
+      "Thema": "Stilles Ge(h)denken Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "unbekannt",
+      "Veranstalter": "Wellenlänge",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
+      "Thema": "Dresden ist kein Ort für Nazis",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
+      "Thema": "Menschenkette 13. Februar",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10.000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "Piraten Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
+      "Thema": "Dresden ist kein Ort für Nazis",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": null,
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
+      "Thema": "Mahnwache zum Gedenken der Opfer des Bombardements am 13.02.1945",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
+      "Thema": "OPERATION TRÜMMERFETISCH - Das traditionelle Entnazifizierungsbombardement(MusicalEdition) ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "Die PARTEI",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
+      "Thema": "Dresden mahnt - aus der Geschichte lernen - stilles Gedenken",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2.000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
+      "Thema": "Kranzniederlegung 13. Februar ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "AfD Dresden",
       "Status": "angemeldet"
     }
   ]
