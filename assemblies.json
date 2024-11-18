@@ -181,7 +181,7 @@
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "Rudolf rollt",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2024-11-24",
@@ -460,7 +460,7 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "2500",
-      "Veranstalter": "Piraten Dresden",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -620,7 +620,7 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "2500",
-      "Veranstalter": "Piraten Dresden",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -780,7 +780,7 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "2500",
-      "Veranstalter": "Piraten Dresden",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -910,7 +910,7 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "2500",
-      "Veranstalter": "Piraten Dresden",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -1170,7 +1170,7 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "2500",
-      "Veranstalter": "Piraten Dresden",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -1296,6 +1296,26 @@
     {
       "Datum": "2025-02-13",
       "Zeit": null,
+      "Thema": "Kundgebung mit Ausstellung zum 80. Jahrestag der Bombardierung Dresdens - Den Opfern des angloamerikanischen Bombenterrors in Würde gedenken!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "bis zu 2.000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
+      "Thema": "Mahnwache zum 13. Februar 1945",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "Dresdner Mahnmal gegen das Vergessen",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
       "Thema": "Mahnwache zum Gedenken der Opfer des Bombardements am 13.02.1945",
       "Ort": null,
       "Startpunkt": null,
@@ -1336,6 +1356,26 @@
     {
       "Datum": "2025-02-14",
       "Zeit": null,
+      "Thema": "Kundgebung mit Ausstellung zum 80. Jahrestag der Bombardierung Dresdens - Den Opfern des angloamerikanischen Bombenterrors in Würde gedenken!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "bis zu 2.000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-14",
+      "Zeit": null,
+      "Thema": "Mahnwache zum 13. Februar 1945",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "Dresdner Mahnmal gegen das Vergessen",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-14",
+      "Zeit": null,
       "Thema": "Rund um den 13. Februar WiEdersetzen",
       "Ort": null,
       "Startpunkt": null,
@@ -1350,7 +1390,7 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "2500",
-      "Veranstalter": "Piraten Dresden",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -1496,11 +1536,21 @@
     {
       "Datum": "2025-02-15",
       "Zeit": null,
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Thema": "Kundgebung mit Ausstellung zum 80. Jahrestag der Bombardierung Dresdens - Den Opfern des angloamerikanischen Bombenterrors in Würde gedenken!",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "2500",
+      "Teilnehmer": "bis zu 2.000",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-15",
+      "Zeit": null,
+      "Thema": "Mahnwache zum 13. Februar 1945",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "Dresdner Mahnmal gegen das Vergessen",
       "Status": "angemeldet"
     },
     {
@@ -1540,7 +1590,17 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "2500",
-      "Veranstalter": "Piraten Dresden",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-15",
+      "Zeit": null,
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -1710,7 +1770,7 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "2500",
-      "Veranstalter": "Piraten Dresden",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
