@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-11-18",
+  "Dateidatum": "2024-11-19",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,76 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-11-18",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "25",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-11-18",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "30-40",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-11-18",
-      "Zeit": "18.00 - 19.00 Uhr",
-      "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine und den Völkermord in Gaza. Kampf der Weltkriegsgefahr! ",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "40",
-      "Veranstalter": "Demokratische Montagsaktion/ Montag Tag des Widerstands/Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-11-18",
-      "Zeit": "19.00 - 21.30 Uhr",
-      "Thema": "Fred stellt sich in den Weg",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "50",
-      "Veranstalter": "Fred die linke Socke",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-11-18",
-      "Zeit": "19.00 - 20.45 Uhr",
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "200",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-11-18",
-      "Zeit": "17.45 - 19.00 Uhr",
-      "Thema": "Nett hier, aber waren sie schon mal in einer Stadt ohne Faschos",
-      "Ort": null,
-      "Startpunkt": "Alaunplatz, befestigte Wochenmarktfläche",
-      "Teilnehmer": "150",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-11-18",
-      "Zeit": "17.30 - 19.00 Uhr",
-      "Thema": "Russland die Stirn bieten – für eine Ukraine in Frieden und Freiheit",
-      "Ort": "Schloßplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "Jungliberale Aktion Dresden",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-11-20",
       "Zeit": "16.00 - 18.00 Uhr",
@@ -155,23 +85,23 @@
     },
     {
       "Datum": "2024-11-21",
-      "Zeit": null,
+      "Zeit": "14.00 - 15.30 Uhr",
       "Thema": "Rettet den Keppgrund",
-      "Ort": null,
+      "Ort": "Rathausplatz",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Ortsverein Pillnitz e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-11-22",
-      "Zeit": null,
+      "Zeit": "16.00 - 19.00 Uhr",
       "Thema": "Schülis gegen Rechts",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Schloßplatz",
       "Teilnehmer": "300",
       "Veranstalter": "Initiative Schülis gegen Rechts",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-11-22",
@@ -316,11 +246,41 @@
     {
       "Datum": "2024-12-12",
       "Zeit": null,
+      "Thema": "Kürzungen? Nicht mit uns! Die Liste der Grausamkeiten muss vom Tisch! ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "400",
+      "Veranstalter": "Bündnis gegen Kürzungen",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-12-12",
+      "Zeit": null,
       "Thema": "Trauerfeier für die Dresdner Stadtteilfriedhöfe",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "Netzwerk Dresdner Stadtteilfriedhöfe",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-12-13",
+      "Zeit": null,
+      "Thema": "Milliardärssteuer einführen!  Reichtum heißt Verantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Greenpeace Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-12-13",
+      "Zeit": null,
+      "Thema": "Animal Circusses Are Bullshit",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -1170,16 +1130,6 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": null,
-      "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": null,
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
