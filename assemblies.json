@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-11-19",
+  "Dateidatum": "2024-11-20",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -145,6 +145,16 @@
     },
     {
       "Datum": "2024-11-25",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Fred die linke Socke",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-11-25",
       "Zeit": "15.00 - 20.00 Uhr",
       "Thema": "Kundgebung zum Internationalen Tag gegen Gewalt an Frauen",
       "Ort": "Wilsdruffer Straße",
@@ -162,6 +172,16 @@
       "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-11-25",
+      "Zeit": null,
+      "Thema": " Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-11-29",
@@ -222,6 +242,26 @@
       "Teilnehmer": "40",
       "Veranstalter": "Demokratische Montagsaktion/ Montag Tag des Widerstands/Dresden",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-12-05",
+      "Zeit": null,
+      "Thema": "Stoppt den fossilen Wahnsinn! Mit der Aktion fordern wir von der Politik und Verwaltung, dass erneuerbarer Strom und Energiesparen vorangetrieben werden, sodass wir geordnet aus allen fossilen Energieträgern aussteigen können.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-12-07",
+      "Zeit": null,
+      "Thema": "Solidarische Nachbarschaft statt rechter Netzwerke",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-12-09",
@@ -325,53 +365,83 @@
     },
     {
       "Datum": "2024-12-20",
-      "Zeit": null,
+      "Zeit": "11.00 - 18.00 Uhr",
       "Thema": "Kinder der Welt",
-      "Ort": null,
+      "Ort": "Dr. Külz-Ring",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "UNICEF-Arbeitsgruppe Dresden",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-12-23",
+      "Zeit": "18.00 - 19.30 Uhr",
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": "Bautzner Landstraße",
+      "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-12-23",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "30-40",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-12-30",
+      "Zeit": "18.00 - 19.30 Uhr",
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": "Bautzner Landstraße",
+      "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-12-30",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "30-40",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-01-04",
+      "Zeit": null,
+      "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Activists for the Victims e. V.",
       "Status": "angemeldet"
     },
     {
-      "Datum": "2024-12-23",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
+      "Datum": "2025-01-18",
+      "Zeit": null,
+      "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
       "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "25",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-12-23",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
-      "Teilnehmer": "30-40",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Teilnehmer": "15",
+      "Veranstalter": "Activists for the Victims e. V.",
+      "Status": "angemeldet"
     },
     {
-      "Datum": "2024-12-30",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
+      "Datum": "2025-02-01",
+      "Zeit": null,
+      "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
       "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "25",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-12-30",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
-      "Teilnehmer": "30-40",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Teilnehmer": "15",
+      "Veranstalter": "Activists for the Victims e. V.",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-02-07",
@@ -1511,6 +1581,16 @@
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-15",
+      "Zeit": null,
+      "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Activists for the Victims e. V.",
       "Status": "angemeldet"
     },
     {
