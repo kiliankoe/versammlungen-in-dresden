@@ -95,13 +95,13 @@
     },
     {
       "Datum": "2024-11-25",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.30 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Dr.-Külz-Ring",
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-11-29",
@@ -132,6 +132,16 @@
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e. V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-11-30",
+      "Zeit": null,
+      "Thema": "Frieden statt Krieg! Das Volk Irans will Ruhe und Frieden! Solidarität mit den Menschen, die im Iran Hingerichtet.Nein zur Islamischen Republik!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-12-02",
