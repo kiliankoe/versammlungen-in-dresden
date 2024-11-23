@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-11-22",
+  "Dateidatum": "2024-11-23",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-11-22",
-      "Zeit": "16.00 - 19.00 Uhr",
-      "Thema": "Schülis gegen Rechts",
-      "Ort": null,
-      "Startpunkt": "Schloßplatz",
-      "Teilnehmer": "300",
-      "Veranstalter": "Initiative Schülis gegen Rechts",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-11-22",
-      "Zeit": null,
-      "Thema": "Rudolf rollt gegen Kürzungen ",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "100",
-      "Veranstalter": "Rudolf rollt",
-      "Status": "abgemeldet"
-    },
     {
       "Datum": "2024-11-24",
       "Zeit": "14.00 - 17.00 Uhr",
