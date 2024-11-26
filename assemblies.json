@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-11-25",
+  "Dateidatum": "2024-11-26",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,76 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-11-25",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "25",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-11-25",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "30-40",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-11-25",
-      "Zeit": "19.00 - 21.30 Uhr",
-      "Thema": "Fred stellt sich in den Weg",
-      "Ort": null,
-      "Startpunkt": "Dr-Külz-Ring",
-      "Teilnehmer": "50",
-      "Veranstalter": "Fred die linke Socke",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-11-25",
-      "Zeit": "17.45 - 21.30 Uhr",
-      "Thema": "Nett hier, aber waren sie schon mal in einer Stadt ohne Faschos",
-      "Ort": null,
-      "Startpunkt": "Alaunplatz",
-      "Teilnehmer": "150",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-11-25",
-      "Zeit": "15.00 - 20.00 Uhr",
-      "Thema": "Kundgebung zum Internationalen Tag gegen Gewalt an Frauen",
-      "Ort": "Wilsdruffer Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "Landesfrauenrat Sachsen e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-11-25",
-      "Zeit": "16.00 - 20.00 Uhr",
-      "Thema": "Gemeinsam gegen patriarchale Gewalt - intersektionale Perspektiven erkämpfen",
-      "Ort": "Martin-Luther-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "100",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-11-25",
-      "Zeit": "19.00 - 20.30 Uhr",
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": "Dr.-Külz-Ring",
-      "Teilnehmer": "200",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-11-29",
       "Zeit": null,
@@ -211,6 +141,16 @@
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "Netzwerk Dresdner Stadtteilfriedhöfe",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-12-12",
+      "Zeit": null,
+      "Thema": "Winterradeln für mehr Radwege",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Fuß- und Radentscheid Dresden",
       "Status": "angemeldet"
     },
     {
