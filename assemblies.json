@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-11-26",
+  "Dateidatum": "2024-11-27",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -54,6 +54,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2024-12-01",
+      "Zeit": null,
+      "Thema": "Unterstützung für Venezuela ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "Venezolanos en Sajonia e. V. ",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-12-02",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -84,14 +94,34 @@
       "Status": "beschieden"
     },
     {
-      "Datum": "2024-12-05",
+      "Datum": "2024-12-02",
       "Zeit": null,
-      "Thema": "Stoppt den fossilen Wahnsinn! Mit der Aktion fordern wir von der Politik und Verwaltung, dass erneuerbarer Strom und Energiesparen vorangetrieben werden, sodass wir geordnet aus allen fossilen Energieträgern aussteigen können.",
+      "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "15",
+      "Teilnehmer": "50",
+      "Veranstalter": "Fred die linke Socke",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-12-02",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
+    },
+    {
+      "Datum": "2024-12-05",
+      "Zeit": "16.00 - 16.50 Uhr",
+      "Thema": "Stoppt den fossilen Wahnsinn! Mit der Aktion fordern wir von der Politik und Verwaltung, dass erneuerbarer Strom und Energiesparen vorangetrieben werden, sodass wir geordnet aus allen fossilen Energieträgern aussteigen können.",
+      "Ort": null,
+      "Startpunkt": "Friedrich-List-Platz",
+      "Teilnehmer": "15",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-12-07",
@@ -122,6 +152,16 @@
       "Teilnehmer": "30-40",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-12-09",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Fred die linke Socke",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-12-12",
@@ -174,6 +214,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2024-12-13",
+      "Zeit": null,
+      "Thema": "Whose Streets? Our Streets!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-12-14",
       "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
@@ -212,6 +262,16 @@
       "Teilnehmer": "40",
       "Veranstalter": "Demokratische Montagsaktion/ Montag Tag des Widerstands/Dresden",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-12-16",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Fred die linke Socke",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-12-20",
