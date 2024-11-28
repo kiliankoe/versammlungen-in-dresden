@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-11-27",
+  "Dateidatum": "2024-11-28",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -15,13 +15,13 @@
   "Versammlungen": [
     {
       "Datum": "2024-11-29",
-      "Zeit": null,
+      "Zeit": "18.00 - 21.00 Uhr",
       "Thema": "Rudolf rollt gegen Kürzungen",
-      "Ort": null,
+      "Ort": "Rudolf-Leonhard-Straße",
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "Rudolf rollt",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-11-30",
@@ -45,13 +45,13 @@
     },
     {
       "Datum": "2024-11-30",
-      "Zeit": null,
+      "Zeit": "13.45 - 14.45 Uhr",
       "Thema": "Frieden statt Krieg! Das Volk Irans will Ruhe und Frieden! Solidarität mit den Menschen, die im Iran Hingerichtet.Nein zur Islamischen Republik!",
-      "Ort": null,
+      "Ort": "Theaterplatz",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-12-01",
