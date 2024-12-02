@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-12-01",
+  "Dateidatum": "2024-12-02",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-12-01",
-      "Zeit": "14.00 - 17.00 Uhr",
-      "Thema": "Unterstützung für Venezuela ",
-      "Ort": "Theaterplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "200",
-      "Veranstalter": "Venezolanos en Sajonia e. V. ",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-12-02",
       "Zeit": "18.00 - 19.30 Uhr",
@@ -72,6 +62,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "Fred die linke Socke",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-12-02",
+      "Zeit": null,
+      "Thema": "Demonstration und Übergabe Forderungspapier MERCOSUR der Landwirtschaftsverbände an Vertreter der aktuellen Sächs. Landesregierung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Land schafft Verbindung Sachsen e. V.",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-12-02",
