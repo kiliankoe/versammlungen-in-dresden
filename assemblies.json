@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-12-05",
+  "Dateidatum": "2024-12-06",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,22 +14,22 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2024-12-05",
-      "Zeit": "16.00 - 16.50 Uhr",
-      "Thema": "Stoppt den fossilen Wahnsinn! Mit der Aktion fordern wir von der Politik und Verwaltung, dass erneuerbarer Strom und Energiesparen vorangetrieben werden, sodass wir geordnet aus allen fossilen Energieträgern aussteigen können.",
+      "Datum": "2024-12-07",
+      "Zeit": "13.30 - 16.30 Uhr",
+      "Thema": "Solidarische Nachbarschaft statt rechter Netzwerke",
       "Ort": null,
-      "Startpunkt": "Friedrich-List-Platz",
-      "Teilnehmer": "15",
+      "Startpunkt": "Conertplatz",
+      "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
     },
     {
       "Datum": "2024-12-07",
       "Zeit": null,
-      "Thema": "Solidarische Nachbarschaft statt rechter Netzwerke",
+      "Thema": "Defend Rojava",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "100",
+      "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -115,13 +115,13 @@
     },
     {
       "Datum": "2024-12-13",
-      "Zeit": null,
+      "Zeit": "15.30 - 19.30 Uhr",
       "Thema": "Milliardärssteuer einführen!  Reichtum heißt Verantwortung",
-      "Ort": null,
+      "Ort": "Wilsdruffer Straße",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Greenpeace Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-12-13",
@@ -145,13 +145,13 @@
     },
     {
       "Datum": "2024-12-13",
-      "Zeit": null,
+      "Zeit": "17.00 - 19.00 Uhr",
       "Thema": "Animal Circusses Are Bullshit",
-      "Ort": null,
+      "Ort": "Kötzschenbroder Straße",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-12-13",
@@ -172,6 +172,16 @@
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e. V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-12-14",
+      "Zeit": null,
+      "Thema": "Solidarität mit Rojava",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-12-16",
@@ -294,6 +304,26 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2025-01-06",
+      "Zeit": null,
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-01-13",
+      "Zeit": null,
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-01-18",
       "Zeit": null,
       "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
@@ -301,6 +331,26 @@
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-01-20",
+      "Zeit": null,
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-01-27",
+      "Zeit": null,
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -314,6 +364,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2025-02-03",
+      "Zeit": null,
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-02-07",
       "Zeit": null,
       "Thema": "Rund um den 13. Februar WiEdersetzen",
@@ -950,6 +1010,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-10",
+      "Zeit": null,
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -1784,6 +1854,26 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2025-02-17",
+      "Zeit": null,
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-24",
+      "Zeit": null,
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-02-28",
       "Zeit": null,
       "Thema": "Stärkung der Würde als Quelle der Gemeinschaft",
@@ -1820,6 +1910,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "10",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-03-03",
+      "Zeit": null,
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     }
