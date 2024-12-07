@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-12-06",
+  "Dateidatum": "2024-12-07",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -25,13 +25,13 @@
     },
     {
       "Datum": "2024-12-07",
-      "Zeit": null,
+      "Zeit": "14.00 - 16.00 Uhr",
       "Thema": "Defend Rojava",
-      "Ort": null,
+      "Ort": "Schlesischer Platz",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-12-07",
@@ -75,13 +75,13 @@
     },
     {
       "Datum": "2024-12-09",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.20 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Dr.-Külz-Ring",
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-12-12",
@@ -371,6 +371,16 @@
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-06",
+      "Zeit": null,
+      "Thema": "Wahlkampfkundgebung der FDP mit Christian Lindner",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "400",
+      "Veranstalter": "Freie Demokratische Partei",
       "Status": "angemeldet"
     },
     {
