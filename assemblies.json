@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-12-07",
+  "Dateidatum": "2024-12-08",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,36 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-12-07",
-      "Zeit": "13.30 - 16.30 Uhr",
-      "Thema": "Solidarische Nachbarschaft statt rechter Netzwerke",
-      "Ort": null,
-      "Startpunkt": "Conertplatz",
-      "Teilnehmer": "100",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-12-07",
-      "Zeit": "14.00 - 16.00 Uhr",
-      "Thema": "Defend Rojava",
-      "Ort": "Schlesischer Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-12-07",
-      "Zeit": "15.00 - 17.00 Uhr",
-      "Thema": "Gegen Militarisierung und Kriegstüchtigkeit – erster dezentraler Aktionstag",
-      "Ort": "Dr.-Külz-Ring",
-      "Startpunkt": null,
-      "Teilnehmer": "35",
-      "Veranstalter": "Dresden Stadt des Friedens",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-12-09",
       "Zeit": "18.00 - 19.30 Uhr",
