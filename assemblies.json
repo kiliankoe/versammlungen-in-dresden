@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-12-09",
+  "Dateidatum": "2024-12-10",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,44 +14,14 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2024-12-09",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
+      "Datum": "2024-12-11",
+      "Zeit": null,
+      "Thema": "gegen Rechts, für bunte Gesellschaft",
       "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "25",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-12-09",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
-      "Teilnehmer": "30-40",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-12-09",
-      "Zeit": "19.00 - 21.30 Uhr",
-      "Thema": "Fred stellt sich in den Weg",
-      "Ort": null,
-      "Startpunkt": "Dr.-Külz-Ring",
-      "Teilnehmer": "50",
-      "Veranstalter": "Fred die linke Socke",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-12-09",
-      "Zeit": "19.00 - 20.20 Uhr",
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": "Dr.-Külz-Ring",
-      "Teilnehmer": "200",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Teilnehmer": "15",
+      "Veranstalter": "Studis gegen Rechts Dresden",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-12-12",
@@ -61,7 +31,7 @@
       "Startpunkt": null,
       "Teilnehmer": "400",
       "Veranstalter": "Bündnis gegen Kürzungen",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2024-12-12",
@@ -154,6 +124,26 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2024-12-14",
+      "Zeit": null,
+      "Thema": "Gegen Regierung und gegen 'Georgischen (Alb) Traum'",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "abgemeldet"
+    },
+    {
+      "Datum": "2024-12-15",
+      "Zeit": null,
+      "Thema": "Georgischer Kampf für unsere europäische Zukunft-Solidarität unseren Mitbürgern in Tbilisi ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-12-16",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -222,6 +212,16 @@
       "Teilnehmer": "30-40",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-12-28",
+      "Zeit": null,
+      "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Activists for the Victims e. V.",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-12-30",
@@ -1844,6 +1844,26 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2025-02-20",
+      "Zeit": null,
+      "Thema": "Labyrinth der Freiheit (Zweck der Versammlung: Aufmerksamkeit auf den Krieg in der Ukraine lenken.)",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "5 bis 10 ständig vor Ort",
+      "Veranstalter": "MRIJA Sport-, Kultur-, Wirtschafts- und Integrationsverein Wien ",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-21",
+      "Zeit": null,
+      "Thema": "Labyrinth der Freiheit (Zweck der Versammlung: Aufmerksamkeit auf den Krieg in der Ukraine lenken.)",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "5 bis 10 ständig vor Ort",
+      "Veranstalter": "MRIJA Sport-, Kultur-, Wirtschafts- und Integrationsverein Wien ",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-02-24",
       "Zeit": null,
       "Thema": "Mahnwache für Frieden Dresden",
@@ -1895,6 +1915,16 @@
     },
     {
       "Datum": "2025-03-03",
+      "Zeit": null,
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-03-10",
       "Zeit": null,
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": null,
