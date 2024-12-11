@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-12-10",
+  "Dateidatum": "2024-12-11",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -15,13 +15,13 @@
   "Versammlungen": [
     {
       "Datum": "2024-12-11",
-      "Zeit": null,
+      "Zeit": "11.00 - 14.00 Uhr",
       "Thema": "gegen Rechts, für bunte Gesellschaft",
-      "Ort": null,
+      "Ort": "Bergstraße",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Studis gegen Rechts Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-12-12",
@@ -45,13 +45,13 @@
     },
     {
       "Datum": "2024-12-12",
-      "Zeit": null,
+      "Zeit": "15.00 - 16.30 Uhr",
       "Thema": "Trauerfeier für die Dresdner Stadtteilfriedhöfe",
-      "Ort": null,
+      "Ort": "Dr.-Külz-Ring",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "Netzwerk Dresdner Stadtteilfriedhöfe",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-12-13",
@@ -95,13 +95,13 @@
     },
     {
       "Datum": "2024-12-13",
-      "Zeit": null,
+      "Zeit": "20.00 - 23.00 Uhr",
       "Thema": "Whose Streets? Our Streets!",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Schlesischer Platz",
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-12-14",
