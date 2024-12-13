@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-12-12",
+  "Dateidatum": "2024-12-13",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,39 +14,9 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2024-12-12",
-      "Zeit": null,
-      "Thema": "Kürzungen? Nicht mit uns! Die Liste der Grausamkeiten muss vom Tisch! ",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "400",
-      "Veranstalter": "Bündnis gegen Kürzungen",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2024-12-12",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Winterradeln für mehr Radwege",
-      "Ort": null,
-      "Startpunkt": "Lingnerallee",
-      "Teilnehmer": "50",
-      "Veranstalter": "Fuß- und Radentscheid Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-12-12",
-      "Zeit": "15.00 - 16.30 Uhr",
-      "Thema": "Trauerfeier für die Dresdner Stadtteilfriedhöfe",
-      "Ort": "Dr.-Külz-Ring",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "Netzwerk Dresdner Stadtteilfriedhöfe",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2024-12-13",
       "Zeit": "15.30 - 19.30 Uhr",
-      "Thema": "Milliardärssteuer einführen!  Reichtum heißt Verantwortung",
+      "Thema": "Milliardärssteuer einführen! Reichtum heißt Verantwortung",
       "Ort": "Wilsdruffer Straße",
       "Startpunkt": null,
       "Teilnehmer": "10",
@@ -105,13 +75,13 @@
     },
     {
       "Datum": "2024-12-14",
-      "Zeit": null,
+      "Zeit": "14.00 - 18.00 Uhr",
       "Thema": "Solidarität mit Rojava",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Dr-Külz-Ring",
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-12-14",
@@ -184,6 +154,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2024-12-19",
+      "Zeit": null,
+      "Thema": "Mahnwache der OMAS GEGEN RECHTS.DRESDEN für Frieden - gegen Krieg und Gewalt überall",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2024-12-20",
       "Zeit": "11.00 - 18.00 Uhr",
       "Thema": "Kinder der Welt",
@@ -192,6 +172,16 @@
       "Teilnehmer": "15",
       "Veranstalter": "UNICEF-Arbeitsgruppe Dresden",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-12-21",
+      "Zeit": null,
+      "Thema": "Stoppt den Genozid. Stoppt die Besatzung. Freiheit für Palästina!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-12-23",
@@ -284,6 +274,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2025-01-07",
+      "Zeit": null,
+      "Thema": "Das gute Leben für Alle!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "70",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-01-13",
       "Zeit": null,
       "Thema": "Mahnwache für Frieden Dresden",
@@ -321,6 +321,16 @@
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-01-27",
+      "Zeit": null,
+      "Thema": "80. Jahrestag der Befreiung des Konzentrationslagers Auschwitz - Internationaler Tag des Gedenkens an die Opfer des Holocausts. ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "Ostra e. V.",
       "Status": "angemeldet"
     },
     {
