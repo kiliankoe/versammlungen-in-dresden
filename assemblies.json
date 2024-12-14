@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-12-13",
+  "Dateidatum": "2024-12-14",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,56 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-12-13",
-      "Zeit": "15.30 - 19.30 Uhr",
-      "Thema": "Milliardärssteuer einführen! Reichtum heißt Verantwortung",
-      "Ort": "Wilsdruffer Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "Greenpeace Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-12-13",
-      "Zeit": "16.00 - 20.30 Uhr",
-      "Thema": "Kürzungen? Nicht mit uns! Für ein soziales und solidarisches Dresden",
-      "Ort": null,
-      "Startpunkt": "Dr.-Külz-Ring",
-      "Teilnehmer": "1.000",
-      "Veranstalter": "Bündnis gegen Kürzungen",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-12-13",
-      "Zeit": "16.15 - 17.00 Uhr",
-      "Thema": "Forderungen an die adressiert, die Entscheidungen treffen!",
-      "Ort": "Rathausplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "15",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-12-13",
-      "Zeit": "17.00 - 19.00 Uhr",
-      "Thema": "Animal Circusses Are Bullshit",
-      "Ort": "Kötzschenbroder Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-12-13",
-      "Zeit": "20.00 - 23.00 Uhr",
-      "Thema": "Whose Streets? Our Streets!",
-      "Ort": null,
-      "Startpunkt": "Schlesischer Platz",
-      "Teilnehmer": "200",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-12-14",
       "Zeit": "14.00 - 17.00 Uhr",
@@ -145,23 +95,23 @@
     },
     {
       "Datum": "2024-12-16",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.30 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Dr.-Külz-Ring",
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-12-19",
-      "Zeit": null,
+      "Zeit": "16.00 - 18.00 Uhr",
       "Thema": "Mahnwache der OMAS GEGEN RECHTS.DRESDEN für Frieden - gegen Krieg und Gewalt überall",
-      "Ort": null,
+      "Ort": "Keiner Kirchgasse",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-12-20",
@@ -205,13 +155,13 @@
     },
     {
       "Datum": "2024-12-28",
-      "Zeit": null,
+      "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
-      "Ort": null,
+      "Ort": "Schloßplatz",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-12-30",
