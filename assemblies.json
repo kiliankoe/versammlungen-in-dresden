@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-12-14",
+  "Dateidatum": "2024-12-15",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,36 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-12-14",
-      "Zeit": "14.00 - 17.00 Uhr",
-      "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
-      "Ort": "Prager Straße ",
-      "Startpunkt": null,
-      "Teilnehmer": "15",
-      "Veranstalter": "Activists for the Victims e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-12-14",
-      "Zeit": "14.00 - 18.00 Uhr",
-      "Thema": "Solidarität mit Rojava",
-      "Ort": null,
-      "Startpunkt": "Dr-Külz-Ring",
-      "Teilnehmer": "200",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-12-14",
-      "Zeit": null,
-      "Thema": "Gegen Regierung und gegen 'Georgischen (Alb) Traum'",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
     {
       "Datum": "2024-12-15",
       "Zeit": "14.00 - 17.00 Uhr",
@@ -1891,6 +1861,16 @@
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-03-15",
+      "Zeit": null,
+      "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Activists for the Victims e. V.",
       "Status": "angemeldet"
     }
   ]
