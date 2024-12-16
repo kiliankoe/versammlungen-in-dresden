@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-12-15",
+  "Dateidatum": "2024-12-16",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-12-15",
-      "Zeit": "14.00 - 17.00 Uhr",
-      "Thema": "Georgischer Kampf für unsere europäische Zukunft-Solidarität unseren Mitbürgern in Tbilisi ",
-      "Ort": "Theaterplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-12-16",
       "Zeit": "18.00 - 19.30 Uhr",
@@ -152,6 +142,16 @@
       "Teilnehmer": "30-40",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-12-30",
+      "Zeit": null,
+      "Thema": "Tierrechte/Veganismus 'Cube of Truth'",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Anonymous for the Voiceless",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-12-31",
