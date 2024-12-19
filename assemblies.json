@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-12-18",
+  "Dateidatum": "2024-12-19",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-12-18",
-      "Zeit": "09.15 - 10.00 Uhr",
-      "Thema": "Grundrechte gelten auch für KInder an Schulen ",
-      "Ort": null,
-      "Startpunkt": "Devrientstraße",
-      "Teilnehmer": "3",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-12-19",
       "Zeit": "16.00 - 18.00 Uhr",
@@ -52,6 +42,16 @@
       "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2024-12-21",
+      "Zeit": null,
+      "Thema": "Kunst & Kultur - Das kommt hier alles weg!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Die PARTEI Dresden",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2024-12-23",
@@ -105,33 +105,33 @@
     },
     {
       "Datum": "2024-12-30",
-      "Zeit": null,
+      "Zeit": "12.00 - 15.00 Uhr",
       "Thema": "Tierrechte/Veganismus 'Cube of Truth'",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Anonymous for the Voiceless",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-12-31",
-      "Zeit": null,
+      "Zeit": "16.00 - 17.00 Uhr",
       "Thema": "Solidarität zu Silvester - das Knastsystem überwinden",
-      "Ort": null,
+      "Ort": "Hamburger Straße",
       "Startpunkt": null,
       "Teilnehmer": "40 ",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-12-31",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Solidarität zu Silvester - das Knastsystem überwinden",
-      "Ort": null,
+      "Ort": "Hammerweg",
       "Startpunkt": null,
       "Teilnehmer": "40 ",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-01-04",
@@ -181,6 +181,26 @@
       "Startpunkt": null,
       "Teilnehmer": "70",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-01-09",
+      "Zeit": null,
+      "Thema": "Die SachsenEnergie muss spätestens bis 2035 vollständig aus fossilen Energieträgern aussteigen, um unsere Wirtschaft nachhaltig zu sichern und zukunftsfähig zu machen.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-01-09",
+      "Zeit": null,
+      "Thema": "SachsenEnergie muss klimaneutral werden!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Fridays for Future Dresden",
       "Status": "angemeldet"
     },
     {
