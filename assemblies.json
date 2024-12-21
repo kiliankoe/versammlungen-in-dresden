@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-12-20",
+  "Dateidatum": "2024-12-21",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,24 +14,14 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2024-12-20",
-      "Zeit": "11.00 - 18.00 Uhr",
-      "Thema": "Kinder der Welt",
-      "Ort": "Dr. Külz-Ring",
-      "Startpunkt": null,
-      "Teilnehmer": "15",
-      "Veranstalter": "UNICEF-Arbeitsgruppe Dresden",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2024-12-21",
-      "Zeit": null,
+      "Zeit": "14.00 - 16.00 Uhr",
       "Thema": "Tierschutzaktion",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "12",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-12-21",
@@ -45,23 +35,23 @@
     },
     {
       "Datum": "2024-12-21",
-      "Zeit": null,
+      "Zeit": "16.30 - 17.00 Uhr",
       "Thema": "Mobilisierung gegen den AfD Parteitag",
-      "Ort": null,
+      "Ort": "Wilsdruffer Straße",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-12-21",
-      "Zeit": null,
+      "Zeit": "17.00 - 21.00 Uhr",
       "Thema": "Kunst & Kultur - Das kommt hier alles weg!",
-      "Ort": null,
+      "Ort": "Königsbrücker Straße",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Die PARTEI Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-12-21",
@@ -95,13 +85,13 @@
     },
     {
       "Datum": "2024-12-23",
-      "Zeit": null,
+      "Zeit": "16.30 - 20.30 Uhr",
       "Thema": "Kürzungshammer stoppen, Umverteilen, Vonovia enteignen!",
-      "Ort": null,
+      "Ort": "Jacob-Winter-Platz",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Linksjugend Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2024-12-28",
