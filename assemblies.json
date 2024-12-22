@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-12-21",
+  "Dateidatum": "2024-12-22",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,56 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-12-21",
-      "Zeit": "14.00 - 16.00 Uhr",
-      "Thema": "Tierschutzaktion",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "12",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-12-21",
-      "Zeit": "15.00 - 17.00 Uhr",
-      "Thema": "Stoppt den Genozid. Stoppt die Besatzung. Freiheit für Palästina!",
-      "Ort": null,
-      "Startpunkt": "Sachsenallee",
-      "Teilnehmer": "100",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-12-21",
-      "Zeit": "16.30 - 17.00 Uhr",
-      "Thema": "Mobilisierung gegen den AfD Parteitag",
-      "Ort": "Wilsdruffer Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-12-21",
-      "Zeit": "17.00 - 21.00 Uhr",
-      "Thema": "Kunst & Kultur - Das kommt hier alles weg!",
-      "Ort": "Königsbrücker Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "Die PARTEI Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-12-21",
-      "Zeit": "17.30 - 18.00 Uhr",
-      "Thema": " Mobilisierung gegen den AfD Parteitag",
-      "Ort": "Königsufer",
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-12-23",
       "Zeit": "18.00 - 19.30 Uhr",
