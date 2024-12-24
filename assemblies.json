@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-12-23",
+  "Dateidatum": "2024-12-24",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,46 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-12-23",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "25",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2024-12-23",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "30-40",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-12-23",
-      "Zeit": "16.30 - 20.30 Uhr",
-      "Thema": "Kürzungshammer stoppen, Umverteilen, Vonovia enteignen!",
-      "Ort": "Jacob-Winter-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "15",
-      "Veranstalter": "Linksjugend Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-12-23",
-      "Zeit": null,
-      "Thema": "Mahnwache in Gedenken an die Opfer von Magdeburg",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
     {
       "Datum": "2024-12-28",
       "Zeit": "14.00 - 17.00 Uhr",
@@ -1925,6 +1885,16 @@
     },
     {
       "Datum": "2025-03-17",
+      "Zeit": null,
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-03-24",
       "Zeit": null,
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": null,
