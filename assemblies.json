@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2024-12-30",
+  "Dateidatum": "2024-12-31",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,36 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2024-12-30",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "25",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2024-12-30",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "30-40",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2024-12-30",
-      "Zeit": "12.00 - 15.00 Uhr",
-      "Thema": "Tierrechte/Veganismus 'Cube of Truth'",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "Anonymous for the Voiceless",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2024-12-31",
       "Zeit": "16.00 - 17.00 Uhr",
@@ -1885,6 +1855,16 @@
     },
     {
       "Datum": "2025-03-24",
+      "Zeit": null,
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-03-31",
       "Zeit": null,
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": null,
