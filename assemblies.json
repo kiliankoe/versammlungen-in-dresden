@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-01-02",
+  "Dateidatum": "2025-01-03",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -15,13 +15,13 @@
   "Versammlungen": [
     {
       "Datum": "2025-01-04",
-      "Zeit": null,
+      "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-01-06",
@@ -32,6 +32,26 @@
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-01-06",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Fred die linke Socke_official",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-01-06",
+      "Zeit": null,
+      "Thema": "gegen Rechts, für eine bunte Gesellschaft",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Studis gegen Rechts",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-01-06",
@@ -55,6 +75,16 @@
     },
     {
       "Datum": "2025-01-07",
+      "Zeit": null,
+      "Thema": "gegen Rechts, für eine bunte Gesellschaft",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Studis gegen Rechts",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-01-07",
       "Zeit": "16.00 - 19.00 Uhr",
       "Thema": "Das gute Leben für Alle!",
       "Ort": "Theaterplatz ",
@@ -62,6 +92,16 @@
       "Teilnehmer": "70",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-01-08",
+      "Zeit": null,
+      "Thema": "gegen Rechts, für eine bunte Gesellschaft",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Studis gegen Rechts",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-01-09",
@@ -84,6 +124,26 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2025-01-09",
+      "Zeit": null,
+      "Thema": "gegen Rechts, für eine bunte Gesellschaft",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Studis gegen Rechts",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-01-10",
+      "Zeit": null,
+      "Thema": "gegen Rechts, für eine bunte Gesellschaft",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Studis gegen Rechts",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-01-13",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -92,6 +152,16 @@
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-01-13",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Fred die linke Socke_official",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-01-13",
@@ -104,14 +174,24 @@
       "Status": "angemeldet"
     },
     {
-      "Datum": "2025-01-18",
+      "Datum": "2025-01-16",
       "Zeit": null,
-      "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
+      "Thema": "20.000 Unterschriften gegen die Liste der Grausamkeiten",
       "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Bündnis gegen Kürzungen",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-01-18",
+      "Zeit": "14.00 - 17.00 Uhr",
+      "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-01-20",
@@ -122,6 +202,16 @@
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-01-20",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Fred die linke Socke_official",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-01-20",
@@ -142,6 +232,16 @@
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-01-27",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Fred die linke Socke_official",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-01-27",
@@ -165,13 +265,13 @@
     },
     {
       "Datum": "2025-02-01",
-      "Zeit": null,
+      "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-03",
@@ -1365,13 +1465,13 @@
     },
     {
       "Datum": "2025-02-15",
-      "Zeit": null,
+      "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
-      "Ort": null,
+      "Ort": "Prager Straße ",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-15",
@@ -1765,13 +1865,13 @@
     },
     {
       "Datum": "2025-03-01",
-      "Zeit": null,
+      "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-03-01",
@@ -1815,13 +1915,13 @@
     },
     {
       "Datum": "2025-03-15",
-      "Zeit": null,
+      "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
-      "Ort": null,
+      "Ort": "Prager Straße ",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-03-17",
