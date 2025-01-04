@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-01-03",
+  "Dateidatum": "2025-01-04",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -132,6 +132,16 @@
       "Teilnehmer": "15",
       "Veranstalter": "Studis gegen Rechts",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-01-09",
+      "Zeit": null,
+      "Thema": "Wir fahren nach Riesa",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-01-09",
