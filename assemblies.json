@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-01-05",
+  "Dateidatum": "2025-01-06",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -72,6 +72,16 @@
       "Teilnehmer": "15",
       "Veranstalter": "Studis gegen Rechts",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-01-07",
+      "Zeit": null,
+      "Thema": "Info- und Vernetzungsstand zur Zukunft von Volkswagen in Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-01-07",
