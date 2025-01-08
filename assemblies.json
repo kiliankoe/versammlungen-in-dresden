@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-01-07",
+  "Dateidatum": "2025-01-08",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,36 +14,6 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2025-01-07",
-      "Zeit": "08.00 - 17.00 Uhr",
-      "Thema": "gegen Rechts, für eine bunte Gesellschaft",
-      "Ort": "Bergstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "15",
-      "Veranstalter": "Studis gegen Rechts",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-01-07",
-      "Zeit": "11.00 - 13.00 Uhr",
-      "Thema": "Vernetzungsstand zur Zukunft von Volkswagen in Dresden",
-      "Ort": "Lennéstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-01-07",
-      "Zeit": "16.00 - 19.00 Uhr",
-      "Thema": "Das gute Leben für Alle!",
-      "Ort": "Theaterplatz ",
-      "Startpunkt": null,
-      "Teilnehmer": "70",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2025-01-08",
       "Zeit": "08.00 - 17.00 Uhr",
       "Thema": "gegen Rechts, für eine bunte Gesellschaft",
@@ -55,13 +25,13 @@
     },
     {
       "Datum": "2025-01-09",
-      "Zeit": null,
+      "Zeit": "17.45 - 19.00 Uhr",
       "Thema": "Die SachsenEnergie muss spätestens bis 2035 vollständig aus fossilen Energieträgern aussteigen, um unsere Wirtschaft nachhaltig zu sichern und zukunftsfähig zu machen.",
-      "Ort": null,
+      "Ort": "Könneritzstraße",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-01-09",
@@ -116,6 +86,16 @@
     {
       "Datum": "2025-01-11",
       "Zeit": null,
+      "Thema": "Tierrechte/Veganismus 'Cube of Truth'",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Anonymous for the Voiceless",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-01-11",
+      "Zeit": null,
       "Thema": "Spielplatzleuchten",
       "Ort": null,
       "Startpunkt": null,
@@ -162,6 +142,16 @@
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-01-13",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-01-16",
@@ -312,6 +302,16 @@
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e. V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-02-02",
+      "Zeit": null,
+      "Thema": "Elbamare muss bleiben!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "Die Linke Stadtverband Dresden",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-02-03",
@@ -1376,6 +1376,16 @@
     {
       "Datum": "2025-02-14",
       "Zeit": null,
+      "Thema": "Klimastreik zu Bundestagswahl",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "250",
+      "Veranstalter": "Fridays for Future Dresden",
+      "Status": "abgemeldet"
+    },
+    {
+      "Datum": "2025-02-14",
+      "Zeit": null,
       "Thema": "Rund um den 13. Februar WiEdersetzen",
       "Ort": null,
       "Startpunkt": null,
@@ -1992,6 +2002,16 @@
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-02-24",
+      "Zeit": null,
+      "Thema": "Solidarität mit der Ukraine",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "400",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-02-28",
