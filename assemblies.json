@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-01-08",
+  "Dateidatum": "2025-01-09",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,16 +14,6 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2025-01-08",
-      "Zeit": "08.00 - 17.00 Uhr",
-      "Thema": "gegen Rechts, für eine bunte Gesellschaft",
-      "Ort": "Bergstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "15",
-      "Veranstalter": "Studis gegen Rechts",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2025-01-09",
       "Zeit": "17.45 - 19.00 Uhr",
       "Thema": "Die SachsenEnergie muss spätestens bis 2035 vollständig aus fossilen Energieträgern aussteigen, um unsere Wirtschaft nachhaltig zu sichern und zukunftsfähig zu machen.",
@@ -35,13 +25,13 @@
     },
     {
       "Datum": "2025-01-09",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.00 Uhr",
       "Thema": "SachsenEnergie muss klimaneutral werden!",
-      "Ort": null,
+      "Ort": "Stromwerk",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Fridays for Future Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-01-09",
@@ -55,12 +45,22 @@
     },
     {
       "Datum": "2025-01-09",
-      "Zeit": null,
+      "Zeit": "17.30 - 18.00 Uhr",
       "Thema": "Wir fahren nach Riesa",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-01-09",
+      "Zeit": null,
+      "Thema": "Freiheit für Venezuela ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "60",
+      "Veranstalter": "Venezolanos en Sajonia ",
       "Status": "angemeldet"
     },
     {
@@ -85,23 +85,23 @@
     },
     {
       "Datum": "2025-01-11",
-      "Zeit": null,
+      "Zeit": "12.00 - 15.00 Uhr",
       "Thema": "Tierrechte/Veganismus 'Cube of Truth'",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Anonymous for the Voiceless",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-01-11",
-      "Zeit": null,
+      "Zeit": "16.00 - 18.00 Uhr",
       "Thema": "Spielplatzleuchten",
-      "Ort": null,
+      "Ort": "Louisenstraße",
       "Startpunkt": null,
       "Teilnehmer": "25",
       "Veranstalter": "Neustadt Grüne",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-01-13",
@@ -226,6 +226,16 @@
     {
       "Datum": "2025-01-25",
       "Zeit": null,
+      "Thema": "Todesstrafe für importierte Gewaltstraftäter und Terroristen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-01-25",
+      "Zeit": null,
       "Thema": "Jugend gegen Kürzungen - Kürzungen nicht mit uns",
       "Ort": null,
       "Startpunkt": null,
@@ -285,13 +295,13 @@
     },
     {
       "Datum": "2025-01-27",
-      "Zeit": null,
+      "Zeit": "17.00 - 18.30 Uhr",
       "Thema": "80. Jahrestag der Befreiung des Konzentrationslagers Auschwitz - Internationaler Tag des Gedenkens an die Opfer des Holocausts. ",
-      "Ort": null,
+      "Ort": "Schlesischer Platz",
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "Ostra e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-01",
@@ -335,13 +345,13 @@
     },
     {
       "Datum": "2025-02-06",
-      "Zeit": null,
+      "Zeit": "13.30 - 15.00 Uhr",
       "Thema": "Wahlkampfkundgebung der FDP mit Christian Lindner",
-      "Ort": null,
+      "Ort": "Dr.-Külz-Ring",
       "Startpunkt": null,
       "Teilnehmer": "400",
       "Veranstalter": "Freie Demokratische Partei",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-07",
