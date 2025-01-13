@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-01-12",
+  "Dateidatum": "2025-01-13",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-01-12",
-      "Zeit": "13.00 - 15.00 Uhr",
-      "Thema": "Die Freiheit Venezuelas rückt näher",
-      "Ort": "Wiener Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "200",
-      "Veranstalter": "Venezolanos en Sajonia e. V.",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-01-13",
       "Zeit": "18.00 - 19.30 Uhr",
@@ -81,6 +71,16 @@
       "Startpunkt": null,
       "Teilnehmer": "6",
       "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-01-15",
+      "Zeit": null,
+      "Thema": "Vonovia enteignen - Wohnen soll bezahlbar bleiben.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Linksjugend Dresden",
       "Status": "angemeldet"
     },
     {
