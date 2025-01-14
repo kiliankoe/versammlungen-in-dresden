@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-01-13",
+  "Dateidatum": "2025-01-14",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,64 +14,14 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2025-01-13",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-01-13",
-      "Zeit": null,
-      "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine und den Völkermord in Gaza. Kampf der Weltkriegsgefahr! ",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "40",
-      "Veranstalter": "Demokratische Montagsaktion/ Montag Tag des Widerstands/Dresden",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-01-13",
-      "Zeit": "19.00 - 21.30 Uhr",
-      "Thema": "Fred stellt sich in den Weg",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "50",
-      "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-01-13",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-01-13",
-      "Zeit": "19.00 - 20.30 Uhr",
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "200",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2025-01-15",
-      "Zeit": null,
+      "Zeit": "10.00 - 14.00 Uhr",
       "Thema": "'Liebe Leute, geht wählen!' - Kunbdgebung zur Wahlermutigung",
-      "Ort": null,
+      "Ort": "Bönischplatz",
       "Startpunkt": null,
       "Teilnehmer": "6",
       "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-01-15",
@@ -154,6 +104,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2025-01-23",
+      "Zeit": null,
+      "Thema": "'Liebe Leute, geht wählen!' - Kundgebung zur Wahlermutigung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "6",
+      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-01-25",
       "Zeit": null,
       "Thema": "Kommunale Kürzungen stoppen - Kommunen ausreichend finanzieren",
@@ -195,13 +155,13 @@
     },
     {
       "Datum": "2025-01-26",
-      "Zeit": null,
+      "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "Demonstration in Solidarität mit dem kubanischen Volk, für die Freilassung aller politischen Gefangenen Kuba in Kuba",
-      "Ort": null,
+      "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
       "Teilnehmer": "40",
       "Veranstalter": "PatriaYVida e.V",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-01-27",
@@ -215,13 +175,13 @@
     },
     {
       "Datum": "2025-01-27",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.00 Uhr",
       "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine und den Völkermord in Gaza. Kampf der Weltkriegsgefahr! ",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "40",
       "Veranstalter": "Demokratische Montagsaktion/ Montag Tag des Widerstands/Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-01-27",
@@ -264,14 +224,24 @@
       "Status": "beschieden"
     },
     {
-      "Datum": "2025-02-02",
+      "Datum": "2025-02-01",
       "Zeit": null,
-      "Thema": "Elbamare muss bleiben!",
+      "Thema": "Frieden statt Krieg! Das Volk Irans will Ruhe und Frieden!  Solidarität mit den Menschen, die im Iran.",
       "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-02",
+      "Zeit": "15.30 - 17.30 Uhr",
+      "Thema": "Elbamare muss bleiben!",
+      "Ort": "Amalie-Dietrich-Platz",
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "Die Linke Stadtverband Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-03",
@@ -474,6 +444,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2025-02-07",
+      "Zeit": null,
+      "Thema": "Klimastreik",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1000",
+      "Veranstalter": "Fridays For Future Dresden",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-02-08",
       "Zeit": null,
       "Thema": "Rund um den 13. Februar WiEdersetzen",
@@ -825,13 +805,13 @@
     },
     {
       "Datum": "2025-02-10",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.00 Uhr",
       "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine und den Völkermord in Gaza. Kampf der Weltkriegsgefahr! ",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "40",
       "Veranstalter": "Demokratische Montagsaktion/ Montag Tag des Widerstands/Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-10",
@@ -1031,7 +1011,7 @@
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "GRÜNE JUGEND Dresden",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2025-02-13",
@@ -1945,13 +1925,13 @@
     },
     {
       "Datum": "2025-02-24",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.00 Uhr",
       "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine und den Völkermord in Gaza. Kampf der Weltkriegsgefahr! ",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "40",
       "Veranstalter": "Demokratische Montagsaktion/ Montag Tag des Widerstands/Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-24",
@@ -2025,13 +2005,13 @@
     },
     {
       "Datum": "2025-03-10",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.00 Uhr",
       "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine und den Völkermord in Gaza. Kampf der Weltkriegsgefahr! ",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "40",
       "Veranstalter": "Demokratische Montagsaktion/ Montag Tag des Widerstands/Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-03-10",
@@ -2085,6 +2065,16 @@
     },
     {
       "Datum": "2025-04-07",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-04-14",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
