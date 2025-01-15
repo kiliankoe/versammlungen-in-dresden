@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-01-14",
+  "Dateidatum": "2025-01-15",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -25,13 +25,13 @@
     },
     {
       "Datum": "2025-01-15",
-      "Zeit": null,
+      "Zeit": "17.30 - 21.00 Uhr",
       "Thema": "Vonovia enteignen - Wohnen soll bezahlbar bleiben.",
-      "Ort": null,
+      "Ort": "Jacob Winter Platz",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Linksjugend Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-01-16",
@@ -92,6 +92,16 @@
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-01-20",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-01-21",
