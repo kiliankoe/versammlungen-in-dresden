@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-01-15",
+  "Dateidatum": "2025-01-16",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-01-15",
-      "Zeit": "10.00 - 14.00 Uhr",
-      "Thema": "'Liebe Leute, geht wählen!' - Kunbdgebung zur Wahlermutigung",
-      "Ort": "Bönischplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "6",
-      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-01-15",
-      "Zeit": "17.30 - 21.00 Uhr",
-      "Thema": "Vonovia enteignen - Wohnen soll bezahlbar bleiben.",
-      "Ort": "Jacob Winter Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "15",
-      "Veranstalter": "Linksjugend Dresden",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-01-16",
       "Zeit": "16.00 - 18.00 Uhr",
@@ -172,6 +152,16 @@
       "Teilnehmer": "40",
       "Veranstalter": "PatriaYVida e.V",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-01-26",
+      "Zeit": null,
+      "Thema": "Gedenken an das Blutbad im Keglerheim am 25.01.1933",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-01-27",
@@ -1226,16 +1216,6 @@
     {
       "Datum": "2025-02-13",
       "Zeit": null,
-      "Thema": "Tu was gegen Rechts! Demokratie stärken",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "BÜNDNIS 90/DIE GRÜNEN Dresden",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": null,
       "Thema": "Rund um den 13. Februar WiEdersetzen",
       "Ort": null,
       "Startpunkt": null,
@@ -1261,6 +1241,16 @@
       "Startpunkt": null,
       "Teilnehmer": "1.000",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
+      "Thema": "Tu was gegen Rechts! Demokratie stärken",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "BÜNDNIS 90/DIE GRÜNEN Dresden",
       "Status": "angemeldet"
     },
     {
@@ -1504,6 +1494,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2025-02-14",
+      "Zeit": null,
+      "Thema": "Tu was gegen Rechts! Demokratie stärken",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "BÜNDNIS 90/DIE GRÜNEN Dresden",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-02-15",
       "Zeit": null,
       "Thema": "Kundgebung mit Ausstellung zum 80. Jahrestag der Bombardierung Dresdens - Den Opfern des angloamerikanischen Bombenterrors in Würde gedenken!",
@@ -1711,6 +1711,16 @@
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-15",
+      "Zeit": null,
+      "Thema": "Tu was gegen Rechts! Demokratie stärken",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "BÜNDNIS 90/DIE GRÜNEN Dresden",
       "Status": "angemeldet"
     },
     {
