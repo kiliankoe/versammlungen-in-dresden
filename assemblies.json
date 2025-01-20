@@ -224,6 +224,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2025-01-27",
+      "Zeit": null,
+      "Thema": "Kundgebung zum internationalen Tag des Gedenkens an die Opfer der Shoah",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "75",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-02-01",
       "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
@@ -235,13 +245,13 @@
     },
     {
       "Datum": "2025-02-01",
-      "Zeit": null,
+      "Zeit": "14.00 - 15.00 Uhr",
       "Thema": "Frieden statt Krieg! Das Volk Irans will Ruhe und Frieden!  Solidarität mit den Menschen, die im Iran.",
-      "Ort": null,
+      "Ort": "Theaterplatz",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-02",
