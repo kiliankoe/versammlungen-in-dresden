@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-01-19",
+  "Dateidatum": "2025-01-20",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-01-19",
-      "Zeit": "14.00 - 17.00 Uhr",
-      "Thema": "Hochzeitstauben leiden und sterben",
-      "Ort": "Messering",
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-01-20",
       "Zeit": "18.00 - 19.30 Uhr",
@@ -101,6 +91,16 @@
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-01-24",
+      "Zeit": null,
+      "Thema": "DVB nicht kaputtsparen - keine 20 Mio. für Extremausbau Königbrücker - Königsbrücker schlank und schön und kostengünstig sanieren!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Königsbrücker muss leben!",
       "Status": "angemeldet"
     },
     {
