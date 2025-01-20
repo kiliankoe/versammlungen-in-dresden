@@ -65,13 +65,13 @@
     },
     {
       "Datum": "2025-01-23",
-      "Zeit": null,
+      "Zeit": "10.00 - 14.00 Uhr",
       "Thema": "'Liebe Leute, geht wählen!' - Kundgebung zur Wahlermutigung",
-      "Ort": null,
+      "Ort": "Hauptstraße",
       "Startpunkt": null,
       "Teilnehmer": "6",
       "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-01-23",
@@ -255,13 +255,13 @@
     },
     {
       "Datum": "2025-02-02",
-      "Zeit": null,
+      "Zeit": "12.00 - 13.30 Uhr",
       "Thema": "Gedenkfahrt und Gedenkminute für Natenom",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "50",
       "Veranstalter": "Fuß- und Radentscheid Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-02",
@@ -1751,6 +1751,16 @@
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "BÜNDNIS 90/DIE GRÜNEN Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-15",
+      "Zeit": null,
+      "Thema": "Rassismus widersprechen - Nazis sind schon immer Scheiße.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "Team gegen schlechte Laune.",
       "Status": "angemeldet"
     },
     {
