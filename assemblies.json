@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-01-20",
+  "Dateidatum": "2025-01-21",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,46 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-01-20",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-01-20",
-      "Zeit": "19.00 - 21.30 Uhr",
-      "Thema": "Fred stellt sich in den Weg",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "50",
-      "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-01-20",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-01-20",
-      "Zeit": "19.00 - 20.30 Uhr",
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "200",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-01-21",
       "Zeit": "18.00 - 19.00 Uhr",
@@ -141,6 +101,16 @@
       "Startpunkt": null,
       "Teilnehmer": "600",
       "Veranstalter": "Jugend gegen Kürzungen",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-01-25",
+      "Zeit": null,
+      "Thema": "Tierrechte/Veganismus 'Cube of Truth'",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Anonymous for the Voiceless",
       "Status": "angemeldet"
     },
     {
@@ -1289,7 +1259,7 @@
       "Thema": "Mahnwache zum Gedenken der Opfer des Bombardements am 13.02.1945",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "50",
+      "Teilnehmer": "50 bis 100",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -2152,6 +2122,16 @@
       "Teilnehmer": "10.000",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-04-21",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
     }
   ]
 }
