@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-01-21",
+  "Dateidatum": "2025-01-22",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,16 +14,6 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2025-01-21",
-      "Zeit": "18.00 - 19.00 Uhr",
-      "Thema": "Gedenkveranstaltung anlässlich des 83. Jahrestages des Beginns der Zwangsdeportation von Jüdinnen und Juden aus Dresden und Sachsen",
-      "Ort": "Eisenbahnstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "200",
-      "Veranstalter": "Herz statt Hetze",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2025-01-23",
       "Zeit": "10.00 - 14.00 Uhr",
       "Thema": "'Liebe Leute, geht wählen!' - Kundgebung zur Wahlermutigung",
@@ -35,33 +25,43 @@
     },
     {
       "Datum": "2025-01-23",
-      "Zeit": null,
+      "Zeit": "15.00 - 16.00 Uhr",
       "Thema": "Für den Erhalt des Dresdner ÖPNV",
-      "Ort": null,
+      "Ort": "Rathausplatz",
       "Startpunkt": null,
       "Teilnehmer": "1000",
       "Veranstalter": "Dresdner Verkehrsbetriebe AG",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-01-24",
       "Zeit": null,
-      "Thema": "Den Frieden wählen – Dresden Stadt des Friedens",
+      "Thema": "Kundgebung für einen Gasausstieg bis 2035",
       "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Fridays For Future Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-01-24",
+      "Zeit": "15.00 - 17.00 Uhr",
+      "Thema": "Den Frieden wählen – Dresden Stadt des Friedens",
+      "Ort": "Wilsdruffer Straße",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-01-24",
-      "Zeit": null,
+      "Zeit": "17.00 - 19.00 Uhr",
       "Thema": "DVB nicht kaputtsparen - keine 20 Mio. für Extremausbau Königbrücker - Königsbrücker schlank und schön und kostengünstig sanieren!",
-      "Ort": null,
+      "Ort": "Königsbrücker Straße",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Königsbrücker muss leben!",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2025-01-25",
@@ -175,6 +175,16 @@
     },
     {
       "Datum": "2025-01-27",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-01-27",
       "Zeit": "12.00 - 16.00 Uhr",
       "Thema": "Namenlesung ",
       "Ort": "An der Kreuzkirche",
@@ -252,6 +262,16 @@
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-02-03",
+      "Zeit": null,
+      "Thema": "Kein Platz für Nazis in Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-02-03",
@@ -1196,26 +1216,6 @@
     {
       "Datum": "2025-02-13",
       "Zeit": null,
-      "Thema": "Kundgebung mit Ausstellung zum 80. Jahrestag der Bombardierung Dresdens - Den Opfern des angloamerikanischen Bombenterrors in Würde gedenken!",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "bis zu 2.000",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": null,
-      "Thema": "Mahnwache zum 13. Februar 1945",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "100",
-      "Veranstalter": "Dresdner Mahnmal gegen das Vergessen",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": null,
       "Thema": "Rund um den 13. Februar WiEdersetzen",
       "Ort": null,
       "Startpunkt": null,
@@ -1256,6 +1256,26 @@
     {
       "Datum": "2025-02-13",
       "Zeit": null,
+      "Thema": "Kundgebung mit Ausstellung zum 80. Jahrestag der Bombardierung Dresdens - Den Opfern des angloamerikanischen Bombenterrors in Würde gedenken!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "bis zu 2.000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
+      "Thema": "Mahnwache zum 13. Februar 1945",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "Dresdner Mahnmal gegen das Vergessen",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
       "Thema": "Mahnwache zum Gedenken der Opfer des Bombardements am 13.02.1945",
       "Ort": null,
       "Startpunkt": null,
@@ -1291,16 +1311,6 @@
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "AfD Dresden",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-02-14",
-      "Zeit": null,
-      "Thema": "Kundgebung mit Ausstellung zum 80. Jahrestag der Bombardierung Dresdens - Den Opfern des angloamerikanischen Bombenterrors in Würde gedenken!",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "bis zu 2.000",
-      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -1501,16 +1511,6 @@
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "BÜNDNIS 90/DIE GRÜNEN Dresden",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-02-15",
-      "Zeit": null,
-      "Thema": "Kundgebung mit Ausstellung zum 80. Jahrestag der Bombardierung Dresdens - Den Opfern des angloamerikanischen Bombenterrors in Würde gedenken!",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "bis zu 2.000",
-      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -1726,6 +1726,16 @@
     {
       "Datum": "2025-02-15",
       "Zeit": null,
+      "Thema": "5 vor 12",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "CSD Dresden e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-15",
+      "Zeit": null,
       "Thema": "Rassismus widersprechen - Nazis sind schon immer Scheiße.",
       "Ort": null,
       "Startpunkt": null,
@@ -1904,6 +1914,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2025-02-16",
+      "Zeit": null,
+      "Thema": "Mahngang Täter:innenspuren 2025",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-02-17",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -1922,6 +1942,16 @@
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-02-19",
+      "Zeit": null,
+      "Thema": "Say their names - Gedanktag zum 5. Jahrestag vom Anschlag in Hanau",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "120",
+      "Veranstalter": "Seebrücke Dresden",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-02-20",
