@@ -34,24 +34,34 @@
       "Status": "beschieden"
     },
     {
-      "Datum": "2025-01-24",
-      "Zeit": null,
-      "Thema": "Kundgebung für einen Gasausstieg bis 2035",
-      "Ort": null,
+      "Datum": "2025-01-23",
+      "Zeit": "17.30 - 20.30 Uhr",
+      "Thema": "Vonovia enteigenen",
+      "Ort": "Jacob-Winter-Platz",
       "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "Fridays For Future Dresden",
-      "Status": "angemeldet"
+      "Teilnehmer": "15",
+      "Veranstalter": "Linksjugend Solid Dresden",
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-01-24",
-      "Zeit": "15.00 - 17.00 Uhr",
+      "Zeit": "13.45 - 15.00 Uhr",
+      "Thema": "Kundgebung für einen Gasausstieg bis 2035",
+      "Ort": "Königsbrücker Straße",
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Fridays For Future Dresden",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-01-24",
+      "Zeit": null,
       "Thema": "Den Frieden wählen – Dresden Stadt des Friedens",
-      "Ort": "Wilsdruffer Straße",
+      "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-01-24",
@@ -65,13 +75,13 @@
     },
     {
       "Datum": "2025-01-25",
-      "Zeit": null,
+      "Zeit": "12.00 - 14.00 Uhr",
       "Thema": "Kommunale Kürzungen stoppen - Kommunen ausreichend finanzieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Jorge-Gomondai-Platz",
       "Teilnehmer": "500",
       "Veranstalter": "Bündnis gegen Kürzungen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-01-25",
@@ -106,12 +116,22 @@
     {
       "Datum": "2025-01-25",
       "Zeit": null,
-      "Thema": "Jugend gegen Kürzungen - Kürzungen nicht mit uns",
+      "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
       "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-01-25",
+      "Zeit": "13.00 - 16.30 Uhr",
+      "Thema": "Jugend gegen Kürzungen - Kürzungen nicht mit uns",
+      "Ort": null,
+      "Startpunkt": "Rathausplatz",
       "Teilnehmer": "600",
       "Veranstalter": "Jugend gegen Kürzungen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-01-25",
@@ -239,7 +259,7 @@
       "Thema": "Das Patriarchat zerschlagen",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "50",
+      "Teilnehmer": "500",
       "Veranstalter": "linksjugend Dresden",
       "Status": "angemeldet"
     },
