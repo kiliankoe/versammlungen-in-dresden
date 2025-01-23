@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-01-22",
+  "Dateidatum": "2025-01-23",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -75,13 +75,13 @@
     },
     {
       "Datum": "2025-01-25",
-      "Zeit": null,
+      "Zeit": "12.00 - 15.00 Uhr",
       "Thema": "Todesstrafe für importierte Gewaltstraftäter und Terroristen",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Theaterplatz",
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-01-25",
@@ -96,6 +96,16 @@
     {
       "Datum": "2025-01-25",
       "Zeit": null,
+      "Thema": "Nett hier, aber waren sie schon mal in einer Stadt ohne Faschos",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-01-25",
+      "Zeit": null,
       "Thema": "Jugend gegen Kürzungen - Kürzungen nicht mit uns",
       "Ort": null,
       "Startpunkt": null,
@@ -105,12 +115,22 @@
     },
     {
       "Datum": "2025-01-25",
-      "Zeit": null,
+      "Zeit": "13.00 - 16.00 Uhr",
       "Thema": "Tierrechte/Veganismus 'Cube of Truth'",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Anonymous for the Voiceless",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-01-25",
+      "Zeit": null,
+      "Thema": "10 Jahre nach dem Sieg über den IS-Faschismus - Hands of Kobane - Stoppt den Türkischen Krieg in Syrien",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -214,6 +234,26 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2025-01-30",
+      "Zeit": null,
+      "Thema": "Das Patriarchat zerschlagen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "linksjugend Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-01-31",
+      "Zeit": null,
+      "Thema": "'Liebe Leute geht wählen!' - Kundgebung zur Wahlermutigung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "6",
+      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-02-01",
       "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
@@ -282,6 +322,16 @@
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-02-03",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-02-06",
@@ -1014,6 +1064,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2025-02-10",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-02-13",
       "Zeit": null,
       "Thema": "'Stilles Gedenken vor der Frauenkirche Dresden - wahrhaftig erinnern - versöhnt leben' und 'Dresdner Gedenkweg - unterwegs zur Versöhnung - 13. Februar' ",
@@ -1289,7 +1349,7 @@
       "Thema": "OPERATION TRÜMMERFETISCH - Das traditionelle Entnazifizierungsbombardement(MusicalEdition) ",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "2500",
+      "Teilnehmer": "400",
       "Veranstalter": "Die PARTEI",
       "Status": "angemeldet"
     },
@@ -1311,6 +1371,16 @@
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "AfD Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
+      "Thema": "Dresden ist nicht erst 1945 zerstört worden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "BÜNDNIS 90/DIE GRÜNEN",
       "Status": "angemeldet"
     },
     {
@@ -1944,6 +2014,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2025-02-17",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-02-19",
       "Zeit": null,
       "Thema": "Say their names - Gedanktag zum 5. Jahrestag vom Anschlag in Hanau",
@@ -2006,6 +2086,16 @@
     {
       "Datum": "2025-02-24",
       "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-24",
+      "Zeit": null,
       "Thema": "Solidarität mit der Ukraine",
       "Ort": null,
       "Startpunkt": null,
@@ -2064,6 +2154,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2025-03-03",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-03-10",
       "Zeit": "18.00 - 19.00 Uhr",
       "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine und den Völkermord in Gaza. Kampf der Weltkriegsgefahr! ",
@@ -2082,6 +2182,16 @@
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-03-10",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-03-15",
@@ -2104,6 +2214,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2025-03-17",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-03-24",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
@@ -2112,6 +2232,16 @@
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-03-24",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-03-31",
@@ -2124,6 +2254,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2025-03-31",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-04-07",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
@@ -2134,6 +2274,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2025-04-07",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-04-14",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
@@ -2142,6 +2292,16 @@
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-04-14",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-04-18",
@@ -2162,6 +2322,16 @@
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-04-21",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     }
   ]
 }
