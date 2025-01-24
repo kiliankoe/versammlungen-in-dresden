@@ -75,22 +75,22 @@
     },
     {
       "Datum": "2025-01-25",
-      "Zeit": "11.45 - 14.00 Uhr",
-      "Thema": "Nett hier, aber waren sie schon mal in einer Stadt ohne Faschos",
-      "Ort": "Theaterplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "100",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-01-25",
       "Zeit": "12.00 - 16.00 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
       "Startpunkt": "Theaterplatz",
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-01-25",
+      "Zeit": "12.00 - 14.00 Uhr",
+      "Thema": "Nett hier, aber waren sie schon mal in einer Stadt ohne Faschos",
+      "Ort": "Theaterplatz",
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "natürliche Person",
       "Status": "beschieden"
     },
     {
@@ -115,13 +115,13 @@
     },
     {
       "Datum": "2025-01-25",
-      "Zeit": null,
+      "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "10 Jahre nach dem Sieg über den IS-Faschismus - Hands of Kobane - Stoppt den Türkischen Krieg in Syrien",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Dr.-Külz-Ring",
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-01-26",
@@ -145,23 +145,23 @@
     },
     {
       "Datum": "2025-01-26",
-      "Zeit": null,
+      "Zeit": "11.40 - 12.20 Uhr",
       "Thema": "Gedenken an die 15 Verstorbenen in Serbien und Unterstützung für die Studenten in Serbien",
-      "Ort": null,
+      "Ort": "Schloßplatz",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-01-26",
-      "Zeit": null,
+      "Zeit": "12.00 - 15.00 Uhr",
       "Thema": "Strenge, realitätsnahe Migrationspolitik jetzt! Unterwegs sein ohne Angst!",
-      "Ort": null,
+      "Ort": "Theaterplatz",
       "Startpunkt": null,
       "Teilnehmer": "1.000",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-01-27",
@@ -188,7 +188,7 @@
       "Zeit": "19.00 - 21.30 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
+      "Startpunkt": "Dr.-Külz-Ring",
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
       "Status": "beschieden"
@@ -215,6 +215,16 @@
     },
     {
       "Datum": "2025-01-27",
+      "Zeit": "19.00 - 20.00 Uhr",
+      "Thema": "Kundgebung zum internationalen Tag des Gedenkens an die Opfer der Shoah",
+      "Ort": "Schloßstraße",
+      "Startpunkt": null,
+      "Teilnehmer": "75",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-01-27",
       "Zeit": "12.00 - 16.00 Uhr",
       "Thema": "Namenlesung ",
       "Ort": "An der Kreuzkirche",
@@ -234,24 +244,14 @@
       "Status": "beschieden"
     },
     {
-      "Datum": "2025-01-27",
-      "Zeit": null,
-      "Thema": "Kundgebung zum internationalen Tag des Gedenkens an die Opfer der Shoah",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "75",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
       "Datum": "2025-01-28",
-      "Zeit": null,
+      "Zeit": "16.00 - 16.30 Uhr",
       "Thema": "Mehr Platz fürs Rad: Fahrradparkhaus bauen, Mobilität stärken!",
-      "Ort": null,
+      "Ort": "Schlesischer Platz",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Allgemeiner Deutscher Fahrrad-Club Dresden e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-01-30",
@@ -265,13 +265,13 @@
     },
     {
       "Datum": "2025-01-31",
-      "Zeit": null,
+      "Zeit": "09.00 - 13.00 Uhr",
       "Thema": "'Liebe Leute geht wählen!' - Kundgebung zur Wahlermutigung",
-      "Ort": null,
+      "Ort": "Lennéstraße",
       "Startpunkt": null,
       "Teilnehmer": "6",
       "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-01",
