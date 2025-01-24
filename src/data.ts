@@ -38,6 +38,7 @@ const organizerReplacements: Record<string, string> = {
   "JUSOS Dresden": "@jusos@dresden.network",
   "ADFC Dresden e.V.": "@ADFC_Dresden@dresden.network",
   "ADFC Dresden e. V.": "@ADFC_Dresden@dresden.network",
+  "Allgemeiner Deutscher Fahrrad-Club Dresden e. V.": "@ADFC_Dresden@dresden.network",
   "Queer Pride Dresden": "@pridedd@eldritch.cafe",
   "Initiative Seebrücke Dresden": "@seebrueckeDD@dresden.network",
   "TU Umweltinitiative (tuuwi)": "@tuuwi@mstdn.social",
