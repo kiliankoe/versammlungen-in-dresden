@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-01-23",
+  "Dateidatum": "2025-01-24",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,36 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-01-23",
-      "Zeit": "10.00 - 14.00 Uhr",
-      "Thema": "'Liebe Leute, geht wählen!' - Kundgebung zur Wahlermutigung",
-      "Ort": "Hauptstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "6",
-      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-01-23",
-      "Zeit": "15.00 - 16.00 Uhr",
-      "Thema": "Für den Erhalt des Dresdner ÖPNV",
-      "Ort": "Rathausplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "1000",
-      "Veranstalter": "Dresdner Verkehrsbetriebe AG",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-01-23",
-      "Zeit": "17.30 - 20.30 Uhr",
-      "Thema": "Vonovia enteigenen",
-      "Ort": "Jacob-Winter-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "15",
-      "Veranstalter": "Linksjugend Solid Dresden",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-01-24",
       "Zeit": "13.45 - 15.00 Uhr",
@@ -105,23 +75,23 @@
     },
     {
       "Datum": "2025-01-25",
-      "Zeit": null,
+      "Zeit": "11.45 - 14.00 Uhr",
       "Thema": "Nett hier, aber waren sie schon mal in einer Stadt ohne Faschos",
-      "Ort": null,
+      "Ort": "Theaterplatz",
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-01-25",
-      "Zeit": null,
+      "Zeit": "12.00 - 16.00 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Theaterplatz",
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-01-25",
@@ -174,6 +144,26 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2025-01-26",
+      "Zeit": null,
+      "Thema": "Gedenken an die 15 Verstorbenen in Serbien und Unterstützung für die Studenten in Serbien",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-01-26",
+      "Zeit": null,
+      "Thema": "Strenge, realitätsnahe Migrationspolitik jetzt! Unterwegs sein ohne Angst!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-01-27",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -215,13 +205,13 @@
     },
     {
       "Datum": "2025-01-27",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.30 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Dr.-Külz-Ring",
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-01-27",
@@ -251,6 +241,16 @@
       "Startpunkt": null,
       "Teilnehmer": "75",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-01-28",
+      "Zeit": null,
+      "Thema": "Mehr Platz fürs Rad: Fahrradparkhaus bauen, Mobilität stärken!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Allgemeiner Deutscher Fahrrad-Club Dresden e. V.",
       "Status": "angemeldet"
     },
     {
