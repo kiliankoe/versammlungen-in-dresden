@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-01-28",
+  "Dateidatum": "2025-01-29",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,16 +14,6 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2025-01-28",
-      "Zeit": "16.00 - 16.30 Uhr",
-      "Thema": "Mehr Platz fürs Rad: Fahrradparkhaus bauen, Mobilität stärken!",
-      "Ort": "Schlesischer Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "Allgemeiner Deutscher Fahrrad-Club Dresden e. V.",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2025-01-30",
       "Zeit": null,
       "Thema": "Das Patriarchat zerschlagen",
@@ -31,6 +21,16 @@
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "linksjugend Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-01-30",
+      "Zeit": null,
+      "Thema": "Kundgebung für eine Besteuerung Superreicher und fossiler Konzerne",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Fridays For Future Dresden",
       "Status": "angemeldet"
     },
     {
@@ -125,13 +125,13 @@
     },
     {
       "Datum": "2025-02-03",
-      "Zeit": null,
+      "Zeit": "17.30 - 18.00 Uhr",
       "Thema": "Kein Platz für Nazis in Dresden",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-03",
@@ -149,7 +149,7 @@
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "200",
+      "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -1031,7 +1031,7 @@
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2025-02-13",
@@ -1161,6 +1161,16 @@
       "Startpunkt": null,
       "Teilnehmer": "50 bis 100",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
+      "Thema": "Mahnwache: Wahre Geschichten zum 13. Februar 1945",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Dresden Stadt des Friedens",
       "Status": "angemeldet"
     },
     {
@@ -1845,33 +1855,33 @@
     },
     {
       "Datum": "2025-02-19",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.00 Uhr",
       "Thema": "Say their names - Gedanktag zum 5. Jahrestag vom Anschlag in Hanau",
-      "Ort": null,
+      "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
       "Teilnehmer": "120",
       "Veranstalter": "Seebrücke Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-20",
-      "Zeit": null,
+      "Zeit": "11.30 - 21.30 Uhr",
       "Thema": "Labyrinth der Freiheit (Zweck der Versammlung: Aufmerksamkeit auf den Krieg in der Ukraine lenken.)",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "5 bis 10 ständig vor Ort",
-      "Veranstalter": "MRIJA Sport-, Kultur-, Wirtschafts- und Integrationsverein Wien ",
-      "Status": "angemeldet"
+      "Veranstalter": "MRIJA Sport-, Kultur-, Wirtschafts- und Integrationsverein Wien",
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-21",
-      "Zeit": null,
+      "Zeit": "11.30 - 21.30 Uhr",
       "Thema": "Labyrinth der Freiheit (Zweck der Versammlung: Aufmerksamkeit auf den Krieg in der Ukraine lenken.)",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "5 bis 10 ständig vor Ort",
-      "Veranstalter": "MRIJA Sport-, Kultur-, Wirtschafts- und Integrationsverein Wien ",
-      "Status": "angemeldet"
+      "Veranstalter": "MRIJA Sport-, Kultur-, Wirtschafts- und Integrationsverein Wien",
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-24",
@@ -1915,13 +1925,13 @@
     },
     {
       "Datum": "2025-02-24",
-      "Zeit": null,
+      "Zeit": "17.30 - 19.30 Uhr",
       "Thema": "Solidarität mit der Ukraine",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Neumarkt",
       "Teilnehmer": "400",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-28",
@@ -1929,7 +1939,7 @@
       "Thema": "Stärkung der Würde als Quelle der Gemeinschaft",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": null,
+      "Teilnehmer": "500",
       "Veranstalter": "Institut für Entwicklung",
       "Status": "angemeldet"
     },
@@ -1949,7 +1959,7 @@
       "Thema": "Stärkung der Würde als Quelle der Gemeinschaft",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": null,
+      "Teilnehmer": "500",
       "Veranstalter": "Institut für Entwicklung",
       "Status": "angemeldet"
     },
@@ -1981,6 +1991,16 @@
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-03-08",
+      "Zeit": null,
+      "Thema": "Schulter an Schulter, niemals allein. Feminismus heißt füreinander da zu sein. - Wir kämpfen mutig frech und unaufhaltsam!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "Feministischer Klubabend ",
       "Status": "angemeldet"
     },
     {
