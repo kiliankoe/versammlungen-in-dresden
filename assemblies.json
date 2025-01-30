@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-01-29",
+  "Dateidatum": "2025-01-30",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -21,17 +21,17 @@
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "linksjugend Dresden",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2025-01-30",
-      "Zeit": null,
+      "Zeit": "16.00 - 17.30 Uhr",
       "Thema": "Kundgebung für eine Besteuerung Superreicher und fossiler Konzerne",
-      "Ort": null,
+      "Ort": "Zur Messe",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Fridays For Future Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-01-30",
@@ -45,23 +45,33 @@
     },
     {
       "Datum": "2025-01-30",
-      "Zeit": null,
+      "Zeit": "15.45 - 18.00 Uhr",
       "Thema": "Herz statt Merz!",
-      "Ort": null,
+      "Ort": "Zur Messe",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-01-30",
-      "Zeit": null,
+      "Zeit": "16.00 - 20.00 Uhr",
       "Thema": "Herr Merz! - JA zum Bekenntnis zur Brandmauer, NEIN zu Rückschritten in der Sozial-, Umwelt- und Energiepolitik",
-      "Ort": null,
+      "Ort": "Zu Messe",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-01-30",
+      "Zeit": "19.30 - 20.15 Uhr",
+      "Thema": "Protect the protest - Menschenrechtsverletzungen in autokratischen Systemen wie Iran, Venezuela, China, Russland",
+      "Ort": "Dr. Külz Ring",
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Amnesty International e. V. Hochschulgruppe Dresden",
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-01-31",
@@ -316,26 +326,6 @@
     {
       "Datum": "2025-02-07",
       "Zeit": null,
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-02-07",
-      "Zeit": null,
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-02-07",
-      "Zeit": null,
       "Thema": "Klimastreik",
       "Ort": null,
       "Startpunkt": null,
@@ -344,7 +334,17 @@
       "Status": "angemeldet"
     },
     {
-      "Datum": "2025-02-08",
+      "Datum": "2025-02-07",
+      "Zeit": null,
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-07",
       "Zeit": null,
       "Thema": "Rund um den 13. Februar WiEdersetzen",
       "Ort": null,
@@ -511,6 +511,26 @@
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-08",
+      "Zeit": null,
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-08",
+      "Zeit": null,
+      "Thema": "'Liebe Leute, geht wählen!' - Kundgebung zur Wahlermutigung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "6",
+      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
       "Status": "angemeldet"
     },
     {
@@ -1011,27 +1031,27 @@
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": null,
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": null,
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
       "Status": "abgemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-02-13",
