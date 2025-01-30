@@ -31,17 +31,27 @@
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Fridays For Future Dresden",
+      "Status": "abgemeldet"
+    },
+    {
+      "Datum": "2025-01-30",
+      "Zeit": "14.00 - 19.00 Uhr",
+      "Thema": "MILLIADÄRE BESTEUERN, KLIMA RETTEN",
+      "Ort": "Zur Messe",
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Greenpeace e.V.",
       "Status": "beschieden"
     },
     {
       "Datum": "2025-01-30",
-      "Zeit": null,
-      "Thema": "MILLIADÄRE BESTEUERN, KLIMA RETTEN",
+      "Zeit": "15.00 - 17.30 Uhr",
+      "Thema": "Die CDU reißt die Brandmauer ein! – Demokratie schützen, keine Zusammenarbeit mit der AfD",
       "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "Greenpeace e.V.",
-      "Status": "angemeldet"
+      "Startpunkt": "Schloßplatz",
+      "Teilnehmer": "200",
+      "Veranstalter": "Fridays For Future Dresden",
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-01-30",
@@ -95,6 +105,16 @@
     },
     {
       "Datum": "2025-02-01",
+      "Zeit": null,
+      "Thema": "Erhalt des gesamten derzeitigen Nahverkehrsangebotes der DVB, insbesondere auch der Fähre an der Prießnitzmündung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "etwa 20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-01",
       "Zeit": "14.00 - 15.00 Uhr",
       "Thema": "Frieden statt Krieg! Das Volk Irans will Ruhe und Frieden!  Solidarität mit den Menschen, die im Iran.",
       "Ort": "Theaterplatz",
@@ -102,6 +122,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-02-02",
+      "Zeit": null,
+      "Thema": "Erhalt des gesamten derzeitigen Nahverkehrsangebotes der DVB, insbesondere auch der Fähre an der Prießnitzmündung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "etwa 20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-02-02",
@@ -911,6 +941,26 @@
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-11",
+      "Zeit": null,
+      "Thema": "Wahlermutigung zum Klimaschutz, Informationen zu den Aktivitäten der Omas for Future",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Omas for Future",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-12",
+      "Zeit": null,
+      "Thema": "Kürzungen? Nicht mit uns! Haushalt der Grausamkeiten verhindern",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "Bündnis gegen Kürzungen",
       "Status": "angemeldet"
     },
     {
