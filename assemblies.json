@@ -35,13 +35,13 @@
     },
     {
       "Datum": "2025-02-01",
-      "Zeit": null,
+      "Zeit": "11.30 - 13.30 Uhr",
       "Thema": "Erhalt des gesamten derzeitigen Nahverkehrsangebotes der DVB, insbesondere auch der Fähre an der Prießnitzmündung",
-      "Ort": null,
+      "Ort": "Fährstelle Neustadt",
       "Startpunkt": null,
       "Teilnehmer": "etwa 20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-01",
@@ -55,13 +55,13 @@
     },
     {
       "Datum": "2025-02-02",
-      "Zeit": null,
+      "Zeit": "16.00 - 18.30 Uhr",
       "Thema": "Erhalt des gesamten derzeitigen Nahverkehrsangebotes der DVB, insbesondere auch der Fähre an der Prießnitzmündung",
-      "Ort": null,
+      "Ort": "Feuerstelle im Bereich der Fährstelle Neustadt",
       "Startpunkt": null,
       "Teilnehmer": "etwa 20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-02",
@@ -115,23 +115,23 @@
     },
     {
       "Datum": "2025-02-03",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-03",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.30 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-06",
@@ -885,13 +885,13 @@
     },
     {
       "Datum": "2025-02-10",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-11",
@@ -951,7 +951,7 @@
       "Startpunkt": null,
       "Teilnehmer": "unbekannt",
       "Veranstalter": "Wellenlänge",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2025-02-13",
@@ -1875,13 +1875,13 @@
     },
     {
       "Datum": "2025-02-17",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-19",
@@ -1955,13 +1955,13 @@
     },
     {
       "Datum": "2025-02-24",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-24",
