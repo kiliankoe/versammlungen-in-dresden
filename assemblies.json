@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-01-30",
+  "Dateidatum": "2025-01-31",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,76 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-01-30",
-      "Zeit": null,
-      "Thema": "Das Patriarchat zerschlagen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "500",
-      "Veranstalter": "linksjugend Dresden",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-01-30",
-      "Zeit": "16.00 - 17.30 Uhr",
-      "Thema": "Kundgebung für eine Besteuerung Superreicher und fossiler Konzerne",
-      "Ort": "Zur Messe",
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "Fridays For Future Dresden",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-01-30",
-      "Zeit": "14.00 - 19.00 Uhr",
-      "Thema": "MILLIADÄRE BESTEUERN, KLIMA RETTEN",
-      "Ort": "Zur Messe",
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "Greenpeace e.V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-01-30",
-      "Zeit": "15.00 - 17.30 Uhr",
-      "Thema": "Die CDU reißt die Brandmauer ein! – Demokratie schützen, keine Zusammenarbeit mit der AfD",
-      "Ort": null,
-      "Startpunkt": "Schloßplatz",
-      "Teilnehmer": "200",
-      "Veranstalter": "Fridays For Future Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-01-30",
-      "Zeit": "15.45 - 18.00 Uhr",
-      "Thema": "Herz statt Merz!",
-      "Ort": "Zur Messe",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-01-30",
-      "Zeit": "16.00 - 20.00 Uhr",
-      "Thema": "Herr Merz! - JA zum Bekenntnis zur Brandmauer, NEIN zu Rückschritten in der Sozial-, Umwelt- und Energiepolitik",
-      "Ort": "Zu Messe",
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-01-30",
-      "Zeit": "19.30 - 20.15 Uhr",
-      "Thema": "Protect the protest - Menschenrechtsverletzungen in autokratischen Systemen wie Iran, Venezuela, China, Russland",
-      "Ort": "Dr. Külz Ring",
-      "Startpunkt": null,
-      "Teilnehmer": "15",
-      "Veranstalter": "Amnesty International e. V. Hochschulgruppe Dresden",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-01-31",
       "Zeit": "09.00 - 13.00 Uhr",
@@ -182,6 +112,16 @@
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-02-03",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-02-03",
@@ -944,6 +884,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2025-02-10",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-02-11",
       "Zeit": null,
       "Thema": "Wahlermutigung zum Klimaschutz, Informationen zu den Aktivitäten der Omas for Future",
@@ -1081,27 +1031,27 @@
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
       "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": null,
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": null,
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
     },
     {
       "Datum": "2025-02-13",
@@ -1924,6 +1874,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2025-02-17",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-02-19",
       "Zeit": "18.00 - 19.00 Uhr",
       "Thema": "Say their names - Gedanktag zum 5. Jahrestag vom Anschlag in Hanau",
@@ -1991,6 +1951,16 @@
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-24",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
       "Status": "angemeldet"
     },
     {
@@ -2271,6 +2241,46 @@
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-05-01",
+      "Zeit": null,
+      "Thema": "Anarchistischer 1. Mai",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-05-01",
+      "Zeit": null,
+      "Thema": "Heraus zum 1. Mai - Gewerkschaftliche Demonstration und Kundgebung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "ver.di Bezirk Sachsen West-Ost-Süd",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-05-01",
+      "Zeit": null,
+      "Thema": "Mach dich stark mit uns",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "DGB Dresden Oberes Elbtal",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-05-01",
+      "Zeit": null,
+      "Thema": "1. Mai Kundgebung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "800",
+      "Veranstalter": "DIE LINKE Dresden",
       "Status": "angemeldet"
     }
   ]
