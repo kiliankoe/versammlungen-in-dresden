@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-02-02",
+  "Dateidatum": "2025-02-03",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,36 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-02-02",
-      "Zeit": "16.00 - 18.30 Uhr",
-      "Thema": "Erhalt des gesamten derzeitigen Nahverkehrsangebotes der DVB, insbesondere auch der Fähre an der Prießnitzmündung",
-      "Ort": "Feuerstelle im Bereich der Fährstelle Neustadt",
-      "Startpunkt": null,
-      "Teilnehmer": "etwa 20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-02-02",
-      "Zeit": "12.00 - 13.30 Uhr",
-      "Thema": "Gedenkfahrt und Gedenkminute für Natenom",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "50",
-      "Veranstalter": "Fuß- und Radentscheid Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-02-02",
-      "Zeit": "15.30 - 17.30 Uhr",
-      "Thema": "Elbamare muss bleiben!",
-      "Ort": "Amalie-Dietrich-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "200",
-      "Veranstalter": "Die Linke Stadtverband Dresden",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-02-03",
       "Zeit": "18.00 - 19.30 Uhr",
@@ -92,6 +62,16 @@
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-02-05",
+      "Zeit": null,
+      "Thema": "CDU/CSU, SPD, FDP, Die Grünen finanzieren mit unserem Steuergeld das Umbringen in der Urai ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-02-06",
@@ -854,6 +834,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2025-02-10",
+      "Zeit": null,
+      "Thema": "Liebe Leute, geht wählen! - Kundgebung zur Wahlermutigung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "6",
+      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-02-11",
       "Zeit": null,
       "Thema": "Wahlermutigung zum Klimaschutz, Informationen zu den Aktivitäten der Omas for Future",
@@ -901,7 +891,7 @@
       "Startpunkt": null,
       "Teilnehmer": "unbekannt",
       "Veranstalter": "Wellenlänge",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2025-02-13",
@@ -911,16 +901,6 @@
       "Startpunkt": null,
       "Teilnehmer": "unbekannt",
       "Veranstalter": "Wellenlänge",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": null,
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -1002,6 +982,16 @@
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
       "Status": "abgemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-02-13",
