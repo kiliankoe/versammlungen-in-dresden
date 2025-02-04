@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-02-03",
+  "Dateidatum": "2025-02-04",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,59 +14,9 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2025-02-03",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-02-03",
-      "Zeit": "17.30 - 18.00 Uhr",
-      "Thema": "Kein Platz für Nazis in Dresden",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-02-03",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-02-03",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Fred stellt sich in den Weg",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "50",
-      "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-02-03",
-      "Zeit": "19.00 - 20.30 Uhr",
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2025-02-05",
       "Zeit": null,
-      "Thema": "CDU/CSU, SPD, FDP, Die Grünen finanzieren mit unserem Steuergeld das Umbringen in der Urai ",
+      "Thema": "CDU/CSU, SPD, FDP, Die Grünen finanzieren mit unserem Steuergeld das Umbringen in der Ukraine ",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "2",
@@ -264,13 +214,13 @@
       "Status": "angemeldet"
     },
     {
-      "Datum": "2025-02-08",
+      "Datum": "2025-02-07",
       "Zeit": null,
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Thema": "Kürzt uns nicht die Zukunft weg! - Zukunftsfeindliche Kürzungen stoppen!",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
+      "Teilnehmer": "100",
+      "Veranstalter": "Studierendenrat der TU Dresden",
       "Status": "angemeldet"
     },
     {
@@ -436,12 +386,22 @@
     {
       "Datum": "2025-02-08",
       "Zeit": null,
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-08",
+      "Zeit": "12.00 - 16.00 Uhr",
       "Thema": "'Liebe Leute, geht wählen!' - Kundgebung zur Wahlermutigung",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "6",
       "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-09",
@@ -866,16 +826,6 @@
     {
       "Datum": "2025-02-13",
       "Zeit": null,
-      "Thema": "'Stilles Gedenken vor der Frauenkirche Dresden - wahrhaftig erinnern - versöhnt leben' und 'Dresdner Gedenkweg - unterwegs zur Versöhnung - 13. Februar' ",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": null,
-      "Veranstalter": "Gesellschaft zur Förderung der Frauenkirche Dresden e. V., Herrn Prof. Ludwig Güttler ",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": null,
       "Thema": "Kein Platz für Nazis, weg mit dem Opfermythos!",
       "Ort": null,
       "Startpunkt": null,
@@ -889,9 +839,9 @@
       "Thema": "Stilles Ge(h)denken Dresden",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "unbekannt",
-      "Veranstalter": "Wellenlänge",
-      "Status": "abgemeldet"
+      "Teilnehmer": "bis zu 100 über den Tag verteilt",
+      "Veranstalter": "Wellenlängen",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-02-13",
@@ -900,7 +850,27 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "unbekannt",
-      "Veranstalter": "Wellenlänge",
+      "Veranstalter": "Wellenlängen",
+      "Status": "abgemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -982,26 +952,6 @@
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
       "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": null,
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": null,
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
     },
     {
       "Datum": "2025-02-13",
@@ -1109,7 +1059,7 @@
       "Thema": "Kundgebung mit Ausstellung zum 80. Jahrestag der Bombardierung Dresdens - Den Opfern des angloamerikanischen Bombenterrors in Würde gedenken!",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "bis zu 2.000",
+      "Teilnehmer": "ca. 100",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -1121,6 +1071,26 @@
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "Dresdner Mahnmal gegen das Vergessen",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
+      "Thema": "'Stilles Gedenken vor der Frauenkirche Dresden - wahrhaftig erinnern - versöhnt leben' und 'Dresdner Gedenkweg - unterwegs zur Versöhnung - 13. Februar' ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200-400",
+      "Veranstalter": "Gesellschaft zur Förderung der Frauenkirche Dresden e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
+      "Thema": "Autokorso für die Flamme der Erinnerung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "25 bis 40",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -1569,7 +1539,7 @@
       "Thema": "Gedenkmarsch zum 80. Jahrestag der Bombardierung Dresdens - Den Opfern des angloamerikanischen Bombenterrors in Würde gedenken!",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "2000",
+      "Teilnehmer": "2.000",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -1852,6 +1822,16 @@
       "Teilnehmer": "5 bis 10 ständig vor Ort",
       "Veranstalter": "MRIJA Sport-, Kultur-, Wirtschafts- und Integrationsverein Wien",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-02-20",
+      "Zeit": null,
+      "Thema": "Liebe Leute, geht wählen! - Kundgebung zur Wahlermutigung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "6",
+      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-02-21",
@@ -2231,6 +2211,36 @@
       "Startpunkt": null,
       "Teilnehmer": "800",
       "Veranstalter": "DIE LINKE Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-05-05",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-05-05",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-05-05",
+      "Zeit": null,
+      "Thema": "Tag der Inklusion",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "ColumbaPalumbus e. V.",
       "Status": "angemeldet"
     }
   ]
