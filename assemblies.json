@@ -15,13 +15,13 @@
   "Versammlungen": [
     {
       "Datum": "2025-02-05",
-      "Zeit": null,
+      "Zeit": "11.00 - 13.00 Uhr",
       "Thema": "CDU/CSU, SPD, FDP, Die Grünen finanzieren mit unserem Steuergeld das Umbringen in der Ukraine ",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "2",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-06",
@@ -45,13 +45,13 @@
     },
     {
       "Datum": "2025-02-07",
-      "Zeit": null,
+      "Zeit": "16.00 - 21.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
+      "Ort": "Wiener Platz, Bayrische Straße und Strehlener Straße",
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-07",
@@ -85,20 +85,20 @@
     },
     {
       "Datum": "2025-02-07",
-      "Zeit": null,
+      "Zeit": "16.00 - 21.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wiener Platz",
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-07",
       "Zeit": "16.00 - 21.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
       "Ort": null,
-      "Startpunkt": "Wiener Platz",
+      "Startpunkt": "Strehlener Straße",
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
@@ -127,7 +127,7 @@
       "Datum": "2025-02-07",
       "Zeit": "16.00 - 21.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": "Jorge-Gomondai-Platz",
+      "Ort": "Postplatz",
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
@@ -145,23 +145,23 @@
     },
     {
       "Datum": "2025-02-07",
-      "Zeit": null,
+      "Zeit": "16.00 - 21.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
+      "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-07",
-      "Zeit": null,
+      "Zeit": "16.00 - 21.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
+      "Ort": "Freiberger Straße",
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-07",
@@ -185,7 +185,7 @@
     },
     {
       "Datum": "2025-02-07",
-      "Zeit": "15.00 - 17.00 Uhr",
+      "Zeit": "15.00 - 17.30 Uhr",
       "Thema": "Klimastreik",
       "Ort": null,
       "Startpunkt": "Neumarkt",
@@ -195,23 +195,23 @@
     },
     {
       "Datum": "2025-02-07",
-      "Zeit": null,
+      "Zeit": "16.00 - 21.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
+      "Ort": "Könneritzstraße und Weißeritzstraße",
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-07",
-      "Zeit": null,
+      "Zeit": "13.30 - 15.15 Uhr",
       "Thema": "Kürzt uns nicht die Zukunft weg! - Zukunftsfeindliche Kürzungen stoppen!",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Fritz-Forrster-Platz",
       "Teilnehmer": "100",
       "Veranstalter": "Studierendenrat der TU Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-07",
@@ -255,13 +255,13 @@
     },
     {
       "Datum": "2025-02-08",
-      "Zeit": null,
+      "Zeit": "07.00 - 20.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Strehlener Straße",
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-08",
@@ -285,13 +285,13 @@
     },
     {
       "Datum": "2025-02-08",
-      "Zeit": null,
+      "Zeit": "07.00 - 20.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
+      "Ort": "Wiener Platz, Bayrische Straße und Strehlener Straße",
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-08",
@@ -325,13 +325,13 @@
     },
     {
       "Datum": "2025-02-08",
-      "Zeit": null,
+      "Zeit": "07.00 - 20.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
+      "Ort": "Postplatz",
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-08",
@@ -355,23 +355,23 @@
     },
     {
       "Datum": "2025-02-08",
-      "Zeit": null,
+      "Zeit": "07.00 - 20.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
+      "Ort": "Könneritzstraße und Weißeritzstraße",
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-08",
-      "Zeit": null,
+      "Zeit": "07.00 - 20.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
+      "Ort": "Freiberger Straße",
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-08",
@@ -415,13 +415,13 @@
     },
     {
       "Datum": "2025-02-08",
-      "Zeit": null,
+      "Zeit": "13.00 - 16.00 Uhr",
       "Thema": "Tierrechte/Veganismus 'Cube of Truth'",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Anonymous for the Voiceless",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-08",
@@ -448,7 +448,7 @@
       "Zeit": "07.00 - 20.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
       "Ort": null,
-      "Startpunkt": "Wiener Platz",
+      "Startpunkt": "Strehlener Straße",
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
@@ -465,13 +465,13 @@
     },
     {
       "Datum": "2025-02-09",
-      "Zeit": null,
+      "Zeit": "07.00 - 20.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wiener Platz",
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-09",
@@ -495,13 +495,33 @@
     },
     {
       "Datum": "2025-02-09",
-      "Zeit": null,
+      "Zeit": "07.00 - 20.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
+      "Ort": "Wiener Platz, Bayrische Straße und Strehlener Straße",
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-02-09",
+      "Zeit": "07.00 - 20.00 Uhr",
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": "Wilsdruffer Straße",
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-02-09",
+      "Zeit": "07.00 - 20.00 Uhr",
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": "Postplatz",
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-09",
@@ -525,26 +545,6 @@
     },
     {
       "Datum": "2025-02-09",
-      "Zeit": null,
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-02-09",
-      "Zeit": "07.00 - 20.00 Uhr",
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": "Wilsdruffer Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-02-09",
       "Zeit": "13.30 - 17.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
       "Ort": null,
@@ -565,23 +565,23 @@
     },
     {
       "Datum": "2025-02-09",
-      "Zeit": null,
+      "Zeit": "07.00 - 20.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
+      "Ort": "Könneritzstraße und Weißeritzstraße",
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-09",
-      "Zeit": null,
+      "Zeit": "07.00 - 20.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
+      "Ort": "Freiberger Straße",
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-09",
@@ -665,13 +665,13 @@
     },
     {
       "Datum": "2025-02-10",
-      "Zeit": null,
+      "Zeit": "16.00 - 21.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Strehlener Straße",
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-10",
@@ -695,19 +695,9 @@
     },
     {
       "Datum": "2025-02-10",
-      "Zeit": null,
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-02-10",
       "Zeit": "16.00 - 21.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": "Wilsdruffer Straße",
+      "Ort": "Wiener Platz, Bayrische Straße und Strehlener Straße",
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
@@ -725,13 +715,23 @@
     },
     {
       "Datum": "2025-02-10",
-      "Zeit": null,
+      "Zeit": "16.00 - 21.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
+      "Ort": "Postplatz",
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-02-10",
+      "Zeit": "16.00 - 21.00 Uhr",
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": "Wilsdruffer Straße",
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-10",
@@ -755,13 +755,13 @@
     },
     {
       "Datum": "2025-02-10",
-      "Zeit": null,
+      "Zeit": "16.00 - 21.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
+      "Ort": "Könneritzstraße und Weißeritzstraße",
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-10",
@@ -775,13 +775,13 @@
     },
     {
       "Datum": "2025-02-10",
-      "Zeit": null,
+      "Zeit": "16.00 - 21.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
+      "Ort": "Freiberger Straße",
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-10",
@@ -805,16 +805,6 @@
     },
     {
       "Datum": "2025-02-10",
-      "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "200",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-02-10",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
@@ -826,12 +816,22 @@
     {
       "Datum": "2025-02-10",
       "Zeit": null,
-      "Thema": "Liebe Leute, geht wählen! - Kundgebung zur Wahlermutigung",
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-10",
+      "Zeit": "10.00 - 14.00 Uhr",
+      "Thema": "Liebe Leute, geht wählen! - Kundgebung zur Wahlermutigung",
+      "Ort": "Altpieschen",
       "Startpunkt": null,
       "Teilnehmer": "6",
       "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-11",
@@ -951,47 +951,37 @@
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": null,
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": null,
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": null,
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": null,
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
       "Status": "abgemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-02-13",
@@ -1126,6 +1116,16 @@
     {
       "Datum": "2025-02-13",
       "Zeit": null,
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "Hope fight Racism",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-13",
+      "Zeit": null,
       "Thema": "Mahnwache zum Gedenken der Opfer des Bombardements am 13.02.1945",
       "Ort": null,
       "Startpunkt": null,
@@ -1227,6 +1227,16 @@
       "Datum": "2025-02-14",
       "Zeit": "16.00 - 21.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": null,
+      "Startpunkt": "Strehlener Straße",
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-02-14",
+      "Zeit": "16.00 - 21.00 Uhr",
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
       "Ort": "Nürnberger Platz",
       "Startpunkt": null,
       "Teilnehmer": "2500",
@@ -1242,16 +1252,6 @@
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-02-14",
-      "Zeit": null,
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
     },
     {
       "Datum": "2025-02-14",
@@ -1275,39 +1275,9 @@
     },
     {
       "Datum": "2025-02-14",
-      "Zeit": null,
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-02-14",
-      "Zeit": null,
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-02-14",
-      "Zeit": null,
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-02-14",
       "Zeit": "16.00 - 21.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": "Jorge-Gomondai-Platz",
+      "Ort": "Wiener Platz, Bayrische Straße und Strehlener Straße",
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
@@ -1325,6 +1295,36 @@
     },
     {
       "Datum": "2025-02-14",
+      "Zeit": null,
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-14",
+      "Zeit": "16.00 - 21.00 Uhr",
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": "Postplatz",
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-02-14",
+      "Zeit": "16.00 - 21.00 Uhr",
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-02-14",
       "Zeit": "16.00 - 21.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
       "Ort": "Schlesischer Platz und Hansastraße",
@@ -1335,23 +1335,23 @@
     },
     {
       "Datum": "2025-02-14",
-      "Zeit": null,
+      "Zeit": "16.00 - 21.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
+      "Ort": "Freiberger Straße",
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-14",
-      "Zeit": null,
+      "Zeit": "16.00 - 21.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
+      "Ort": "Könneritzstraße und Weißeritzstraße",
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-14",
@@ -1655,13 +1655,13 @@
     },
     {
       "Datum": "2025-02-16",
-      "Zeit": null,
+      "Zeit": "07.00 - 20.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Strehlener Straße",
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-16",
@@ -1675,16 +1675,6 @@
     },
     {
       "Datum": "2025-02-16",
-      "Zeit": null,
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-02-16",
       "Zeit": "07.00 - 20.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
       "Ort": "Neumarkt",
@@ -1695,19 +1685,9 @@
     },
     {
       "Datum": "2025-02-16",
-      "Zeit": null,
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-02-16",
       "Zeit": "07.00 - 20.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": "Jorge-Gomondai-Platz",
+      "Ort": "Wiener Platz, Bayrische Straße und Strehlener Straße",
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
@@ -1735,6 +1715,26 @@
     },
     {
       "Datum": "2025-02-16",
+      "Zeit": "07.00 - 20.00 Uhr",
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-02-16",
+      "Zeit": "07.00 - 20.00 Uhr",
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": "Postplatz",
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-02-16",
       "Zeit": "13.30 - 17.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
       "Ort": null,
@@ -1755,23 +1755,23 @@
     },
     {
       "Datum": "2025-02-16",
-      "Zeit": null,
+      "Zeit": "07.00 - 20.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
+      "Ort": "Freiberger Straße",
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-16",
-      "Zeit": null,
+      "Zeit": "07.00 - 20.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
+      "Ort": "Könneritzstraße und Weißeritzstraße",
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-16",
