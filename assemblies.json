@@ -121,7 +121,7 @@
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2025-02-13",
@@ -305,13 +305,13 @@
     },
     {
       "Datum": "2025-02-13",
-      "Zeit": null,
+      "Zeit": "18.00 - 20.15 Uhr",
       "Thema": "Am 13. Februar WiEdersetzen - Rave Zubringer von der TU",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Fritz-Foerster-Platz ",
       "Teilnehmer": "1.000",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-13",
@@ -471,7 +471,7 @@
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2025-02-14",
@@ -605,13 +605,13 @@
     },
     {
       "Datum": "2025-02-14",
-      "Zeit": null,
+      "Zeit": "16.00 - 17.00 Uhr",
       "Thema": "Wahlkampf der Internationalistischen Liste/MLPD: make socialism great again",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Leipziger Straße",
       "Teilnehmer": "10",
       "Veranstalter": "Marxistisch-Leninistische Partei Deutschlands (MLPD)",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-15",
