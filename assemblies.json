@@ -285,23 +285,23 @@
     },
     {
       "Datum": "2025-02-13",
-      "Zeit": null,
+      "Zeit": "18.30 - 20.00 Uhr",
       "Thema": "Dresden brennt für Antifaschismus",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Columbusstraße",
       "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-13",
-      "Zeit": null,
+      "Zeit": "14.00 - 23.00 Uhr",
       "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": null,
+      "Ort": "Dr.-Külz-Ring",
       "Startpunkt": null,
       "Teilnehmer": "200-400",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-13",
@@ -315,13 +315,13 @@
     },
     {
       "Datum": "2025-02-13",
-      "Zeit": null,
+      "Zeit": "18.30 - 20.10 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Könneritzstraße",
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-13",
@@ -345,13 +345,13 @@
     },
     {
       "Datum": "2025-02-13",
-      "Zeit": null,
+      "Zeit": "16.00 - 21.00 Uhr",
       "Thema": "OPERATION TRÜMMERFETISCH - Das traditionelle Entnazifizierungsbombardement(MusicalEdition) ",
-      "Ort": null,
+      "Ort": "Postplatz",
       "Startpunkt": null,
       "Teilnehmer": "400",
       "Veranstalter": "Die PARTEI",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-13",
@@ -431,17 +431,7 @@
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-02-14",
-      "Zeit": "16.00 - 21.00 Uhr",
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": "Wiener Platz",
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2025-02-14",
@@ -452,6 +442,16 @@
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-02-14",
+      "Zeit": "16.00 - 21.00 Uhr",
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": null,
+      "Startpunkt": "Wiener Platz",
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2025-02-14",
@@ -481,7 +481,7 @@
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2025-02-14",
@@ -571,7 +571,7 @@
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2025-02-14",
@@ -585,13 +585,13 @@
     },
     {
       "Datum": "2025-02-14",
-      "Zeit": null,
+      "Zeit": "18.00 - 23.59 Uhr",
       "Thema": "Wir grillen Kartoffeln am Nazi-Camp!",
-      "Ort": null,
+      "Ort": "Dr.-Külz-Ring",
       "Startpunkt": null,
       "Teilnehmer": "40",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-14",
@@ -741,7 +741,7 @@
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2025-02-15",
@@ -815,13 +815,13 @@
     },
     {
       "Datum": "2025-02-15",
-      "Zeit": null,
+      "Zeit": "10.00 - 15.00 Uhr",
       "Thema": "5 vor 12",
-      "Ort": null,
+      "Ort": "Wilsdruffer Straße",
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "CSD Dresden e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-15",
@@ -866,6 +866,16 @@
     {
       "Datum": "2025-02-15",
       "Zeit": null,
+      "Thema": "Demokratiebewegung im ländlichen Raum ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "B90/DIE GRÜNEN KV Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-15",
+      "Zeit": null,
       "Thema": "Rassismus widersprechen - Nazis sind schon immer Scheiße.",
       "Ort": null,
       "Startpunkt": null,
@@ -898,7 +908,7 @@
       "Zeit": "07.00 - 20.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
       "Ort": null,
-      "Startpunkt": "Wiener Platz",
+      "Startpunkt": "Strehlener Straße",
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
@@ -908,7 +918,7 @@
       "Zeit": "07.00 - 20.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
       "Ort": null,
-      "Startpunkt": "Strehlener Straße",
+      "Startpunkt": "Wiener Platz",
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
@@ -947,6 +957,16 @@
       "Datum": "2025-02-16",
       "Zeit": "07.00 - 20.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": "Wilsdruffer Straße",
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-02-16",
+      "Zeit": "07.00 - 20.00 Uhr",
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
       "Ort": "Postplatz",
       "Startpunkt": null,
       "Teilnehmer": "2500",
@@ -975,16 +995,6 @@
     },
     {
       "Datum": "2025-02-16",
-      "Zeit": "07.00 - 20.00 Uhr",
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": "Wilsdruffer Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-02-16",
       "Zeit": "13.30 - 17.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
       "Ort": null,
@@ -1005,16 +1015,6 @@
     },
     {
       "Datum": "2025-02-16",
-      "Zeit": "07.00 - 20.00 Uhr",
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": "Könneritzstraße und Weißeritzstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-02-16",
       "Zeit": null,
       "Thema": "Rund um den 13. Februar WiEdersetzen",
       "Ort": null,
@@ -1022,6 +1022,16 @@
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
       "Status": "abgemeldet"
+    },
+    {
+      "Datum": "2025-02-16",
+      "Zeit": "07.00 - 20.00 Uhr",
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": "Könneritzstraße und Weißeritzstraße",
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-16",
@@ -1151,6 +1161,16 @@
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "Fridays For Future Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-21",
+      "Zeit": null,
+      "Thema": "Kunstaktion 'IGM fordert 60 Mrd für Infrastruktur!'",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "IG Metall Dresden",
       "Status": "angemeldet"
     },
     {
