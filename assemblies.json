@@ -401,7 +401,7 @@
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2025-02-14",
@@ -411,7 +411,7 @@
       "Startpunkt": "Könneritzstraße",
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2025-02-14",
@@ -431,7 +431,7 @@
       "Startpunkt": "Strehlener Straße",
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2025-02-14",
@@ -451,7 +451,7 @@
       "Startpunkt": "Wiener Platz",
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2025-02-14",
@@ -481,7 +481,7 @@
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2025-02-14",
@@ -491,7 +491,7 @@
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2025-02-14",
@@ -501,7 +501,7 @@
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2025-02-14",
@@ -511,7 +511,7 @@
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2025-02-14",
@@ -521,7 +521,7 @@
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2025-02-14",
@@ -541,7 +541,7 @@
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2025-02-14",
@@ -551,7 +551,7 @@
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2025-02-14",
@@ -621,7 +621,7 @@
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2025-02-15",
@@ -701,17 +701,7 @@
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-02-15",
-      "Zeit": null,
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2025-02-15",
@@ -741,37 +731,7 @@
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-02-15",
-      "Zeit": null,
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-02-15",
-      "Zeit": null,
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-02-15",
-      "Zeit": null,
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2025-02-15",
@@ -791,7 +751,47 @@
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
+    },
+    {
+      "Datum": "2025-02-15",
+      "Zeit": null,
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "abgemeldet"
+    },
+    {
+      "Datum": "2025-02-15",
+      "Zeit": null,
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "abgemeldet"
+    },
+    {
+      "Datum": "2025-02-15",
+      "Zeit": null,
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "abgemeldet"
+    },
+    {
+      "Datum": "2025-02-15",
+      "Zeit": null,
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2025-02-15",
