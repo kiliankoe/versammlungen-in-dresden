@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-02-13",
+  "Dateidatum": "2025-02-14",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -15,362 +15,12 @@
   "Versammlungen": [
     {
       "Datum": "2025-02-13",
-      "Zeit": null,
-      "Thema": "Kein Platz für Nazis, weg mit dem Opfermythos!",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "GRÜNE JUGEND Dresden",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": null,
-      "Thema": "Stilles Ge(h)denken Dresden",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "unbekannt",
-      "Veranstalter": "Wellenlängen",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": "14.00 - 23.59 Uhr",
-      "Thema": "Stilles Ge(h)denken Dresden",
-      "Ort": "Altmarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "bis zu 100 über den Tag verteilt",
-      "Veranstalter": "Wellenlängen",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": null,
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": null,
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": null,
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": null,
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": null,
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": null,
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": null,
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": null,
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": null,
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": null,
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": null,
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": null,
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": null,
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": null,
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": null,
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": "17.00 - 18.15 Uhr",
-      "Thema": "Menschenkette 13. Februar",
-      "Ort": null,
-      "Startpunkt": "Innenstadt/Theaterplatz",
-      "Teilnehmer": "10.000",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": "18.30 - 22.00 Uhr",
-      "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": "Altmarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "1.000",
-      "Veranstalter": "Herz statt Hetze",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": "12.00 - 23.59 Uhr",
-      "Thema": "Kundgebung mit Ausstellung zum 80. Jahrestag der Bombardierung Dresdens - Den Opfern des angloamerikanischen Bombenterrors in Würde gedenken!",
-      "Ort": "Dr.-Külz-Ring",
-      "Startpunkt": null,
-      "Teilnehmer": "ca. 100",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-02-13",
       "Zeit": "ab 17.00 Uhr",
       "Thema": "Mahnwache zum 13. Februar 1945",
       "Ort": "Dr.-Külz-Ring",
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "Dresdner Mahnmal gegen das Vergessen",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": "16.00 - 22.30 Uhr",
-      "Thema": "'Stilles Gedenken vor der Frauenkirche Dresden - wahrhaftig erinnern - versöhnt leben' und 'Dresdner Gedenkweg - unterwegs zur Versöhnung - 13. Februar' ",
-      "Ort": "Neumarkt",
-      "Startpunkt": "Hasenberg",
-      "Teilnehmer": "200-400",
-      "Veranstalter": "Gesellschaft zur Förderung der Frauenkirche Dresden e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": "15.45 - 17.00 Uhr",
-      "Thema": "Autokorso für die Flamme der Erinnerung",
-      "Ort": null,
-      "Startpunkt": "Mügelner Straße (Heidenau)",
-      "Teilnehmer": "25 bis 40",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": "12.00 - 16.00 Uhr",
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": "Neumarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "800-1.000",
-      "Veranstalter": "Hope fight Racism",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": "18.00 - 20.15 Uhr",
-      "Thema": "Am 13. Februar WiEdersetzen - Rave Zubringer von der TU",
-      "Ort": null,
-      "Startpunkt": "Fritz-Foerster-Platz ",
-      "Teilnehmer": "1.000",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": "18.30 - 20.00 Uhr",
-      "Thema": "Dresden brennt für Antifaschismus",
-      "Ort": null,
-      "Startpunkt": "Columbusstraße",
-      "Teilnehmer": "100",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": "14.00 - 23.00 Uhr",
-      "Thema": "Dresden ist kein Ort für Nazis",
-      "Ort": "Dr.-Külz-Ring",
-      "Startpunkt": null,
-      "Teilnehmer": "200-400",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": "16.00 - 21.00 Uhr",
-      "Thema": "Tu was gegen Rechts! Demokratie stärken",
-      "Ort": "Rathausplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "BÜNDNIS 90/DIE GRÜNEN Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": "18.30 - 20.10 Uhr",
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": "Könneritzstraße",
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": "12.00 - 16.00 Uhr",
-      "Thema": "Mahnwache zum Gedenken der Opfer des Bombardements am 13.02.1945",
-      "Ort": "Neumarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "50 bis 100",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": "14.00 - 16.00 Uhr",
-      "Thema": "Mahnwache: Wahre Geschichten zum 13. Februar 1945",
-      "Ort": "Dr.-Külz-Ring",
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "Dresden Stadt des Friedens",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": "16.00 - 21.00 Uhr",
-      "Thema": "OPERATION TRÜMMERFETISCH - Das traditionelle Entnazifizierungsbombardement(MusicalEdition) ",
-      "Ort": "Postplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "400",
-      "Veranstalter": "Die PARTEI",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": "20.00 - 22.00 Uhr",
-      "Thema": "Dresden mahnt - aus der Geschichte lernen - stilles Gedenken",
-      "Ort": "Altmarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "2.000",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": "21.00 - 22.15 Uhr",
-      "Thema": "Kranzniederlegung 13. Februar ",
-      "Ort": "Altmarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "100",
-      "Veranstalter": "AfD Dresden",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-02-13",
-      "Zeit": "21.15 - 21.45 Uhr",
-      "Thema": "Dresden ist nicht erst 1945 zerstört worden",
-      "Ort": "Wilsdruffer Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "BÜNDNIS 90/DIE GRÜNEN",
       "Status": "beschieden"
     },
     {
@@ -427,8 +77,8 @@
       "Datum": "2025-02-14",
       "Zeit": "16.00 - 21.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": "Strehlener Straße",
+      "Ort": "Nürnberger Platz",
+      "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
       "Status": "abgemeldet"
@@ -437,8 +87,8 @@
       "Datum": "2025-02-14",
       "Zeit": "16.00 - 21.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": "Nürnberger Platz",
-      "Startpunkt": null,
+      "Ort": null,
+      "Startpunkt": "Strehlener Straße",
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
       "Status": "abgemeldet"
@@ -477,7 +127,7 @@
       "Datum": "2025-02-14",
       "Zeit": "16.00 - 21.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": "Jorge-Gomondai-Platz",
+      "Ort": "Schloßplatz",
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
@@ -487,7 +137,7 @@
       "Datum": "2025-02-14",
       "Zeit": "16.00 - 21.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": "Schloßplatz",
+      "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
@@ -537,7 +187,7 @@
       "Datum": "2025-02-14",
       "Zeit": "16.00 - 21.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": "Freiberger Straße",
+      "Ort": "Könneritzstraße und Weißeritzstraße",
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
@@ -547,7 +197,7 @@
       "Datum": "2025-02-14",
       "Zeit": "16.00 - 21.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": "Könneritzstraße und Weißeritzstraße",
+      "Ort": "Freiberger Straße",
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
@@ -711,27 +361,27 @@
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
+      "Status": "abgemeldet"
+    },
+    {
+      "Datum": "2025-02-15",
+      "Zeit": null,
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "abgemeldet"
+    },
+    {
+      "Datum": "2025-02-15",
+      "Zeit": null,
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-02-15",
-      "Zeit": null,
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-02-15",
-      "Zeit": null,
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
     },
     {
       "Datum": "2025-02-15",
@@ -887,6 +537,16 @@
       "Datum": "2025-02-16",
       "Zeit": "07.00 - 20.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": null,
+      "Startpunkt": "Wiener Platz",
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-02-16",
+      "Zeit": "07.00 - 20.00 Uhr",
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
       "Ort": "Nürnberger Platz",
       "Startpunkt": null,
       "Teilnehmer": "2500",
@@ -899,16 +559,6 @@
       "Thema": "Rund um den 13. Februar WiEdersetzen",
       "Ort": null,
       "Startpunkt": "Strehlener Straße",
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-02-16",
-      "Zeit": "07.00 - 20.00 Uhr",
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": "Wiener Platz",
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
@@ -957,7 +607,7 @@
       "Datum": "2025-02-16",
       "Zeit": "07.00 - 20.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": "Postplatz",
+      "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
@@ -977,7 +627,7 @@
       "Datum": "2025-02-16",
       "Zeit": "07.00 - 20.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": "Jorge-Gomondai-Platz",
+      "Ort": "Postplatz",
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
@@ -1005,6 +655,16 @@
     },
     {
       "Datum": "2025-02-16",
+      "Zeit": "07.00 - 20.00 Uhr",
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": "Freiberger Straße",
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-02-16",
       "Zeit": null,
       "Thema": "Rund um den 13. Februar WiEdersetzen",
       "Ort": null,
@@ -1018,16 +678,6 @@
       "Zeit": "07.00 - 20.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
       "Ort": "Könneritzstraße und Weißeritzstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-02-16",
-      "Zeit": "07.00 - 20.00 Uhr",
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": "Freiberger Straße",
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
