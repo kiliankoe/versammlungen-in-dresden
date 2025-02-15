@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-02-14",
+  "Dateidatum": "2025-02-15",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -31,226 +31,6 @@
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "Dresdner Mahnmal gegen das Vergessen",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-02-14",
-      "Zeit": null,
-      "Thema": "Klimastreik zu Bundestagswahl",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "250",
-      "Veranstalter": "Fridays for Future Dresden",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-02-14",
-      "Zeit": "16.00 - 21.00 Uhr",
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": "Bereich S-Bahnhof Dresden Strehlen",
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-02-14",
-      "Zeit": "13.30 - 16.00 Uhr",
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": "Könneritzstraße",
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-02-14",
-      "Zeit": "16.00 - 21.00 Uhr",
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": "Wiener Platz",
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-02-14",
-      "Zeit": "16.00 - 21.00 Uhr",
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": "Nürnberger Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-02-14",
-      "Zeit": "16.00 - 21.00 Uhr",
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": "Strehlener Straße",
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-02-14",
-      "Zeit": "13.30 - 17.00 Uhr",
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": "Wiener Platz",
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-02-14",
-      "Zeit": "16.00 - 21.00 Uhr",
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": "Neumarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-02-14",
-      "Zeit": "16.00 - 21.00 Uhr",
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": "Wiener Platz, Bayrische Straße und Strehlener Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-02-14",
-      "Zeit": "16.00 - 21.00 Uhr",
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-02-14",
-      "Zeit": "16.00 - 21.00 Uhr",
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": "Schloßplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-02-14",
-      "Zeit": "16.00 - 21.00 Uhr",
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": "Postplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-02-14",
-      "Zeit": "16.00 - 21.00 Uhr",
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": "Wilsdruffer Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-02-14",
-      "Zeit": "16.00 - 21.00 Uhr",
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": "Schlesischer Platz und Hansastraße",
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-02-14",
-      "Zeit": "16.00 - 21.00 Uhr",
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": "Freiberger Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-02-14",
-      "Zeit": null,
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-02-14",
-      "Zeit": "16.00 - 21.00 Uhr",
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": "Könneritzstraße und Weißeritzstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-02-14",
-      "Zeit": null,
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-02-14",
-      "Zeit": null,
-      "Thema": "Tu was gegen Rechts! Demokratie stärken",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "BÜNDNIS 90/DIE GRÜNEN Dresden",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-02-14",
-      "Zeit": "18.00 - 23.59 Uhr",
-      "Thema": "Wir grillen Kartoffeln am Nazi-Camp!",
-      "Ort": "Dr.-Külz-Ring",
-      "Startpunkt": null,
-      "Teilnehmer": "40",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-02-14",
-      "Zeit": "07.45 - 12.30 Uhr",
-      "Thema": "DRK Sachsen: Für Respekt und Ehrlichkeit! Tarifverhandlungen auf Augenhöhe",
-      "Ort": "Bremer Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "ver.di Vereinte Dienstleistungsgewerkschaft Sachsen, Sachsen-Anhalt, Thüringen",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-02-14",
-      "Zeit": "16.00 - 17.00 Uhr",
-      "Thema": "Wahlkampf der Internationalistischen Liste/MLPD: make socialism great again",
-      "Ort": null,
-      "Startpunkt": "Leipziger Straße",
-      "Teilnehmer": "10",
-      "Veranstalter": "Marxistisch-Leninistische Partei Deutschlands (MLPD)",
       "Status": "beschieden"
     },
     {
@@ -365,9 +145,9 @@
     },
     {
       "Datum": "2025-02-15",
-      "Zeit": "07.00 - 20.00 Uhr",
+      "Zeit": null,
       "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": "Jorge-Gomondai-Platz",
+      "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
@@ -375,9 +155,9 @@
     },
     {
       "Datum": "2025-02-15",
-      "Zeit": null,
+      "Zeit": "07.00 - 20.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
+      "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
@@ -597,16 +377,6 @@
       "Datum": "2025-02-16",
       "Zeit": "07.00 - 20.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": "Schloßplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "2500",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-02-16",
-      "Zeit": "07.00 - 20.00 Uhr",
-      "Thema": "Rund um den 13. Februar WiEdersetzen",
       "Ort": "Wilsdruffer Straße",
       "Startpunkt": null,
       "Teilnehmer": "2500",
@@ -617,7 +387,7 @@
       "Datum": "2025-02-16",
       "Zeit": "07.00 - 20.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": "Postplatz",
+      "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
@@ -627,7 +397,17 @@
       "Datum": "2025-02-16",
       "Zeit": "07.00 - 20.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": "Jorge-Gomondai-Platz",
+      "Ort": "Schloßplatz",
+      "Startpunkt": null,
+      "Teilnehmer": "2500",
+      "Veranstalter": "natürliche Person",
+      "Status": "abgemeldet"
+    },
+    {
+      "Datum": "2025-02-16",
+      "Zeit": "07.00 - 20.00 Uhr",
+      "Thema": "Rund um den 13. Februar WiEdersetzen",
+      "Ort": "Postplatz",
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
@@ -655,9 +435,9 @@
     },
     {
       "Datum": "2025-02-16",
-      "Zeit": "07.00 - 20.00 Uhr",
+      "Zeit": null,
       "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": "Könneritzstraße und Weißeritzstraße",
+      "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
@@ -675,9 +455,9 @@
     },
     {
       "Datum": "2025-02-16",
-      "Zeit": null,
+      "Zeit": "07.00 - 20.00 Uhr",
       "Thema": "Rund um den 13. Februar WiEdersetzen",
-      "Ort": null,
+      "Ort": "Könneritzstraße und Weißeritzstraße",
       "Startpunkt": null,
       "Teilnehmer": "2500",
       "Veranstalter": "natürliche Person",
