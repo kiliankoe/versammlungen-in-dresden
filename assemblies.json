@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-02-18",
+  "Dateidatum": "2025-02-19",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -24,6 +24,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2025-02-19",
+      "Zeit": null,
+      "Thema": "Winterdienst oder Sicherheit auf der Fahrbahn! Ihr habt die Wahl",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-02-20",
       "Zeit": "11.30 - 21.30 Uhr",
       "Thema": "Labyrinth der Freiheit (Zweck der Versammlung: Aufmerksamkeit auf den Krieg in der Ukraine lenken.)",
@@ -35,6 +45,16 @@
     },
     {
       "Datum": "2025-02-20",
+      "Zeit": null,
+      "Thema": "Zusammentreff gegen Gewalt ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "Kolibri Kinder und Elternzenturm e. V. ",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-20",
       "Zeit": "10.00 - 14.00 Uhr",
       "Thema": "Liebe Leute, geht wählen! - Kundgebung zur Wahlermutigung",
       "Ort": "Jakob-Winter-Platz",
@@ -42,6 +62,16 @@
       "Teilnehmer": "6",
       "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-02-20",
+      "Zeit": null,
+      "Thema": "Verlagerung stoppen!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "40",
+      "Veranstalter": "IG Metall Dresden ",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-02-20",
@@ -75,13 +105,13 @@
     },
     {
       "Datum": "2025-02-21",
-      "Zeit": null,
+      "Zeit": "13.00 - 17.00 Uhr",
       "Thema": "IGM fordert 60 Mrd für Infrastruktur!",
-      "Ort": null,
+      "Ort": "Terrassenufer",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "IG Metall Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-22",
@@ -95,11 +125,31 @@
     },
     {
       "Datum": "2025-02-22",
-      "Zeit": null,
+      "Zeit": "10.00 - 20.00 Uhr",
       "Thema": "Scherbengericht für direkte Demokratie",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "bis zu 50",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-02-22",
+      "Zeit": null,
+      "Thema": "Tierrechte/Veganismus 'Cube of Truth'",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Anonymous for the Voiceless",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-22",
+      "Zeit": null,
+      "Thema": "Autokorso 'Herz statt Merz'",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -244,6 +294,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2025-03-01",
+      "Zeit": null,
+      "Thema": "Frieden statt Krieg! Das Volk Irans will Ruhe und Frieden! Solidarität mit den Menschen, die im Iran.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-03-02",
       "Zeit": null,
       "Thema": "Die Fähren bleiben! Für den Erhalt des gesamten DVB-Angebotes.",
@@ -351,6 +411,16 @@
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-03-12",
+      "Zeit": null,
+      "Thema": "Fünf Nullrunden verhindern - keine Kürzungen beim Radverkehr",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "Allgemeiner Deutscher Fahrrad-Club Sachsen e.V.",
       "Status": "angemeldet"
     },
     {
