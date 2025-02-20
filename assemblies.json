@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-02-19",
+  "Dateidatum": "2025-02-20",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,26 +14,6 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2025-02-19",
-      "Zeit": "18.00 - 19.00 Uhr",
-      "Thema": "Say their names - Gedanktag zum 5. Jahrestag vom Anschlag in Hanau",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "120",
-      "Veranstalter": "Seebrücke Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-02-19",
-      "Zeit": null,
-      "Thema": "Winterdienst oder Sicherheit auf der Fahrbahn! Ihr habt die Wahl",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
       "Datum": "2025-02-20",
       "Zeit": "11.30 - 21.30 Uhr",
       "Thema": "Labyrinth der Freiheit (Zweck der Versammlung: Aufmerksamkeit auf den Krieg in der Ukraine lenken.)",
@@ -45,13 +25,13 @@
     },
     {
       "Datum": "2025-02-20",
-      "Zeit": null,
-      "Thema": "Zusammentreff gegen Gewalt ",
-      "Ort": null,
+      "Zeit": "14.00 - 14.30 Uhr",
+      "Thema": "Zusammentreffen gegen Gewalt ",
+      "Ort": "Theaterplatz ",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "Kolibri Kinder und Elternzenturm e. V. ",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-20",
@@ -65,13 +45,13 @@
     },
     {
       "Datum": "2025-02-20",
-      "Zeit": null,
+      "Zeit": "12.00 - 12.30 Uhr",
       "Thema": "Verlagerung stoppen!",
-      "Ort": null,
+      "Ort": "Otto-Mohr-Straße",
       "Startpunkt": null,
       "Teilnehmer": "40",
       "Veranstalter": "IG Metall Dresden ",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-20",
@@ -101,7 +81,7 @@
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "Fridays For Future Dresden",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2025-02-21",
@@ -112,6 +92,16 @@
       "Teilnehmer": "10",
       "Veranstalter": "IG Metall Dresden",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-02-21",
+      "Zeit": null,
+      "Thema": "Zeitenwende und Bundestagswahl",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "6",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-02-22",
@@ -155,13 +145,13 @@
     },
     {
       "Datum": "2025-02-23",
-      "Zeit": null,
+      "Zeit": "13.00 - 17.00 Uhr",
       "Thema": "Die Fähren bleiben! Für den Erhalt des gesamten DVB-Angebotes.",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Neustädter Fähranleger",
       "Teilnehmer": "etwa 100",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-23",
@@ -205,16 +195,6 @@
     },
     {
       "Datum": "2025-02-24",
-      "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "200",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-02-24",
       "Zeit": "18.00 - 21.00 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
@@ -232,6 +212,16 @@
       "Teilnehmer": "400",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-02-24",
+      "Zeit": null,
+      "Thema": "Wer schweigt, stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-02-28",
@@ -305,23 +295,23 @@
     },
     {
       "Datum": "2025-03-02",
-      "Zeit": null,
+      "Zeit": "13.00 - 17.00 Uhr",
       "Thema": "Die Fähren bleiben! Für den Erhalt des gesamten DVB-Angebotes.",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Neustädter Fähranleger",
       "Teilnehmer": "etwa 100",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-03-03",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-03-03",
@@ -365,23 +355,23 @@
     },
     {
       "Datum": "2025-03-09",
-      "Zeit": null,
+      "Zeit": "13.00 - 17.00 Uhr",
       "Thema": "Die Fähren bleiben! Für den Erhalt des gesamten DVB-Angebotes.",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Neustädter Fähranleger",
       "Teilnehmer": "etwa 100",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-03-10",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-03-10",
@@ -435,13 +425,13 @@
     },
     {
       "Datum": "2025-03-17",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-03-17",
@@ -465,13 +455,13 @@
     },
     {
       "Datum": "2025-03-24",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-03-24",
@@ -495,13 +485,13 @@
     },
     {
       "Datum": "2025-03-31",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-03-31",
@@ -525,13 +515,13 @@
     },
     {
       "Datum": "2025-04-07",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-04-07",
@@ -555,13 +545,13 @@
     },
     {
       "Datum": "2025-04-14",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-04-14",
@@ -595,13 +585,13 @@
     },
     {
       "Datum": "2025-04-21",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-04-21",
@@ -625,13 +615,13 @@
     },
     {
       "Datum": "2025-04-28",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-04-28",
