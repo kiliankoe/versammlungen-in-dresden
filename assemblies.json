@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-02-20",
+  "Dateidatum": "2025-02-21",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,56 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-02-20",
-      "Zeit": "11.30 - 21.30 Uhr",
-      "Thema": "Labyrinth der Freiheit (Zweck der Versammlung: Aufmerksamkeit auf den Krieg in der Ukraine lenken.)",
-      "Ort": "Neumarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "5 bis 10 ständig vor Ort",
-      "Veranstalter": "MRIJA Sport-, Kultur-, Wirtschafts- und Integrationsverein Wien",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-02-20",
-      "Zeit": "14.00 - 14.30 Uhr",
-      "Thema": "Zusammentreffen gegen Gewalt ",
-      "Ort": "Theaterplatz ",
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "Kolibri Kinder und Elternzenturm e. V. ",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-02-20",
-      "Zeit": "10.00 - 14.00 Uhr",
-      "Thema": "Liebe Leute, geht wählen! - Kundgebung zur Wahlermutigung",
-      "Ort": "Jakob-Winter-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "6",
-      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-02-20",
-      "Zeit": "12.00 - 12.30 Uhr",
-      "Thema": "Verlagerung stoppen!",
-      "Ort": "Otto-Mohr-Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "40",
-      "Veranstalter": "IG Metall Dresden ",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-02-20",
-      "Zeit": "16.00 - 18.00 Uhr",
-      "Thema": "Wahlkundgebung der MLPD Make socialism great again!",
-      "Ort": "Wiener Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "Marxistisch-Leninistische Partei Deutschlands (MLPD)",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-02-21",
       "Zeit": "11.30 - 21.30 Uhr",
@@ -95,13 +45,13 @@
     },
     {
       "Datum": "2025-02-21",
-      "Zeit": null,
+      "Zeit": "15.00 - 17.00 Uhr",
       "Thema": "Zeitenwende und Bundestagswahl",
-      "Ort": null,
+      "Ort": "Jacob-Winter-Platz",
       "Startpunkt": null,
       "Teilnehmer": "6",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-22",
@@ -141,6 +91,16 @@
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-02-22",
+      "Zeit": null,
+      "Thema": "Abschlusskundgebung Bundestagswahl",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "FDP Sachsen",
       "Status": "angemeldet"
     },
     {
@@ -198,7 +158,7 @@
       "Zeit": "18.00 - 21.00 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
+      "Startpunkt": "Dr.-Külz-Ring",
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
       "Status": "beschieden"
@@ -271,6 +231,16 @@
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-03-01",
+      "Zeit": null,
+      "Thema": "2 Jahre nach der Zugkatastrophe in Tempi/Griechenland - Kein Vergessen!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "Griechische Gemeinde Dresden e. V.",
       "Status": "angemeldet"
     },
     {
