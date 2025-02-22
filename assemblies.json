@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-02-21",
+  "Dateidatum": "2025-02-22",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,46 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-02-21",
-      "Zeit": "11.30 - 21.30 Uhr",
-      "Thema": "Labyrinth der Freiheit (Zweck der Versammlung: Aufmerksamkeit auf den Krieg in der Ukraine lenken.)",
-      "Ort": "Neumarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "5 bis 10 ständig vor Ort",
-      "Veranstalter": "MRIJA Sport-, Kultur-, Wirtschafts- und Integrationsverein Wien",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-02-21",
-      "Zeit": null,
-      "Thema": "Klimastreik",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "100",
-      "Veranstalter": "Fridays For Future Dresden",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-02-21",
-      "Zeit": "13.00 - 17.00 Uhr",
-      "Thema": "IGM fordert 60 Mrd für Infrastruktur!",
-      "Ort": "Terrassenufer",
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "IG Metall Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-02-21",
-      "Zeit": "15.00 - 17.00 Uhr",
-      "Thema": "Zeitenwende und Bundestagswahl",
-      "Ort": "Jacob-Winter-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "6",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-02-22",
       "Zeit": "13.30 - 18.30 Uhr",
@@ -75,33 +35,33 @@
     },
     {
       "Datum": "2025-02-22",
-      "Zeit": null,
+      "Zeit": "13.00 - 16.00 Uhr",
       "Thema": "Tierrechte/Veganismus 'Cube of Truth'",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Anonymous for the Voiceless",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-22",
-      "Zeit": null,
+      "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "Autokorso 'Herz statt Merz'",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Pieschener Allee",
       "Teilnehmer": "30",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-22",
-      "Zeit": null,
+      "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "Abschlusskundgebung Bundestagswahl",
-      "Ort": null,
+      "Ort": "Dr.-Külz-Ring",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "FDP Sachsen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-23",
@@ -175,13 +135,13 @@
     },
     {
       "Datum": "2025-02-24",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.30 Uhr",
       "Thema": "Wer schweigt, stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Dr.-Külz-Ring",
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-02-28",
@@ -235,13 +195,13 @@
     },
     {
       "Datum": "2025-03-01",
-      "Zeit": null,
+      "Zeit": "11.00 - 12.00 Uhr",
       "Thema": "2 Jahre nach der Zugkatastrophe in Tempi/Griechenland - Kein Vergessen!",
-      "Ort": null,
+      "Ort": "Wiener Platz",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "Griechische Gemeinde Dresden e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-03-01",
@@ -255,13 +215,13 @@
     },
     {
       "Datum": "2025-03-01",
-      "Zeit": null,
+      "Zeit": "14.00 - 15.00 Uhr",
       "Thema": "Frieden statt Krieg! Das Volk Irans will Ruhe und Frieden! Solidarität mit den Menschen, die im Iran.",
-      "Ort": null,
+      "Ort": "Theaterplatz",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-03-02",
