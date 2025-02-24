@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-02-23",
+  "Dateidatum": "2025-02-24",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-02-23",
-      "Zeit": "13.00 - 17.00 Uhr",
-      "Thema": "Die Fähren bleiben! Für den Erhalt des gesamten DVB-Angebotes.",
-      "Ort": null,
-      "Startpunkt": "Neustädter Fähranleger",
-      "Teilnehmer": "etwa 100",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-02-23",
-      "Zeit": "14.00 - 17.00 Uhr",
-      "Thema": "Demonstration in Solidarität mit dem kubanischen Volk, für die Freilassung aller politischen Gefangenen in Kuba",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "40",
-      "Veranstalter": "PatriaYVida e. V.",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-02-24",
       "Zeit": "18.00 - 19.30 Uhr",
