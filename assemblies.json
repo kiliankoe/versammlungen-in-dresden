@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-02-25",
+  "Dateidatum": "2025-02-26",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -121,6 +121,16 @@
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-03-04",
+      "Zeit": null,
+      "Thema": "Demonstration unter freien Himmel, für Zusammenhalt und Nächstenliebe in unserer demokratischen Gesellschaft",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "Evangeliumszentrum München e.V.",
       "Status": "angemeldet"
     },
     {
