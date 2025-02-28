@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-02-27",
+  "Dateidatum": "2025-02-28",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -51,6 +51,16 @@
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "Griechische Gemeinde Dresden e. V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-03-01",
+      "Zeit": "12.00 - 16.00 Uhr",
+      "Thema": "Zusammenfassung der Waffenstillstandsphase 1 des Krieges in Nahost zwischen Israel und der Hamas",
+      "Ort": "Prager Straße",
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "natürliche Person",
       "Status": "beschieden"
     },
     {
@@ -651,6 +661,36 @@
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-05-29",
+      "Zeit": null,
+      "Thema": "32. Christopher Street Day Dresden 2025",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500/Aufzg: 10000",
+      "Veranstalter": "CSD Dresden e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-05-30",
+      "Zeit": null,
+      "Thema": "32. Christopher Street Day Dresden 2025",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500/Aufzg: 10000",
+      "Veranstalter": "CSD Dresden e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-05-31",
+      "Zeit": null,
+      "Thema": "32. Christopher Street Day Dresden 2025",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500/Aufzg: 10000",
+      "Veranstalter": "CSD Dresden e. V.",
       "Status": "angemeldet"
     }
   ]
