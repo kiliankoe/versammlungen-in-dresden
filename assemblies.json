@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-02-28",
+  "Dateidatum": "2025-03-01",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -125,23 +125,33 @@
     },
     {
       "Datum": "2025-03-03",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-03-04",
-      "Zeit": null,
+      "Zeit": "15.00 - 17.00 Uhr",
       "Thema": "Demonstration unter freien Himmel, für Zusammenhalt und Nächstenliebe in unserer demokratischen Gesellschaft",
-      "Ort": null,
+      "Ort": "Neustädter Markt",
       "Startpunkt": null,
       "Teilnehmer": "25",
       "Veranstalter": "Evangeliumszentrum München e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-03-04",
+      "Zeit": "15.00 - 17.00 Uhr",
+      "Thema": "Demonstration unter freien Himmel, für Zusammenhalt und Nächstenliebe in unserer demokratischen Gesellschaft",
+      "Ort": "Prager Straße",
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "Evangeliumszentrum München e.V.",
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-03-07",
@@ -149,8 +159,18 @@
       "Thema": "feministischer Schulstreik zum feministischen Kampftag",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "750",
+      "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-03-08",
+      "Zeit": null,
+      "Thema": "Internationaler Frauentag und für den Weltfrieden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10 bis 20",
+      "Veranstalter": "Deutsche Kommunistische Partei (DKP)",
       "Status": "angemeldet"
     },
     {
@@ -215,13 +235,13 @@
     },
     {
       "Datum": "2025-03-10",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-03-12",
@@ -275,13 +295,13 @@
     },
     {
       "Datum": "2025-03-17",
-      "Zeit": null,
+      "Zeit": "18.00 - 21.30 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-03-20",
@@ -294,6 +314,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2025-03-22",
+      "Zeit": null,
+      "Thema": "Deutschland steht auf!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-03-24",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -325,13 +355,13 @@
     },
     {
       "Datum": "2025-03-24",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-03-31",
@@ -365,13 +395,13 @@
     },
     {
       "Datum": "2025-03-31",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-04-07",
