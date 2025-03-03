@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-03-02",
+  "Dateidatum": "2025-03-03",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-03-02",
-      "Zeit": "13.00 - 17.00 Uhr",
-      "Thema": "Die Fähren bleiben! Für den Erhalt des gesamten DVB-Angebotes.",
-      "Ort": null,
-      "Startpunkt": "Neustädter Fähranleger",
-      "Teilnehmer": "etwa 100",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-03-03",
       "Zeit": "18.00 - 19.30 Uhr",
