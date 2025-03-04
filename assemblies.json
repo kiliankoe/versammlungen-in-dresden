@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-03-03",
+  "Dateidatum": "2025-03-04",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,46 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-03-03",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-03-03",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-03-03",
-      "Zeit": "19.00 - 20.30 Uhr",
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "200",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-03-03",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Fred stellt sich in den Weg",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "50",
-      "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-03-04",
       "Zeit": "15.00 - 17.00 Uhr",
@@ -95,13 +55,13 @@
     },
     {
       "Datum": "2025-03-08",
-      "Zeit": null,
+      "Zeit": "14.00 - 18.30 Uhr",
       "Thema": "Schulter an Schulter, niemals allein. Feminismus heißt füreinander da zu sein. - Wir kämpfen mutig frech und unaufhaltsam!",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wiener Platz",
       "Teilnehmer": "300",
       "Veranstalter": "Feministischer Klubabend ",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-03-09",
@@ -184,6 +144,26 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2025-03-15",
+      "Zeit": null,
+      "Thema": "Internationaler Tag gegen Polizeigewalt - Wir gedenken den Opfern",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-03-15",
+      "Zeit": null,
+      "Thema": "Gedenken an die Revolution und Freiheitskampf von Ungarn 1848/49 an Deutschlands einzigem Ludwig-Kossuth Denkmal",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-03-17",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -226,10 +206,30 @@
     {
       "Datum": "2025-03-20",
       "Zeit": null,
+      "Thema": "Die Liste der Grausamkeiten muss vom Tisch - Kürzungshaushalt verhindern",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "Bündnis gegen Kürzungen",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-03-20",
+      "Zeit": null,
+      "Thema": "Lebenswerte Zukunft kürzen? Nicht mit uns!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "Kampagne Jugendarbeit und Gleichstellungsarbeit sichern",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-03-20",
+      "Zeit": null,
       "Thema": "Kundgebung zur Ausfinanzierung des ÖPNV Angebotes in Dresden und gegen Stellenabbau",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "1000",
+      "Teilnehmer": "1.000",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -240,6 +240,26 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-03-23",
+      "Zeit": null,
+      "Thema": "Demonstration in Solidarität mit dem kubanischen Volk, für die Freilassung aller politischen Gefangenen in Kuba",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "40",
+      "Veranstalter": "PatriaYVida e.V",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-03-23",
+      "Zeit": null,
+      "Thema": "Newroz ist Widerstand - Aufbruch in die demokratische Gesellschaft",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -574,6 +594,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2025-05-12",
+      "Zeit": null,
+      "Thema": "Gesundheit statt Profite",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "Bündnis für Pflege Dresden",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-05-19",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
@@ -641,6 +671,26 @@
       "Startpunkt": null,
       "Teilnehmer": "500/Aufzg: 10000",
       "Veranstalter": "CSD Dresden e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-06-02",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-06-02",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     }
   ]
