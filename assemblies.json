@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-03-04",
+  "Dateidatum": "2025-03-05",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,26 +14,6 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2025-03-04",
-      "Zeit": "15.00 - 17.00 Uhr",
-      "Thema": "Demonstration unter freien Himmel, für Zusammenhalt und Nächstenliebe in unserer demokratischen Gesellschaft",
-      "Ort": "Neustädter Markt",
-      "Startpunkt": null,
-      "Teilnehmer": "25",
-      "Veranstalter": "Evangeliumszentrum München e.V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-03-04",
-      "Zeit": "15.00 - 17.00 Uhr",
-      "Thema": "Demonstration unter freien Himmel, für Zusammenhalt und Nächstenliebe in unserer demokratischen Gesellschaft",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "Evangeliumszentrum München e.V.",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2025-03-07",
       "Zeit": null,
       "Thema": "feministischer Schulstreik zum feministischen Kampftag",
@@ -45,13 +25,23 @@
     },
     {
       "Datum": "2025-03-08",
-      "Zeit": null,
+      "Zeit": "11.00 - 14.00 Uhr",
       "Thema": "Internationaler Frauentag und für den Weltfrieden",
-      "Ort": null,
+      "Ort": "Jacob-Winter-Platz/",
       "Startpunkt": null,
       "Teilnehmer": "10 bis 20",
       "Veranstalter": "Deutsche Kommunistische Partei (DKP)",
-      "Status": "angemeldet"
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-03-08",
+      "Zeit": "13.00 - 16.00 Uhr",
+      "Thema": "Tierrechte/Veganismus 'Cube of Truth'",
+      "Ort": "Prager Straße",
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Anonymous for the Voiceless",
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-03-08",
