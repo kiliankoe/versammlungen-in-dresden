@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-03-06",
+  "Dateidatum": "2025-03-07",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -134,6 +134,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2025-03-13",
+      "Zeit": null,
+      "Thema": "Windkraft",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-03-15",
       "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
@@ -160,6 +170,26 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "30",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-03-15",
+      "Zeit": null,
+      "Thema": "Internationaler Tag gegen Polizeigewalt - Stoppt Polizeigewalt und -willkür!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "250",
+      "Veranstalter": "Junge Pirat*innen Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-03-16",
+      "Zeit": null,
+      "Thema": "Unterstützung für die serbische Studenten. Korruption tötet in Serbian. Gedanken an 15 gestorbenen. Gleichzeitig werden Leute das gleiche machen in min. 10 andere Städte in DE.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "40",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -231,6 +261,16 @@
       "Startpunkt": null,
       "Teilnehmer": "1.000",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-03-20",
+      "Zeit": null,
+      "Thema": "Mahnwache der OMAS GEGEN RECHTS.DRESDEN für Frieden - gegen Krieg und Gewalt überall",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "8",
+      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
       "Status": "angemeldet"
     },
     {
@@ -344,6 +384,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2025-04-05",
+      "Zeit": null,
+      "Thema": "Tierrechte & Veganismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Activists for the Victims e.V.",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-04-07",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -411,6 +461,16 @@
       "Startpunkt": null,
       "Teilnehmer": "10.000",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-04-19",
+      "Zeit": null,
+      "Thema": "Tierrechte & Veganismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Activists for the Victims e.V.",
       "Status": "angemeldet"
     },
     {
@@ -534,6 +594,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2025-05-03",
+      "Zeit": null,
+      "Thema": "Tierrechte & Veganismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Activists for the Victims e.V.",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-05-05",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
@@ -601,6 +671,16 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "Bündnis für Pflege Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-05-17",
+      "Zeit": null,
+      "Thema": "Tierrechte & Veganismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Activists for the Victims e.V.",
       "Status": "angemeldet"
     },
     {
