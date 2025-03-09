@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-03-08",
+  "Dateidatum": "2025-03-09",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,36 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-03-08",
-      "Zeit": "11.00 - 14.00 Uhr",
-      "Thema": "Internationaler Frauentag und für den Weltfrieden",
-      "Ort": "Jacob-Winter-Platz/",
-      "Startpunkt": null,
-      "Teilnehmer": "10 bis 20",
-      "Veranstalter": "Deutsche Kommunistische Partei (DKP)",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-03-08",
-      "Zeit": "13.00 - 16.00 Uhr",
-      "Thema": "Tierrechte/Veganismus 'Cube of Truth'",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "Anonymous for the Voiceless",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-03-08",
-      "Zeit": "14.00 - 18.30 Uhr",
-      "Thema": "Schulter an Schulter, niemals allein. Feminismus heißt füreinander da zu sein. - Wir kämpfen mutig frech und unaufhaltsam!",
-      "Ort": null,
-      "Startpunkt": "Wiener Platz",
-      "Teilnehmer": "300",
-      "Veranstalter": "Feministischer Klubabend ",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-03-09",
       "Zeit": "13.00 - 17.00 Uhr",
@@ -761,6 +731,16 @@
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-06-07",
+      "Zeit": null,
+      "Thema": "Tierrechte & Veganismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Activists for the Victims e.V.",
       "Status": "angemeldet"
     }
   ]
