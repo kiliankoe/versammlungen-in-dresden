@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-03-11",
+  "Dateidatum": "2025-03-12",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -35,13 +35,13 @@
     },
     {
       "Datum": "2025-03-14",
-      "Zeit": null,
+      "Zeit": "17.00 - 19.00 Uhr",
       "Thema": "DVB nicht kaputtsparen! Keine 49 Millionen Schulden für Extremausbau und Fällen aller Bäume an der Königsbrücker! Im Bestand sanieren - jetzt!",
-      "Ort": null,
+      "Ort": "Königsbrücker Straße",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Königsbrücker muss leben!",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-03-15",
@@ -81,6 +81,16 @@
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Greenpeace Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-03-15",
+      "Zeit": null,
+      "Thema": "Jesus kommt!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -185,13 +195,13 @@
     },
     {
       "Datum": "2025-03-20",
-      "Zeit": null,
+      "Zeit": "16.00 - 18.00 Uhr",
       "Thema": "Mahnwache der OMAS GEGEN RECHTS.DRESDEN für Frieden - gegen Krieg und Gewalt überall",
-      "Ort": null,
+      "Ort": "Kleine Kirchgasse",
       "Startpunkt": null,
       "Teilnehmer": "8",
       "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-03-21",
@@ -206,6 +216,16 @@
     {
       "Datum": "2025-03-22",
       "Zeit": null,
+      "Thema": "Newroz ist Widerstand - Aufbruch in die demokratische Gesellschaft",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-03-22",
+      "Zeit": null,
       "Thema": "Deutschland steht auf!",
       "Ort": null,
       "Startpunkt": null,
@@ -215,23 +235,13 @@
     },
     {
       "Datum": "2025-03-23",
-      "Zeit": null,
+      "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "Demonstration in Solidarität mit dem kubanischen Volk, für die Freilassung aller politischen Gefangenen in Kuba",
-      "Ort": null,
+      "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
       "Teilnehmer": "40",
       "Veranstalter": "PatriaYVida e.V",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-03-23",
-      "Zeit": null,
-      "Thema": "Newroz ist Widerstand - Aufbruch in die demokratische Gesellschaft",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "1.000",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-03-24",
@@ -324,6 +334,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2025-04-06",
+      "Zeit": null,
+      "Thema": "Gedenkkundgebung für Jorge Gomondai",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "80",
+      "Veranstalter": "Ausländerrat Dresden e.V.",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-04-07",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -381,6 +401,16 @@
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-04-16",
+      "Zeit": null,
+      "Thema": "Schulen am Limit",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "GEW Sachsen",
       "Status": "angemeldet"
     },
     {
@@ -570,6 +600,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "15.000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-05-11",
+      "Zeit": null,
+      "Thema": "Liegenddemo Dresden: Pflege -Forschung-Engagement-ein bisschen reicht nicht!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
