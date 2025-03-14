@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-03-13",
+  "Dateidatum": "2025-03-14",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-03-13",
-      "Zeit": "12.40 - 14.00 Uhr",
-      "Thema": "Windkraft",
-      "Ort": "Bernhard-von-Lindenau-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-03-14",
       "Zeit": "17.00 - 19.00 Uhr",
@@ -45,23 +35,23 @@
     },
     {
       "Datum": "2025-03-15",
-      "Zeit": null,
+      "Zeit": "13.00 - 15.00 Uhr",
       "Thema": "Internationaler Tag gegen Polizeigewalt - Wir gedenken den Opfern",
-      "Ort": null,
+      "Ort": "Lothringer Straße",
       "Startpunkt": null,
       "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-03-15",
-      "Zeit": null,
+      "Zeit": "16.00 - 17.00 Uhr",
       "Thema": "Gedenken an die Revolution und Freiheitskampf von Ungarn 1848/49 an Deutschlands einzigem Ludwig-Kossuth Denkmal",
-      "Ort": null,
+      "Ort": "Ludwig-Kossuth Straße",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-03-15",
@@ -75,33 +65,33 @@
     },
     {
       "Datum": "2025-03-15",
-      "Zeit": null,
+      "Zeit": "10.00 - 13.00 Uhr",
       "Thema": "Besser fahr'n mit Bus und Bahn",
-      "Ort": null,
+      "Ort": "Albertplatz",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Greenpeace Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-03-15",
-      "Zeit": null,
+      "Zeit": "10.00 - 12.30 Uhr",
       "Thema": "Jesus kommt!",
-      "Ort": null,
+      "Ort": "Prager Straße, ",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-03-15",
-      "Zeit": null,
+      "Zeit": "16.00 - 20.30 Uhr",
       "Thema": "Internationaler Tag gegen Polizeigewalt - Stoppt Polizeigewalt und -willkür!",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Postplatz",
       "Teilnehmer": "250",
       "Veranstalter": "Junge Pirat*innen Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-03-16",
@@ -111,17 +101,17 @@
       "Startpunkt": null,
       "Teilnehmer": "etwa 100",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2025-03-16",
-      "Zeit": null,
+      "Zeit": "11.30 - 12.30 Uhr",
       "Thema": "Unterstützung für die serbische Studenten. Korruption tötet in Serbian. Gedanken an 15 gestorbenen. Gleichzeitig werden Leute das gleiche machen in min. 10 andere Städte in DE.",
-      "Ort": null,
+      "Ort": "Schloßplatz",
       "Startpunkt": null,
       "Teilnehmer": "40",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-03-17",
@@ -165,13 +155,13 @@
     },
     {
       "Datum": "2025-03-18",
-      "Zeit": null,
+      "Zeit": "17.00 - 18.30 Uhr",
       "Thema": "Freiheit! Gerechtigkeit! Ein Dach überm Kopp und was zu Fressen im Magen! Heraus zum Tag der politischen Gefangenen am 18. März!",
-      "Ort": null,
+      "Ort": "Hammerweg",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-03-20",
