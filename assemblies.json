@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-03-15",
+  "Dateidatum": "2025-03-16",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,76 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-03-15",
-      "Zeit": "14.00 - 17.00 Uhr",
-      "Thema": "Tierrechte, Umwelt, Gesundheit, Veganismus",
-      "Ort": "Prager Straße ",
-      "Startpunkt": null,
-      "Teilnehmer": "15",
-      "Veranstalter": "Activists for the Victims e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-03-15",
-      "Zeit": "13.00 - 15.00 Uhr",
-      "Thema": "Internationaler Tag gegen Polizeigewalt - Wir gedenken den Opfern",
-      "Ort": "Lothringer Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "150",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-03-15",
-      "Zeit": "16.00 - 17.00 Uhr",
-      "Thema": "Gedenken an die Revolution und Freiheitskampf von Ungarn 1848/49 an Deutschlands einzigem Ludwig-Kossuth Denkmal",
-      "Ort": "Ludwig-Kossuth Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-03-15",
-      "Zeit": "13.30 - 18.30 Uhr",
-      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
-      "Ort": "Altmarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "12",
-      "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-03-15",
-      "Zeit": "10.00 - 13.00 Uhr",
-      "Thema": "Besser fahr'n mit Bus und Bahn",
-      "Ort": "Albertplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "15",
-      "Veranstalter": "Greenpeace Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-03-15",
-      "Zeit": "10.00 - 12.30 Uhr",
-      "Thema": "Jesus kommt!",
-      "Ort": "Prager Straße, ",
-      "Startpunkt": null,
-      "Teilnehmer": "15",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-03-15",
-      "Zeit": "16.00 - 20.30 Uhr",
-      "Thema": "Internationaler Tag gegen Polizeigewalt - Stoppt Polizeigewalt und -willkür!",
-      "Ort": null,
-      "Startpunkt": "Postplatz",
-      "Teilnehmer": "250",
-      "Veranstalter": "Junge Pirat*innen Dresden",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-03-16",
       "Zeit": null,
