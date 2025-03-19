@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-03-18",
+  "Dateidatum": "2025-03-19",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-03-18",
-      "Zeit": "17.00 - 18.30 Uhr",
-      "Thema": "Freiheit! Gerechtigkeit! Ein Dach überm Kopp und was zu Fressen im Magen! Heraus zum Tag der politischen Gefangenen am 18. März!",
-      "Ort": "Hammerweg",
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-03-20",
       "Zeit": null,
@@ -65,33 +55,63 @@
     },
     {
       "Datum": "2025-03-21",
-      "Zeit": null,
+      "Zeit": "09.30 - 12.30 Uhr",
       "Thema": "#KlimaschutzIstDasFundament",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Parents for Future Dresden",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-03-21",
+      "Zeit": null,
+      "Thema": "Internationaler Tag gegen Rassismus ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Linkjugend Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-03-21",
+      "Zeit": "15.00 - 17.00 Uhr",
+      "Thema": "Nein zur Wiedereinführung der Wehrpflicht!",
+      "Ort": "Dr.-Külz-Ring",
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Dresden Stadt des Friedens",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-03-21",
+      "Zeit": null,
+      "Thema": "Internationaler Tag gegen Rassismus II",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Linkjugend Dresden",
       "Status": "angemeldet"
     },
     {
       "Datum": "2025-03-21",
       "Zeit": null,
-      "Thema": "Nein zur Wiedereinführung der Wehrpflicht!",
+      "Thema": "Internationaler Tag gegen Rassismus III",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "Dresden Stadt des Friedens",
+      "Teilnehmer": "10",
+      "Veranstalter": "Linkjugend Dresden",
       "Status": "angemeldet"
     },
     {
       "Datum": "2025-03-22",
-      "Zeit": null,
+      "Zeit": "12.00 - 18.00 Uhr",
       "Thema": "Newroz ist Widerstand - Aufbruch in die demokratische Gesellschaft",
-      "Ort": null,
+      "Ort": "Parkplatz Pieschener Allee",
       "Startpunkt": null,
       "Teilnehmer": "1.000",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-03-22",
