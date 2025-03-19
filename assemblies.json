@@ -14,34 +14,54 @@
   ],
   "Versammlungen": [
     {
+      "Datum": "2025-03-19",
+      "Zeit": "16.00 - 17.00 Uhr",
+      "Thema": "Kundgebung für gerechte Klimainvestitionen im Koalitionsvertrag",
+      "Ort": "Kesselsdorfer Straße",
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Fridays For Future Dresden",
+      "Status": "beschieden"
+    },
+    {
       "Datum": "2025-03-20",
-      "Zeit": null,
+      "Zeit": "15.30 - 18.30 Uhr",
       "Thema": "Die Liste der Grausamkeiten muss vom Tisch - Kürzungshaushalt verhindern",
-      "Ort": null,
+      "Ort": "Rathausplatz",
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "Bündnis gegen Kürzungen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-03-20",
       "Zeit": null,
-      "Thema": "Lebenswerte Zukunft kürzen? Nicht mit uns!",
+      "Thema": "Gegen die Streichung des Mobi-Bike Angebots",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "300",
-      "Veranstalter": "Kampagne Jugendarbeit und Gleichstellungsarbeit sichern",
+      "Teilnehmer": "100",
+      "Veranstalter": "ADFC Dresden e.V.",
       "Status": "angemeldet"
     },
     {
       "Datum": "2025-03-20",
-      "Zeit": null,
-      "Thema": "Kundgebung zur Ausfinanzierung des ÖPNV Angebotes in Dresden und gegen Stellenabbau",
+      "Zeit": "13.30 - 16.30 Uhr",
+      "Thema": "Lebenswerte Zukunft kürzen? Nicht mit uns!",
       "Ort": null,
+      "Startpunkt": "Alaunplatz",
+      "Teilnehmer": "300",
+      "Veranstalter": "Kampagne Jugendarbeit und Gleichstellungsarbeit sichern",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-03-20",
+      "Zeit": "15.00 - 17.00 Uhr",
+      "Thema": "Kundgebung zur Ausfinanzierung des ÖPNV Angebotes in Dresden und gegen Stellenabbau",
+      "Ort": "Rathausplatz",
       "Startpunkt": null,
       "Teilnehmer": "1.000",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-03-20",
