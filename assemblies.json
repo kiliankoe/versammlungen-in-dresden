@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-03-19",
+  "Dateidatum": "2025-03-20",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-03-19",
-      "Zeit": "16.00 - 17.00 Uhr",
-      "Thema": "Kundgebung für gerechte Klimainvestitionen im Koalitionsvertrag",
-      "Ort": "Kesselsdorfer Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "Fridays For Future Dresden",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-03-20",
       "Zeit": "15.30 - 18.30 Uhr",
