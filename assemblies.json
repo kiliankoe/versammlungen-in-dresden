@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-03-21",
+  "Dateidatum": "2025-03-22",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,56 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-03-21",
-      "Zeit": "09.30 - 12.30 Uhr",
-      "Thema": "#KlimaschutzIstDasFundament",
-      "Ort": "Neumarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "Parents for Future Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-03-21",
-      "Zeit": "14.15 - 15.00 Uhr",
-      "Thema": "Internationaler Tag gegen Rassismus ",
-      "Ort": "Wiener Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "Linkjugend Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-03-21",
-      "Zeit": "15.00 - 17.00 Uhr",
-      "Thema": "Nein zur Wiedereinführung der Wehrpflicht!",
-      "Ort": "Dr.-Külz-Ring",
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "Dresden Stadt des Friedens",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-03-21",
-      "Zeit": "15.15 - 16.00 Uhr",
-      "Thema": "Internationaler Tag gegen Rassismus II",
-      "Ort": "Neumarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "Linkjugend Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-03-21",
-      "Zeit": "16.15 - 17.15 Uhr",
-      "Thema": "Internationaler Tag gegen Rassismus III",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "Linkjugend Dresden",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-03-22",
       "Zeit": "12.00 - 18.00 Uhr",
@@ -145,13 +95,13 @@
     },
     {
       "Datum": "2025-03-24",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.30 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-03-24",
@@ -162,6 +112,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-03-26",
+      "Zeit": null,
+      "Thema": "Solidarität mit der Ukraine - für einen gerechten Frieden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-03-29",
@@ -212,6 +172,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-03-31",
+      "Zeit": null,
+      "Thema": "Kundgebung zur Ausfinanzierung des ÖPNV Angebotes in Dresden und gegen Stellenabbau",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-04-05",
