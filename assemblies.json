@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-03-25",
+  "Dateidatum": "2025-03-26",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -15,11 +15,21 @@
   "Versammlungen": [
     {
       "Datum": "2025-03-26",
-      "Zeit": null,
+      "Zeit": "16.00 - 20.00 Uhr",
       "Thema": "Solidarität mit der Ukraine - für einen gerechten Frieden",
-      "Ort": null,
+      "Ort": "Bernhard-von-Lindenau Platz",
       "Startpunkt": null,
       "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-03-27",
+      "Zeit": null,
+      "Thema": "Juliane muss bleiben - wir brauchen Schulsozialarbeit!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
