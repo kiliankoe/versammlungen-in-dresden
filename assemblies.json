@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-03-26",
+  "Dateidatum": "2025-03-27",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,24 +14,14 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2025-03-26",
-      "Zeit": "16.00 - 20.00 Uhr",
-      "Thema": "Solidarität mit der Ukraine - für einen gerechten Frieden",
-      "Ort": "Bernhard-von-Lindenau Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2025-03-27",
-      "Zeit": null,
+      "Zeit": "08.00 - 11.00 Uhr",
       "Thema": "Juliane muss bleiben - wir brauchen Schulsozialarbeit!",
-      "Ort": null,
+      "Ort": "Urnenstraße",
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-03-29",
@@ -95,11 +85,31 @@
     },
     {
       "Datum": "2025-03-31",
-      "Zeit": null,
+      "Zeit": "16.00 - 18.00 Uhr",
       "Thema": "Kundgebung zur Ausfinanzierung des ÖPNV Angebotes in Dresden und gegen Stellenabbau",
-      "Ort": null,
+      "Ort": "Rathausplatz",
       "Startpunkt": null,
       "Teilnehmer": "1000",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-03-31",
+      "Zeit": null,
+      "Thema": "Opas für Frieden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-03-31",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu-Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
