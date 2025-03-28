@@ -65,6 +65,16 @@
     },
     {
       "Datum": "2025-03-31",
+      "Zeit": "18.00 - 21.00 Uhr",
+      "Thema": "Freie Sachsen unterstützen den Montagsprotest in Dresden! Mit unserem Trauti für eine schönere Welt mit mehr Sonne und weniger Regen!",
+      "Ort": "Wilsdruffer Straße",
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "FREIE SACHSEN",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-03-31",
       "Zeit": "16.00 - 18.00 Uhr",
       "Thema": "Kundgebung zur Ausfinanzierung des ÖPNV Angebotes in Dresden und gegen Stellenabbau",
       "Ort": "Rathausplatz",
@@ -79,7 +89,7 @@
       "Thema": "Opas für Frieden",
       "Ort": "Terassenufer",
       "Startpunkt": null,
-      "Teilnehmer": "10",
+      "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
     },
