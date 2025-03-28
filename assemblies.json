@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-03-27",
+  "Dateidatum": "2025-03-28",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-03-27",
-      "Zeit": "08.00 - 11.00 Uhr",
-      "Thema": "Juliane muss bleiben - wir brauchen Schulsozialarbeit!",
-      "Ort": "Urnenstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "100",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-03-29",
       "Zeit": "13.30 - 18.30 Uhr",
@@ -126,12 +116,22 @@
     {
       "Datum": "2025-04-05",
       "Zeit": null,
-      "Thema": "Tierrechte & Veganismus",
+      "Thema": "Stoppt das Morden in Gaza! Freiheit für Palästina!",
       "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-04-05",
+      "Zeit": "15.00 - 18.00 Uhr",
+      "Thema": "Tierrechte & Veganismus",
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-04-06",
@@ -181,6 +181,16 @@
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-04-07",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
       "Status": "angemeldet"
     },
     {
@@ -244,6 +254,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2025-04-14",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-04-16",
       "Zeit": null,
       "Thema": "Schulen am Limit",
@@ -251,7 +271,7 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "GEW Sachsen",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2025-04-18",
@@ -275,13 +295,13 @@
     },
     {
       "Datum": "2025-04-19",
-      "Zeit": null,
+      "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "Tierrechte & Veganismus",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-04-21",
@@ -321,6 +341,16 @@
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-04-21",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
       "Status": "angemeldet"
     },
     {
@@ -371,6 +401,16 @@
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-04-28",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
       "Status": "angemeldet"
     },
     {
@@ -425,13 +465,13 @@
     },
     {
       "Datum": "2025-05-03",
-      "Zeit": null,
+      "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "Tierrechte & Veganismus",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-05-05",
@@ -525,13 +565,13 @@
     },
     {
       "Datum": "2025-05-17",
-      "Zeit": null,
+      "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "Tierrechte & Veganismus",
-      "Ort": null,
+      "Ort": "Wiener Platz",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-05-19",
@@ -635,13 +675,13 @@
     },
     {
       "Datum": "2025-06-07",
-      "Zeit": null,
+      "Zeit": "11.00 - 18.00 Uhr",
       "Thema": "Tierrechte & Veganismus",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-06-09",
@@ -695,13 +735,13 @@
     },
     {
       "Datum": "2025-06-21",
-      "Zeit": null,
+      "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "Tierrechte & Veganismus",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-06-23",
