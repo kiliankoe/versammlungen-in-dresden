@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-04-01",
+  "Dateidatum": "2025-04-02",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -105,13 +105,13 @@
     },
     {
       "Datum": "2025-04-10",
-      "Zeit": null,
+      "Zeit": "15.00 - 17.00 Uhr",
       "Thema": "Schulen am Limit",
-      "Ort": null,
+      "Ort": "Parkplatz Sarrasanistraße",
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "GEW Sachsen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-04-11",
