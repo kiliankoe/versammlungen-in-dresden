@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-04-02",
+  "Dateidatum": "2025-04-03",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -104,6 +104,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2025-04-07",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu-Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-04-10",
       "Zeit": "15.00 - 17.00 Uhr",
       "Thema": "Schulen am Limit",
@@ -189,7 +199,7 @@
       "Thema": "Frieden kennt keine Brandmauern",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "10.000",
+      "Teilnehmer": "5.000",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
