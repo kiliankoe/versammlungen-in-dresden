@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-04-03",
+  "Dateidatum": "2025-04-04",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -82,16 +82,6 @@
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-04-07",
-      "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "200",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
     },
     {
       "Datum": "2025-04-07",
