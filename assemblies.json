@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-04-04",
+  "Dateidatum": "2025-04-05",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -95,13 +95,13 @@
     },
     {
       "Datum": "2025-04-07",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Wer schweigt stimmt zu-Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-04-10",
