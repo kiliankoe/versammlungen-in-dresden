@@ -25,13 +25,13 @@
     },
     {
       "Datum": "2025-04-11",
-      "Zeit": null,
+      "Zeit": "14.30 - 18.00 Uhr",
       "Thema": "Klimastreik",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Schloßplatz",
       "Teilnehmer": "100",
       "Veranstalter": "Fridays For Future Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-04-12",
@@ -192,6 +192,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-04-21",
+      "Zeit": null,
+      "Thema": "Gegen Wehrpflicht und Kriegskredite!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "60",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-04-26",
