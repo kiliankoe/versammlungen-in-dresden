@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-04-08",
+  "Dateidatum": "2025-04-09",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -92,6 +92,16 @@
       "Teilnehmer": "300",
       "Veranstalter": "GEW Sachsen",
       "Status": "abgemeldet"
+    },
+    {
+      "Datum": "2025-04-17",
+      "Zeit": null,
+      "Thema": "Mahnwache der OMAS GEGEN RECHTS.DRESDEN für Frieden - gegen Krieg und Gewalt überall",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "8",
+      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-04-18",
