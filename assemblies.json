@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-04-09",
+  "Dateidatum": "2025-04-10",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -42,6 +42,26 @@
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-04-12",
+      "Zeit": null,
+      "Thema": "Falun Dafa und die Verfolgung von Falun Dafa Praktizierenden in China. Aktuelle Bedrohung der Glaubensfreiheit durch ungeprüfte Mediendarstellungen.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12-20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-04-12",
+      "Zeit": null,
+      "Thema": "Leben und Tod",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "40",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-04-14",
