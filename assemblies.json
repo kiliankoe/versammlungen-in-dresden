@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-04-10",
+  "Dateidatum": "2025-04-11",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-04-10",
-      "Zeit": "15.00 - 17.00 Uhr",
-      "Thema": "Schulen am Limit",
-      "Ort": "Parkplatz Sarrasanistraße",
-      "Startpunkt": null,
-      "Teilnehmer": "300",
-      "Veranstalter": "GEW Sachsen",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-04-11",
       "Zeit": "14.30 - 18.00 Uhr",
@@ -55,13 +45,13 @@
     },
     {
       "Datum": "2025-04-12",
-      "Zeit": null,
+      "Zeit": "10.00 - 15.00 Uhr",
       "Thema": "Leben und Tod",
-      "Ort": null,
+      "Ort": "Wiener Platz",
       "Startpunkt": null,
       "Teilnehmer": "40",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-04-14",
