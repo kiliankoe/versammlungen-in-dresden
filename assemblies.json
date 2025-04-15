@@ -24,6 +24,16 @@
       "Status": "abgemeldet"
     },
     {
+      "Datum": "2025-04-16",
+      "Zeit": null,
+      "Thema": "Kundgebung zum Geburtstag Ernst Thälmanns - Nie wieder Faschismus, nie wieder Krieg!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-04-17",
       "Zeit": "16.00 - 18.00 Uhr",
       "Thema": "Mahnwache der OMAS GEGEN RECHTS.DRESDEN für Frieden - gegen Krieg und Gewalt überall",
@@ -55,13 +65,13 @@
     },
     {
       "Datum": "2025-04-18",
-      "Zeit": null,
+      "Zeit": "12.00 - 19.00 Uhr",
       "Thema": "Freie Sachsen unterstützen den Friedensprotest in Dresden! Mit dem Tri-Tra-Trauti für den Fri-Fra-Frieden!",
-      "Ort": null,
+      "Ort": "Postplatz",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Partei FREIE SACHSEN",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-04-19",
@@ -101,7 +111,7 @@
       "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2025-04-21",
@@ -125,16 +135,6 @@
     },
     {
       "Datum": "2025-04-21",
-      "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "200",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-04-21",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
@@ -142,6 +142,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-04-21",
+      "Zeit": null,
+      "Thema": "Handeln für Frieden ist Bürgerpflicht   - Osterspaziergang 2025",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "Gemeinschaft für Menschenrechte im Freistaat Sachsen e.V. (GMS)",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-04-21",
@@ -271,6 +281,16 @@
       "Startpunkt": null,
       "Teilnehmer": "1.000",
       "Veranstalter": "DGB Dresden Oberes Elbtal",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-05-01",
+      "Zeit": null,
+      "Thema": "Familientag – Kundgebung am 1. Mai",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "SPD Dresden-Plauen",
       "Status": "angemeldet"
     },
     {
