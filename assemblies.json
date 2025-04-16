@@ -25,13 +25,13 @@
     },
     {
       "Datum": "2025-04-16",
-      "Zeit": null,
+      "Zeit": "17.00 - 18.00 Uhr",
       "Thema": "Kundgebung zum Geburtstag Ernst Thälmanns - Nie wieder Faschismus, nie wieder Krieg!",
-      "Ort": null,
+      "Ort": "Strehlener Platz",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-04-17",
@@ -95,13 +95,23 @@
     },
     {
       "Datum": "2025-04-19",
-      "Zeit": null,
+      "Zeit": "17.00 - 20.00 Uhr",
       "Thema": "Kein Bock auf 'Weimar'",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Schlesischer Platz",
       "Teilnehmer": "100",
       "Veranstalter": "Fred die linke Socke_official",
-      "Status": "angemeldet"
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-04-19",
+      "Zeit": "14.00 - 17.00 Uhr",
+      "Thema": "Demonstration in Solidarität mit dem kubanischen Volk, für die Freilassung aller politischen Gefangenen Kuba in Kuba",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "40",
+      "Veranstalter": "PatriaYVida e.V",
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-04-21",
@@ -141,7 +151,7 @@
       "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "beschieden"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2025-04-21",
@@ -155,13 +165,13 @@
     },
     {
       "Datum": "2025-04-21",
-      "Zeit": null,
+      "Zeit": "15.00 - 17.00 Uhr",
       "Thema": "Gegen Wehrpflicht und Kriegskredite!",
-      "Ort": null,
+      "Ort": "Alaunplatz",
       "Startpunkt": null,
       "Teilnehmer": "60",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-04-23",
