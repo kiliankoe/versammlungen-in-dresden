@@ -45,13 +45,13 @@
     },
     {
       "Datum": "2025-04-18",
-      "Zeit": null,
+      "Zeit": "13.00 - 20.00 Uhr",
       "Thema": "Dresden weltoffen und solidarisch",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Neumarkt",
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-04-19",
@@ -135,13 +135,13 @@
     },
     {
       "Datum": "2025-04-21",
-      "Zeit": null,
-      "Thema": "Handeln für Frieden ist Bürgerpflicht   - Osterspaziergang 2025",
+      "Zeit": "10.00 - 13.30 Uhr",
+      "Thema": "Handeln für Frieden ist Bürgerpflicht - Osterspaziergang 2025",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Neumarkt ",
       "Teilnehmer": "500",
       "Veranstalter": "Gemeinschaft für Menschenrechte im Freistaat Sachsen e.V. (GMS)",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-04-21",
@@ -155,13 +155,13 @@
     },
     {
       "Datum": "2025-04-23",
-      "Zeit": null,
+      "Zeit": "14.00 - 18.00 Uhr",
       "Thema": "Kernkraft? Anschalten!",
-      "Ort": null,
+      "Ort": "Postplatz",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Nuklearia e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-04-26",
