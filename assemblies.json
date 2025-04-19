@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-04-18",
+  "Dateidatum": "2025-04-19",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,36 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-04-18",
-      "Zeit": "12.00 - 19.00 Uhr",
-      "Thema": "Freie Sachsen unterstützen den Friedensprotest in Dresden! Mit dem Tri-Tra-Trauti für den Fri-Fra-Frieden!",
-      "Ort": "Postplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "Partei FREIE SACHSEN",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-04-18",
-      "Zeit": "12.45 - 20.00 Uhr",
-      "Thema": "Frieden kennt keine Brandmauern",
-      "Ort": null,
-      "Startpunkt": "Postplatz",
-      "Teilnehmer": "5.000",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-04-18",
-      "Zeit": "13.00 - 20.00 Uhr",
-      "Thema": "Dresden weltoffen und solidarisch",
-      "Ort": null,
-      "Startpunkt": "Neumarkt",
-      "Teilnehmer": "200",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-04-19",
       "Zeit": "13.30 - 18.30 Uhr",
