@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-04-22",
+  "Dateidatum": "2025-04-23",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -101,6 +101,16 @@
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-04-30",
+      "Zeit": null,
+      "Thema": "Lehrerinnen und Lehrer entlasten – Maßnahmenpaket stoppen!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "GEW-Gruppe des Gymnasiums Dresden-Plauen",
       "Status": "angemeldet"
     },
     {
