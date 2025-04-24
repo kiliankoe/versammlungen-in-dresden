@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-04-23",
+  "Dateidatum": "2025-04-24",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,13 +14,13 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2025-04-23",
-      "Zeit": "14.00 - 18.00 Uhr",
-      "Thema": "Kernkraft? Anschalten!",
-      "Ort": "Postplatz",
+      "Datum": "2025-04-24",
+      "Zeit": "16.00 - 17.00 Uhr",
+      "Thema": "12 Jahre nach Rana Plaza - Gedenken und Visionen Innehalten, Erinnern und über die Ursachen der Katastrophe sprechen",
+      "Ort": "Prager Straße",
       "Startpunkt": null,
-      "Teilnehmer": "15",
-      "Veranstalter": "Nuklearia e. V.",
+      "Teilnehmer": "6",
+      "Veranstalter": "ENS e.V., Bereich Wirtschaft und Menschenrechte",
       "Status": "beschieden"
     },
     {
@@ -72,6 +72,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-04-28",
+      "Zeit": null,
+      "Thema": "Es ist wieder Zeit! Für Mehr! Für Dich! Tarifrunde AVEU!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "350",
+      "Veranstalter": "ver.di - Vereinte Dienstleistungsgewerkschaft",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-04-28",
@@ -170,6 +180,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-05-03",
+      "Zeit": null,
+      "Thema": "Global Marijuana March Legalisierung durchziehen – Fachgeschäfte jetzt!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "80",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
