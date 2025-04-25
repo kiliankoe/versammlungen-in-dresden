@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-04-24",
+  "Dateidatum": "2025-04-25",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-04-24",
-      "Zeit": "16.00 - 17.00 Uhr",
-      "Thema": "12 Jahre nach Rana Plaza - Gedenken und Visionen Innehalten, Erinnern und über die Ursachen der Katastrophe sprechen",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "6",
-      "Veranstalter": "ENS e.V., Bereich Wirtschaft und Menschenrechte",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-04-26",
       "Zeit": "13.30 - 18.30 Uhr",
@@ -105,13 +95,13 @@
     },
     {
       "Datum": "2025-04-30",
-      "Zeit": null,
+      "Zeit": "12.40 - 13.20 Uhr",
       "Thema": "Lehrerinnen und Lehrer entlasten – Maßnahmenpaket stoppen!",
-      "Ort": null,
+      "Ort": "F.-C.-Weiskopf-Platz",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "GEW-Gruppe des Gymnasiums Dresden-Plauen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-05-01",
@@ -125,22 +115,22 @@
     },
     {
       "Datum": "2025-05-01",
+      "Zeit": "12.00 - 15.00 Uhr",
+      "Thema": "Mach dich stark mit uns",
+      "Ort": "Schloßplatz",
+      "Startpunkt": null,
+      "Teilnehmer": "800",
+      "Veranstalter": "DGB Dresden Oberes Elbtal",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-05-01",
       "Zeit": null,
       "Thema": "Heraus zum 1. Mai - Gewerkschaftliche Demonstration und Kundgebung",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "ver.di Bezirk Sachsen West-Ost-Süd",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-05-01",
-      "Zeit": null,
-      "Thema": "Mach dich stark mit uns",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "1.000",
-      "Veranstalter": "DGB Dresden Oberes Elbtal",
       "Status": "angemeldet"
     },
     {
