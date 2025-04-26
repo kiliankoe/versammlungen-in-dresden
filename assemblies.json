@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-04-25",
+  "Dateidatum": "2025-04-26",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -65,23 +65,23 @@
     },
     {
       "Datum": "2025-04-28",
-      "Zeit": null,
+      "Zeit": "07.30 - 11.00 Uhr",
       "Thema": "Es ist wieder Zeit! Für Mehr! Für Dich! Tarifrunde AVEU!",
-      "Ort": null,
+      "Ort": "Lindenaustraße",
       "Startpunkt": null,
       "Teilnehmer": "350",
       "Veranstalter": "ver.di - Vereinte Dienstleistungsgewerkschaft",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-04-28",
-      "Zeit": null,
+      "Zeit": "18.00 - 21.00 Uhr",
       "Thema": "Wer schweigt, stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-04-30",
@@ -135,13 +135,13 @@
     },
     {
       "Datum": "2025-05-01",
-      "Zeit": null,
+      "Zeit": "10.00 - 18.30 Uhr",
       "Thema": "Familientag – Kundgebung am 1. Mai",
-      "Ort": null,
+      "Ort": "Großmannstraße",
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "SPD Dresden-Plauen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-05-01",
