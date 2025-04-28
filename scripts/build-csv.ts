@@ -1,7 +1,7 @@
 import { $ } from "bun";
-import { stringify } from "csv-stringify/sync";
 import { createHash } from "crypto";
-import { Assembly } from "../src/assembly";
+import { stringify } from "csv-stringify/sync";
+import { Assembly } from "../src/types/assembly";
 import { cleanOrganizer } from "./util";
 
 async function getCommitHashes() {

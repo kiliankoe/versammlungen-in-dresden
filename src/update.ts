@@ -1,8 +1,8 @@
 import { createRestAPIClient } from "masto";
-import { Assembly } from "./assembly";
-import { formatPost } from "./formatting";
-import { fetchAssemblies } from "./util";
 import { contentWarning } from "./data";
+import { formatPost } from "./formatting";
+import { Assembly } from "./types/assembly";
+import { fetchAssemblies } from "./util";
 
 let newAssemblies;
 try {

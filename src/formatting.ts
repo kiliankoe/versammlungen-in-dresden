@@ -1,5 +1,5 @@
-import { Assembly } from "./assembly";
 import { formatOrganizer } from "./data";
+import { Assembly } from "./types/assembly";
 
 export function formatDate(d: string) {
   return d.split("-").reverse().join(".");
