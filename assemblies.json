@@ -65,13 +65,13 @@
     },
     {
       "Datum": "2025-04-30",
-      "Zeit": null,
+      "Zeit": "19.30 - 21.45 Uhr",
       "Thema": "Take Back The Night",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Neustädter Markt",
       "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-04-30",
@@ -85,13 +85,13 @@
     },
     {
       "Datum": "2025-05-01",
-      "Zeit": null,
+      "Zeit": "11.30 - 18.00 Uhr",
       "Thema": "Anarchistischer 1. Mai",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wettiner Platz",
       "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-05-01",
@@ -105,13 +105,13 @@
     },
     {
       "Datum": "2025-05-01",
-      "Zeit": null,
+      "Zeit": "09.00 - 13.00 Uhr",
       "Thema": "Heraus zum 1. Mai - Gewerkschaftliche Demonstration und Kundgebung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Neustädter Markt",
       "Teilnehmer": "500",
       "Veranstalter": "ver.di Bezirk Sachsen West-Ost-Süd",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-05-01",
