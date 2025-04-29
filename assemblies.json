@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-04-28",
+  "Dateidatum": "2025-04-29",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,56 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-04-28",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-04-28",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-04-28",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Fred stellt sich in den Weg",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "50",
-      "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-04-28",
-      "Zeit": "07.30 - 11.00 Uhr",
-      "Thema": "Es ist wieder Zeit! Für Mehr! Für Dich! Tarifrunde AVEU!",
-      "Ort": "Lindenaustraße",
-      "Startpunkt": null,
-      "Teilnehmer": "350",
-      "Veranstalter": "ver.di - Vereinte Dienstleistungsgewerkschaft",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-04-28",
-      "Zeit": "18.00 - 21.00 Uhr",
-      "Thema": "Wer schweigt, stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "200",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-04-30",
       "Zeit": "19.30 - 21.45 Uhr",
@@ -134,6 +84,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2025-05-02",
+      "Zeit": null,
+      "Thema": "Mahnwache anlässlich 11. Jahrestages des Massakers von Odessa",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-05-03",
       "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "Tierrechte & Veganismus",
@@ -201,6 +161,16 @@
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "ColumbaPalumbus e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-05-07",
+      "Zeit": null,
+      "Thema": "Studierendenwerke ausfinanzieren - Soziale Rahmenbedingungen für Bildungsgerechtigkeit ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "Studierendenrat der TU Dresden",
       "Status": "angemeldet"
     },
     {
@@ -495,6 +465,16 @@
     },
     {
       "Datum": "2025-07-21",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-07-28",
       "Zeit": null,
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
