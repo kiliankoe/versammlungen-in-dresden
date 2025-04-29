@@ -75,22 +75,32 @@
     },
     {
       "Datum": "2025-05-01",
-      "Zeit": null,
+      "Zeit": "11.00 - 20.00 Uhr",
       "Thema": "1. Mai Kundgebung",
-      "Ort": null,
+      "Ort": "Alaunplatz",
       "Startpunkt": null,
       "Teilnehmer": "800",
       "Veranstalter": "DIE LINKE Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-05-02",
+      "Zeit": "13.00 - 20.00 Uhr",
+      "Thema": "Mahnwache anlässlich 11. Jahrestages des Massakers von Odessa",
+      "Ort": "Neumarkt",
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-05-02",
       "Zeit": null,
-      "Thema": "Mahnwache anlässlich 11. Jahrestages des Massakers von Odessa",
+      "Thema": "Kunst für mehr Teilhabe",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
+      "Teilnehmer": "40",
+      "Veranstalter": "farbwerk e.V.",
       "Status": "angemeldet"
     },
     {
@@ -105,23 +115,33 @@
     },
     {
       "Datum": "2025-05-03",
-      "Zeit": null,
+      "Zeit": "14.00 - 15.00 Uhr",
       "Thema": "Nein zum Krieg und nein zur Islamischen Republik. Wir sind Geiseln eines diktatorischen Re Die Islamische Republik ist nicht nur eine Bedrohung für Iran, sondern für die ganze Welt.",
-      "Ort": null,
+      "Ort": "Theterplatz",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-05-03",
-      "Zeit": null,
+      "Zeit": "16.00 - 20.00 Uhr",
       "Thema": "Global Marijuana March Legalisierung durchziehen – Fachgeschäfte jetzt!",
-      "Ort": null,
+      "Ort": "Alaunplatz",
       "Startpunkt": null,
       "Teilnehmer": "80",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-05-05",
+      "Zeit": "18.00 - 19.30 Uhr",
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": "Bautzner Landstraße",
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-05-05",
@@ -195,6 +215,16 @@
     },
     {
       "Datum": "2025-05-12",
+      "Zeit": "18.00 - 19.30 Uhr",
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": "Bautzner Landstraße",
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-05-12",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
@@ -235,6 +265,16 @@
     },
     {
       "Datum": "2025-05-19",
+      "Zeit": "18.00 - 19.30 Uhr",
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": "Bautzner Landstraße",
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-05-19",
       "Zeit": "18.00 - 19.00 Uhr",
       "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine und den Völkermord in Gaza. Kampf der Weltkriegsgefahr! ",
       "Ort": "Prager Straße",
@@ -262,6 +302,16 @@
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-05-26",
+      "Zeit": "18.00 - 19.30 Uhr",
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": "Bautzner Landstraße",
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-05-26",
@@ -315,6 +365,16 @@
     },
     {
       "Datum": "2025-06-02",
+      "Zeit": "18.00 - 19.30 Uhr",
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": "Bautzner Landstraße",
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-06-02",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
@@ -345,6 +405,16 @@
     },
     {
       "Datum": "2025-06-09",
+      "Zeit": "18.00 - 19.30 Uhr",
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": "Bautzner Landstraße",
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-06-09",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
@@ -362,6 +432,16 @@
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-06-16",
+      "Zeit": "18.00 - 19.30 Uhr",
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": "Bautzner Landstraße",
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-06-16",
@@ -405,6 +485,16 @@
     },
     {
       "Datum": "2025-06-23",
+      "Zeit": "18.00 - 19.30 Uhr",
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": "Bautzner Landstraße",
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-06-23",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
@@ -422,6 +512,16 @@
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-06-30",
+      "Zeit": "18.00 - 19.30 Uhr",
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": "Bautzner Landstraße",
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-06-30",
