@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-04-29",
+  "Dateidatum": "2025-04-30",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -95,13 +95,13 @@
     },
     {
       "Datum": "2025-05-02",
-      "Zeit": null,
+      "Zeit": "16.00 - 18.00 Uhr",
       "Thema": "Kunst für mehr Teilhabe",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Brühlscher Garten",
       "Teilnehmer": "40",
       "Veranstalter": "farbwerk e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-05-03",
