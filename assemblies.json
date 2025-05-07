@@ -35,31 +35,41 @@
     },
     {
       "Datum": "2025-05-08",
-      "Zeit": null,
+      "Zeit": "18.00 - 20.30 Uhr",
       "Thema": "80 Jahre Befreiung - Wer nicht feiert, hat verloren!",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Alaunpark",
       "Teilnehmer": "200",
       "Veranstalter": "Linksjugend Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-05-09",
-      "Zeit": null,
+      "Zeit": "17.30 - 18.30 Uhr",
       "Thema": "Friedliche Beileidsbekundung in Solidarität mit den Opfern des Terroranschlags in Pahalgam Indien.",
-      "Ort": null,
+      "Ort": "Postplatz",
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "Indian Association Dresden e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-05-09",
+      "Zeit": "18.00 - 20.30 Uhr",
+      "Thema": "Stille Gedenkversammlung/Solidaritätskundgebung mit unseren Angehörigen in Syrien, NEIN zur ethnisch-konfessionellen Säuberung.",
+      "Ort": "Alaunplatz",
+      "Startpunkt": null,
+      "Teilnehmer": "75",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-05-09",
       "Zeit": null,
-      "Thema": "Stille Gedenkversammlung/Solidaritätskundgebung mit unseren Angehörigen in Syrien, NEIN zur ethnisch-konfessionellen Säuberung.",
+      "Thema": "European Peace Project",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "75",
+      "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -96,12 +106,22 @@
     {
       "Datum": "2025-05-11",
       "Zeit": null,
-      "Thema": "Liegenddemo Dresden: Pflege -Forschung-Engagement-ein bisschen reicht nicht!",
+      "Thema": "Es ist 5 nach 12 - AfD-Verbot jetzt! ",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-05-11",
+      "Zeit": "14.00 - 15.00 Uhr",
+      "Thema": "Liegenddemo Dresden: Pflege -Forschung-Engagement-ein bisschen reicht nicht!",
+      "Ort": null,
+      "Startpunkt": "Neumarkt",
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-05-12",
@@ -151,6 +171,16 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "Bündnis für Pflege Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-05-15",
+      "Zeit": null,
+      "Thema": "Bildung am Limit!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "700",
+      "Veranstalter": "GEW Sachsen",
       "Status": "angemeldet"
     },
     {
