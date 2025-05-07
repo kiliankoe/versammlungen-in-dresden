@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-05-06",
+  "Dateidatum": "2025-05-07",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -15,23 +15,23 @@
   "Versammlungen": [
     {
       "Datum": "2025-05-07",
-      "Zeit": null,
+      "Zeit": "12.00 - 16.00 Uhr",
       "Thema": "Studierendenwerke ausfinanzieren - Soziale Rahmenbedingungen für Bildungsgerechtigkeit ",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Fritz-Foerster-Platz",
       "Teilnehmer": "500",
       "Veranstalter": "Studierendenrat der TU Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-05-07",
-      "Zeit": null,
+      "Zeit": "15.00 - 17.30 Uhr",
       "Thema": "Gegen Rechtsextremismus",
-      "Ort": null,
+      "Ort": "Meißner Landstraße",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-05-08",
@@ -41,6 +41,26 @@
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "Linksjugend Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-05-09",
+      "Zeit": null,
+      "Thema": "Friedliche Beileidsbekundung in Solidarität mit den Opfern des Terroranschlags in Pahalgam Indien.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "Indian Association Dresden e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-05-09",
+      "Zeit": null,
+      "Thema": "Stille Gedenkversammlung/Solidaritätskundgebung mit unseren Angehörigen in Syrien, NEIN zur ethnisch-konfessionellen Säuberung.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "75",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -60,6 +80,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "15.000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-05-10",
+      "Zeit": null,
+      "Thema": "Rundgang: Dresden im Faschismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
