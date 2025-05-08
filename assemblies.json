@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-05-07",
+  "Dateidatum": "2025-05-08",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-05-07",
-      "Zeit": "12.00 - 16.00 Uhr",
-      "Thema": "Studierendenwerke ausfinanzieren - Soziale Rahmenbedingungen für Bildungsgerechtigkeit ",
-      "Ort": null,
-      "Startpunkt": "Fritz-Foerster-Platz",
-      "Teilnehmer": "500",
-      "Veranstalter": "Studierendenrat der TU Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-05-07",
-      "Zeit": "15.00 - 17.30 Uhr",
-      "Thema": "Gegen Rechtsextremismus",
-      "Ort": "Meißner Landstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "15",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-05-08",
       "Zeit": "18.00 - 20.30 Uhr",
@@ -202,6 +182,16 @@
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e.V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-05-17",
+      "Zeit": null,
+      "Thema": "Bunt auf der Bühne - grau im Gesetz",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Jusos Dresden",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-05-19",
