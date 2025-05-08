@@ -31,7 +31,7 @@
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "Indian Association Dresden e. V.",
-      "Status": "beschieden"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2025-05-09",
@@ -45,43 +45,33 @@
     },
     {
       "Datum": "2025-05-09",
-      "Zeit": null,
+      "Zeit": "16.30 - 18.00 Uhr",
       "Thema": "European Peace Project",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-05-09",
-      "Zeit": null,
+      "Zeit": "18.00 - 20.00 Uhr",
       "Thema": "Europatag der Europäischen Union - Europa stärken !",
-      "Ort": null,
+      "Ort": "Friedrich-Wieck-Straße",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Initiative weltoffenes Loschwitz e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-05-10",
-      "Zeit": null,
+      "Zeit": "14.00 - 21.00 Uhr",
       "Thema": "Tolerade 2025",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Schlesischer Platz ",
       "Teilnehmer": "15.000",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-05-10",
-      "Zeit": null,
-      "Thema": "Rundgang: Dresden im Faschismus",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Veranstalter": "Tolerave e. V.",
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-05-11",
@@ -146,6 +136,16 @@
     {
       "Datum": "2025-05-12",
       "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu-Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-05-12",
+      "Zeit": null,
       "Thema": "Gesundheit statt Profite",
       "Ort": null,
       "Startpunkt": null,
@@ -170,7 +170,7 @@
       "Ort": "Altmarkt",
       "Startpunkt": null,
       "Teilnehmer": "12",
-      "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
       "Status": "beschieden"
     },
     {
