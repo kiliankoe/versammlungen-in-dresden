@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-05-09",
+  "Dateidatum": "2025-05-10",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,56 +14,6 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2025-05-09",
-      "Zeit": "17.30 - 18.30 Uhr",
-      "Thema": "Friedliche Beileidsbekundung in Solidarität mit den Opfern des Terroranschlags in Pahalgam Indien.",
-      "Ort": "Postplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "200",
-      "Veranstalter": "Indian Association Dresden e. V.",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-05-09",
-      "Zeit": "18.00 - 20.30 Uhr",
-      "Thema": "Stille Gedenkversammlung/Solidaritätskundgebung mit unseren Angehörigen in Syrien, NEIN zur ethnisch-konfessionellen Säuberung.",
-      "Ort": "Alaunplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "75",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-05-09",
-      "Zeit": "16.30 - 18.00 Uhr",
-      "Thema": "European Peace Project",
-      "Ort": "Neumarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-05-09",
-      "Zeit": "18.00 - 20.00 Uhr",
-      "Thema": "Europatag der Europäischen Union - Europa stärken !",
-      "Ort": "Friedrich-Wieck-Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "Initiative weltoffenes Loschwitz e.V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-05-09",
-      "Zeit": null,
-      "Thema": "Für freie Meinungsäußerung an der Universität: Vortrag 'Zeitenwende und Faschisierung'",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
       "Datum": "2025-05-10",
       "Zeit": "14.00 - 21.00 Uhr",
       "Thema": "Tolerade 2025",
@@ -75,13 +25,13 @@
     },
     {
       "Datum": "2025-05-11",
-      "Zeit": null,
+      "Zeit": "12.05 - 14.45 Uhr",
       "Thema": "Es ist 5 nach 12 - AfD-Verbot jetzt! ",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Schloßplatz",
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-05-11",
@@ -125,13 +75,13 @@
     },
     {
       "Datum": "2025-05-12",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Wer schweigt stimmt zu-Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-05-12",
@@ -141,6 +91,16 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "Bündnis für Pflege Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-05-15",
+      "Zeit": null,
+      "Thema": "77 Jahre Nakba. 77 Jahre Vertreibung. Nein zum Genozid in Gaza und Freiheit mit Palästina. ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -182,6 +142,16 @@
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e.V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-05-17",
+      "Zeit": null,
+      "Thema": "Kundgebung: Internationaler Tag gegen Queerfeindichkeit 'Still here and queer - Queere Rechte verteidigen!'",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "Gerede e. V.",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-05-17",
@@ -244,6 +214,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2025-05-24",
+      "Zeit": null,
+      "Thema": "Zukunftsgespräche",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-05-26",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -291,6 +271,16 @@
       "Startpunkt": null,
       "Teilnehmer": "500/Aufzg: 10000",
       "Veranstalter": "CSD Dresden e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-05-29",
+      "Zeit": null,
+      "Thema": "Familie im Fokus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "SPD Dresden Striesen",
       "Status": "angemeldet"
     },
     {
