@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-05-10",
+  "Dateidatum": "2025-05-11",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-05-10",
-      "Zeit": "14.00 - 21.00 Uhr",
-      "Thema": "Tolerade 2025",
-      "Ort": null,
-      "Startpunkt": "Schlesischer Platz ",
-      "Teilnehmer": "15.000",
-      "Veranstalter": "Tolerave e. V.",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-05-11",
       "Zeit": "12.05 - 14.45 Uhr",
