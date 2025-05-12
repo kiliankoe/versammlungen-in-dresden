@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-05-11",
+  "Dateidatum": "2025-05-12",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-05-11",
-      "Zeit": "12.05 - 14.45 Uhr",
-      "Thema": "Es ist 5 nach 12 - AfD-Verbot jetzt! ",
-      "Ort": null,
-      "Startpunkt": "Schloßplatz",
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-05-11",
-      "Zeit": "14.00 - 15.00 Uhr",
-      "Thema": "Liegenddemo Dresden: Pflege -Forschung-Engagement-ein bisschen reicht nicht!",
-      "Ort": null,
-      "Startpunkt": "Neumarkt",
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-05-12",
       "Zeit": "18.00 - 19.30 Uhr",
