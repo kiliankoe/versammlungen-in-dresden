@@ -35,13 +35,13 @@
     },
     {
       "Datum": "2025-05-15",
-      "Zeit": null,
+      "Zeit": "17.30 - 19.30 Uhr",
       "Thema": "Bildung am Limit!",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Postplatz",
       "Teilnehmer": "700",
       "Veranstalter": "GEW Sachsen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-05-17",
@@ -66,7 +66,7 @@
     {
       "Datum": "2025-05-17",
       "Zeit": null,
-      "Thema": "Kundgebung: Internationaler Tag gegen Queerfeindichkeit 'Still here and queer - Queere Rechte verteidigen!'",
+      "Thema": "Kundgebung: Internationaler Tag gegen Queerfeindichkeit - Still here and queer - Queere Rechte verteidigen!",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "200",
@@ -75,13 +75,13 @@
     },
     {
       "Datum": "2025-05-17",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.00 Uhr",
       "Thema": "Bunt auf der Bühne - grau im Gesetz",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Kamenzer Straße",
       "Teilnehmer": "50",
       "Veranstalter": "Jusos Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-05-19",
@@ -145,13 +145,13 @@
     },
     {
       "Datum": "2025-05-24",
-      "Zeit": null,
+      "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "Zukunftsgespräche",
-      "Ort": null,
+      "Ort": "Wilsdruffer Straße",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-05-26",
