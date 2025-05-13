@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-05-12",
+  "Dateidatum": "2025-05-13",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,56 +14,6 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2025-05-12",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-05-12",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-05-12",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Fred stellt sich in den Weg",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "50",
-      "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-05-12",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Wer schweigt stimmt zu-Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "200",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-05-12",
-      "Zeit": null,
-      "Thema": "Gesundheit statt Profite",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "300",
-      "Veranstalter": "Bündnis für Pflege Dresden",
-      "Status": "angemeldet"
-    },
-    {
       "Datum": "2025-05-15",
       "Zeit": null,
       "Thema": "77 Jahre Nakba. 77 Jahre Vertreibung. Nein zum Genozid in Gaza und Freiheit mit Palästina. ",
@@ -75,13 +25,13 @@
     },
     {
       "Datum": "2025-05-15",
-      "Zeit": null,
+      "Zeit": "16.00 - 18.00 Uhr",
       "Thema": "Mahnwache der OMAS GEGEN RECHTS.DRESDEN für Frieden - gegen Krieg und Gewalt überall",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "8",
       "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-05-15",
@@ -184,6 +134,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2025-05-21",
+      "Zeit": null,
+      "Thema": "Theater und Orchester kosten Geld! ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "Theater Plauen-Zwickau gGmbH ",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-05-24",
       "Zeit": null,
       "Thema": "Zukunftsgespräche",
@@ -239,7 +199,7 @@
       "Thema": "32. Christopher Street Day Dresden 2025",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "500/Aufzg: 10000",
+      "Teilnehmer": "500",
       "Veranstalter": "CSD Dresden e. V.",
       "Status": "angemeldet"
     },
@@ -259,7 +219,7 @@
       "Thema": "32. Christopher Street Day Dresden 2025",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "500/Aufzg: 10000",
+      "Teilnehmer": "500",
       "Veranstalter": "CSD Dresden e. V.",
       "Status": "angemeldet"
     },
@@ -269,7 +229,17 @@
       "Thema": "32. Christopher Street Day Dresden 2025",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "500/Aufzg: 10000",
+      "Teilnehmer": "500",
+      "Veranstalter": "CSD Dresden e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-05-31",
+      "Zeit": null,
+      "Thema": "32. Christopher Street Day Dresden 2025",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10000",
       "Veranstalter": "CSD Dresden e. V.",
       "Status": "angemeldet"
     },
@@ -282,6 +252,16 @@
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-06-01",
+      "Zeit": null,
+      "Thema": "Demonstration in Solidarität mit dem kubanischen Volk, für die Freilassung aller politischen Gefangenen in Kuba",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "40",
+      "Veranstalter": "PatriaYVida e. V.",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-06-02",
@@ -545,6 +525,16 @@
     },
     {
       "Datum": "2025-08-04",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-08-11",
       "Zeit": null,
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
