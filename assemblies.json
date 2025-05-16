@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-05-15",
+  "Dateidatum": "2025-05-16",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,36 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-05-15",
-      "Zeit": "15.00 - 19.00 Uhr",
-      "Thema": "77 Jahre Nakba. 77 Jahre Vertreibung. Nein zum Genozid in Gaza und Freiheit mit Palästina. ",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-05-15",
-      "Zeit": "16.00 - 18.00 Uhr",
-      "Thema": "Mahnwache der OMAS GEGEN RECHTS.DRESDEN für Frieden - gegen Krieg und Gewalt überall",
-      "Ort": "Neumarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "8",
-      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-05-15",
-      "Zeit": "17.30 - 19.30 Uhr",
-      "Thema": "Bildung am Limit!",
-      "Ort": null,
-      "Startpunkt": "Postplatz",
-      "Teilnehmer": "700",
-      "Veranstalter": "GEW Sachsen",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-05-17",
       "Zeit": "13.30 - 18.30 Uhr",
@@ -134,6 +104,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2025-05-19",
+      "Zeit": null,
+      "Thema": "Schulen am Limit  - Maßnahmenpaket stoppen!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Mittagspausenaktion – Gewerkschaftsgruppe des GDP",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-05-21",
       "Zeit": null,
       "Thema": "Theater und Orchester kosten Geld! ",
@@ -141,6 +121,16 @@
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "Theater Plauen-Zwickau gGmbH ",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-05-22",
+      "Zeit": null,
+      "Thema": "Schluss mit dem Stillstand – endlich sichere Radwege am Pauliberg!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "ADFC Dresden e.V. ",
       "Status": "angemeldet"
     },
     {
@@ -205,13 +195,13 @@
     },
     {
       "Datum": "2025-05-29",
-      "Zeit": null,
+      "Zeit": "10.00 - 16.00 Uhr",
       "Thema": "Familie im Fokus",
-      "Ort": null,
+      "Ort": "Friedensplatz",
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "SPD Dresden Striesen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-05-30",
@@ -255,13 +245,13 @@
     },
     {
       "Datum": "2025-06-01",
-      "Zeit": null,
+      "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "Demonstration in Solidarität mit dem kubanischen Volk, für die Freilassung aller politischen Gefangenen in Kuba",
-      "Ort": null,
+      "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
       "Teilnehmer": "40",
       "Veranstalter": "PatriaYVida e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-06-02",
