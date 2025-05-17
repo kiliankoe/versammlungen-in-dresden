@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-05-16",
+  "Dateidatum": "2025-05-17",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -27,7 +27,7 @@
       "Datum": "2025-05-17",
       "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "Tierrechte & Veganismus",
-      "Ort": "Wiener Platz",
+      "Ort": "Schloßplatz",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e.V.",
@@ -95,23 +95,23 @@
     },
     {
       "Datum": "2025-05-19",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.30 Uhr",
       "Thema": "Wer schweigt, stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-05-19",
-      "Zeit": null,
+      "Zeit": "15.15 - 16.15 Uhr",
       "Thema": "Schulen am Limit  - Maßnahmenpaket stoppen!",
-      "Ort": null,
+      "Ort": "F.-C.-Weiskopf-Platz",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Mittagspausenaktion – Gewerkschaftsgruppe des GDP",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-05-21",
@@ -120,7 +120,7 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "500",
-      "Veranstalter": "Theater Plauen-Zwickau gGmbH ",
+      "Veranstalter": "Theater Plauen-Zwickau gGmbH",
       "Status": "angemeldet"
     },
     {
