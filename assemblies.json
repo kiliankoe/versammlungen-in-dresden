@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-05-19",
+  "Dateidatum": "2025-05-20",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,66 +14,6 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2025-05-19",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-05-19",
-      "Zeit": "18.00 - 19.00 Uhr",
-      "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine und den Völkermord in Gaza. Kampf der Weltkriegsgefahr! ",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "Demokratische Montagsaktion/ Montag Tag des Widerstands/Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-05-19",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-05-19",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Fred stellt sich in den Weg",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "50",
-      "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-05-19",
-      "Zeit": "19.00 - 20.30 Uhr",
-      "Thema": "Wer schweigt, stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "200",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-05-19",
-      "Zeit": "15.15 - 16.15 Uhr",
-      "Thema": "Schulen am Limit  - Maßnahmenpaket stoppen!",
-      "Ort": "F.-C.-Weiskopf-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "Mittagspausenaktion – Gewerkschaftsgruppe des GDP",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2025-05-21",
       "Zeit": null,
       "Thema": "Theater und Orchester kosten Geld! ",
@@ -85,13 +25,13 @@
     },
     {
       "Datum": "2025-05-22",
-      "Zeit": null,
+      "Zeit": "11.00 - 11.10 Uhr",
       "Thema": "Schluss mit dem Stillstand – endlich sichere Radwege am Pauliberg!",
-      "Ort": null,
+      "Ort": "Radeburger Straße ",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "ADFC Dresden e.V. ",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-05-24",
@@ -202,6 +142,16 @@
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-05-31",
+      "Zeit": null,
+      "Thema": "Stille Demo - Leid der Stadttauben",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Stadttauben-Initiative Dresden e. V.",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-06-01",
@@ -495,6 +445,16 @@
     },
     {
       "Datum": "2025-08-11",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-08-18",
       "Zeit": null,
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
