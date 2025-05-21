@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-05-20",
+  "Dateidatum": "2025-05-21",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -15,13 +15,13 @@
   "Versammlungen": [
     {
       "Datum": "2025-05-21",
-      "Zeit": null,
+      "Zeit": "09.00 - 14.00 Uhr",
       "Thema": "Theater und Orchester kosten Geld! ",
-      "Ort": null,
+      "Ort": "Bernhard-von-Lindenau-Platz ",
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "Theater Plauen-Zwickau gGmbH",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-05-22",
