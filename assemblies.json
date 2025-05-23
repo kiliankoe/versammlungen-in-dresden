@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-05-22",
+  "Dateidatum": "2025-05-23",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-05-22",
-      "Zeit": "11.00 - 11.10 Uhr",
-      "Thema": "Schluss mit dem Stillstand – endlich sichere Radwege am Pauliberg!",
-      "Ort": "Radeburger Straße ",
-      "Startpunkt": null,
-      "Teilnehmer": "15",
-      "Veranstalter": "ADFC Dresden e.V. ",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-05-24",
       "Zeit": "14.00 - 17.00 Uhr",
@@ -155,13 +145,13 @@
     },
     {
       "Datum": "2025-05-31",
-      "Zeit": null,
+      "Zeit": "14.00 - 18.00 Uhr",
       "Thema": "Stille Demo - Leid der Stadttauben",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Stadttauben-Initiative Dresden e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-05-31",
