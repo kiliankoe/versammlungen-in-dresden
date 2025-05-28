@@ -45,13 +45,13 @@
     },
     {
       "Datum": "2025-05-30",
-      "Zeit": null,
+      "Zeit": "12.00 - 16.00 Uhr",
       "Thema": "Freie Sachsen unterstützen den Protest gegen Windkraft! Unser Trauti pustet die Windräder aus!",
-      "Ort": null,
+      "Ort": "Bernhardt-von-Lindenau-Platz",
       "Startpunkt": null,
       "Teilnehmer": "10 bis 30",
       "Veranstalter": "Partei FREIE SACHSEN",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-05-30",
@@ -95,23 +95,23 @@
     },
     {
       "Datum": "2025-05-31",
-      "Zeit": null,
+      "Zeit": "09.30 - 13.00 Uhr",
       "Thema": "Wir sind das bunte Hinterland - alle zusammen gegen rechte Einschüchterungsversuche!",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Jahnstraße",
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-05-31",
-      "Zeit": null,
+      "Zeit": "10.00 - 18.00 Uhr",
       "Thema": "Jugend ohne Identitätsstörung ",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Jahnstraße",
       "Teilnehmer": "100",
       "Veranstalter": "Heimat ",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-05-31",
@@ -175,23 +175,13 @@
     },
     {
       "Datum": "2025-06-02",
-      "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "200",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-06-02",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.30 Uhr",
       "Thema": "Wer schweigt stimmt zu-Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-06-07",
