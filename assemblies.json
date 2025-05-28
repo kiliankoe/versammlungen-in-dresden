@@ -15,13 +15,13 @@
   "Versammlungen": [
     {
       "Datum": "2025-05-29",
-      "Zeit": null,
+      "Zeit": "ab 07.00 Uhr",
       "Thema": "32. Christopher Street Day Dresden 2025",
-      "Ort": null,
+      "Ort": "Altmarkt",
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "CSD Dresden e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-05-29",
@@ -35,13 +35,13 @@
     },
     {
       "Datum": "2025-05-30",
-      "Zeit": null,
+      "Zeit": "ganztägig",
       "Thema": "32. Christopher Street Day Dresden 2025",
-      "Ort": null,
+      "Ort": "Altmarkt",
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "CSD Dresden e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-05-30",
@@ -65,13 +65,13 @@
     },
     {
       "Datum": "2025-05-31",
-      "Zeit": null,
+      "Zeit": "bis 01.00 Uhr",
       "Thema": "32. Christopher Street Day Dresden 2025",
-      "Ort": null,
+      "Ort": "Altmarkt",
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "CSD Dresden e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-05-31",
@@ -144,6 +144,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2025-06-01",
+      "Zeit": "14.00 - 16.00 Uhr",
+      "Thema": "National Animal Rights Day",
+      "Ort": "Schloßplatz",
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Activists for the Victims e.V.",
+      "Status": "beschieden"
+    },
+    {
       "Datum": "2025-06-02",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -171,6 +181,16 @@
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-06-02",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
       "Status": "beschieden"
     },
     {
