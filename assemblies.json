@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-05-27",
+  "Dateidatum": "2025-05-28",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -55,13 +55,13 @@
     },
     {
       "Datum": "2025-05-30",
-      "Zeit": null,
+      "Zeit": "13.00 - 15.00 Uhr",
       "Thema": "Großdemo gegen Windkraftanlagen in Sachsen",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bernhardt-von-Lindenau-Platz",
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-05-31",
@@ -75,13 +75,13 @@
     },
     {
       "Datum": "2025-05-31",
-      "Zeit": null,
+      "Zeit": "12.00 - 16.00 Uhr",
       "Thema": "32. Christopher Street Day Dresden 2025",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Altmarkt",
       "Teilnehmer": "10000",
       "Veranstalter": "CSD Dresden e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-05-31",
@@ -92,6 +92,16 @@
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-05-31",
+      "Zeit": null,
+      "Thema": "Wir sind das bunte Hinterland - alle zusammen gegen rechte Einschüchterungsversuche!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-05-31",
@@ -145,13 +155,13 @@
     },
     {
       "Datum": "2025-06-02",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.00 Uhr",
       "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine und den Völkermord in Gaza. Kampf der Weltkriegsgefahr! ",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Demokratische Montagsaktion/ Montag Tag des Widerstands/Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-06-02",
@@ -167,6 +177,16 @@
       "Datum": "2025-06-02",
       "Zeit": null,
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-06-02",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu-Zeit für Bürgerverantwortung",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "200",
@@ -255,13 +275,13 @@
     },
     {
       "Datum": "2025-06-16",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.00 Uhr",
       "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine und den Völkermord in Gaza. Kampf der Weltkriegsgefahr! ",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Demokratische Montagsaktion/ Montag Tag des Widerstands/Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-06-16",
@@ -365,13 +385,13 @@
     },
     {
       "Datum": "2025-06-30",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.00 Uhr",
       "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine und den Völkermord in Gaza. Kampf der Weltkriegsgefahr! ",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Demokratische Montagsaktion/ Montag Tag des Widerstands/Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-06-30",
@@ -405,13 +425,13 @@
     },
     {
       "Datum": "2025-07-14",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.00 Uhr",
       "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine und den Völkermord in Gaza. Kampf der Weltkriegsgefahr! ",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Demokratische Montagsaktion/ Montag Tag des Widerstands/Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-07-14",
@@ -435,13 +455,13 @@
     },
     {
       "Datum": "2025-07-28",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.00 Uhr",
       "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine und den Völkermord in Gaza. Kampf der Weltkriegsgefahr! ",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Demokratische Montagsaktion/ Montag Tag des Widerstands/Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-07-28",
