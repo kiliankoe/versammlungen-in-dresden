@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-05-29",
+  "Dateidatum": "2025-05-30",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -21,16 +21,6 @@
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "CSD Dresden e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-05-29",
-      "Zeit": "10.00 - 16.00 Uhr",
-      "Thema": "Familie im Fokus",
-      "Ort": "Friedensplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "100",
-      "Veranstalter": "SPD Dresden Striesen",
       "Status": "beschieden"
     },
     {
