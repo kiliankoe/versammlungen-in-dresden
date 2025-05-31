@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-05-30",
+  "Dateidatum": "2025-05-31",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -31,26 +31,6 @@
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "CSD Dresden e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-05-30",
-      "Zeit": "12.00 - 16.00 Uhr",
-      "Thema": "Freie Sachsen unterstützen den Protest gegen Windkraft! Unser Trauti pustet die Windräder aus!",
-      "Ort": "Bernhardt-von-Lindenau-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "10 bis 30",
-      "Veranstalter": "Partei FREIE SACHSEN",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-05-30",
-      "Zeit": "13.00 - 15.00 Uhr",
-      "Thema": "Großdemo gegen Windkraftanlagen in Sachsen",
-      "Ort": null,
-      "Startpunkt": "Bernhardt-von-Lindenau-Platz",
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
       "Status": "beschieden"
     },
     {
