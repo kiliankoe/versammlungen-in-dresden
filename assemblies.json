@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-05-31",
+  "Dateidatum": "2025-06-01",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,96 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-05-29",
-      "Zeit": "ab 07.00 Uhr",
-      "Thema": "32. Christopher Street Day Dresden 2025",
-      "Ort": "Altmarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "500",
-      "Veranstalter": "CSD Dresden e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-05-30",
-      "Zeit": "ganztägig",
-      "Thema": "32. Christopher Street Day Dresden 2025",
-      "Ort": "Altmarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "500",
-      "Veranstalter": "CSD Dresden e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-05-31",
-      "Zeit": "bis 01.00 Uhr",
-      "Thema": "32. Christopher Street Day Dresden 2025",
-      "Ort": "Altmarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "500",
-      "Veranstalter": "CSD Dresden e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-05-31",
-      "Zeit": "12.00 - 16.00 Uhr",
-      "Thema": "32. Christopher Street Day Dresden 2025",
-      "Ort": null,
-      "Startpunkt": "Altmarkt",
-      "Teilnehmer": "10000",
-      "Veranstalter": "CSD Dresden e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-05-31",
-      "Zeit": "13.30 - 18.30 Uhr",
-      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
-      "Ort": "Altmarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "12",
-      "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-05-31",
-      "Zeit": "09.30 - 13.00 Uhr",
-      "Thema": "Wir sind das bunte Hinterland - alle zusammen gegen rechte Einschüchterungsversuche!",
-      "Ort": null,
-      "Startpunkt": "Jahnstraße",
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-05-31",
-      "Zeit": "10.00 - 18.00 Uhr",
-      "Thema": "Jugend ohne Identitätsstörung ",
-      "Ort": null,
-      "Startpunkt": "Jahnstraße",
-      "Teilnehmer": "100",
-      "Veranstalter": "Heimat ",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-05-31",
-      "Zeit": "14.00 - 18.00 Uhr",
-      "Thema": "Stille Demo - Leid der Stadttauben",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "Stadttauben-Initiative Dresden e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-05-31",
-      "Zeit": "14.00 - 17.00 Uhr",
-      "Thema": "Kundgebung anlässlich des Welthurentages",
-      "Ort": "Prager Straße ",
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "SISTERS - für den Ausstieg aus der Prostitution! e. V.",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-06-01",
       "Zeit": "14.00 - 17.00 Uhr",
