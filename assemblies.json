@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-06-02",
+  "Dateidatum": "2025-06-03",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,54 +14,44 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2025-06-02",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
+      "Datum": "2025-06-05",
+      "Zeit": null,
+      "Thema": "Kibo bleibt - alle anderen auch! Kürzungen verhindern",
       "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-06-02",
-      "Zeit": "18.00 - 19.00 Uhr",
-      "Thema": "Tag des Widerstands, gegen Hartz IV, Rassismus, Nationalismus und Faschismus. Aktiver Widerstand gegen jede imperialistische Aggression. Stopp den Krieg in der Ukraine und den Völkermord in Gaza. Kampf der Weltkriegsgefahr! ",
-      "Ort": "Prager Straße",
       "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "Demokratische Montagsaktion/ Montag Tag des Widerstands/Dresden",
-      "Status": "beschieden"
+      "Teilnehmer": "150",
+      "Veranstalter": "Bündnis gegen Kürzungen",
+      "Status": "angemeldet"
     },
     {
-      "Datum": "2025-06-02",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
+      "Datum": "2025-06-05",
+      "Zeit": null,
+      "Thema": "Neue Chance Carolabrücke - Platz für Menschen statt teure Autobahn!  Neustadt-Zubringer",
+      "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "20",
+      "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Status": "angemeldet"
     },
     {
-      "Datum": "2025-06-02",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Fred stellt sich in den Weg",
+      "Datum": "2025-06-05",
+      "Zeit": null,
+      "Thema": "Fahrradzubringer zur Demo 'Neue Chance Carolabrücke - Platz für Menschen, statt teure Autobahn', ab TU Dresden",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "50",
-      "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "beschieden"
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
-      "Datum": "2025-06-02",
-      "Zeit": "19.00 - 20.30 Uhr",
-      "Thema": "Wer schweigt stimmt zu-Zeit für Bürgerverantwortung",
+      "Datum": "2025-06-05",
+      "Zeit": null,
+      "Thema": "Neue Chance Carolabrücke – Platz für Menschen, statt teure Autobahn",
       "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "200",
+      "Startpunkt": null,
+      "Teilnehmer": "400",
       "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-06-07",
@@ -82,6 +72,16 @@
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-06-07",
+      "Zeit": null,
+      "Thema": "Protest gegen russischen Terror, Beschuss von Zivilisten, Explosion des Wasserkraftwerks K ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "Zentrum für Demokratieentwicklung",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-06-07",
@@ -381,6 +381,26 @@
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-09-01",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-09-01",
+      "Zeit": null,
+      "Thema": "Dresden.Respekt: Interkulturelles Gastmahl auf der Hauptstraße zur Demonstration von Vielfalt und Weltoffenheit, Dialog und Respekt",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "4.000",
+      "Veranstalter": "CSD Dresden e. V. & Cellex-Stiftung",
       "Status": "angemeldet"
     }
   ]
