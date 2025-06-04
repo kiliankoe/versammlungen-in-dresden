@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-06-03",
+  "Dateidatum": "2025-06-04",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -15,18 +15,18 @@
   "Versammlungen": [
     {
       "Datum": "2025-06-05",
-      "Zeit": null,
+      "Zeit": "16.00 - 19.00 Uhr",
       "Thema": "Kibo bleibt - alle anderen auch! Kürzungen verhindern",
-      "Ort": null,
+      "Ort": "Rathausplatz",
       "Startpunkt": null,
       "Teilnehmer": "150",
       "Veranstalter": "Bündnis gegen Kürzungen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-06-05",
       "Zeit": null,
-      "Thema": "Neue Chance Carolabrücke - Platz für Menschen statt teure Autobahn!  Neustadt-Zubringer",
+      "Thema": "Neue Chance Carolabrücke - Platz für Menschen statt teure Autobahn!  (Neustadt-Zubringer)",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "100",
@@ -36,7 +36,7 @@
     {
       "Datum": "2025-06-05",
       "Zeit": null,
-      "Thema": "Fahrradzubringer zur Demo 'Neue Chance Carolabrücke - Platz für Menschen, statt teure Autobahn', ab TU Dresden",
+      "Thema": "Fahrradzubringer zur Demo 'Neue Chance Carolabrücke - Platz für Menschen, statt teure Autobahn' (ab TU Dresden)",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "50",
@@ -45,13 +45,13 @@
     },
     {
       "Datum": "2025-06-05",
-      "Zeit": null,
+      "Zeit": "17.00 - 18.15 Uhr",
       "Thema": "Neue Chance Carolabrücke – Platz für Menschen, statt teure Autobahn",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Steinstraße/Terrassenufer",
       "Teilnehmer": "400",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-06-07",
@@ -124,6 +124,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2025-06-09",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-06-14",
       "Zeit": "13.30 - 18.30 Uhr",
       "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
@@ -171,6 +181,16 @@
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-06-16",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
       "Status": "angemeldet"
     },
     {
@@ -234,6 +254,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2025-06-23",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-06-28",
       "Zeit": "13.30 - 18.30 Uhr",
       "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
@@ -281,6 +311,26 @@
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-06-30",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-07-01",
+      "Zeit": null,
+      "Thema": "Gedenkkundgebung anlässlich der Ermordung von Marwa El-Sherbini",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Ausländerrat Dresden e. V.",
       "Status": "angemeldet"
     },
     {
