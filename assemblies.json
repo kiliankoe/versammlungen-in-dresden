@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-06-04",
+  "Dateidatum": "2025-06-05",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -25,23 +25,23 @@
     },
     {
       "Datum": "2025-06-05",
-      "Zeit": null,
+      "Zeit": "16.00 - 17.00 Uhr",
       "Thema": "Neue Chance Carolabrücke - Platz für Menschen statt teure Autobahn!  (Neustadt-Zubringer)",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Alaunplatz",
       "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-06-05",
-      "Zeit": null,
+      "Zeit": "16.30 - 17.00 Uhr",
       "Thema": "Fahrradzubringer zur Demo 'Neue Chance Carolabrücke - Platz für Menschen, statt teure Autobahn' (ab TU Dresden)",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Fritz-Foerster-Platz",
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-06-05",
@@ -101,7 +101,7 @@
       "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2025-06-09",
@@ -115,22 +115,22 @@
     },
     {
       "Datum": "2025-06-09",
-      "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "200",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Startpunkt": "Wilsdruffer Straße",
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-06-09",
       "Zeit": null,
-      "Thema": "Fred stellt sich in den Weg",
+      "Thema": "Wer schweigt, stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "FreddielinkeSocke_official",
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -142,6 +142,16 @@
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-06-14",
+      "Zeit": null,
+      "Thema": "Menschenrechte gelten für alle - Stoppt den Genozid in Gaza",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-06-16",
@@ -185,22 +195,32 @@
     },
     {
       "Datum": "2025-06-16",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-06-17",
+      "Zeit": null,
+      "Thema": "Kranzniederlegung zum Jahrestag des Volksaufstands am 17. Juni",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
-      "Datum": "2025-06-21",
+      "Datum": "2025-06-20",
       "Zeit": null,
-      "Thema": "Queer Pride Dresden",
+      "Thema": "Mit der Poolnudel zum Bad, ganz einfach mit dem Rad - Für sicheren Fahrradverkehr: 1,5 m Abstand beim Überholen",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "2000",
-      "Veranstalter": "Queer Pride Dresden",
+      "Teilnehmer": "20",
+      "Veranstalter": "Allgemeiner Deutscher Fahrrad Club (ADFC) Dresden e. V.",
       "Status": "angemeldet"
     },
     {
@@ -222,6 +242,16 @@
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-06-21",
+      "Zeit": null,
+      "Thema": "Queer Pride Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2000",
+      "Veranstalter": "Queer Pride Dresden",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-06-23",
@@ -255,13 +285,13 @@
     },
     {
       "Datum": "2025-06-23",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-06-28",
@@ -315,13 +345,13 @@
     },
     {
       "Datum": "2025-06-30",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-07-01",
