@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-06-05",
+  "Dateidatum": "2025-06-06",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,46 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-06-05",
-      "Zeit": "16.00 - 19.00 Uhr",
-      "Thema": "Kibo bleibt - alle anderen auch! Kürzungen verhindern",
-      "Ort": "Rathausplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "150",
-      "Veranstalter": "Bündnis gegen Kürzungen",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-06-05",
-      "Zeit": "16.00 - 17.00 Uhr",
-      "Thema": "Neue Chance Carolabrücke - Platz für Menschen statt teure Autobahn!  (Neustadt-Zubringer)",
-      "Ort": null,
-      "Startpunkt": "Alaunplatz",
-      "Teilnehmer": "100",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-06-05",
-      "Zeit": "16.30 - 17.00 Uhr",
-      "Thema": "Fahrradzubringer zur Demo 'Neue Chance Carolabrücke - Platz für Menschen, statt teure Autobahn' (ab TU Dresden)",
-      "Ort": null,
-      "Startpunkt": "Fritz-Foerster-Platz",
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-06-05",
-      "Zeit": "17.00 - 18.15 Uhr",
-      "Thema": "Neue Chance Carolabrücke – Platz für Menschen, statt teure Autobahn",
-      "Ort": null,
-      "Startpunkt": "Steinstraße/Terrassenufer",
-      "Teilnehmer": "400",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-06-07",
       "Zeit": "11.00 - 18.00 Uhr",
@@ -75,13 +35,13 @@
     },
     {
       "Datum": "2025-06-07",
-      "Zeit": null,
+      "Zeit": "13.00 - 15.30 Uhr",
       "Thema": "Protest gegen russischen Terror, Beschuss von Zivilisten, Explosion des Wasserkraftwerks K ",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "Zentrum für Demokratieentwicklung",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-06-07",
@@ -125,12 +85,22 @@
     },
     {
       "Datum": "2025-06-09",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.30 Uhr",
       "Thema": "Wer schweigt, stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-06-10",
+      "Zeit": null,
+      "Thema": "Übergabe eines Offenen Briefes",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Arbeiterwohlfahrt Landesverband Sachsen e. V.",
       "Status": "angemeldet"
     },
     {
@@ -302,6 +272,16 @@
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-06-28",
+      "Zeit": null,
+      "Thema": "'Freiheit statt scheinbarer Sicherheit - Demokratie verteidigen' - Senkung der Auflagen und Kosten für Veranstaltungen im öffentlichen Raum",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-06-30",
