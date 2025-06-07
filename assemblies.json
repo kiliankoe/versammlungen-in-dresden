@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-06-06",
+  "Dateidatum": "2025-06-07",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -95,13 +95,13 @@
     },
     {
       "Datum": "2025-06-10",
-      "Zeit": null,
+      "Zeit": "09.30 - 10.30 Uhr",
       "Thema": "Übergabe eines Offenen Briefes",
-      "Ort": null,
+      "Ort": "Bernhard-von-Lindenau-Platz",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "Arbeiterwohlfahrt Landesverband Sachsen e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-06-14",
@@ -371,6 +371,16 @@
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-07-18",
+      "Zeit": null,
+      "Thema": "Rüstungsexporte stoppen!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "Initiative: Dresden Stadt des Friedens!",
       "Status": "angemeldet"
     },
     {
