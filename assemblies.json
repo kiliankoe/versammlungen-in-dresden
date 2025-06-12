@@ -34,6 +34,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2025-06-14",
+      "Zeit": null,
+      "Thema": "Ist Reiten moralisch vertretbar?",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "5",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-06-15",
       "Zeit": "15.00 - 17.00 Uhr",
       "Thema": "Kundgebung: Stoppt den Völkermord in Gaza! & Solidaridaritätsbekundung mit dem Global March to Gaza, dem Sumud Konvoi und der Freedom Flotilla",
@@ -95,23 +105,33 @@
     },
     {
       "Datum": "2025-06-17",
-      "Zeit": null,
+      "Zeit": "08.00 - 08.30 Uhr",
       "Thema": "Kranzniederlegung zum Jahrestag des Volksaufstands am 17. Juni",
-      "Ort": null,
+      "Ort": "Marienstraße",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-06-19",
+      "Zeit": null,
+      "Thema": "Mahnwache der OMAS GEGEN RECHTS.DRESDEN für Frieden - gegen Krieg und Gewalt überall",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "8",
+      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
       "Status": "angemeldet"
     },
     {
       "Datum": "2025-06-20",
-      "Zeit": null,
+      "Zeit": "16.40 - 18.30 Uhr",
       "Thema": "Mit der Poolnudel zum Bad, ganz einfach mit dem Rad - Für sicheren Fahrradverkehr: 1,5 m Abstand beim Überholen",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bonhoefferplatz",
       "Teilnehmer": "20",
       "Veranstalter": "Allgemeiner Deutscher Fahrrad Club (ADFC) Dresden e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-06-21",
@@ -141,6 +161,16 @@
       "Startpunkt": null,
       "Teilnehmer": "2000",
       "Veranstalter": "Queer Pride Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-06-21",
+      "Zeit": null,
+      "Thema": "Zubringerdemo zur Queer Pride (queer & antifascist – unsere Brücken halten!)",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
