@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-06-13",
+  "Dateidatum": "2025-06-14",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -35,13 +35,13 @@
     },
     {
       "Datum": "2025-06-14",
-      "Zeit": null,
+      "Zeit": "14.00 - 16.00 Uhr",
       "Thema": "Ist Reiten moralisch vertretbar?",
-      "Ort": null,
+      "Ort": "Neustädter Markt",
       "Startpunkt": null,
       "Teilnehmer": "5",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-06-15",
@@ -95,13 +95,13 @@
     },
     {
       "Datum": "2025-06-16",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.30 Uhr",
       "Thema": "Wer schweigt, stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-06-17",
@@ -115,13 +115,13 @@
     },
     {
       "Datum": "2025-06-19",
-      "Zeit": null,
+      "Zeit": "16.00 - 18.00 Uhr",
       "Thema": "Mahnwache der OMAS GEGEN RECHTS.DRESDEN für Frieden - gegen Krieg und Gewalt überall",
-      "Ort": null,
+      "Ort": "Kleine Kirchgasse",
       "Startpunkt": null,
       "Teilnehmer": "8",
       "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-06-20",
@@ -212,6 +212,26 @@
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-06-24",
+      "Zeit": null,
+      "Thema": "Kürzungen? Nicht mit uns!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "SDS.DieLinke",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-06-25",
+      "Zeit": null,
+      "Thema": "Unsere Zukunft kaputt sparen? Nicht mit uns!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "Studierendenrat der TU Dresden",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-06-28",
