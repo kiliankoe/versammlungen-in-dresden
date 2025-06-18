@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-06-17",
+  "Dateidatum": "2025-06-18",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,32 +14,22 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2025-06-17",
-      "Zeit": "08.00 - 08.30 Uhr",
-      "Thema": "Kranzniederlegung zum Jahrestag des Volksaufstands am 17. Juni",
-      "Ort": "Marienstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "15",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2025-06-19",
       "Zeit": null,
-      "Thema": null,
+      "Thema": "Bildung am Boden – Maßnahmenpaket stoppen!",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "150",
+      "Teilnehmer": "50",
       "Veranstalter": "Lehrkräfte am Limit",
       "Status": "angemeldet"
     },
     {
       "Datum": "2025-06-19",
       "Zeit": null,
-      "Thema": null,
+      "Thema": "Bildung am Boden – Maßnahmenpaket stoppen!",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "150",
+      "Teilnehmer": "50",
       "Veranstalter": "Lehrkräfte am Limit",
       "Status": "angemeldet"
     },
@@ -62,6 +52,16 @@
       "Teilnehmer": "20",
       "Veranstalter": "Allgemeiner Deutscher Fahrrad Club (ADFC) Dresden e. V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-06-20",
+      "Zeit": null,
+      "Thema": "Dresden Stadt des Friedens - Kriegsindustrie raus aus Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Initiative Dresden Stadt des Friedens",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-06-21",
@@ -135,16 +135,6 @@
     },
     {
       "Datum": "2025-06-23",
-      "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "200",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-06-23",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
@@ -152,6 +142,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-06-23",
+      "Zeit": null,
+      "Thema": "Wer schweigt, stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-06-24",
@@ -254,6 +254,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2025-07-05",
+      "Zeit": null,
+      "Thema": "Tierrechte & Veganismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Activists for the Victims e. V.",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-07-07",
       "Zeit": null,
       "Thema": "Bühlau geht spazieren",
@@ -270,6 +280,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-07-12",
+      "Zeit": null,
+      "Thema": "Nein zum Genozid. Freiheit für Palästina",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -314,6 +334,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2025-07-19",
+      "Zeit": null,
+      "Thema": "Tierrechte & Veganismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Activists for the Victims e. V.",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-07-21",
       "Zeit": null,
       "Thema": "Bühlau geht spazieren",
@@ -364,6 +394,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2025-08-02",
+      "Zeit": null,
+      "Thema": "Tierrechte & Veganismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Activists for the Victims e. V.",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-08-04",
       "Zeit": null,
       "Thema": "Bühlau geht spazieren",
@@ -401,6 +441,16 @@
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-08-16",
+      "Zeit": null,
+      "Thema": "Tierrechte & Veganismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Activists for the Victims e. V.",
       "Status": "angemeldet"
     },
     {
@@ -461,6 +511,16 @@
       "Startpunkt": null,
       "Teilnehmer": "4.000",
       "Veranstalter": "CSD Dresden e. V. & Cellex-Stiftung",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-09-06",
+      "Zeit": null,
+      "Thema": "Tierrechte & Veganismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Activists for the Victims e. V.",
       "Status": "angemeldet"
     },
     {
