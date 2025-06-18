@@ -15,23 +15,23 @@
   "Versammlungen": [
     {
       "Datum": "2025-06-19",
-      "Zeit": null,
+      "Zeit": "16.30 - 17.00 Uhr",
       "Thema": "Bildung am Boden – Maßnahmenpaket stoppen!",
-      "Ort": null,
+      "Ort": "Köpckestraße",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "Lehrkräfte am Limit",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-06-19",
-      "Zeit": null,
+      "Zeit": "17.30 - 18.00 Uhr",
       "Thema": "Bildung am Boden – Maßnahmenpaket stoppen!",
-      "Ort": null,
+      "Ort": "Wilsdruffer Straße",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "Lehrkräfte am Limit",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-06-19",
@@ -55,13 +55,13 @@
     },
     {
       "Datum": "2025-06-20",
-      "Zeit": null,
+      "Zeit": "15.00 - 17.00 Uhr",
       "Thema": "Dresden Stadt des Friedens - Kriegsindustrie raus aus Dresden",
-      "Ort": null,
+      "Ort": "Dr.-Külz-Ring",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Initiative Dresden Stadt des Friedens",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-06-21",
@@ -85,33 +85,33 @@
     },
     {
       "Datum": "2025-06-21",
-      "Zeit": null,
+      "Zeit": "14.00 - 18.00 Uhr",
       "Thema": "Queer Pride Dresden",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Altmarkt",
       "Teilnehmer": "2000",
       "Veranstalter": "Queer Pride Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-06-21",
-      "Zeit": null,
+      "Zeit": "13.00 - 14.00 Uhr",
       "Thema": "Zubringerdemo zur Queer Pride (queer & antifascist – unsere Brücken halten!)",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Winer Platz",
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-06-21",
-      "Zeit": null,
+      "Zeit": "09.00 - 15.00 Uhr",
       "Thema": "Kernkraft? Anschalten!",
-      "Ort": null,
+      "Ort": "Ostra-Allee",
       "Startpunkt": null,
       "Teilnehmer": "8",
       "Veranstalter": "Nuklearia e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-06-23",
@@ -155,13 +155,13 @@
     },
     {
       "Datum": "2025-06-24",
-      "Zeit": null,
+      "Zeit": "10.00 - 14.00 Uhr",
       "Thema": "Kürzungen? Nicht mit uns!",
-      "Ort": null,
+      "Ort": "Mommsenstraße",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "SDS.DieLinke",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-06-25",
