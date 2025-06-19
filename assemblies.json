@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-06-18",
+  "Dateidatum": "2025-06-19",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -182,6 +182,16 @@
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-06-28",
+      "Zeit": null,
+      "Thema": "Erhalt der christlichen Werte in unserer Gesellschaft",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Mennoniten-Brüder-Gemeinde Brakel e. V.",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-06-28",
