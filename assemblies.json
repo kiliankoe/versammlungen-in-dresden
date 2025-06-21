@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-06-20",
+  "Dateidatum": "2025-06-21",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-06-20",
-      "Zeit": "16.40 - 18.30 Uhr",
-      "Thema": "Mit der Poolnudel zum Bad, ganz einfach mit dem Rad - Für sicheren Fahrradverkehr: 1,5 m Abstand beim Überholen",
-      "Ort": null,
-      "Startpunkt": "Bonhoefferplatz",
-      "Teilnehmer": "20",
-      "Veranstalter": "Allgemeiner Deutscher Fahrrad Club (ADFC) Dresden e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-06-20",
-      "Zeit": "15.00 - 17.00 Uhr",
-      "Thema": "Dresden Stadt des Friedens - Kriegsindustrie raus aus Dresden",
-      "Ort": "Dr.-Külz-Ring",
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "Initiative Dresden Stadt des Friedens",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-06-21",
       "Zeit": "15.00 - 18.00 Uhr",
@@ -145,13 +125,13 @@
     },
     {
       "Datum": "2025-06-25",
-      "Zeit": null,
+      "Zeit": "17.10 - 21.00 Uhr",
       "Thema": "Unsere Zukunft kaputt sparen? Nicht mit uns!",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Fritz-Foerster-Platz",
       "Teilnehmer": "500",
       "Veranstalter": "Studierendenrat der TU Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-06-28",
@@ -245,13 +225,13 @@
     },
     {
       "Datum": "2025-07-07",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-07-07",
@@ -275,13 +255,13 @@
     },
     {
       "Datum": "2025-07-14",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-07-14",
@@ -325,13 +305,13 @@
     },
     {
       "Datum": "2025-07-21",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-07-21",
@@ -345,13 +325,13 @@
     },
     {
       "Datum": "2025-07-28",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-07-28",
@@ -385,13 +365,13 @@
     },
     {
       "Datum": "2025-08-04",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-08-04",
@@ -404,14 +384,54 @@
       "Status": "angemeldet"
     },
     {
-      "Datum": "2025-08-11",
+      "Datum": "2025-08-06",
       "Zeit": null,
-      "Thema": "Bühlau geht spazieren",
+      "Thema": "Abschaffung von Atomwaffen. Anlass der Mahnwache sind die Atombombenabwürfe auf Hiroshima  ",
       "Ort": null,
       "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "AG Frieden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-08-07",
+      "Zeit": null,
+      "Thema": "Abschaffung von Atomwaffen. Anlass der Mahnwache sind die Atombombenabwürfe auf Hiroshima  ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "AG Frieden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-08-08",
+      "Zeit": null,
+      "Thema": "Abschaffung von Atomwaffen. Anlass der Mahnwache sind die Atombombenabwürfe auf Hiroshima  ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "AG Frieden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-08-09",
+      "Zeit": null,
+      "Thema": "Abschaffung von Atomwaffen. Anlass der Mahnwache sind die Atombombenabwürfe auf Hiroshima  ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "AG Frieden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-08-11",
+      "Zeit": "18.00 - 19.30 Uhr",
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-08-11",
@@ -435,13 +455,13 @@
     },
     {
       "Datum": "2025-08-18",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-08-18",
@@ -455,13 +475,13 @@
     },
     {
       "Datum": "2025-08-25",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-08-25",
