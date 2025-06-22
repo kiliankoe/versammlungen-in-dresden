@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-06-21",
+  "Dateidatum": "2025-06-22",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,56 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-06-21",
-      "Zeit": "15.00 - 18.00 Uhr",
-      "Thema": "Tierrechte & Veganismus",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "15",
-      "Veranstalter": "Activists for the Victims e.V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-06-21",
-      "Zeit": "13.30 - 18.30 Uhr",
-      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
-      "Ort": "Altmarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "12",
-      "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-06-21",
-      "Zeit": "14.00 - 18.00 Uhr",
-      "Thema": "Queer Pride Dresden",
-      "Ort": null,
-      "Startpunkt": "Altmarkt",
-      "Teilnehmer": "2000",
-      "Veranstalter": "Queer Pride Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-06-21",
-      "Zeit": "13.00 - 14.00 Uhr",
-      "Thema": "Zubringerdemo zur Queer Pride (queer & antifascist – unsere Brücken halten!)",
-      "Ort": null,
-      "Startpunkt": "Winer Platz",
-      "Teilnehmer": "200",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-06-21",
-      "Zeit": "09.00 - 15.00 Uhr",
-      "Thema": "Kernkraft? Anschalten!",
-      "Ort": "Ostra-Allee",
-      "Startpunkt": null,
-      "Teilnehmer": "8",
-      "Veranstalter": "Nuklearia e.V.",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-06-23",
       "Zeit": "18.00 - 19.30 Uhr",
@@ -541,6 +491,16 @@
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-09-20",
+      "Zeit": null,
+      "Thema": "Tierrechte & Veganismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Activists for the Victims e. V.",
       "Status": "angemeldet"
     }
   ]
