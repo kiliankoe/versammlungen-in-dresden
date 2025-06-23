@@ -25,6 +25,16 @@
     },
     {
       "Datum": "2025-06-23",
+      "Zeit": "18.00 - 19.00 Uhr",
+      "Thema": "Kampf der Weltkriegsgefahr! US- Angriff auf den Iran ver-schärft Weltkriegsgefahr! Aktiver Widerstand gegen Krieg und Faschismus jetzt und Solidarität mit Gaza!",
+      "Ort": "Prager Straße",
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Demokratische Montagsaktion/ Montag Tag des Widerstands/Dresden",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-06-23",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
@@ -55,13 +65,13 @@
     },
     {
       "Datum": "2025-06-23",
-      "Zeit": null,
+      "Zeit": "16.00 - 17.30 Uhr",
       "Thema": "Freiheit ohne Merkel",
-      "Ort": null,
+      "Ort": "Dr.-Külz-Ring",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-06-24",
@@ -92,6 +102,16 @@
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-06-28",
+      "Zeit": null,
+      "Thema": "Erhalt der christlichen Werte in unserer Gesellschaft",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Mennoniten-Brüder-Gemeinde Brakel e. V.",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-06-28",
@@ -491,6 +511,16 @@
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-09-19",
+      "Zeit": null,
+      "Thema": "Park(ing) Day 2025 - Platz für Menschen statt für Autos, Zusammenleben in Löbtau",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "Allgemeiner Deutscher Fahrrad Club (ADFC) Dresden e. V.",
       "Status": "angemeldet"
     },
     {
