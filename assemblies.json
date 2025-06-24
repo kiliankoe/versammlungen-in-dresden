@@ -15,6 +15,16 @@
   "Versammlungen": [
     {
       "Datum": "2025-06-24",
+      "Zeit": null,
+      "Thema": "Humanitäre Inititative zum Stopp von neuer Welle von Hinrichtungen im Iran",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-06-24",
       "Zeit": "10.00 - 14.00 Uhr",
       "Thema": "Kürzungen? Nicht mit uns!",
       "Ort": "Mommsenstraße",
@@ -32,6 +42,16 @@
       "Teilnehmer": "500",
       "Veranstalter": "Studierendenrat der TU Dresden",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-06-25",
+      "Zeit": null,
+      "Thema": "Trauer um die Alte Mensa – Gegen Kürzungen im sächsischen Landeshaushalt!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "350",
+      "Veranstalter": "Jusos Dresden",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-06-28",
@@ -131,6 +151,26 @@
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-07-05",
+      "Zeit": null,
+      "Thema": "Brass statt Hass",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "250",
+      "Veranstalter": "Seebrücke Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-07-06",
+      "Zeit": null,
+      "Thema": "Brass statt Hass",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "250",
+      "Veranstalter": "Seebrücke Dresden",
       "Status": "angemeldet"
     },
     {
