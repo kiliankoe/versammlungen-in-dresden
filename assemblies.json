@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-06-25",
+  "Dateidatum": "2025-06-26",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,34 +14,14 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2025-06-25",
-      "Zeit": "17.10 - 21.00 Uhr",
-      "Thema": "Unsere Zukunft kaputt sparen? Nicht mit uns!",
-      "Ort": null,
-      "Startpunkt": "Fritz-Foerster-Platz",
-      "Teilnehmer": "500",
-      "Veranstalter": "Studierendenrat der TU Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-06-25",
-      "Zeit": "17.00 - 17.30 Uhr",
-      "Thema": "Trauer um die Alte Mensa – Gegen Kürzungen im sächsischen Landeshaushalt!",
-      "Ort": null,
-      "Startpunkt": "Mommsenstraße",
-      "Teilnehmer": "350",
-      "Veranstalter": "Jusos Dresden",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2025-06-27",
-      "Zeit": null,
+      "Zeit": "09.00 - 19.00 Uhr",
       "Thema": "Humanitäre Inititative zum Stopp von neuer Welle von Hinrichtungen im Iran",
-      "Ort": null,
+      "Ort": "Devrientstraße",
       "Startpunkt": null,
       "Teilnehmer": "2",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-06-28",
@@ -145,13 +125,13 @@
     },
     {
       "Datum": "2025-07-05",
-      "Zeit": null,
+      "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "Tierrechte & Veganismus",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-07-05",
@@ -245,13 +225,13 @@
     },
     {
       "Datum": "2025-07-19",
-      "Zeit": null,
+      "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "Tierrechte & Veganismus",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-07-21",
@@ -305,13 +285,13 @@
     },
     {
       "Datum": "2025-08-02",
-      "Zeit": null,
+      "Zeit": "14.00 - 18.00 Uhr",
       "Thema": "Tierrechte & Veganismus",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-08-04",
@@ -395,13 +375,13 @@
     },
     {
       "Datum": "2025-08-16",
-      "Zeit": null,
+      "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "Tierrechte & Veganismus",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-08-18",
@@ -465,13 +445,13 @@
     },
     {
       "Datum": "2025-09-06",
-      "Zeit": null,
+      "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "Tierrechte & Veganismus",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-09-08",
@@ -505,13 +485,13 @@
     },
     {
       "Datum": "2025-09-20",
-      "Zeit": null,
+      "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "Tierrechte & Veganismus",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-09-22",
