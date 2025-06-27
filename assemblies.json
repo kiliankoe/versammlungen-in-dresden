@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-06-26",
+  "Dateidatum": "2025-06-27",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -35,23 +35,23 @@
     },
     {
       "Datum": "2025-06-28",
-      "Zeit": null,
+      "Zeit": "18.30 - 20.30 Uhr",
       "Thema": "Gedenken an die Opfer des Terroranschlags auf die Kirche St. Elias in Damaskus (Syrien), bei den mehrere christlichen Gläubigen ums Leben gekommen sind. Wir möchten gemeinsam in Stille und Gebet an sie erinnern.",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
-      "Teilnehmer": "50 - 100",
+      "Teilnehmer": "150 - 200",
       "Veranstalter": "Antiochenisch-Orthodoxe Metropolie von Deutschland und Mitteleuropa, Gemeinde St. Michael in Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-06-28",
-      "Zeit": null,
+      "Zeit": "11.00 - 15.00 Uhr",
       "Thema": "Erhalt der christlichen Werte in unserer Gesellschaft",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Mennoniten-Brüder-Gemeinde Brakel e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-06-28",
