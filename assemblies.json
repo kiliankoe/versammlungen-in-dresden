@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-06-29",
+  "Dateidatum": "2025-06-30",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -75,13 +75,13 @@
     },
     {
       "Datum": "2025-07-02",
-      "Zeit": null,
+      "Zeit": "17.00 - 20.00 Uhr",
       "Thema": "Tierleid und Klimakrise stoppen!",
-      "Ort": null,
+      "Ort": "Antonstraße",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Greenpeace Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-07-05",
