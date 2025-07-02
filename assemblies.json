@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-07-01",
+  "Dateidatum": "2025-07-02",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-07-01",
-      "Zeit": "17.00 - 18.00 Uhr",
-      "Thema": "Gedenkkundgebung anlässlich der Ermordung von Marwa El-Sherbini",
-      "Ort": "Marwa-El-Sherbini-Park",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "Ausländerrat Dresden e. V.",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-07-02",
       "Zeit": "17.00 - 20.00 Uhr",
@@ -61,7 +51,7 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "Stadtteilhaus Dresden-Äußere Neustadt e. V.",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2025-07-06",
@@ -86,22 +76,42 @@
     {
       "Datum": "2025-07-07",
       "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "200",
-      "Veranstalter": "natürliche Person",
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
       "Status": "angemeldet"
     },
     {
-      "Datum": "2025-07-12",
+      "Datum": "2025-07-07",
       "Zeit": null,
-      "Thema": "Nein zum Genozid. Freiheit für Palästina",
+      "Thema": "Wer schweigt, stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-07-07",
+      "Zeit": null,
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-07-12",
+      "Zeit": "15.00 - 18.00 Uhr",
+      "Thema": "Nein zum Genozid. Freiheit für Palästina",
+      "Ort": null,
+      "Startpunkt": "Wiener Platz",
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-07-14",
@@ -130,6 +140,26 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-07-14",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-07-14",
+      "Zeit": null,
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -174,6 +204,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2025-07-21",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-07-28",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -201,6 +241,16 @@
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-07-28",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
       "Status": "angemeldet"
     },
     {
