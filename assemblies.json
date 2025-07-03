@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-07-02",
+  "Dateidatum": "2025-07-03",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,16 +14,6 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2025-07-02",
-      "Zeit": "17.00 - 20.00 Uhr",
-      "Thema": "Tierleid und Klimakrise stoppen!",
-      "Ort": "Antonstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "Greenpeace Dresden",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2025-07-05",
       "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "Tierrechte & Veganismus",
@@ -35,12 +25,22 @@
     },
     {
       "Datum": "2025-07-05",
-      "Zeit": null,
+      "Zeit": "12.00 - 13.45 Uhr",
       "Thema": "Brass statt Hass",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bönischplatz",
       "Teilnehmer": "250",
       "Veranstalter": "Seebrücke Dresden",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-07-05",
+      "Zeit": null,
+      "Thema": "Von den Dörfern bis zur Stadt - alle haben Nazis satt - LandStadtBrass gegen Hass",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "colorido e. V.",
       "Status": "angemeldet"
     },
     {
@@ -55,13 +55,13 @@
     },
     {
       "Datum": "2025-07-06",
-      "Zeit": null,
+      "Zeit": "12.00 - 13.25 Uhr",
       "Thema": "Brass statt Hass",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Riesaer Straße",
       "Teilnehmer": "250",
       "Veranstalter": "Seebrücke Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-07-07",
@@ -101,6 +101,16 @@
       "Startpunkt": null,
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-07-12",
+      "Zeit": null,
+      "Thema": "Gedenken an Herbert Wehner",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "SPD - Ortsverein Striesen Blasewitz Gruna",
       "Status": "angemeldet"
     },
     {
@@ -165,13 +175,13 @@
     },
     {
       "Datum": "2025-07-18",
-      "Zeit": null,
+      "Zeit": "15.00 - 17.00 Uhr",
       "Thema": "Rüstungsexporte stoppen!",
-      "Ort": null,
+      "Ort": "Dr.-Külz-Ring",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "Initiative: Dresden Stadt des Friedens!",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-07-19",
