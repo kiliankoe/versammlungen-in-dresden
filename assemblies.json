@@ -36,22 +36,22 @@
     {
       "Datum": "2025-07-05",
       "Zeit": null,
-      "Thema": "Von den Dörfern bis zur Stadt - alle haben Nazis satt - LandStadtBrass gegen Hass",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "500",
-      "Veranstalter": "colorido e. V.",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-07-05",
-      "Zeit": null,
       "Thema": "Urban Brassbands gegen Rechts mit anschließendem Umzug im Rahmen des Brazzcalation",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "Stadtteilhaus Dresden-Äußere Neustadt e. V.",
       "Status": "abgemeldet"
+    },
+    {
+      "Datum": "2025-07-05",
+      "Zeit": "12.00 - 15.00 Uhr",
+      "Thema": "Von den Dörfern bis zur Stadt - alle haben Nazis satt - LandStadtBrass gegen Hass",
+      "Ort": null,
+      "Startpunkt": "Alaunstraße",
+      "Teilnehmer": "500",
+      "Veranstalter": "colorido e. V.",
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-07-06",
@@ -95,13 +95,13 @@
     },
     {
       "Datum": "2025-07-07",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": null,
+      "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-07-12",
