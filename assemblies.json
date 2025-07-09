@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-07-08",
+  "Dateidatum": "2025-07-09",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-07-08",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Remigration JETZT! Sachsen wird zur NoGo Area für kriminelle Migranten!",
-      "Ort": null,
-      "Startpunkt": "Altleuben",
-      "Teilnehmer": "100",
-      "Veranstalter": "Freie Sachsen",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-07-08",
-      "Zeit": "18.45 - 21.00 Uhr",
-      "Thema": "Fred stellt sich der Elblandrevolte und Freien Sucksen in den Weg",
-      "Ort": null,
-      "Startpunkt": "Altleuben",
-      "Teilnehmer": "50",
-      "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-07-10",
       "Zeit": null,
@@ -95,16 +75,6 @@
     },
     {
       "Datum": "2025-07-14",
-      "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "200",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-07-14",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
@@ -112,6 +82,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-07-14",
+      "Zeit": null,
+      "Thema": "Wer schweigt, stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-07-14",
@@ -142,6 +122,16 @@
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e. V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-07-19",
+      "Zeit": null,
+      "Thema": "Galerie der Aufklärung (Themen: Corona/-maßnhahmen, -politik; Wirksamkeit, Schäden, Konsequenzen)",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-07-20",
