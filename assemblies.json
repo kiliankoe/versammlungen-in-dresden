@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-07-09",
+  "Dateidatum": "2025-07-10",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -15,13 +15,13 @@
   "Versammlungen": [
     {
       "Datum": "2025-07-10",
-      "Zeit": null,
+      "Zeit": "15.00 - 16.30 Uhr",
       "Thema": "Protest gegen die Aussetzung des Familiennachzugs für subsidär Schutzberechtigte",
-      "Ort": null,
+      "Ort": "Bernhard-von-Lindenau-Platz",
       "Startpunkt": null,
       "Teilnehmer": "150",
-      "Veranstalter": "Fauaz Al Jomaa Alomar",
-      "Status": "angemeldet"
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-07-12",
@@ -126,7 +126,7 @@
     {
       "Datum": "2025-07-19",
       "Zeit": null,
-      "Thema": "Galerie der Aufklärung (Themen: Corona/-maßnhahmen, -politik; Wirksamkeit, Schäden, Konsequenzen)",
+      "Thema": "Galerie der Aufklärung",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "15",
@@ -182,6 +182,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-07-26",
+      "Zeit": null,
+      "Thema": "Gute Nachricht für Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "60",
+      "Veranstalter": "Evangelische Allianz Dresden",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-07-26",
@@ -246,11 +256,31 @@
     {
       "Datum": "2025-07-28",
       "Zeit": null,
+      "Thema": "Gute Nachricht für Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "60",
+      "Veranstalter": "Evangelische Allianz Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-07-28",
+      "Zeit": null,
       "Thema": "Werte unserer Verfassung, wo sind sie geblieben?",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "Run the race e.V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-07-29",
+      "Zeit": null,
+      "Thema": "Gute Nachricht für Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "60",
+      "Veranstalter": "Evangelische Allianz Dresden",
       "Status": "angemeldet"
     },
     {
