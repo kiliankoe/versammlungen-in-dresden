@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-07-11",
+  "Dateidatum": "2025-07-12",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -105,13 +105,13 @@
     },
     {
       "Datum": "2025-07-17",
-      "Zeit": null,
+      "Zeit": "16.00 - 18.00 Uhr",
       "Thema": "Mahnwache der OMAS GEGEN RECHTS.DRESDEN für Frieden - gegen Krieg und Gewalt überall",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "8",
       "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-07-18",
@@ -375,33 +375,33 @@
     },
     {
       "Datum": "2025-08-06",
-      "Zeit": null,
+      "Zeit": "08.00 - 22.00 Uhr",
       "Thema": "Abschaffung von Atomwaffen. Anlass der Mahnwache sind die Atombombenabwürfe auf Hiroshima  ",
-      "Ort": null,
+      "Ort": "Kreuzstraße im Bereich nördlich der Kreuzkirche ",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "AG Frieden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-08-07",
-      "Zeit": null,
+      "Zeit": "08.00 - 22.00 Uhr",
       "Thema": "Abschaffung von Atomwaffen. Anlass der Mahnwache sind die Atombombenabwürfe auf Hiroshima  ",
-      "Ort": null,
+      "Ort": "Kreuzstraße ",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "AG Frieden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-08-08",
-      "Zeit": null,
+      "Zeit": "08.00 - 22.00 Uhr",
       "Thema": "Abschaffung von Atomwaffen. Anlass der Mahnwache sind die Atombombenabwürfe auf Hiroshima  ",
-      "Ort": null,
+      "Ort": "Kreuzstraße",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "AG Frieden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-08-09",
@@ -415,13 +415,13 @@
     },
     {
       "Datum": "2025-08-09",
-      "Zeit": null,
+      "Zeit": "08.00 - 22.00 Uhr",
       "Thema": "Abschaffung von Atomwaffen. Anlass der Mahnwache sind die Atombombenabwürfe auf Hiroshima  ",
-      "Ort": null,
+      "Ort": "Kreuzstraße",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "AG Frieden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-08-11",
