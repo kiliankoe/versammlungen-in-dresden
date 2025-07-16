@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-07-15",
+  "Dateidatum": "2025-07-16",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -102,6 +102,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-07-21",
+      "Zeit": null,
+      "Thema": "Wer schweigt, stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "60",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-07-21",
