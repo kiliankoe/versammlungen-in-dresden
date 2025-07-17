@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-07-16",
+  "Dateidatum": "2025-07-17",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -34,6 +34,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2025-07-18",
+      "Zeit": null,
+      "Thema": "Solidarität mit den Drusen in Syrien - gegen Gewalt und Menschenrechtsverletzungen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "75",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-07-19",
       "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "Tierrechte & Veganismus",
@@ -55,13 +65,13 @@
     },
     {
       "Datum": "2025-07-19",
-      "Zeit": null,
+      "Zeit": "14.00 - 19.00 Uhr",
       "Thema": "Galerie der Aufklärung",
-      "Ort": null,
+      "Ort": "An der Frauenkirche",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-07-20",
@@ -95,13 +105,13 @@
     },
     {
       "Datum": "2025-07-21",
-      "Zeit": null,
+      "Zeit": "18.30 - 20.00 Uhr",
       "Thema": "Wer schweigt, stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
+      "Ort": "Wilsdruffer Straße",
       "Startpunkt": null,
       "Teilnehmer": "60",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-07-21",
@@ -115,13 +125,13 @@
     },
     {
       "Datum": "2025-07-23",
-      "Zeit": null,
+      "Zeit": "18.30 - 20.00 Uhr",
       "Thema": "Solidarität mit der Ukraine",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-07-26",
@@ -442,6 +452,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-08-18",
+      "Zeit": null,
+      "Thema": "81. Jahrestag der Ermordung Ernst Thälmann",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-08-23",
