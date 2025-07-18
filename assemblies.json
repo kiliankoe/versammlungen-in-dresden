@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-07-17",
+  "Dateidatum": "2025-07-18",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,16 +14,6 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2025-07-17",
-      "Zeit": "16.00 - 18.00 Uhr",
-      "Thema": "Mahnwache der OMAS GEGEN RECHTS.DRESDEN für Frieden - gegen Krieg und Gewalt überall",
-      "Ort": "Neumarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "8",
-      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2025-07-18",
       "Zeit": "15.00 - 17.00 Uhr",
       "Thema": "Rüstungsexporte stoppen!",
@@ -35,13 +25,13 @@
     },
     {
       "Datum": "2025-07-18",
-      "Zeit": null,
+      "Zeit": "18.00 - 20.00 Uhr",
       "Thema": "Solidarität mit den Drusen in Syrien - gegen Gewalt und Menschenrechtsverletzungen",
-      "Ort": null,
+      "Ort": "Wilsdruffer Straße",
       "Startpunkt": null,
       "Teilnehmer": "75",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-07-19",
@@ -75,13 +65,13 @@
     },
     {
       "Datum": "2025-07-20",
-      "Zeit": null,
+      "Zeit": "10.00 - 21.00 Uhr",
       "Thema": "Kreuzungsbereich Kamenzerstraße/Bischofsweg autofrei",
-      "Ort": null,
+      "Ort": "Bischofsweg",
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-07-21",
@@ -415,13 +405,13 @@
     },
     {
       "Datum": "2025-08-17",
-      "Zeit": null,
+      "Zeit": "12.00 - 20.00 Uhr",
       "Thema": "Fight Fast Fashion ",
-      "Ort": null,
+      "Ort": "Alaunplatz",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "Greenpeace Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-08-18",
