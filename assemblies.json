@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-07-24",
+  "Dateidatum": "2025-07-25",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -75,13 +75,13 @@
     },
     {
       "Datum": "2025-07-28",
-      "Zeit": null,
+      "Zeit": "18.30 - 21.00 Uhr",
       "Thema": "Wer schweigt, stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
+      "Ort": "Wilsdruffer Straße",
       "Startpunkt": null,
       "Teilnehmer": "70",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-07-28",
@@ -285,13 +285,13 @@
     },
     {
       "Datum": "2025-08-12",
-      "Zeit": null,
+      "Zeit": "14.00 - 19.00 Uhr",
       "Thema": "Christliche Werte für unsere Gesellschaft ",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "European Initiative e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-08-16",
@@ -360,7 +360,7 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "30",
-      "Veranstalter": "natürliche Person",
+      "Veranstalter": "Deutsche Kommunistische Partei (DKP)",
       "Status": "angemeldet"
     },
     {
