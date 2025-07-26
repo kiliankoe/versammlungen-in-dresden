@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-07-25",
+  "Dateidatum": "2025-07-26",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -15,13 +15,13 @@
   "Versammlungen": [
     {
       "Datum": "2025-07-26",
-      "Zeit": null,
+      "Zeit": "15.00 - 17.30 Uhr",
       "Thema": "Gute Nachricht für Dresden",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "60",
       "Veranstalter": "Evangelische Allianz Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-07-26",
@@ -30,7 +30,7 @@
       "Ort": "Altmarkt",
       "Startpunkt": null,
       "Teilnehmer": "12",
-      "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
       "Status": "beschieden"
     },
     {
@@ -40,7 +40,7 @@
       "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "50",
-      "Veranstalter": "Run the race e.V.",
+      "Veranstalter": "Run the race e. V.",
       "Status": "beschieden"
     },
     {
@@ -95,13 +95,13 @@
     },
     {
       "Datum": "2025-07-28",
-      "Zeit": null,
+      "Zeit": "15.00 - 17.30 Uhr",
       "Thema": "Gute Nachricht für Dresden",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "60",
       "Veranstalter": "Evangelische Allianz Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-07-28",
@@ -115,13 +115,13 @@
     },
     {
       "Datum": "2025-07-29",
-      "Zeit": null,
+      "Zeit": "15.00 - 17.30 Uhr",
       "Thema": "Gute Nachricht für Dresden",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "60",
       "Veranstalter": "Evangelische Allianz Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-07-29",
@@ -444,6 +444,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2025-09-01",
+      "Zeit": null,
+      "Thema": "Mahnwache zum Weltfriedenstag, gegen Aufrüstung und Wehrpflicht, für den Berliner Appell.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Dresdner Friedensbündnis",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-09-02",
       "Zeit": null,
       "Thema": "Ohne Kerosin nach Berlin",
@@ -592,6 +602,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-10-05",
+      "Zeit": null,
+      "Thema": "50 Jahre Deutsch-Vietnamesische Freundschaft und Zusammenarbeit & 95 Jahre Vietnamesischer Frauentag",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "Verein Vietnamesischer Frauen Dresden",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-10-06",
