@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-07-29",
+  "Dateidatum": "2025-07-30",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,36 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-07-29",
-      "Zeit": "15.00 - 17.30 Uhr",
-      "Thema": "Gute Nachricht für Dresden",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "60",
-      "Veranstalter": "Evangelische Allianz Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-07-29",
-      "Zeit": "18.00 - 20.00 Uhr",
-      "Thema": "Kein Mensch ist illegal ",
-      "Ort": "Theatherstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "bis zu 20",
-      "Veranstalter": "Initiative Seebrücke Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-07-29",
-      "Zeit": "14.00 - 19.00 Uhr",
-      "Thema": "Werte unserer Verfassung, wo sind sie geblieben?",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "Run the race e.V.",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-08-02",
       "Zeit": "14.00 - 18.00 Uhr",
@@ -432,6 +402,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-09-16",
+      "Zeit": null,
+      "Thema": "Zur Lage und Relevanz der zeitgenössischen Musik und Kultur",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
+      "Veranstalter": "Kunstwert e. V.",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-09-19",
