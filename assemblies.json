@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-07-30",
+  "Dateidatum": "2025-07-31",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -35,11 +35,21 @@
     },
     {
       "Datum": "2025-08-02",
-      "Zeit": null,
+      "Zeit": "14.00 - 15.00 Uhr",
       "Thema": "Gedenken an die im Nationalsozialismus ermordeten Sinti und Roma Europas",
-      "Ort": null,
+      "Ort": "Schlesischer Platz",
       "Startpunkt": null,
       "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-08-03",
+      "Zeit": null,
+      "Thema": "Für Menschlichkeit und Völkerrecht. Gegen das Aushungern der Zivilbevölkerung in Gaza.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -65,6 +75,26 @@
     },
     {
       "Datum": "2025-08-04",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-08-04",
+      "Zeit": null,
+      "Thema": "Wer schweigt, stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "70",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-08-04",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
@@ -72,6 +102,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-08-05",
+      "Zeit": null,
+      "Thema": "Mahnwache zum 80. Jahrestag des Atombombenabwurfs auf Hiroshima & Nagasaki",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Greenpeace Dresden",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-08-06",
@@ -82,6 +122,16 @@
       "Teilnehmer": "30",
       "Veranstalter": "AG Frieden",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-08-06",
+      "Zeit": null,
+      "Thema": "Grenzen öffnen! - Stoppt die Hungerblockade gegen Gaza",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-08-07",
