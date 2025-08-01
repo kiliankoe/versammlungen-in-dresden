@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-07-31",
+  "Dateidatum": "2025-08-01",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -66,16 +66,6 @@
     {
       "Datum": "2025-08-04",
       "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "200",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-08-04",
-      "Zeit": null,
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
       "Startpunkt": null,
@@ -85,13 +75,13 @@
     },
     {
       "Datum": "2025-08-04",
-      "Zeit": null,
+      "Zeit": "18.30 - 20.00 Uhr",
       "Thema": "Wer schweigt, stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
+      "Ort": "Wilsdruffer Straße",
       "Startpunkt": null,
       "Teilnehmer": "70",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-08-04",
@@ -205,6 +195,16 @@
     },
     {
       "Datum": "2025-08-11",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-08-11",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
@@ -212,6 +212,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-08-11",
+      "Zeit": null,
+      "Thema": "Tag des Widerstands gegen Abwälzung der Kriegs- und Krisenlasten auf die breiten Massen. Aktiver Widerstand gegen Krieg und modernen Faschismus. Solidarität mit Gaza! Schluss mit Waffenlieferung durch BRD! ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-08-12",
@@ -275,6 +285,16 @@
     },
     {
       "Datum": "2025-08-18",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-08-18",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
@@ -325,6 +345,16 @@
     },
     {
       "Datum": "2025-08-25",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-08-25",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
@@ -332,6 +362,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-08-25",
+      "Zeit": null,
+      "Thema": "Tag des Widerstands gegen Abwälzung der Kriegs- und Krisenlasten auf die breiten Massen. Aktiver Widerstand gegen Krieg und modernen Faschismus. Solidarität mit Gaza! Schluss mit Waffenlieferung durch BRD! ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-08-30",
@@ -384,6 +424,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2025-09-01",
+      "Zeit": null,
+      "Thema": "Tag des Widerstands gegen Abwälzung der Kriegs- und Krisenlasten auf die breiten Massen. Aktiver Widerstand gegen Krieg und modernen Faschismus. Solidarität mit Gaza! Schluss mit Waffenlieferung durch BRD! ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-09-02",
       "Zeit": null,
       "Thema": "Ohne Kerosin nach Berlin",
@@ -432,6 +482,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-09-08",
+      "Zeit": null,
+      "Thema": "Tag des Widerstands gegen Abwälzung der Kriegs- und Krisenlasten auf die breiten Massen. Aktiver Widerstand gegen Krieg und modernen Faschismus. Solidarität mit Gaza! Schluss mit Waffenlieferung durch BRD! ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-09-15",
@@ -504,6 +564,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2025-09-22",
+      "Zeit": null,
+      "Thema": "Tag des Widerstands gegen Abwälzung der Kriegs- und Krisenlasten auf die breiten Massen. Aktiver Widerstand gegen Krieg und modernen Faschismus. Solidarität mit Gaza! Schluss mit Waffenlieferung durch BRD! ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-09-26",
       "Zeit": null,
       "Thema": "Radnacht Dresden",
@@ -554,6 +624,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2025-10-03",
+      "Zeit": null,
+      "Thema": "Schluss mit 35 Jahren Wessi-Lügen - BRDigung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "BAK PDS der Linksjugend ['solid]",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-10-05",
       "Zeit": null,
       "Thema": "50 Jahre Deutsch-Vietnamesische Freundschaft und Zusammenarbeit & 95 Jahre Vietnamesischer Frauentag",
@@ -582,6 +662,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-10-06",
+      "Zeit": null,
+      "Thema": "Tag des Widerstands gegen Abwälzung der Kriegs- und Krisenlasten auf die breiten Massen. Aktiver Widerstand gegen Krieg und modernen Faschismus. Solidarität mit Gaza! Schluss mit Waffenlieferung durch BRD! ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-10-13",
