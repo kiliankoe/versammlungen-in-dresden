@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-08-01",
+  "Dateidatum": "2025-08-02",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -45,13 +45,13 @@
     },
     {
       "Datum": "2025-08-03",
-      "Zeit": null,
+      "Zeit": "16.00 - 18.00 Uhr",
       "Thema": "Für Menschlichkeit und Völkerrecht. Gegen das Aushungern der Zivilbevölkerung in Gaza.",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Alaunplatz",
       "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-08-04",
@@ -65,13 +65,13 @@
     },
     {
       "Datum": "2025-08-04",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-08-04",
@@ -195,13 +195,13 @@
     },
     {
       "Datum": "2025-08-11",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-08-11",
@@ -285,13 +285,13 @@
     },
     {
       "Datum": "2025-08-18",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-08-18",
@@ -345,13 +345,13 @@
     },
     {
       "Datum": "2025-08-25",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-08-25",
@@ -732,6 +732,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-10-31",
+      "Zeit": null,
+      "Thema": "Reformation 2.0",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     }
   ]
 }
