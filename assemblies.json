@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-08-04",
+  "Dateidatum": "2025-08-05",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,54 +14,14 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2025-08-04",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "15",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-08-04",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Fred stellt sich in den Weg",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "50",
-      "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-08-04",
-      "Zeit": "18.30 - 20.00 Uhr",
-      "Thema": "Wer schweigt, stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": "Wilsdruffer Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "70",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-08-04",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "25",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2025-08-05",
-      "Zeit": null,
+      "Zeit": "22.00 - 23.59 Uhr",
       "Thema": "Mahnwache zum 80. Jahrestag des Atombombenabwurfs auf Hiroshima & Nagasaki",
-      "Ort": null,
+      "Ort": "Terrassenufer",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Greenpeace Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-08-06",
@@ -112,6 +72,16 @@
       "Teilnehmer": "30",
       "Veranstalter": "AG Frieden",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-08-08",
+      "Zeit": null,
+      "Thema": "Jesus unser Friede",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-08-09",
@@ -204,6 +174,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2025-08-14",
+      "Zeit": null,
+      "Thema": "Kundgebung zur Förderung von christlichen Werten - Biblische Prinzipien im Vergleich zum heutigen Zeitgeist",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-08-16",
       "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "Tierrechte & Veganismus",
@@ -292,6 +272,16 @@
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-08-24",
+      "Zeit": null,
+      "Thema": "Solidarität mit der Ukraine",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-08-25",
@@ -586,6 +576,16 @@
     {
       "Datum": "2025-10-03",
       "Zeit": null,
+      "Thema": "Keine Einheit mit Nazis und Rassisten",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "FreddielinkeSocke_offical",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-10-03",
+      "Zeit": null,
       "Thema": "35 Jahre Wiedervereinigung",
       "Ort": null,
       "Startpunkt": null,
@@ -712,6 +712,26 @@
       "Teilnehmer": "2000",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-11-03",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-11-03",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
     }
   ]
 }
