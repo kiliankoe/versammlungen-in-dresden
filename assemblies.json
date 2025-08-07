@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-08-06",
+  "Dateidatum": "2025-08-07",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-08-06",
-      "Zeit": "08.00 - 22.00 Uhr",
-      "Thema": "Abschaffung von Atomwaffen. Anlass der Mahnwache sind die Atombombenabwürfe auf Hiroshima  ",
-      "Ort": "Kreuzstraße im Bereich nördlich der Kreuzkirche ",
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "AG Frieden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-08-06",
-      "Zeit": "17.30 - 19.30 Uhr",
-      "Thema": "Grenzen öffnen! - Stoppt die Hungerblockade gegen Gaza",
-      "Ort": "Neumarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "25",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-08-07",
       "Zeit": "22.00 - 23.59 Uhr",
@@ -55,13 +35,13 @@
     },
     {
       "Datum": "2025-08-07",
-      "Zeit": null,
+      "Zeit": "18.00 - 21.00 Uhr",
       "Thema": "Kein Viertel für Nazis, gegen rechte Gewalt in Striesen und überall!",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Fetscherplatz",
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-08-08",
@@ -105,6 +85,16 @@
     },
     {
       "Datum": "2025-08-09",
+      "Zeit": null,
+      "Thema": "Zukunftsgespräche: Für mehr Mitmenschlichkeit",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-08-09",
       "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "3 Minute Movie Challenge",
       "Ort": "Prager Straße",
@@ -125,16 +115,6 @@
     },
     {
       "Datum": "2025-08-11",
-      "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "200",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-08-11",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
@@ -142,6 +122,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-08-11",
+      "Zeit": null,
+      "Thema": "Wer schweigt, stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "70",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-08-11",
@@ -402,6 +392,16 @@
       "Teilnehmer": "30",
       "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-09-01",
+      "Zeit": null,
+      "Thema": "Aufrüstung? Nicht mit uns!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
+      "Veranstalter": "Initiative Antimilitarismus",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-09-02",
