@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-08-07",
+  "Dateidatum": "2025-08-08",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,36 +14,6 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2025-08-07",
-      "Zeit": "22.00 - 23.59 Uhr",
-      "Thema": "Mahnwache zum 80. Jahrestag des Atombombenabwurfs auf Hiroshima & Nagasaki",
-      "Ort": "Terrassenufer",
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "Greenpeace Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-08-07",
-      "Zeit": "08.00 - 22.00 Uhr",
-      "Thema": "Abschaffung von Atomwaffen. Anlass der Mahnwache sind die Atombombenabwürfe auf Hiroshima  ",
-      "Ort": "Kreuzstraße ",
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "AG Frieden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-08-07",
-      "Zeit": "18.00 - 21.00 Uhr",
-      "Thema": "Kein Viertel für Nazis, gegen rechte Gewalt in Striesen und überall!",
-      "Ort": null,
-      "Startpunkt": "Fetscherplatz",
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2025-08-08",
       "Zeit": "08.00 - 22.00 Uhr",
       "Thema": "Abschaffung von Atomwaffen. Anlass der Mahnwache sind die Atombombenabwürfe auf Hiroshima  ",
@@ -51,6 +21,16 @@
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "AG Frieden",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-08-08",
+      "Zeit": "16.30 - 20.00 Uhr",
+      "Thema": "Max-Schreiber-Spendenlauf für die Seenotrettung",
+      "Ort": null,
+      "Startpunkt": "Alaunstraße",
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
       "Status": "beschieden"
     },
     {
@@ -85,13 +65,13 @@
     },
     {
       "Datum": "2025-08-09",
-      "Zeit": null,
+      "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "Zukunftsgespräche: Für mehr Mitmenschlichkeit",
-      "Ort": null,
+      "Ort": "Neustädter Markt",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-08-09",
@@ -125,13 +105,13 @@
     },
     {
       "Datum": "2025-08-11",
-      "Zeit": null,
+      "Zeit": "18.30 - 20.00 Uhr",
       "Thema": "Wer schweigt, stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
+      "Ort": "Wilsdruffer Straße",
       "Startpunkt": null,
       "Teilnehmer": "70",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-08-11",
@@ -346,6 +326,16 @@
     {
       "Datum": "2025-09-01",
       "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-09-01",
+      "Zeit": null,
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
       "Startpunkt": null,
@@ -404,6 +394,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2025-09-01",
+      "Zeit": null,
+      "Thema": "Weltfriedenstag",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "Die Linke",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-09-02",
       "Zeit": null,
       "Thema": "Ohne Kerosin nach Berlin",
@@ -446,6 +446,16 @@
     {
       "Datum": "2025-09-08",
       "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-09-08",
+      "Zeit": null,
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
       "Startpunkt": null,
@@ -472,6 +482,16 @@
       "Teilnehmer": "30",
       "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-09-15",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-09-15",
@@ -526,6 +546,16 @@
     {
       "Datum": "2025-09-22",
       "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-09-22",
+      "Zeit": null,
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
       "Startpunkt": null,
@@ -571,6 +601,16 @@
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "Initiative Seebrücke Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-09-29",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -636,6 +676,16 @@
     {
       "Datum": "2025-10-06",
       "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-10-06",
+      "Zeit": null,
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
       "Startpunkt": null,
@@ -666,6 +716,16 @@
     {
       "Datum": "2025-10-13",
       "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-10-13",
+      "Zeit": null,
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
       "Startpunkt": null,
@@ -686,6 +746,16 @@
     {
       "Datum": "2025-10-20",
       "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-10-20",
+      "Zeit": null,
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
       "Startpunkt": null,
@@ -702,6 +772,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-10-27",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-10-27",
