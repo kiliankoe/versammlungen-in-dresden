@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-08-08",
+  "Dateidatum": "2025-08-09",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,36 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-08-08",
-      "Zeit": "08.00 - 22.00 Uhr",
-      "Thema": "Abschaffung von Atomwaffen. Anlass der Mahnwache sind die Atombombenabwürfe auf Hiroshima  ",
-      "Ort": "Kreuzstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "AG Frieden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-08-08",
-      "Zeit": "16.30 - 20.00 Uhr",
-      "Thema": "Max-Schreiber-Spendenlauf für die Seenotrettung",
-      "Ort": null,
-      "Startpunkt": "Alaunstraße",
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-08-08",
-      "Zeit": "11.00 - 18.00 Uhr",
-      "Thema": "Jesus unser Friede",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-08-09",
       "Zeit": "11.30 - 19.00 Uhr",
