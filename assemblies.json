@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-08-10",
+  "Dateidatum": "2025-08-11",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -762,6 +762,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-11-09",
+      "Zeit": null,
+      "Thema": "Mahnwache gegen Antisemitismus, Faschismus und Rassismus in Gedenken an die Opfer der Novemberpogrome 1938",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Grüne Jugend Dresden",
+      "Status": "angemeldet"
     }
   ]
 }
