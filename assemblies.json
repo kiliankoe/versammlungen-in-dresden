@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-08-12",
+  "Dateidatum": "2025-08-13",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-08-12",
-      "Zeit": "14.00 - 19.00 Uhr",
-      "Thema": "Christliche Werte für unsere Gesellschaft ",
-      "Ort": "Neumarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "European Initiative e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-08-12",
-      "Zeit": "16.30 - 18.30 Uhr",
-      "Thema": "Abschiebung von Hamza A. stoppen",
-      "Ort": "Carolaplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "Kontaktgruppe Asyl und Abschiebehaft e.V.",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-08-14",
       "Zeit": "12.00 - 18.00 Uhr",
@@ -64,14 +44,24 @@
       "Status": "beschieden"
     },
     {
-      "Datum": "2025-08-17",
+      "Datum": "2025-08-16",
       "Zeit": null,
-      "Thema": "Unterstützung der Ukraine",
+      "Thema": "'Stadtfest ohne Bundeswehr!'",
       "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Dresdner Friedensbündnis",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-08-17",
+      "Zeit": "16.00 - 23.30 Uhr",
+      "Thema": "Unterstützung der Ukraine",
+      "Ort": "An der Schleife",
       "Startpunkt": null,
       "Teilnehmer": "4",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-08-17",
@@ -402,6 +392,16 @@
       "Teilnehmer": "30",
       "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-09-12",
+      "Zeit": null,
+      "Thema": "Kitas Finanzieren - Bevor das Kind in den Brunnen fällt",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "ver.di FB:B",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-09-15",
