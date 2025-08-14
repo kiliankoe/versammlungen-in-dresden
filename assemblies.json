@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-08-13",
+  "Dateidatum": "2025-08-14",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -45,13 +45,13 @@
     },
     {
       "Datum": "2025-08-16",
-      "Zeit": null,
+      "Zeit": "13.00 - 15.00 Uhr",
       "Thema": "'Stadtfest ohne Bundeswehr!'",
-      "Ort": null,
+      "Ort": "Neustädter Elbufer ",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Dresdner Friedensbündnis",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-08-17",
@@ -75,13 +75,13 @@
     },
     {
       "Datum": "2025-08-17",
-      "Zeit": null,
+      "Zeit": "14.00 - 16.00 Uhr",
       "Thema": "Freiheit für Mehmet Çakas - Keine Abschiebung in die Türkei",
-      "Ort": null,
+      "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-08-18",
@@ -99,7 +99,7 @@
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "200",
+      "Teilnehmer": "250",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
