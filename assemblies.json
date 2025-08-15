@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-08-14",
+  "Dateidatum": "2025-08-15",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-08-14",
-      "Zeit": "12.00 - 18.00 Uhr",
-      "Thema": "Kundgebung zur Förderung von christlichen Werten - Biblische Prinzipien im Vergleich zum heutigen Zeitgeist",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-08-16",
       "Zeit": "15.00 - 18.00 Uhr",
@@ -42,6 +32,16 @@
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-08-16",
+      "Zeit": null,
+      "Thema": "Friedenstüchtig werden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-08-16",
@@ -134,14 +134,24 @@
       "Status": "beschieden"
     },
     {
-      "Datum": "2025-08-20",
+      "Datum": "2025-08-18",
       "Zeit": null,
-      "Thema": "Stimmen für den Frieden",
+      "Thema": "Stoppt Femizide!",
       "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-08-20",
+      "Zeit": "15.00 - 18.00 Uhr",
+      "Thema": "Stimmen für den Frieden",
+      "Ort": "Merianplatz",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-08-23",
@@ -221,6 +231,16 @@
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "ADFC Dresden e.V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-08-28",
+      "Zeit": null,
+      "Thema": "Schwimmhalle Klotzsche sichern",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "Fraktion Team Zastrow",
       "Status": "angemeldet"
     },
     {
@@ -576,11 +596,31 @@
     {
       "Datum": "2025-10-03",
       "Zeit": null,
+      "Thema": "Dresden Wendejahre 1990 bis 1994 ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-10-03",
+      "Zeit": null,
       "Thema": "Schluss mit 35 Jahren Wessi-Lügen - BRDigung",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "BAK PDS der Linksjugend ['solid]",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-10-04",
+      "Zeit": null,
+      "Thema": "Dresden Wendejahre 1990 bis 1994 ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -591,6 +631,16 @@
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "Verein Vietnamesischer Frauen Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-10-05",
+      "Zeit": null,
+      "Thema": "Dresden Wendejahre 1990 bis 1994 ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
