@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-08-15",
+  "Dateidatum": "2025-08-16",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -35,13 +35,13 @@
     },
     {
       "Datum": "2025-08-16",
-      "Zeit": null,
+      "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "Friedenstüchtig werden",
-      "Ort": null,
+      "Ort": "Neustädter Markt ",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-08-16",
@@ -95,13 +95,13 @@
     },
     {
       "Datum": "2025-08-18",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.25 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "250",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-08-18",
