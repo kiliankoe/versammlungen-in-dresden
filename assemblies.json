@@ -84,6 +84,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2025-08-21",
+      "Zeit": null,
+      "Thema": "Mahnwache der OMAS GEGEN RECHTS.DRESDEN für Frieden - gegen Krieg und Gewalt überall",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "8",
+      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-08-23",
       "Zeit": "11.30 - 19.00 Uhr",
       "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
@@ -94,14 +104,24 @@
       "Status": "beschieden"
     },
     {
-      "Datum": "2025-08-24",
+      "Datum": "2025-08-23",
       "Zeit": null,
-      "Thema": "Solidarität mit der Ukraine",
+      "Thema": "Mahnwache zur Situation im Gazastreifen - Bundesweite Aktion der Ahmadiyya Muslim Gemeinde KdöR",
       "Ort": null,
       "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "Ahmadiyya Muslim Jamaat Deutschland KdöR - Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-08-24",
+      "Zeit": "15.00 - 18.00 Uhr",
+      "Thema": "Solidarität mit der Ukraine",
+      "Ort": null,
+      "Startpunkt": "Neumarkt",
       "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-08-25",
@@ -164,6 +184,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2025-08-25",
+      "Zeit": null,
+      "Thema": "Mahnwache gegen das Hungern in Gaza",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-08-28",
       "Zeit": null,
       "Thema": "Schwimmhalle Klotzsche sichern",
@@ -182,6 +212,16 @@
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-08-31",
+      "Zeit": null,
+      "Thema": "Galerie der Aufklärung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-09-01",
@@ -342,6 +382,16 @@
       "Teilnehmer": "30",
       "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-09-09",
+      "Zeit": null,
+      "Thema": "Demonstration gegen Arbeitsplatzabbau bei DB Regio AG",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "80",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-09-12",
