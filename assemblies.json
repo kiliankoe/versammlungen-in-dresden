@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-08-20",
+  "Dateidatum": "2025-08-21",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-08-20",
-      "Zeit": "15.00 - 18.00 Uhr",
-      "Thema": "Stimmen für den Frieden",
-      "Ort": "Merianplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-08-21",
       "Zeit": null,
@@ -65,6 +55,16 @@
     },
     {
       "Datum": "2025-08-24",
+      "Zeit": null,
+      "Thema": "'Der Preis der Freiheit:' ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-08-24",
       "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "Solidarität mit der Ukraine",
       "Ort": null,
@@ -82,16 +82,6 @@
       "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-08-25",
-      "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "200",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
     },
     {
       "Datum": "2025-08-25",
@@ -135,13 +125,13 @@
     },
     {
       "Datum": "2025-08-25",
-      "Zeit": null,
+      "Zeit": "17.30 - 20.00 Uhr",
       "Thema": "Mahnwache gegen das Hungern in Gaza",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-08-25",
@@ -150,6 +140,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-08-25",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
