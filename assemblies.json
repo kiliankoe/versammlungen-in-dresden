@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-08-21",
+  "Dateidatum": "2025-08-22",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,24 +14,24 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2025-08-21",
-      "Zeit": null,
-      "Thema": "Mahnwache der OMAS GEGEN RECHTS.DRESDEN für Frieden - gegen Krieg und Gewalt überall",
+      "Datum": "2025-08-22",
+      "Zeit": "16.30 - 20.00 Uhr",
+      "Thema": "Lolek und Molek besorgen deutsche Pässe für Geflüchtete",
       "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "8",
-      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
-      "Status": "angemeldet"
+      "Startpunkt": "Alaunstraße (Scheune-Vorplatz)",
+      "Teilnehmer": "100",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-08-22",
-      "Zeit": null,
+      "Zeit": "15.00 - 17.00 Uhr",
       "Thema": "Wir stehen für den Frieden",
-      "Ort": null,
+      "Ort": "Dr.-Külz-Ring",
       "Startpunkt": null,
       "Teilnehmer": "18",
       "Veranstalter": "Initiative Dresden Stadt des Friedens",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-08-23",
@@ -56,7 +56,7 @@
     {
       "Datum": "2025-08-24",
       "Zeit": null,
-      "Thema": "'Der Preis der Freiheit:' ",
+      "Thema": "'Der Preis der Freiheit'",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "50",
