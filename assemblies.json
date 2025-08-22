@@ -45,13 +45,13 @@
     },
     {
       "Datum": "2025-08-23",
-      "Zeit": null,
+      "Zeit": "12.00 - 14.00 Uhr",
       "Thema": "Mahnwache zur Situation im Gazastreifen - Bundesweite Aktion der Ahmadiyya Muslim Gemeinde KdöR",
-      "Ort": null,
+      "Ort": "Altmarkt",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "Ahmadiyya Muslim Jamaat Deutschland KdöR - Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-08-24",
@@ -136,7 +136,7 @@
     {
       "Datum": "2025-08-25",
       "Zeit": null,
-      "Thema": "Entkriminalisierung des Schriftzuges '...'",
+      "Thema": "Entkriminalisierung eines Schriftzuges",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "20",
