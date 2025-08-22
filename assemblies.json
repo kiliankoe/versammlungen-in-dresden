@@ -55,13 +55,13 @@
     },
     {
       "Datum": "2025-08-24",
-      "Zeit": null,
+      "Zeit": "10.00 - 18.00 Uhr",
       "Thema": "'Der Preis der Freiheit'",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-08-24",
@@ -115,13 +115,13 @@
     },
     {
       "Datum": "2025-08-25",
-      "Zeit": null,
+      "Zeit": "14.45 - 18.45 Uhr",
       "Thema": "Pop-up-Radweg auf der Bautzner Straße: Für eine sichere und durchgehende Radinfrastruktur!",
-      "Ort": null,
+      "Ort": "Bautzner Straße",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "ADFC Dresden e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-08-25",
@@ -135,23 +135,13 @@
     },
     {
       "Datum": "2025-08-25",
-      "Zeit": null,
-      "Thema": "Entkriminalisierung eines Schriftzuges",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-08-25",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-08-28",
@@ -161,6 +151,16 @@
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "Fraktion Team Zastrow",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-08-28",
+      "Zeit": null,
+      "Thema": "Free Gaza from Hamas - Bringt die Geiseln zurück",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "Deutsch-Israelische Gesellschaft e. V., AG Dresden",
       "Status": "angemeldet"
     },
     {
@@ -261,6 +261,16 @@
       "Startpunkt": null,
       "Teilnehmer": "150",
       "Veranstalter": "Initiative Antimilitarismus",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-09-01",
+      "Zeit": null,
+      "Thema": "Entkriminalisierung eines Schriftzuges",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
