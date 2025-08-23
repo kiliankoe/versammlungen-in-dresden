@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-08-22",
+  "Dateidatum": "2025-08-23",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-08-22",
-      "Zeit": "16.30 - 20.00 Uhr",
-      "Thema": "Lolek und Molek besorgen deutsche Pässe für Geflüchtete",
-      "Ort": null,
-      "Startpunkt": "Alaunstraße (Scheune-Vorplatz)",
-      "Teilnehmer": "100",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-08-22",
-      "Zeit": "15.00 - 17.00 Uhr",
-      "Thema": "Wir stehen für den Frieden",
-      "Ort": "Dr.-Külz-Ring",
-      "Startpunkt": null,
-      "Teilnehmer": "18",
-      "Veranstalter": "Initiative Dresden Stadt des Friedens",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-08-23",
       "Zeit": "11.30 - 19.00 Uhr",
@@ -151,7 +131,7 @@
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "Fraktion Team Zastrow",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2025-08-28",
