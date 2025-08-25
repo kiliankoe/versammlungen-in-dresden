@@ -134,6 +134,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2025-08-31",
+      "Zeit": null,
+      "Thema": "Freie Fahrt für den ÖPNV - eigene Fahrspur auf der Marienbrücke jetzt!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "250",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-09-01",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -151,16 +161,6 @@
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-09-01",
-      "Zeit": null,
-      "Thema": "Dresden.Respekt: Interkulturelles Gastmahl auf der Hauptstraße zur Demonstration von Vielfalt und Weltoffenheit, Dialog und Respekt",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "4.000",
-      "Veranstalter": "CSD Dresden e. V. & Cellex-Stiftung",
       "Status": "angemeldet"
     },
     {
@@ -205,23 +205,33 @@
     },
     {
       "Datum": "2025-09-01",
-      "Zeit": null,
-      "Thema": "Entkriminalisierung eines Schriftzuges",
-      "Ort": null,
+      "Zeit": "14.30 - 20.30 Uhr",
+      "Thema": "Dresden.Respekt: Interkulturelles Gastmahl auf der Hauptstraße zur Demonstration von Vielfalt und Weltoffenheit, Dialog und Respekt",
+      "Ort": "Hauptstraße",
       "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Teilnehmer": "4.000",
+      "Veranstalter": "CSD Dresden e. V. & Cellex-Stiftung",
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-09-01",
-      "Zeit": null,
+      "Zeit": "18.30 - 19.00 Uhr",
+      "Thema": "Entkriminalisierung eines Schriftzuges",
+      "Ort": "Wilsdruffer Straße",
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-09-01",
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Weltfriedenstag",
-      "Ort": null,
+      "Ort": "Dr. Külz-Ring",
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "Die Linke",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-09-02",
@@ -311,7 +321,7 @@
       "Startpunkt": null,
       "Teilnehmer": "80",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2025-09-12",
