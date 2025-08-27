@@ -25,12 +25,22 @@
     },
     {
       "Datum": "2025-08-28",
-      "Zeit": null,
+      "Zeit": "17.00 - 19.00 Uhr",
       "Thema": "Free Gaza from Hamas - Bringt die Geiseln zurück",
-      "Ort": null,
+      "Ort": "Dr.-Külz-Ring",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "Deutsch-Israelische Gesellschaft e. V., AG Dresden",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-08-29",
+      "Zeit": null,
+      "Thema": "Tierindustrie",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "6",
+      "Veranstalter": "Anonymous for the Voiceless ",
       "Status": "angemeldet"
     },
     {
@@ -86,11 +96,11 @@
     {
       "Datum": "2025-09-01",
       "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "200",
-      "Veranstalter": "natürliche Person",
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
       "Status": "angemeldet"
     },
     {
@@ -145,16 +155,6 @@
     },
     {
       "Datum": "2025-09-01",
-      "Zeit": "18.30 - 19.00 Uhr",
-      "Thema": "Entkriminalisierung eines Schriftzuges",
-      "Ort": "Wilsdruffer Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-09-01",
       "Zeit": null,
       "Thema": "Rettet und schützt unsere Senioren: spezialisiertes Examen für die Senioren Versorgung, neues Pflegesystem, Pflegegeld - Gleichberechtigung",
       "Ort": null,
@@ -172,6 +172,16 @@
       "Teilnehmer": "300",
       "Veranstalter": "Die Linke",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-09-01",
+      "Zeit": null,
+      "Thema": "Wer schweigt, stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-09-02",
@@ -192,6 +202,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "Mietgemeinschaft Johannstadt C/O Plan B. E.V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-09-05",
+      "Zeit": null,
+      "Thema": "Anti-Kriegs-Versammlung ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
+      "Veranstalter": "Internationales Steiger Zentrum e.V.",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-09-06",
@@ -235,6 +255,16 @@
     },
     {
       "Datum": "2025-09-08",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-09-08",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
@@ -252,6 +282,16 @@
       "Teilnehmer": "30",
       "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-09-08",
+      "Zeit": null,
+      "Thema": "Entkriminalisierung eines Schriftzuges",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-09-09",
@@ -291,6 +331,16 @@
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-09-15",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
       "Status": "angemeldet"
     },
     {
@@ -365,6 +415,16 @@
     },
     {
       "Datum": "2025-09-22",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-09-22",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
@@ -421,6 +481,16 @@
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-09-29",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
       "Status": "angemeldet"
     },
     {
