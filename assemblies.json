@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-08-26",
+  "Dateidatum": "2025-08-27",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -65,13 +65,13 @@
     },
     {
       "Datum": "2025-08-31",
-      "Zeit": null,
+      "Zeit": "14.00 - 19.00 Uhr",
       "Thema": "Galerie der Aufklärung",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-09-01",
@@ -125,13 +125,13 @@
     },
     {
       "Datum": "2025-09-01",
-      "Zeit": null,
+      "Zeit": "17.00 - 18.20 Uhr",
       "Thema": "Aufrüstung? Nicht mit uns!",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Augustusbrücke",
       "Teilnehmer": "150",
       "Veranstalter": "Initiative Antimilitarismus",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-09-01",
@@ -155,6 +155,16 @@
     },
     {
       "Datum": "2025-09-01",
+      "Zeit": null,
+      "Thema": "Rettet und schützt unsere Senioren: spezialisiertes Examen für die Senioren Versorgung, neues Pflegesystem, Pflegegeld - Gleichberechtigung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20 bis 30",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-09-01",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Weltfriedenstag",
       "Ort": "Dr. Külz-Ring",
@@ -175,13 +185,13 @@
     },
     {
       "Datum": "2025-09-02",
-      "Zeit": null,
+      "Zeit": "17.30 - 19.00 Uhr",
       "Thema": "Vonovia, transparente und faire Nebenkosten jetzt! ",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bönischplatz",
       "Teilnehmer": "50",
-      "Veranstalter": "Mietgemeinschaft Johannstadt",
-      "Status": "angemeldet"
+      "Veranstalter": "Mietgemeinschaft Johannstadt C/O Plan B. E.V.",
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-09-06",
