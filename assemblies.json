@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-08-27",
+  "Dateidatum": "2025-08-28",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -155,6 +155,16 @@
     },
     {
       "Datum": "2025-09-01",
+      "Zeit": null,
+      "Thema": "Wer schweigt, stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-09-01",
       "Zeit": "10.00 - 16.00 Uhr",
       "Thema": "Rettet und schützt unsere Senioren: spezialisiertes Examen für die Senioren Versorgung, neues Pflegesystem, Pflegegeld - Gleichberechtigung",
       "Ort": "Neumarkt",
@@ -172,16 +182,6 @@
       "Teilnehmer": "300",
       "Veranstalter": "Die Linke",
       "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-09-01",
-      "Zeit": null,
-      "Thema": "Wer schweigt, stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "200",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
     },
     {
       "Datum": "2025-09-02",
