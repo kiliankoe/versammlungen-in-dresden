@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-08-28",
+  "Dateidatum": "2025-08-29",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,34 +14,14 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2025-08-28",
-      "Zeit": null,
-      "Thema": "Schwimmhalle Klotzsche sichern",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "100",
-      "Veranstalter": "Fraktion Team Zastrow",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-08-28",
-      "Zeit": "17.00 - 19.00 Uhr",
-      "Thema": "Free Gaza from Hamas - Bringt die Geiseln zurück",
-      "Ort": "Dr.-Külz-Ring",
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "Deutsch-Israelische Gesellschaft e. V., AG Dresden",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2025-08-29",
-      "Zeit": null,
+      "Zeit": "14.00 - 17.20 Uhr",
       "Thema": "Tierindustrie",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "6",
       "Veranstalter": "Anonymous for the Voiceless ",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-08-29",
@@ -202,6 +182,26 @@
       "Teilnehmer": "50",
       "Veranstalter": "Mietgemeinschaft Johannstadt C/O Plan B. E.V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-09-04",
+      "Zeit": null,
+      "Thema": "Lieferando-Streik",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "70",
+      "Veranstalter": "Gewerkschaft NGG",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-09-05",
+      "Zeit": null,
+      "Thema": "Fahrrad-Demo Lieferando",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Gewerkschaft NGG",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-09-05",
@@ -365,13 +365,13 @@
     },
     {
       "Datum": "2025-09-19",
-      "Zeit": null,
+      "Zeit": "14.00 - 18.00 Uhr",
       "Thema": "Park(ing) Day 2025 - Platz für Menschen statt für Autos, Zusammenleben in Löbtau",
-      "Ort": null,
+      "Ort": "Hermsdorfer Straße",
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "Allgemeiner Deutscher Fahrrad Club (ADFC) Dresden e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-09-20",
