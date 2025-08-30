@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-08-29",
+  "Dateidatum": "2025-08-30",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,26 +14,6 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2025-08-29",
-      "Zeit": "14.00 - 17.20 Uhr",
-      "Thema": "Tierindustrie",
-      "Ort": "Neumarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "6",
-      "Veranstalter": "Anonymous for the Voiceless ",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-08-29",
-      "Zeit": "17.00 - 21.30 Uhr",
-      "Thema": "Bäume, Räume, Radverkehr - Bestandssanierung Königsbrücker  - Autofreie Neustadt und Hecht ",
-      "Ort": null,
-      "Startpunkt": "Königsbrücker Straße",
-      "Teilnehmer": "100",
-      "Veranstalter": "Bürgerinitiativen 'StadtMussAtmen' und 'Königsbrücker muss leben!'",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2025-08-30",
       "Zeit": "11.30 - 19.00 Uhr",
       "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
@@ -45,13 +25,13 @@
     },
     {
       "Datum": "2025-08-31",
-      "Zeit": null,
+      "Zeit": "17.10 - 18.30 Uhr",
       "Thema": "Freie Fahrt für den ÖPNV - eigene Fahrspur auf der Marienbrücke jetzt!",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Kleine Marienbrücke",
       "Teilnehmer": "250",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-08-31",
@@ -196,7 +176,7 @@
     {
       "Datum": "2025-09-05",
       "Zeit": null,
-      "Thema": "'MenstruAktion - Menstruieren ist kein tabu'",
+      "Thema": "'MenstruAktion - menstruieren ist kein Tabu'",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "150",
