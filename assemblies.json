@@ -25,33 +25,33 @@
     },
     {
       "Datum": "2025-09-05",
-      "Zeit": null,
+      "Zeit": "17.00 - 19.30 Uhr",
       "Thema": "'MenstruAktion - Menstruieren ist kein Tabu'",
-      "Ort": null,
+      "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
       "Teilnehmer": "150",
       "Veranstalter": "linksjugend Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-09-05",
-      "Zeit": null,
+      "Zeit": "11.30 - 15.45 Uhr",
       "Thema": "Fahrrad-Demo Lieferando",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Ostra-Allee",
       "Teilnehmer": "50",
       "Veranstalter": "Gewerkschaft NGG",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-09-05",
-      "Zeit": null,
+      "Zeit": "18.00 - 22.00 Uhr",
       "Thema": "Anti-Kriegs-Versammlung ",
-      "Ort": null,
+      "Ort": "Alaunpark",
       "Startpunkt": null,
       "Teilnehmer": "150",
       "Veranstalter": "Internationales Steiger Zentrum e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-09-06",
@@ -82,16 +82,6 @@
       "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-09-08",
-      "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "200",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
     },
     {
       "Datum": "2025-09-08",
@@ -132,6 +122,16 @@
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-09-08",
+      "Zeit": null,
+      "Thema": "Wer schweigt, stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-09-08",
