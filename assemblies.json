@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-09-02",
+  "Dateidatum": "2025-09-03",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-09-02",
-      "Zeit": "09.00 - 18.35 Uhr",
-      "Thema": "Ohne Kerosin nach Berlin",
-      "Ort": null,
-      "Startpunkt": "Österreicher Straße",
-      "Teilnehmer": "30",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-09-02",
-      "Zeit": "17.30 - 19.00 Uhr",
-      "Thema": "Vonovia, transparente und faire Nebenkosten jetzt! ",
-      "Ort": null,
-      "Startpunkt": "Bönischplatz",
-      "Teilnehmer": "50",
-      "Veranstalter": "Mietgemeinschaft Johannstadt C/O Plan B. E.V.",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-09-04",
       "Zeit": null,
@@ -184,6 +164,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2025-09-13",
+      "Zeit": null,
+      "Thema": "Für eine antifaschistische Zukunft",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300 - 500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-09-15",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -321,6 +311,16 @@
       "Startpunkt": null,
       "Teilnehmer": "700",
       "Veranstalter": "ADFC Dresden e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-09-26",
+      "Zeit": null,
+      "Thema": "Für die digitale Teilhabe jeder Medienpaedagogische Angebote an Schulen statt Handyverbote",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "Institut für Entwicklung ",
       "Status": "angemeldet"
     },
     {
