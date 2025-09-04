@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-09-03",
+  "Dateidatum": "2025-09-04",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -15,13 +15,13 @@
   "Versammlungen": [
     {
       "Datum": "2025-09-04",
-      "Zeit": null,
+      "Zeit": "15.00 - 20.00 Uhr",
       "Thema": "Lieferando-Streik",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Ostra-Allee",
       "Teilnehmer": "70",
       "Veranstalter": "Gewerkschaft NGG",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-09-05",
@@ -62,6 +62,16 @@
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e. V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-09-06",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-09-06",
@@ -254,6 +264,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2025-09-20",
+      "Zeit": null,
+      "Thema": "Weltkindertag - Kinder der Welt",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Unicef-Arbeitsgruppe Dresden",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-09-22",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -311,16 +331,6 @@
       "Startpunkt": null,
       "Teilnehmer": "700",
       "Veranstalter": "ADFC Dresden e. V.",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-09-26",
-      "Zeit": null,
-      "Thema": "Für die digitale Teilhabe jeder Medienpaedagogische Angebote an Schulen statt Handyverbote",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "500",
-      "Veranstalter": "Institut für Entwicklung ",
       "Status": "angemeldet"
     },
     {
