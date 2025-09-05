@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-09-04",
+  "Dateidatum": "2025-09-05",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,14 +14,14 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2025-09-04",
-      "Zeit": "15.00 - 20.00 Uhr",
-      "Thema": "Lieferando-Streik",
+      "Datum": "2025-09-05",
+      "Zeit": null,
+      "Thema": "Wenn der Nazi zum 3. Mal klingelt",
       "Ort": null,
-      "Startpunkt": "Ostra-Allee",
-      "Teilnehmer": "70",
-      "Veranstalter": "Gewerkschaft NGG",
-      "Status": "beschieden"
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-09-05",
@@ -75,11 +75,21 @@
     },
     {
       "Datum": "2025-09-06",
-      "Zeit": null,
+      "Zeit": "14.00 - 18.00 Uhr",
       "Thema": "Abschlusskundgebung der 'Bildungsrettung. Bildet die Rettung! Rettet die Bildung!' ",
-      "Ort": null,
+      "Ort": "Bernhard-von Lindenau-Platz",
       "Startpunkt": null,
       "Teilnehmer": "1000",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-09-07",
+      "Zeit": null,
+      "Thema": "'Bildungsbeerdigung'",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -145,13 +155,13 @@
     },
     {
       "Datum": "2025-09-08",
-      "Zeit": null,
+      "Zeit": "15.00 - 18.30 Uhr",
       "Thema": "Tempo runter, Sicherheit hoch – ADFC Dresden und der Handels- und Kulturverein Hauptstraße werben gemeinsam für mehr Miteinander von Fuß- und Radverkehr",
-      "Ort": null,
+      "Ort": "Hauptstraße",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "ADFC Dresden e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-09-09",
@@ -165,13 +175,13 @@
     },
     {
       "Datum": "2025-09-12",
-      "Zeit": null,
+      "Zeit": "16.00 - 18.00 Uhr",
       "Thema": "Kitas Finanzieren - Bevor das Kind in den Brunnen fällt",
-      "Ort": null,
+      "Ort": "Parkplatz Sarrasanistraße",
       "Startpunkt": null,
       "Teilnehmer": "25",
       "Veranstalter": "ver.di FB:B",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-09-13",
