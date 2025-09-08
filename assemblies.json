@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-09-07",
+  "Dateidatum": "2025-09-08",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-09-07",
-      "Zeit": null,
-      "Thema": "Bildungsbeerdigung",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "15",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
     {
       "Datum": "2025-09-08",
       "Zeit": "18.00 - 19.30 Uhr",
@@ -104,6 +94,16 @@
       "Status": "abgemeldet"
     },
     {
+      "Datum": "2025-09-10",
+      "Zeit": null,
+      "Thema": "Kundgebung gegen die Wiedereinführung der Wehrpflicht",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "SDAJ",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-09-12",
       "Zeit": "16.00 - 18.00 Uhr",
       "Thema": "Kitas Finanzieren - Bevor das Kind in den Brunnen fällt",
@@ -112,6 +112,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "ver.di FB:B",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-09-12",
+      "Zeit": null,
+      "Thema": "Köni retten! Platz für Bäume und Träume. Bestandssanierung jetzt!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "Bürgerinitiative 'Königsbrücker muss leben!'",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-09-13",
