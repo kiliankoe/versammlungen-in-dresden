@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-09-08",
+  "Dateidatum": "2025-09-09",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,76 +14,6 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2025-09-08",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "15",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-09-08",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Fred stellt sich in den Weg",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "50",
-      "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-09-08",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "25",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-09-08",
-      "Zeit": "18.00 - 19.00 Uhr",
-      "Thema": "Tag des Widerstands gegen Abwälzung der Kriegs- und Krisenlasten auf die breiten Massen. Aktiver Widerstand gegen Krieg und modernen Faschismus. Solidarität mit Gaza! Schluss mit Waffenlieferung durch BRD! ",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-09-08",
-      "Zeit": "18.30 - 19.00 Uhr",
-      "Thema": "Entkriminalisierung eines Schriftzuges",
-      "Ort": "Wilsdruffer Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-09-08",
-      "Zeit": "19.00 - 20.30 Uhr",
-      "Thema": "Wer schweigt, stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "150",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-09-08",
-      "Zeit": "15.00 - 18.30 Uhr",
-      "Thema": "Tempo runter, Sicherheit hoch – ADFC Dresden und der Handels- und Kulturverein Hauptstraße werben gemeinsam für mehr Miteinander von Fuß- und Radverkehr",
-      "Ort": "Hauptstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "15",
-      "Veranstalter": "ADFC Dresden e.V.",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2025-09-09",
       "Zeit": null,
       "Thema": "Demonstration gegen Arbeitsplatzabbau bei DB Regio AG",
@@ -95,13 +25,13 @@
     },
     {
       "Datum": "2025-09-10",
-      "Zeit": null,
+      "Zeit": "15.00 - 17.00 Uhr",
       "Thema": "Kundgebung gegen die Wiedereinführung der Wehrpflicht",
-      "Ort": null,
+      "Ort": "F.-C.-Weiskopf-Platz",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "SDAJ",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-09-12",
@@ -191,6 +121,16 @@
       "Startpunkt": null,
       "Teilnehmer": "150",
       "Veranstalter": "Kunstwert e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-09-18",
+      "Zeit": null,
+      "Thema": "Mahnwache der OMAS GEGEN RECHTS.DRESDEN für Frieden - gegen Krieg und Gewalt überall",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "8",
+      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
       "Status": "angemeldet"
     },
     {
@@ -514,6 +454,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2025-10-16",
+      "Zeit": null,
+      "Thema": "Mahnwache der OMAS GEGEN RECHTS.DRESDEN für Frieden - gegen Krieg und Gewalt überall",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "8",
+      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-10-20",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -542,6 +492,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-10-22",
+      "Zeit": null,
+      "Thema": "Unser Stresemannplatz - Für die Sicherheit von Schulwegen und Radroute - Raus mit dem Durchgangsverkehr!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "Unser Stresemannplatz",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-10-27",
@@ -685,6 +645,36 @@
     },
     {
       "Datum": "2025-12-01",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-12-06",
+      "Zeit": null,
+      "Thema": "Light the Sky - Gedenken an die Tiere in der Massentierhaltung sowie auf den Transporten",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Die Tierstimme e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-12-08",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-12-08",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
