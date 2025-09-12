@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-09-11",
+  "Dateidatum": "2025-09-12",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -54,6 +54,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2025-09-13",
+      "Zeit": null,
+      "Thema": "Hoffnung und Zusammenhalt",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "8",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-09-15",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -85,13 +95,13 @@
     },
     {
       "Datum": "2025-09-15",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.30 Uhr",
       "Thema": "Wer schweigt, stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-09-16",
@@ -102,6 +112,16 @@
       "Teilnehmer": "150",
       "Veranstalter": "Kunstwert e. V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-09-16",
+      "Zeit": null,
+      "Thema": "Gott und die Welt",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "4",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-09-18",
@@ -122,6 +142,16 @@
       "Teilnehmer": "200",
       "Veranstalter": "Allgemeiner Deutscher Fahrrad Club (ADFC) Dresden e. V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-09-19",
+      "Zeit": null,
+      "Thema": "Dem Kampf des palästinensischen Volkes gewidmet!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Initiative Dresden Stadt des Friedens",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-09-20",
@@ -155,12 +185,22 @@
     },
     {
       "Datum": "2025-09-20",
-      "Zeit": null,
+      "Zeit": "11.00 - 18.00 Uhr",
       "Thema": "Weltkindertag - Kinder der Welt",
-      "Ort": null,
+      "Ort": "Dr.-Külz-Ring",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Unicef-Arbeitsgruppe Dresden",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-09-20",
+      "Zeit": null,
+      "Thema": "Galerie der Aufklärung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -252,6 +292,26 @@
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-09-27",
+      "Zeit": null,
+      "Thema": "die Förderung der christlichen Grundwerte",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "40",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-09-27",
+      "Zeit": null,
+      "Thema": "Krieg in der Ukraine",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "6",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-09-29",
@@ -612,6 +672,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-11-25",
+      "Zeit": null,
+      "Thema": "Anlässlich des 25.11.2025 gegen Gewalt an Frauen.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-12-01",
