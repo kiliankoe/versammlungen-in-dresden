@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-09-12",
+  "Dateidatum": "2025-09-13",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,34 +14,14 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2025-09-12",
-      "Zeit": "16.00 - 18.00 Uhr",
-      "Thema": "Kitas Finanzieren - Bevor das Kind in den Brunnen fällt",
-      "Ort": "Parkplatz Sarrasanistraße",
-      "Startpunkt": null,
-      "Teilnehmer": "25",
-      "Veranstalter": "ver.di FB:B",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-09-12",
-      "Zeit": "17.00 - 19.00 Uhr",
-      "Thema": "Köni retten! Platz für Bäume und Träume. Bestandssanierung jetzt!",
-      "Ort": "Königsbrücker Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "25",
-      "Veranstalter": "Bürgerinitiative 'Königsbrücker muss leben!'",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2025-09-13",
-      "Zeit": null,
+      "Zeit": "17.00 - 22.00 Uhr",
       "Thema": "Für eine antifaschistische Zukunft",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Alaunpark",
       "Teilnehmer": "300 - 500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-09-13",
