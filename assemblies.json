@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-09-14",
+  "Dateidatum": "2025-09-15",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -81,6 +81,16 @@
       "Startpunkt": null,
       "Teilnehmer": "8",
       "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-09-18",
+      "Zeit": null,
+      "Thema": "Femizide stoppen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
