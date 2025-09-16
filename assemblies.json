@@ -35,6 +35,16 @@
     },
     {
       "Datum": "2025-09-18",
+      "Zeit": null,
+      "Thema": "Hoffnung und Zusammenhalt",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "8",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-09-18",
       "Zeit": "16.00 - 18.00 Uhr",
       "Thema": "Mahnwache der OMAS GEGEN RECHTS.DRESDEN für Frieden - gegen Krieg und Gewalt überall",
       "Ort": "Kleine Kirchgasse",
@@ -235,13 +245,13 @@
     },
     {
       "Datum": "2025-09-27",
-      "Zeit": null,
+      "Zeit": "18.00 - 23.45 Uhr",
       "Thema": "Krieg in der Ukraine",
-      "Ort": null,
+      "Ort": "Bautzner Landstraße ",
       "Startpunkt": null,
       "Teilnehmer": "6",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-09-29",
