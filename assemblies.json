@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-09-17",
+  "Dateidatum": "2025-09-18",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -15,13 +15,13 @@
   "Versammlungen": [
     {
       "Datum": "2025-09-18",
-      "Zeit": null,
+      "Zeit": "14.00 - 19.00 Uhr",
       "Thema": "Hoffnung und Zusammenhalt",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "8",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-09-18",
@@ -55,13 +55,13 @@
     },
     {
       "Datum": "2025-09-19",
-      "Zeit": null,
+      "Zeit": "15.00 - 17.00 Uhr",
       "Thema": "Dem Kampf des palästinensischen Volkes gewidmet!",
-      "Ort": null,
+      "Ort": "Dr.-Külz-Ring",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "Initiative Dresden Stadt des Friedens",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-09-20",
@@ -105,13 +105,13 @@
     },
     {
       "Datum": "2025-09-20",
-      "Zeit": null,
+      "Zeit": "14.00 - 19.00 Uhr",
       "Thema": "Galerie der Aufklärung",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-09-22",
@@ -122,16 +122,6 @@
       "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-09-22",
-      "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "200",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
     },
     {
       "Datum": "2025-09-22",
@@ -164,6 +154,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2025-09-22",
+      "Zeit": null,
+      "Thema": "Wer schweigt, stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-09-23",
       "Zeit": null,
       "Thema": "Gegen sexuelle Belästigung am Arbeitsplatz",
@@ -185,23 +185,23 @@
     },
     {
       "Datum": "2025-09-26",
-      "Zeit": null,
+      "Zeit": "18.45 - 21.50 Uhr",
       "Thema": "Radnacht Dresden",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "700",
       "Veranstalter": "ADFC Dresden e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-09-26",
-      "Zeit": null,
+      "Zeit": "18.00 - 18.30 Uhr",
       "Thema": "Radnacht Dresden (Zubringer Löbtau)",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Conertplatz",
       "Teilnehmer": "50",
       "Veranstalter": "ADFC Dresden e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-09-27",
@@ -392,6 +392,16 @@
       "Teilnehmer": "30",
       "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-10-09",
+      "Zeit": null,
+      "Thema": "Erzählbank der OMAS GEGEN RECHTS. DRESDEN für eine respektvolle Gesprächskultur",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "3",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-10-13",
