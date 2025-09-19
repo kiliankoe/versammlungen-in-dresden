@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-09-18",
+  "Dateidatum": "2025-09-19",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,36 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-09-18",
-      "Zeit": "14.00 - 19.00 Uhr",
-      "Thema": "Hoffnung und Zusammenhalt",
-      "Ort": "Neumarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "8",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-09-18",
-      "Zeit": "16.00 - 18.00 Uhr",
-      "Thema": "Mahnwache der OMAS GEGEN RECHTS.DRESDEN für Frieden - gegen Krieg und Gewalt überall",
-      "Ort": "Kleine Kirchgasse",
-      "Startpunkt": null,
-      "Teilnehmer": "8",
-      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-09-18",
-      "Zeit": "18.00 - 20.00 Uhr",
-      "Thema": "Femizide stoppen",
-      "Ort": "Bautzner Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "100",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-09-19",
       "Zeit": "14.00 - 18.00 Uhr",
@@ -165,23 +135,23 @@
     },
     {
       "Datum": "2025-09-23",
-      "Zeit": null,
+      "Zeit": "17.00 - 18.00 Uhr",
       "Thema": "Gegen sexuelle Belästigung am Arbeitsplatz",
-      "Ort": null,
+      "Ort": "Rothenburger Straße",
       "Startpunkt": null,
       "Teilnehmer": "40",
       "Veranstalter": "FAU Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-09-24",
-      "Zeit": null,
+      "Zeit": "17.30 - 19.00 Uhr",
       "Thema": "Mahnwache: stoppen den Hunger in Gaza ",
-      "Ort": null,
+      "Ort": "Neumarkt ",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-09-26",
@@ -225,13 +195,13 @@
     },
     {
       "Datum": "2025-09-27",
-      "Zeit": null,
+      "Zeit": "13.30 - 21.00 Uhr",
       "Thema": "die Förderung der christlichen Grundwerte",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "40",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-09-27",
