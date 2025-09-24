@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-09-23",
+  "Dateidatum": "2025-09-24",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-09-23",
-      "Zeit": "17.00 - 18.00 Uhr",
-      "Thema": "Gegen sexuelle Belästigung am Arbeitsplatz",
-      "Ort": "Rothenburger Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "40",
-      "Veranstalter": "FAU Dresden",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-09-24",
       "Zeit": "17.30 - 19.00 Uhr",
@@ -105,13 +95,13 @@
     },
     {
       "Datum": "2025-09-28",
-      "Zeit": null,
+      "Zeit": "11.00 - 19.00 Uhr",
       "Thema": "Krieg in der Ukraine",
-      "Ort": null,
+      "Ort": "Wilsdruffer Straße",
       "Startpunkt": null,
       "Teilnehmer": "6",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-09-29",
@@ -345,13 +335,13 @@
     },
     {
       "Datum": "2025-10-22",
-      "Zeit": null,
+      "Zeit": "16.00 - 17.00 Uhr",
       "Thema": "Unser Stresemannplatz - Für die Sicherheit von Schulwegen und Radroute - Raus mit dem Durchgangsverkehr!",
-      "Ort": null,
+      "Ort": "Stresemannplatz",
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "Unser Stresemannplatz",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-10-27",
@@ -421,6 +411,16 @@
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "Grüne Jugend Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-11-09",
+      "Zeit": null,
+      "Thema": "Mahngang zum Gedenken an die Progromnacht 1938",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
       "Status": "angemeldet"
     },
     {
