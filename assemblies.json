@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-09-25",
+  "Dateidatum": "2025-09-26",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -71,7 +71,7 @@
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Freie Baptistengemeinde Dresden",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2025-09-27",
@@ -125,13 +125,13 @@
     },
     {
       "Datum": "2025-09-29",
-      "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu-Zeit für Bürgerverantwortung",
+      "Zeit": "19.00 - 20.30 Uhr",
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-10-03",
@@ -225,6 +225,16 @@
     },
     {
       "Datum": "2025-10-06",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-10-06",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
@@ -275,6 +285,16 @@
     },
     {
       "Datum": "2025-10-13",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-10-13",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
@@ -315,6 +335,16 @@
     },
     {
       "Datum": "2025-10-20",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-10-20",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
@@ -334,6 +364,26 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2025-10-23",
+      "Zeit": null,
+      "Thema": "Ohne uns läuft nichts – für einen zukunftsfähigen öffentlichen Dienst in Sachsen – #SBBFamilie ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "SBB Beamtenbund und Tarifunion Sachsen e.V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-10-25",
+      "Zeit": null,
+      "Thema": "Für das Leben und dem echten Frieden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Freie Baptistengemeinde Dresden",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-10-27",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -351,6 +401,16 @@
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-10-27",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
       "Status": "angemeldet"
     },
     {
