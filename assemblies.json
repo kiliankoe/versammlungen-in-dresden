@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-09-30",
+  "Dateidatum": "2025-10-01",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -35,13 +35,13 @@
     },
     {
       "Datum": "2025-10-03",
-      "Zeit": null,
+      "Zeit": "10.00 - 20.00 Uhr",
       "Thema": "Dresden Wendejahre 1990 bis 1994 ",
-      "Ort": null,
+      "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-10-03",
@@ -55,23 +55,23 @@
     },
     {
       "Datum": "2025-10-04",
-      "Zeit": null,
+      "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "Tierrechte & Veganismus",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-10-04",
-      "Zeit": null,
+      "Zeit": "10.00 - 20.00 Uhr",
       "Thema": "Dresden Wendejahre 1990 bis 1994 ",
-      "Ort": null,
+      "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-10-05",
@@ -85,13 +85,13 @@
     },
     {
       "Datum": "2025-10-05",
-      "Zeit": null,
+      "Zeit": "10.00 - 20.00 Uhr",
       "Thema": "Dresden Wendejahre 1990 bis 1994 ",
-      "Ort": null,
+      "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-10-06",
@@ -115,13 +115,13 @@
     },
     {
       "Datum": "2025-10-06",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-10-06",
@@ -175,13 +175,13 @@
     },
     {
       "Datum": "2025-10-13",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-10-13",
@@ -205,13 +205,13 @@
     },
     {
       "Datum": "2025-10-18",
-      "Zeit": null,
+      "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "Tierrechte & Veganismus",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-10-20",
@@ -235,13 +235,13 @@
     },
     {
       "Datum": "2025-10-20",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-10-20",
@@ -305,13 +305,13 @@
     },
     {
       "Datum": "2025-10-27",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-10-27",
@@ -335,12 +335,22 @@
     },
     {
       "Datum": "2025-11-01",
-      "Zeit": null,
+      "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "Tierrechte & Veganismus",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e. V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-11-03",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -386,6 +396,16 @@
     {
       "Datum": "2025-11-10",
       "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-11-10",
+      "Zeit": null,
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
       "Startpunkt": null,
@@ -405,12 +425,22 @@
     },
     {
       "Datum": "2025-11-15",
-      "Zeit": null,
+      "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "Tierrechte & Veganismus",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e. V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-11-17",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -432,6 +462,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-11-24",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-11-24",
@@ -460,6 +500,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "100",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-12-01",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -496,6 +546,16 @@
     {
       "Datum": "2025-12-08",
       "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-12-08",
+      "Zeit": null,
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
       "Startpunkt": null,
@@ -516,6 +576,16 @@
     {
       "Datum": "2025-12-15",
       "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-12-15",
+      "Zeit": null,
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
       "Startpunkt": null,
@@ -536,6 +606,16 @@
     {
       "Datum": "2025-12-22",
       "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-12-22",
+      "Zeit": null,
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
       "Startpunkt": null,
@@ -552,6 +632,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-12-29",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-12-29",
