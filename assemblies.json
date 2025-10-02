@@ -14,6 +14,16 @@
   ],
   "Versammlungen": [
     {
+      "Datum": "2025-10-02",
+      "Zeit": "18.00 - 19.00 Uhr",
+      "Thema": "Protest: Alarmstufe Rot - Sie attackiert die Flotilla",
+      "Ort": "Albertplatz",
+      "Startpunkt": null,
+      "Teilnehmer": "40",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
       "Datum": "2025-10-03",
       "Zeit": "11.00 - 17.00 Uhr",
       "Thema": "Keine Einheit mit Nazis und Rassisten",
@@ -65,13 +75,13 @@
     },
     {
       "Datum": "2025-10-04",
-      "Zeit": null,
+      "Zeit": "11.30 - 19.00 Uhr",
       "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
-      "Ort": null,
+      "Ort": "Altmarkt ",
       "Startpunkt": null,
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-10-04",
@@ -145,11 +155,21 @@
     },
     {
       "Datum": "2025-10-06",
+      "Zeit": "19.00 - 20.30 Uhr",
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": "Wilsdruffer Straße",
+      "Teilnehmer": "150",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-10-07",
       "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu-Zeit für Bürgerverantwortung",
+      "Thema": "Zum achtsamen Gebrauch der Sprache",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "150",
+      "Teilnehmer": "20-30",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -160,16 +180,6 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "20-50",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-10-07",
-      "Zeit": null,
-      "Thema": "Zum achtsamen Gebrauch der Sprache",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "20-30",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -185,13 +195,13 @@
     },
     {
       "Datum": "2025-10-11",
-      "Zeit": null,
+      "Zeit": "11.30 - 19.00 Uhr",
       "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
-      "Ort": null,
+      "Ort": "Altmarkt ",
       "Startpunkt": null,
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-10-13",
@@ -255,13 +265,13 @@
     },
     {
       "Datum": "2025-10-18",
-      "Zeit": null,
+      "Zeit": "11.30 - 19.00 Uhr",
       "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
-      "Ort": null,
+      "Ort": "Altmarkt",
       "Startpunkt": null,
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-10-20",
@@ -335,13 +345,13 @@
     },
     {
       "Datum": "2025-10-25",
-      "Zeit": null,
+      "Zeit": "11.30 - 19.00 Uhr",
       "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
-      "Ort": null,
+      "Ort": "Altmarkt",
       "Startpunkt": null,
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-10-25",
@@ -405,13 +415,13 @@
     },
     {
       "Datum": "2025-11-01",
-      "Zeit": null,
+      "Zeit": "11.30 - 19.00 Uhr",
       "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-11-01",
@@ -515,6 +525,16 @@
     },
     {
       "Datum": "2025-11-15",
+      "Zeit": "11.30 - 19.00 Uhr",
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": "Prager Straße",
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-11-15",
       "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "Tierrechte & Veganismus",
       "Ort": "Prager Straße",
@@ -555,13 +575,13 @@
     },
     {
       "Datum": "2025-11-22",
-      "Zeit": null,
+      "Zeit": "11.30 - 19.00 Uhr",
       "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-11-24",
@@ -605,13 +625,13 @@
     },
     {
       "Datum": "2025-11-29",
-      "Zeit": null,
+      "Zeit": "11.30 - 19.00 Uhr",
       "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-12-01",
