@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-10-02",
+  "Dateidatum": "2025-10-03",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-10-02",
-      "Zeit": "18.00 - 19.00 Uhr",
-      "Thema": "Protest: Alarmstufe Rot - Sie attackiert die Flotilla",
-      "Ort": "Albertplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "40",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-10-03",
       "Zeit": "11.00 - 17.00 Uhr",
