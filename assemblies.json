@@ -55,13 +55,13 @@
     },
     {
       "Datum": "2025-10-06",
-      "Zeit": null,
+      "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "IOF aus Dresden raus! Nein zum Auftritt von Arye Shalicar! Freiheit für Palästina!",
-      "Ort": null,
+      "Ort": "Marienallee",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-10-06",
@@ -91,7 +91,7 @@
       "Startpunkt": null,
       "Teilnehmer": "20-30",
       "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2025-10-07",
@@ -104,6 +104,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2025-10-07",
+      "Zeit": null,
+      "Thema": "Bring them home now",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "5",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-10-09",
       "Zeit": null,
       "Thema": "Erzählbank der OMAS GEGEN RECHTS. DRESDEN für eine respektvolle Gesprächskultur",
@@ -111,6 +121,16 @@
       "Startpunkt": null,
       "Teilnehmer": "3",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-10-10",
+      "Zeit": null,
+      "Thema": "Exit Gas - Enter Future",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "Fridays For Future Dresden",
       "Status": "angemeldet"
     },
     {
@@ -172,6 +192,26 @@
       "Teilnehmer": "8",
       "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-10-17",
+      "Zeit": null,
+      "Thema": "Exit Gas - Enter Future",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "Fridays For Future Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-10-17",
+      "Zeit": null,
+      "Thema": "Kriegshetze stoppen - jetzt!!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "Initiative Dresden Stadt des Friedens",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-10-18",
@@ -382,6 +422,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-11-04",
+      "Zeit": null,
+      "Thema": "Solidaritätskundgebung zum 'Antifa-Ost-Verfahren'",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-11-08",
