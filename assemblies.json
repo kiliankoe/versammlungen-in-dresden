@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-10-06",
+  "Dateidatum": "2025-10-07",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,76 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-10-06",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "15",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-10-06",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Fred stellt sich in den Weg",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "50",
-      "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-10-06",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "25",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-10-06",
-      "Zeit": "18.00 - 19.00 Uhr",
-      "Thema": "Tag des Widerstands gegen Abwälzung der Kriegs- und Krisenlasten auf die breiten Massen. Aktiver Widerstand gegen Krieg und modernen Faschismus. Solidarität mit Gaza! Schluss mit Waffenlieferung durch BRD! ",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-10-06",
-      "Zeit": "14.00 - 17.00 Uhr",
-      "Thema": "IOF aus Dresden raus! Nein zum Auftritt von Arye Shalicar! Freiheit für Palästina!",
-      "Ort": "Marienallee",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-10-06",
-      "Zeit": "16.00 - 18.00 Uhr",
-      "Thema": "Nimm's in die Hand - rette das Lieferkettengesetz",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "6",
-      "Veranstalter": "Entwicklungspolitisches Netzwerk Sachsen",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-10-06",
-      "Zeit": "19.00 - 20.30 Uhr",
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "150",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-10-07",
       "Zeit": "10.00 - 13.00 Uhr",
@@ -321,6 +251,16 @@
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Freie Baptistengemeinde Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-10-26",
+      "Zeit": null,
+      "Thema": "Demonstration in Solidarität mit dem kubanischen Volk, für die Freilassung aller politischen Gefangenen in Kuba",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "40",
+      "Veranstalter": "PatriaYVida e. V.",
       "Status": "angemeldet"
     },
     {
