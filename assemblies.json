@@ -35,13 +35,13 @@
     },
     {
       "Datum": "2025-10-07",
-      "Zeit": null,
+      "Zeit": "18.00 - 18.30 Uhr",
       "Thema": "Bring them home now",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "5",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-10-09",
@@ -371,6 +371,16 @@
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-11-07",
+      "Zeit": null,
+      "Thema": "Exit Gas - Enter Future",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "Fridays For Future Dresden",
       "Status": "angemeldet"
     },
     {
