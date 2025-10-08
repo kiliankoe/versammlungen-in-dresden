@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-10-07",
+  "Dateidatum": "2025-10-08",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,36 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-10-07",
-      "Zeit": "10.00 - 13.00 Uhr",
-      "Thema": "Zum achtsamen Gebrauch der Sprache",
-      "Ort": "Neustädter Markt",
-      "Startpunkt": null,
-      "Teilnehmer": "20-30",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-10-07",
-      "Zeit": "14.00 - 18.00 Uhr",
-      "Thema": "Zum achtsamen Gebrauch der Sprache",
-      "Ort": "Neumarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "20-50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-10-07",
-      "Zeit": "18.00 - 18.30 Uhr",
-      "Thema": "Bring them home now",
-      "Ort": "Neumarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "5",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-10-09",
       "Zeit": null,
