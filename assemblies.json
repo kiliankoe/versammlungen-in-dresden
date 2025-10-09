@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-10-08",
+  "Dateidatum": "2025-10-09",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -15,23 +15,23 @@
   "Versammlungen": [
     {
       "Datum": "2025-10-09",
-      "Zeit": null,
+      "Zeit": "16.30 - 18.00 Uhr",
       "Thema": "Erzählbank der OMAS GEGEN RECHTS. DRESDEN für eine respektvolle Gesprächskultur",
-      "Ort": null,
+      "Ort": "Wasaplatz",
       "Startpunkt": null,
       "Teilnehmer": "3",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-10-10",
-      "Zeit": null,
+      "Zeit": "15.30 - 16.30 Uhr",
       "Thema": "Exit Gas - Enter Future",
-      "Ort": null,
+      "Ort": "Wiener Platz",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "Fridays For Future Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-10-11",
@@ -42,6 +42,16 @@
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-10-12",
+      "Zeit": null,
+      "Thema": "Tanzen für den Frieden – Solidarität mit den Opfern von Krieg und Gewalt",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-10-13",
@@ -59,7 +69,7 @@
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "200",
+      "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -105,13 +115,13 @@
     },
     {
       "Datum": "2025-10-17",
-      "Zeit": null,
+      "Zeit": "15.00 - 17.00 Uhr",
       "Thema": "Kriegshetze stoppen - jetzt!!",
-      "Ort": null,
+      "Ort": "Dr.-Külz-Ring",
       "Startpunkt": null,
       "Teilnehmer": "25",
       "Veranstalter": "Initiative Dresden Stadt des Friedens",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-10-18",
@@ -195,12 +205,22 @@
     },
     {
       "Datum": "2025-10-23",
-      "Zeit": null,
+      "Zeit": "11.00 - 14.00 Uhr",
       "Thema": "Ohne uns läuft nichts – für einen zukunftsfähigen öffentlichen Dienst in Sachsen – #SBBFamilie ",
-      "Ort": null,
+      "Ort": "Carolaplatz",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "SBB Beamtenbund und Tarifunion Sachsen e.V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-10-24",
+      "Zeit": null,
+      "Thema": "Exit Gas - Enter Future",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "Fridays For Future Dresden",
       "Status": "angemeldet"
     },
     {
@@ -305,13 +325,13 @@
     },
     {
       "Datum": "2025-11-03",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-11-03",
@@ -385,13 +405,13 @@
     },
     {
       "Datum": "2025-11-10",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-11-10",
@@ -435,13 +455,13 @@
     },
     {
       "Datum": "2025-11-17",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-11-17",
@@ -475,13 +495,13 @@
     },
     {
       "Datum": "2025-11-24",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-11-24",
@@ -525,13 +545,13 @@
     },
     {
       "Datum": "2025-12-01",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-12-01",
@@ -565,13 +585,13 @@
     },
     {
       "Datum": "2025-12-08",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-12-08",
@@ -595,13 +615,13 @@
     },
     {
       "Datum": "2025-12-15",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-12-15",
@@ -625,13 +645,13 @@
     },
     {
       "Datum": "2025-12-22",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-12-22",
@@ -655,13 +675,13 @@
     },
     {
       "Datum": "2025-12-29",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-12-29",
