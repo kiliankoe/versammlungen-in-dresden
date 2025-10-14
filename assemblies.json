@@ -116,7 +116,7 @@
     {
       "Datum": "2025-10-20",
       "Zeit": null,
-      "Thema": "kein Platz für rechte Musik",
+      "Thema": "Kein Platz für rechte Musik",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "500",
@@ -232,6 +232,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-10-31",
+      "Zeit": null,
+      "Thema": "Exit Gas - Enter Future",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "Fridays For Future Dresden",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-10-31",
