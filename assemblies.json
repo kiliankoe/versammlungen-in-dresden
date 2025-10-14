@@ -124,6 +124,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2025-10-20",
+      "Zeit": null,
+      "Thema": "Aufzug: Kein Platz für rechte Musik",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "Junge Pirat:innen Dresden",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-10-22",
       "Zeit": "16.00 - 17.00 Uhr",
       "Thema": "Unser Stresemannplatz - Für die Sicherheit von Schulwegen und Radroute - Raus mit dem Durchgangsverkehr!",
@@ -325,13 +335,13 @@
     },
     {
       "Datum": "2025-11-09",
-      "Zeit": null,
+      "Zeit": "11.00 - 16.00 Uhr",
       "Thema": "Mahngang zum Gedenken an die Progromnacht 1938",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "An der Kreuzkirche",
       "Teilnehmer": "15",
       "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-11-10",
