@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-10-14",
+  "Dateidatum": "2025-10-15",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -62,6 +62,16 @@
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-10-18",
+      "Zeit": null,
+      "Thema": "Für die Freiheit der politischen Gefangenen beten. ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "70",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-10-20",
@@ -175,13 +185,13 @@
     },
     {
       "Datum": "2025-10-25",
-      "Zeit": null,
+      "Zeit": "14.00 - 15.30 Uhr",
       "Thema": "Für das Leben und dem echten Frieden",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Freie Baptistengemeinde Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-10-26",
