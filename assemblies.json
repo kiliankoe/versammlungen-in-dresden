@@ -145,23 +145,23 @@
     },
     {
       "Datum": "2025-10-20",
-      "Zeit": null,
+      "Zeit": "17.30 - 19.00 Uhr",
       "Thema": "Aufzug: Kein Platz für rechte Musik",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Alaunplatz",
       "Teilnehmer": "200",
       "Veranstalter": "Junge Pirat:innen Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-10-20",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.30 Uhr",
       "Thema": "Wer schweigt, stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-10-20",
@@ -380,6 +380,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "30",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-11-04",
+      "Zeit": null,
+      "Thema": "Endstation Linksextremismus Antifa-Verbot jetzt",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "5",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
