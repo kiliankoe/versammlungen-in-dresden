@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-10-21",
+  "Dateidatum": "2025-10-22",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -35,13 +35,13 @@
     },
     {
       "Datum": "2025-10-24",
-      "Zeit": null,
+      "Zeit": "15.30 - 16.30 Uhr",
       "Thema": "Exit Gas - Enter Future",
-      "Ort": null,
+      "Ort": "Rathausplatz",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "Fridays For Future Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-10-24",
@@ -74,6 +74,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2025-10-25",
+      "Zeit": null,
+      "Thema": " Mahnwache: Der Genozid geht weiter Solidarität mit Gaza!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-10-26",
       "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "Demonstration in Solidarität mit dem kubanischen Volk, für die Freilassung aller politischen Gefangenen in Kuba",
@@ -95,16 +105,6 @@
     },
     {
       "Datum": "2025-10-27",
-      "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "200",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-10-27",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
@@ -122,6 +122,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-10-27",
+      "Zeit": null,
+      "Thema": "Wer schweigt, stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-10-31",
@@ -251,6 +261,16 @@
       "Startpunkt": null,
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-11-09",
+      "Zeit": null,
+      "Thema": "Weg der Erinnerung - Nürnberger Gesetze 1935 und ihre Folgen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "80 bis 150",
+      "Veranstalter": "Ev.-Luth. Stadtjugendpfarramt Dresden in Zusammenarbeit mit der Gesellschaft für Christlich-Jüdische Zusammenarbeit, Katholische Dekanatsjugendseelsorge und der Jüdischen Gemeinde Dresden",
       "Status": "angemeldet"
     },
     {
