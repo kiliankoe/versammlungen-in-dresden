@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-10-23",
+  "Dateidatum": "2025-10-24",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,16 +14,6 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2025-10-23",
-      "Zeit": "11.00 - 14.00 Uhr",
-      "Thema": "Ohne uns läuft nichts – für einen zukunftsfähigen öffentlichen Dienst in Sachsen – #SBBFamilie ",
-      "Ort": "Carolaplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "SBB Beamtenbund und Tarifunion Sachsen e.V.",
-      "Status": "abgemeldet"
-    },
-    {
       "Datum": "2025-10-24",
       "Zeit": "15.30 - 16.30 Uhr",
       "Thema": "Exit Gas - Enter Future",
@@ -35,13 +25,13 @@
     },
     {
       "Datum": "2025-10-24",
-      "Zeit": null,
+      "Zeit": "16.30 - 19.00 Uhr",
       "Thema": "'Wir sind Töchter' - Für ein buntes Stadtbild",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Albertplatz",
       "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-10-24",
@@ -125,13 +115,13 @@
     },
     {
       "Datum": "2025-10-27",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.30 Uhr",
       "Thema": "Wer schweigt, stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-10-28",
@@ -156,16 +146,6 @@
     {
       "Datum": "2025-10-31",
       "Zeit": null,
-      "Thema": "Nazis und Rassisten weggruseln",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "100",
-      "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-10-31",
-      "Zeit": null,
       "Thema": "Freie Sachsen unterstützen den Protest von Fuchsi -  mit unserem Trauti für die nächste Reformation!",
       "Ort": null,
       "Startpunkt": null,
@@ -181,6 +161,16 @@
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "Prohlis ist bunt",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-10-31",
+      "Zeit": null,
+      "Thema": "Nazis und Rassisten weggruseln",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "FreddielinkeSocke_official",
       "Status": "angemeldet"
     },
     {
