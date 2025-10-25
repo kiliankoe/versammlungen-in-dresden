@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-10-24",
+  "Dateidatum": "2025-10-25",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,36 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-10-24",
-      "Zeit": "15.30 - 16.30 Uhr",
-      "Thema": "Exit Gas - Enter Future",
-      "Ort": "Rathausplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "Fridays For Future Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-10-24",
-      "Zeit": "16.30 - 19.00 Uhr",
-      "Thema": "'Wir sind Töchter' - Für ein buntes Stadtbild",
-      "Ort": null,
-      "Startpunkt": "Albertplatz",
-      "Teilnehmer": "100",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-10-24",
-      "Zeit": "18.00 - 20.00 Uhr",
-      "Thema": "Rückkehr der Namen",
-      "Ort": "Dr.-Külz-Ring",
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "Russischsprachige Demokratinnen und Demokraten e. V.",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-10-25",
       "Zeit": "11.30 - 19.00 Uhr",
@@ -65,13 +35,13 @@
     },
     {
       "Datum": "2025-10-25",
-      "Zeit": null,
+      "Zeit": "14.30 - 16.00 Uhr",
       "Thema": " Mahnwache: Der Genozid geht weiter Solidarität mit Gaza!",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-10-26",
@@ -125,12 +95,22 @@
     },
     {
       "Datum": "2025-10-28",
-      "Zeit": null,
+      "Zeit": "16.00 - 19.15 Uhr",
       "Thema": "Streichen bei den Reichen, statt Kürzungen bei uns! Gemeinsam gegen Merz und Kürzungen",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Widgardstraße",
       "Teilnehmer": "500",
       "Veranstalter": "Bündnis gegen Kürzungen",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-10-28",
+      "Zeit": null,
+      "Thema": "Evangelisation/Gebet/Austausch",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "9",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -156,21 +136,21 @@
     {
       "Datum": "2025-10-31",
       "Zeit": null,
-      "Thema": "Halloween schaurig und schön",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "100",
-      "Veranstalter": "Prohlis ist bunt",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-10-31",
-      "Zeit": null,
       "Thema": "Nazis und Rassisten weggruseln",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "FreddielinkeSocke_official",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-10-31",
+      "Zeit": null,
+      "Thema": "Fascho das Gruseln lehren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -242,16 +222,6 @@
       "Teilnehmer": "30",
       "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
       "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-11-04",
-      "Zeit": null,
-      "Thema": "Solidaritätskundgebung zum 'Antifa-Ost-Verfahren'",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
     },
     {
       "Datum": "2025-11-04",
@@ -480,6 +450,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "100",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-11-25",
+      "Zeit": null,
+      "Thema": "Solidaritätskundgebung zum 'Antifa-Ost-Verfahren'",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
