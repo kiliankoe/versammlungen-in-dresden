@@ -15,13 +15,13 @@
   "Versammlungen": [
     {
       "Datum": "2025-10-29",
-      "Zeit": null,
+      "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "Deine Stimme - für die Simme!",
-      "Ort": null,
+      "Ort": "Bernhard-von-Lindenau-Platz ",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "AfD Kreisverband Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-10-31",
@@ -35,43 +35,43 @@
     },
     {
       "Datum": "2025-10-31",
-      "Zeit": null,
+      "Zeit": "14.00 - 18.00 Uhr",
       "Thema": "Freie Sachsen unterstützen den Protest von Fuchsi -  mit unserem Trauti für die nächste Reformation!",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "FREIE SACHSEN",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-10-31",
-      "Zeit": null,
+      "Zeit": "14.30 - 19.00 Uhr",
       "Thema": "Nazis und Rassisten weggruseln",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Neumarkt",
       "Teilnehmer": "100",
       "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-10-31",
-      "Zeit": null,
-      "Thema": "Fascho das Gruseln lehren",
+      "Zeit": "ab 13.30 Uhr",
+      "Thema": "Faschos das Gruseln lehren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Alaunpark",
       "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-10-31",
-      "Zeit": null,
+      "Zeit": "15.00 - 19.00 Uhr",
       "Thema": "Reformation 2.0",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Neumarkt",
       "Teilnehmer": "1000",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-11-01",
@@ -134,24 +134,14 @@
       "Status": "beschieden"
     },
     {
-      "Datum": "2025-11-04",
-      "Zeit": null,
-      "Thema": "Endstation Linksextremismus Antifa-Verbot jetzt",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "5",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
       "Datum": "2025-11-07",
-      "Zeit": null,
+      "Zeit": "15.30 - 16.30 Uhr",
       "Thema": "Exit Gas - Enter Future",
-      "Ort": null,
+      "Ort": "Alaunplatz",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "Fridays For Future Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-11-08",
@@ -292,6 +282,16 @@
       "Teilnehmer": "30",
       "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-11-18",
+      "Zeit": null,
+      "Thema": "Endstation Linksextremismus Antifa-Verbot jetzt",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "5",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-11-19",
