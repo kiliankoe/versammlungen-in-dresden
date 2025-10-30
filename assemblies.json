@@ -105,13 +105,13 @@
     },
     {
       "Datum": "2025-11-03",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.30 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-11-03",
@@ -132,6 +132,16 @@
       "Teilnehmer": "30",
       "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-11-06",
+      "Zeit": null,
+      "Thema": "Kein Schlussstrich - NSU Komplex auflösen!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-11-07",
@@ -232,6 +242,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-11-14",
+      "Zeit": null,
+      "Thema": "Globaler Klimastreik - Exit Gas! Enter Future!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "Fridays For Future Dresden",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-11-15",
