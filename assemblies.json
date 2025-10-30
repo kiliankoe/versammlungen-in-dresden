@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-10-29",
+  "Dateidatum": "2025-10-30",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-10-29",
-      "Zeit": "15.00 - 18.00 Uhr",
-      "Thema": "Deine Stimme - für die Simme!",
-      "Ort": "Bernhard-von-Lindenau-Platz ",
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "AfD Kreisverband Dresden",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-10-31",
       "Zeit": "15.30 - 16.30 Uhr",
@@ -62,6 +52,16 @@
       "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-10-31",
+      "Zeit": null,
+      "Thema": "Für das Leben",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "4",
+      "Veranstalter": "Freie Baptistengemeinde Dresden n.e.V. ",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-10-31",
@@ -154,6 +154,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2025-11-08",
+      "Zeit": null,
+      "Thema": "PRÜF: Prüfung Rettet Übrigens Freiheit",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-11-09",
       "Zeit": null,
       "Thema": "Weg der Erinnerung - Nürnberger Gesetze 1935 und ihre Folgen",
@@ -171,7 +181,7 @@
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "Grüne Jugend Dresden",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2025-11-09",
