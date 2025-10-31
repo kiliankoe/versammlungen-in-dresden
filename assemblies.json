@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-10-30",
+  "Dateidatum": "2025-10-31",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -642,6 +642,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-01-29",
+      "Zeit": null,
+      "Thema": "Kundgebung zur Einkommensrunde 2025/2026 für die Beschäftigten der Länder",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2000",
+      "Veranstalter": "dbb beamtenbund und tarifunion",
+      "Status": "angemeldet"
     }
   ]
 }
