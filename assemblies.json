@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-11-03",
+  "Dateidatum": "2025-11-04",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,56 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-11-03",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "15",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-11-03",
-      "Zeit": "19.00 - 20.30 Uhr",
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "200",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-11-03",
-      "Zeit": null,
-      "Thema": "Fred stellt sich in den Weg",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-11-03",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "25",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-11-03",
-      "Zeit": "18.00 - 19.00 Uhr",
-      "Thema": "Tag des Widerstands gegen Abwälzung der Kriegs- und Krisenlasten auf die breiten Massen. Aktiver Widerstand gegen Krieg und modernen Faschismus. Solidarität mit Gaza! Schluss mit Waffenlieferung durch BRD! ",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-11-06",
       "Zeit": null,
@@ -84,6 +34,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2025-11-07",
+      "Zeit": null,
+      "Thema": "Dialog fördern und Gemeinschaft stärken  - Stadtführung mit historischem Schwerpunkt ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-11-08",
       "Zeit": null,
       "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
@@ -95,13 +55,13 @@
     },
     {
       "Datum": "2025-11-08",
-      "Zeit": null,
-      "Thema": "PRÜF: Prüfung Rettet Übrigens Freiheit",
-      "Ort": null,
+      "Zeit": "14.00 - 16.00 Uhr",
+      "Thema": "PRUEF - Für die Prüfung rechtsextremer Parteien, gegen jeden Antisemitismus. Gedenken an Georg Elser und den 8.11.1939",
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-11-09",
@@ -165,13 +125,13 @@
     },
     {
       "Datum": "2025-11-10",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-11-10",
@@ -235,13 +195,13 @@
     },
     {
       "Datum": "2025-11-17",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-11-17",
@@ -335,13 +295,13 @@
     },
     {
       "Datum": "2025-11-24",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-11-24",
@@ -381,6 +341,16 @@
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "Aktionswoche gegen patriarchale Gewalt",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-11-25",
+      "Zeit": null,
+      "Thema": "Gedenken zum 25.11 - Internationaler Tag gegen Gewalt an Frauen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "65",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
