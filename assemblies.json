@@ -35,13 +35,13 @@
     },
     {
       "Datum": "2025-11-07",
-      "Zeit": null,
+      "Zeit": "09.00 - 12.30 Uhr",
       "Thema": "Dialog fördern und Gemeinschaft stärken  - Stadtführung mit historischem Schwerpunkt ",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Lingnerallee ",
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-11-08",
@@ -51,6 +51,16 @@
       "Startpunkt": null,
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-11-08",
+      "Zeit": null,
+      "Thema": "Die Wahrheit über die Tierindustrie zeigen und aufklären.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "6",
+      "Veranstalter": "Anonymous for the Voiceless ",
       "Status": "angemeldet"
     },
     {
@@ -85,13 +95,13 @@
     },
     {
       "Datum": "2025-11-09",
-      "Zeit": null,
+      "Zeit": "17.30 - 21.30 Uhr",
       "Thema": "Gedenkveranstaltung zum 87. Jahrestag Reichspogromnacht",
-      "Ort": null,
+      "Ort": "Eisenbahnstraße",
       "Startpunkt": null,
       "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-11-09",
@@ -115,16 +125,6 @@
     },
     {
       "Datum": "2025-11-10",
-      "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "200",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-11-10",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
@@ -144,13 +144,33 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2025-11-10",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-11-12",
       "Zeit": null,
       "Thema": "Demo gegen Personalabbau bei DB Regio",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": null,
-      "Veranstalter": "natürliche Person",
+      "Teilnehmer": "80",
+      "Veranstalter": "Gewerkschaft der Lokführer",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-11-12",
+      "Zeit": null,
+      "Thema": "Nazis keine Halle bieten!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "Azubis gegen Rechts Dresden",
       "Status": "angemeldet"
     },
     {
@@ -182,6 +202,16 @@
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e. V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-11-16",
+      "Zeit": null,
+      "Thema": "Gedenken zum Volkstrauertag",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Heimatverein Niedersedlitz e. V.",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-11-17",
@@ -232,16 +262,6 @@
       "Teilnehmer": "30",
       "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
       "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-11-18",
-      "Zeit": null,
-      "Thema": "Endstation Linksextremismus Antifa-Verbot jetzt",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "5",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
     },
     {
       "Datum": "2025-11-19",
@@ -351,6 +371,16 @@
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "Aktionswoche gegen patriarchale Gewalt",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-11-25",
+      "Zeit": null,
+      "Thema": "Endstation Linksextremismus Antifa-Verbot jetzt",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "5",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
