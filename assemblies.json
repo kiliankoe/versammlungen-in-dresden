@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-11-04",
+  "Dateidatum": "2025-11-05",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -15,13 +15,13 @@
   "Versammlungen": [
     {
       "Datum": "2025-11-06",
-      "Zeit": null,
+      "Zeit": "08.00 - 17.00 Uhr",
       "Thema": "Kein Schlussstrich - NSU Komplex auflösen!",
-      "Ort": null,
+      "Ort": "Hammerweg ",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-11-07",
@@ -65,13 +65,13 @@
     },
     {
       "Datum": "2025-11-09",
-      "Zeit": null,
+      "Zeit": "11.00 - 14.00 Uhr",
       "Thema": "Weg der Erinnerung - Nürnberger Gesetze 1935 und ihre Folgen",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "An der Kreuzkirche",
       "Teilnehmer": "80 bis 150",
       "Veranstalter": "Ev.-Luth. Stadtjugendpfarramt Dresden in Zusammenarbeit mit der Gesellschaft für Christlich-Jüdische Zusammenarbeit, Katholische Dekanatsjugendseelsorge und der Jüdischen Gemeinde Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-11-09",
@@ -142,6 +142,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-11-12",
+      "Zeit": null,
+      "Thema": "Demo gegen Personalabbau bei DB Regio",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": null,
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-11-14",
