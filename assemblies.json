@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-11-05",
+  "Dateidatum": "2025-11-06",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -181,6 +181,16 @@
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "Fridays For Future Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-11-14",
+      "Zeit": null,
+      "Thema": "30.Weltklimakonferenz? 15.11.2025 Globaler Umweltaktionstag! Weltweiter Widerstand für eine intakte Umwelt, Friede",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Umweltgewerkschaft Dresden",
       "Status": "angemeldet"
     },
     {
