@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-11-09",
+  "Dateidatum": "2025-11-10",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,56 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-11-09",
-      "Zeit": "11.00 - 14.00 Uhr",
-      "Thema": "Weg der Erinnerung - Nürnberger Gesetze 1935 und ihre Folgen",
-      "Ort": null,
-      "Startpunkt": "An der Kreuzkirche",
-      "Teilnehmer": "80 bis 150",
-      "Veranstalter": "Ev.-Luth. Stadtjugendpfarramt Dresden in Zusammenarbeit mit der Gesellschaft für Christlich-Jüdische Zusammenarbeit, Katholische Dekanatsjugendseelsorge und der Jüdischen Gemeinde Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-11-09",
-      "Zeit": null,
-      "Thema": "Mahnwache gegen Antisemitismus, Faschismus und Rassismus in Gedenken an die Opfer der Novemberpogrome 1938",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "Grüne Jugend Dresden",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-11-09",
-      "Zeit": "17.30 - 21.30 Uhr",
-      "Thema": "Gedenkveranstaltung zum 87. Jahrestag Reichspogromnacht",
-      "Ort": "Eisenbahnstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "150",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-11-09",
-      "Zeit": "14.30 - 21.00 Uhr",
-      "Thema": "Wir fahren nach Gießen - AfD Jugend stoppen!",
-      "Ort": "Alaunstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "10-30",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-11-09",
-      "Zeit": "11.00 - 16.00 Uhr",
-      "Thema": "Mahngang zum Gedenken an die Pogromnacht 1938",
-      "Ort": null,
-      "Startpunkt": "An der Kreuzkirche",
-      "Teilnehmer": "15",
-      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-11-10",
       "Zeit": "18.00 - 19.30 Uhr",
@@ -271,6 +221,16 @@
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Greenpeace Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-11-21",
+      "Zeit": null,
+      "Thema": "Wer bedroht wen in Europa?",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "Initiative Dresden Stadt des Friedens",
       "Status": "angemeldet"
     },
     {
