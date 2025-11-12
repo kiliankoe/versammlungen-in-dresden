@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-11-11",
+  "Dateidatum": "2025-11-12",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -25,23 +25,23 @@
     },
     {
       "Datum": "2025-11-12",
-      "Zeit": null,
+      "Zeit": "12.00 - 14.00 Uhr",
       "Thema": "Widersetzen in Gießen? Kommt mit!",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Zellescher Weg",
       "Teilnehmer": "50-100",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-11-12",
-      "Zeit": null,
+      "Zeit": "17.00 - 18.30 Uhr",
       "Thema": "Nazis keine Halle bieten!",
-      "Ort": null,
+      "Ort": "Messering",
       "Startpunkt": null,
       "Teilnehmer": "25",
       "Veranstalter": "Azubis gegen Rechts Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-11-14",
@@ -82,6 +82,16 @@
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e. V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-11-15",
+      "Zeit": null,
+      "Thema": "BRüF! - Bitte Richtet Über Faschisten!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-11-16",
@@ -175,13 +185,13 @@
     },
     {
       "Datum": "2025-11-21",
-      "Zeit": null,
+      "Zeit": "15.00 - 19.00 Uhr",
       "Thema": "Stoppt Fast Fashion",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Greenpeace Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-11-21",
@@ -211,6 +221,16 @@
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-11-22",
+      "Zeit": null,
+      "Thema": "Die Wahrheit über die Tierindustrie.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "6",
+      "Veranstalter": "Anonymous for the Voiceless ",
       "Status": "angemeldet"
     },
     {
@@ -402,6 +422,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-12-11",
+      "Zeit": null,
+      "Thema": "XR (Extinction Rebellion) - für einen ambitionierteren Wärmeplan der Stadt Dresden, Wärmewnde beschleuingen und so Klimakosten für die Bürger:innen senken!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-12-15",
