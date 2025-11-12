@@ -55,13 +55,13 @@
     },
     {
       "Datum": "2025-11-14",
-      "Zeit": null,
+      "Zeit": "13.30 - 15.30 Uhr",
       "Thema": "30.Weltklimakonferenz? 15.11.2025 Globaler Umweltaktionstag! Weltweiter Widerstand für eine intakte Umwelt, Friede",
-      "Ort": null,
+      "Ort": "Alaunplatz",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Umweltgewerkschaft Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-11-15",
@@ -86,12 +86,32 @@
     {
       "Datum": "2025-11-15",
       "Zeit": null,
-      "Thema": "BRüF! - Bitte Richtet Über Faschisten!",
+      "Thema": "Freiheit für Aziz",
       "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-11-15",
+      "Zeit": null,
+      "Thema": "Für das Leben",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "7",
+      "Veranstalter": "Freie Baptistengemeinde Dresden n.e.V. ",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-11-15",
+      "Zeit": "14.00 - 16.00 Uhr",
+      "Thema": "BRüF! - Bitte Richtet Über Faschisten!",
+      "Ort": "Wilsdruffer Straße",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-11-16",
@@ -175,12 +195,22 @@
     },
     {
       "Datum": "2025-11-20",
-      "Zeit": null,
+      "Zeit": "16.00 - 18.00 Uhr",
       "Thema": "Mahnwache zum Gedenktag an die Opfer von Transfeindlichkeit",
-      "Ort": null,
+      "Ort": "Alaunplatz",
       "Startpunkt": null,
       "Teilnehmer": "40",
       "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-11-20",
+      "Zeit": null,
+      "Thema": "Mahnwache der OMAS GEGEN RECHTS.DRESDEN für Frieden - gegen Krieg und Gewalt überall",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "8",
+      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
       "Status": "angemeldet"
     },
     {
@@ -215,13 +245,13 @@
     },
     {
       "Datum": "2025-11-22",
-      "Zeit": null,
+      "Zeit": "14.00 - 16.00 Uhr",
       "Thema": "BRüF! - Bitte Richtet Über Faschisten!",
-      "Ort": null,
+      "Ort": "Wilsdruffer Straße",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-11-22",
@@ -275,13 +305,13 @@
     },
     {
       "Datum": "2025-11-25",
-      "Zeit": null,
+      "Zeit": "16.10 - 17.30 Uhr",
       "Thema": "Anlässlich des 25.11.2025 gegen Gewalt an Frauen.",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Schloßplatz",
       "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-11-25",
@@ -321,6 +351,16 @@
       "Startpunkt": null,
       "Teilnehmer": "65",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-11-25",
+      "Zeit": null,
+      "Thema": "Femizide gedenken",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Linksjugend Dresden",
       "Status": "angemeldet"
     },
     {
@@ -384,6 +424,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2025-12-05",
+      "Zeit": null,
+      "Thema": "Wehrpflicht NICHT!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-12-06",
       "Zeit": null,
       "Thema": "Light the Sky - Gedenken an die Tiere in der Massentierhaltung sowie auf den Transporten",
@@ -422,6 +472,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-12-11",
+      "Zeit": null,
+      "Thema": "Kürzungen? Nicht mit uns! ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "Bündnis gegen Kürzungen",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-12-11",
