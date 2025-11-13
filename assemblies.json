@@ -15,12 +15,22 @@
   "Versammlungen": [
     {
       "Datum": "2025-11-14",
-      "Zeit": null,
+      "Zeit": "15.30 - 18.30 Uhr",
       "Thema": "Globaler Klimastreik - Exit Gas! Enter Future!",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Alaunplatz",
       "Teilnehmer": "500",
       "Veranstalter": "Fridays For Future Dresden",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-11-14",
+      "Zeit": null,
+      "Thema": "Islamisten raus!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "Freie Sachsen ",
       "Status": "angemeldet"
     },
     {
@@ -234,6 +244,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2025-11-22",
+      "Zeit": null,
+      "Thema": "Demonstration in Solidarität mit den kubanischen und venezolanischen Völkern",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "40",
+      "Veranstalter": "PatriaYVida e.V.",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-11-24",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -405,13 +425,13 @@
     },
     {
       "Datum": "2025-12-06",
-      "Zeit": null,
+      "Zeit": "16.00 - 18.30 Uhr",
       "Thema": "Light the Sky - Gedenken an die Tiere in der Massentierhaltung sowie auf den Transporten",
-      "Ort": null,
+      "Ort": "Wilsdruffer Straße",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "Die Tierstimme e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-12-08",
@@ -442,6 +462,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-12-08",
+      "Zeit": null,
+      "Thema": "Warum Dresden, warum Deutschland Jesus braucht!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Ruhrpottmission e.V",
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2025-12-11",
