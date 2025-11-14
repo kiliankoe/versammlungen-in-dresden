@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-11-13",
+  "Dateidatum": "2025-11-14",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -115,16 +115,6 @@
     },
     {
       "Datum": "2025-11-17",
-      "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "200",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-11-17",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
@@ -152,6 +142,16 @@
       "Teilnehmer": "30",
       "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-11-17",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-11-19",
@@ -542,6 +542,16 @@
       "Teilnehmer": "30",
       "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-12-15",
+      "Zeit": null,
+      "Thema": "Eröffnung der Informationstafeln als Erweiterung der 'Grünen Seestraße' durch DresdenZero  mit Redebeiträgen aus Politik, Verwaltung und DresdenZero.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "DresdenZero",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-12-22",
