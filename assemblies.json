@@ -25,12 +25,22 @@
     },
     {
       "Datum": "2025-11-14",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Islamisten raus!",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Dreyßigplatz",
       "Teilnehmer": "100",
       "Veranstalter": "Freie Sachsen ",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-11-14",
+      "Zeit": null,
+      "Thema": "Kein Platz für Straftäter",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
       "Status": "angemeldet"
     },
     {
@@ -65,13 +75,13 @@
     },
     {
       "Datum": "2025-11-15",
-      "Zeit": null,
+      "Zeit": "12.00 - 14.00 Uhr",
       "Thema": "Freiheit für Aziz",
-      "Ort": null,
+      "Ort": "Dr. Külz-Ring",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-11-15",
