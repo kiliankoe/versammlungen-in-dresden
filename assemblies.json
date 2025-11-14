@@ -435,13 +435,13 @@
     },
     {
       "Datum": "2025-12-08",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
+      "Zeit": null,
+      "Thema": "200 Stimmen für Frieden zum 200. Spaziergang",
       "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "15",
+      "Startpunkt": null,
+      "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-12-08",
