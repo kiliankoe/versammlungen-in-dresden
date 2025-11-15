@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-11-14",
+  "Dateidatum": "2025-11-15",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,46 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-11-14",
-      "Zeit": "15.30 - 18.30 Uhr",
-      "Thema": "Globaler Klimastreik - Exit Gas! Enter Future!",
-      "Ort": null,
-      "Startpunkt": "Alaunplatz",
-      "Teilnehmer": "500",
-      "Veranstalter": "Fridays For Future Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-11-14",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Islamisten raus!",
-      "Ort": null,
-      "Startpunkt": "Dreyßigplatz",
-      "Teilnehmer": "100",
-      "Veranstalter": "Freie Sachsen ",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-11-14",
-      "Zeit": "19.00 - 21.30 Uhr",
-      "Thema": "Kein Platz für Straftäter",
-      "Ort": null,
-      "Startpunkt": "Dreyßigplatz",
-      "Teilnehmer": "50",
-      "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-11-14",
-      "Zeit": "13.30 - 15.30 Uhr",
-      "Thema": "30.Weltklimakonferenz? 15.11.2025 Globaler Umweltaktionstag! Weltweiter Widerstand für eine intakte Umwelt, Friede",
-      "Ort": "Alaunplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "Umweltgewerkschaft Dresden",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-11-15",
       "Zeit": "11.30 - 19.00 Uhr",
@@ -631,6 +591,56 @@
       "Startpunkt": null,
       "Teilnehmer": "2000",
       "Veranstalter": "dbb beamtenbund und tarifunion",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-13",
+      "Zeit": null,
+      "Thema": "Tu was gegen rechts - Demokratie stärken",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Bündnis 90 / Die Grünen, Stadtverband Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-13",
+      "Zeit": null,
+      "Thema": "Stilles Gedenken vor der Frauenkirche Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "Gesellschaft zur Förderung der Frauenkirche Dresden e. V., Herrn Prof. Ludwig Güttler ",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-13",
+      "Zeit": null,
+      "Thema": "Stilles Ge(h)denken Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "unbekannt",
+      "Veranstalter": "Wellenlänge",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-13",
+      "Zeit": null,
+      "Thema": "Stilles Ge(h)denken Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "unbekannt",
+      "Veranstalter": "Wellenlänge",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-13",
+      "Zeit": null,
+      "Thema": "Mahnwache für die Oper der Bombardierung Dresdens am 13.02.1945",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     }
   ]
