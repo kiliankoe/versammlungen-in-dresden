@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-11-15",
+  "Dateidatum": "2025-11-16",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,56 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-11-15",
-      "Zeit": "11.30 - 19.00 Uhr",
-      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "12",
-      "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-11-15",
-      "Zeit": "14.00 - 17.00 Uhr",
-      "Thema": "Tierrechte & Veganismus",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "15",
-      "Veranstalter": "Activists for the Victims e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-11-15",
-      "Zeit": "12.00 - 14.00 Uhr",
-      "Thema": "Freiheit für Aziz",
-      "Ort": "Dr. Külz-Ring",
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-11-15",
-      "Zeit": null,
-      "Thema": "Für das Leben",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "7",
-      "Veranstalter": "Freie Baptistengemeinde Dresden n.e.V. ",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-11-15",
-      "Zeit": "14.00 - 16.00 Uhr",
-      "Thema": "BRüF! - Bitte Richtet Über Faschisten!",
-      "Ort": "Wilsdruffer Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-11-16",
       "Zeit": "11.00 - 11.30 Uhr",
@@ -640,6 +590,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-14",
+      "Zeit": null,
+      "Thema": "Erhalt von Meinungs- und Versammlungsfreiheit in der Landeshauptstadt Dresden ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     }
