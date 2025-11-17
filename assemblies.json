@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-11-16",
+  "Dateidatum": "2025-11-17",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-11-16",
-      "Zeit": "11.00 - 11.30 Uhr",
-      "Thema": "Gedenken zum Volkstrauertag",
-      "Ort": "Bahnhofstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "Heimatverein Niedersedlitz e. V.",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-11-17",
       "Zeit": "18.00 - 19.30 Uhr",
