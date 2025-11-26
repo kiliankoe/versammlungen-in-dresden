@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-11-19",
+  "Dateidatum": "2025-11-26",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,233 +14,23 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2025-11-19",
-      "Zeit": "16.00 - 20.00 Uhr",
-      "Thema": "In Gedenken an Emma - ein halbes Jahr ohne dich",
-      "Ort": "Königsufer",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-11-19",
-      "Zeit": "14.00 - 15.30 Uhr",
-      "Thema": "Frieden im Alter statt Angst vor dem Morgen",
-      "Ort": "Schloßplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-11-20",
-      "Zeit": "16.00 - 18.00 Uhr",
-      "Thema": "Mahnwache zum Gedenktag an die Opfer von Transfeindlichkeit",
-      "Ort": "Martin-Luther-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "40",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-11-20",
-      "Zeit": "16.00 - 18.00 Uhr",
-      "Thema": "Mahnwache der OMAS GEGEN RECHTS.DRESDEN für Frieden - gegen Krieg und Gewalt überall",
-      "Ort": "Kleine Kirchgasse",
-      "Startpunkt": null,
-      "Teilnehmer": "8",
-      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-11-21",
-      "Zeit": "15.00 - 20.00 Uhr",
-      "Thema": "Wir fahren nach Gießen - AfD Jugend stoppen!",
-      "Ort": "Alaunstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "5-10",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-11-21",
-      "Zeit": "15.00 - 19.00 Uhr",
-      "Thema": "Stoppt Fast Fashion",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "Greenpeace Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-11-21",
-      "Zeit": "15.00 - 17.00 Uhr",
-      "Thema": "Wer bedroht wen in Europa?",
-      "Ort": "Dr.-Külz-Ring",
+      "Datum": "2025-11-27",
+      "Zeit": null,
+      "Thema": "'Abriss Eisenbahnbrückenübergang'",
+      "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "20",
-      "Veranstalter": "Initiative Dresden Stadt des Friedens",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-11-22",
-      "Zeit": "11.30 - 19.00 Uhr",
-      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "12",
-      "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-11-22",
-      "Zeit": null,
-      "Thema": "Galerie der Aufklärung",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
-      "Datum": "2025-11-22",
-      "Zeit": "14.00 - 16.00 Uhr",
-      "Thema": "BRüF! - Bitte Richtet Über Faschisten!",
-      "Ort": "Wilsdruffer Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-11-22",
-      "Zeit": "14.00 - 17.15 Uhr",
-      "Thema": "Die Wahrheit über die Tierindustrie.",
-      "Ort": "Neumarkt ",
-      "Startpunkt": null,
-      "Teilnehmer": "6",
-      "Veranstalter": "Anonymous for the Voiceless ",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-11-22",
-      "Zeit": "14.00 - 17.00 Uhr",
-      "Thema": "Demonstration in Solidarität mit den kubanischen und venezolanischen Völkern",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "40",
-      "Veranstalter": "PatriaYVida e.V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-11-24",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "15",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-11-24",
+      "Datum": "2025-11-27",
       "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Thema": "Nahverkehr - Mehr ins Personal investieren!",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "200",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-11-24",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Fred stellt sich in den Weg",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "50",
-      "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-11-24",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "25",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-11-24",
-      "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "150",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-11-25",
-      "Zeit": "16.10 - 17.30 Uhr",
-      "Thema": "Anlässlich des 25.11.2025 gegen Gewalt an Frauen.",
-      "Ort": null,
-      "Startpunkt": "Schloßplatz",
-      "Teilnehmer": "100",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-11-25",
-      "Zeit": null,
-      "Thema": "Solidaritätskundgebung zum 'Antifa-Ost-Verfahren'",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-11-25",
-      "Zeit": null,
-      "Thema": "Gewalt stoppen - die Scham muss die Seite wechseln",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "200",
-      "Veranstalter": "Aktionswoche gegen patriarchale Gewalt",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-11-25",
-      "Zeit": null,
-      "Thema": "Endstation Linksextremismus Antifa-Verbot jetzt",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "5",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-11-25",
-      "Zeit": null,
-      "Thema": "Gedenken zum 25.11 - Internationaler Tag gegen Gewalt an Frauen",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "65",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-11-25",
-      "Zeit": null,
-      "Thema": "Femizide gedenken",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "Linksjugend Dresden",
+      "Teilnehmer": "45",
+      "Veranstalter": "ver.di - Bezirk Sachsen-West-Ost-Süd",
       "Status": "angemeldet"
     },
     {
@@ -264,6 +54,26 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2025-11-29",
+      "Zeit": null,
+      "Thema": "Stoppt Fast-Fashion: Konsum auf Kosten von Mensch und Umwelt!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "4",
+      "Veranstalter": "Greenpeace Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-11-30",
+      "Zeit": null,
+      "Thema": "Tierrechte & Veganismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Activists for the Victims e.V.",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-12-01",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -281,6 +91,16 @@
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-12-01",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
       "Status": "angemeldet"
     },
     {
@@ -316,10 +136,50 @@
     {
       "Datum": "2025-12-05",
       "Zeit": null,
-      "Thema": "Wehrpflicht NICHT!",
+      "Thema": "Michael Brück wehrt sich gegen die Wehr-Pflicht. Mehr Umarmungen, weniger Diskussionen! Freie  Sachsen unterstützen Fuchsis Friedensprotest!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10- 20",
+      "Veranstalter": "FREIE SACHSEN",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-12-05",
+      "Zeit": null,
+      "Thema": "Schulstreik gegen die Wehrpflicht",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-12-05",
+      "Zeit": null,
+      "Thema": "Zubringer - Schulstreik gegen die Wehrpflicht",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "nicht benannt",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-12-05",
+      "Zeit": null,
+      "Thema": "Wir sterben nicht für Eure Kriege!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "Die Linke Dresden, Linksjugend, SDS",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-12-05",
+      "Zeit": null,
+      "Thema": "Aktionstag gegen die Wehrpflicht",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -334,14 +194,24 @@
       "Status": "beschieden"
     },
     {
-      "Datum": "2025-12-08",
+      "Datum": "2025-12-06",
       "Zeit": null,
-      "Thema": "200 Stimmen für Frieden zum 200. Spaziergang",
+      "Thema": "3 Minute Movie Challenge",
       "Ort": null,
       "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Activists for the Victims e.V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-12-08",
+      "Zeit": "18.00 - 20.00 Uhr",
+      "Thema": "200 Stimmen für Frieden zum 200. Spaziergang",
+      "Ort": null,
+      "Startpunkt": "Neukircher Straße",
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-12-08",
@@ -351,6 +221,16 @@
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-12-08",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
       "Status": "angemeldet"
     },
     {
@@ -386,7 +266,7 @@
     {
       "Datum": "2025-12-11",
       "Zeit": null,
-      "Thema": "XR (Extinction Rebellion) - für einen ambitionierteren Wärmeplan der Stadt Dresden, Wärmewnde beschleuingen und so Klimakosten für die Bürger:innen senken!",
+      "Thema": "XR (Extinction Rebellion) - Stoppt den fossilen Wahnsinn! Forderung für einen ambitionierteren Wärmeplan der Stadt Dresden, Wärme-/Energiewende beschleunigen und so Klimakosten für die Bürger:innen senken!",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "20",
@@ -425,6 +305,16 @@
     },
     {
       "Datum": "2025-12-15",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-12-15",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
@@ -454,6 +344,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2025-12-20",
+      "Zeit": null,
+      "Thema": "Tierrechte & Veganismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Activists for the Victims e.V.",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-12-22",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -471,6 +371,16 @@
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-12-22",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
       "Status": "angemeldet"
     },
     {
@@ -505,6 +415,16 @@
     },
     {
       "Datum": "2025-12-29",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-12-29",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
@@ -512,6 +432,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-12-29",
+      "Zeit": null,
+      "Thema": "3 Minute Movie Challenge",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Activists for the Victims e.V.",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-01-29",
