@@ -35,13 +35,13 @@
     },
     {
       "Datum": "2025-11-28",
-      "Zeit": null,
+      "Zeit": "16.30 - 18.00 Uhr",
       "Thema": "Wo bleibt der deutsche Generalstreik für Palästina? ",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Schützenplatz",
       "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-11-29",
@@ -65,12 +65,22 @@
     },
     {
       "Datum": "2025-11-29",
-      "Zeit": null,
+      "Zeit": "13.00 - 17.00 Uhr",
       "Thema": "Stoppt Fast-Fashion: Konsum auf Kosten von Mensch und Umwelt!",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "4",
       "Veranstalter": "Greenpeace Dresden",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-11-29",
+      "Zeit": null,
+      "Thema": "Die Wahrheit über die Tierindustrie.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "6",
+      "Veranstalter": "Anonymous for the Voiceless ",
       "Status": "angemeldet"
     },
     {
@@ -125,13 +135,13 @@
     },
     {
       "Datum": "2025-12-01",
-      "Zeit": null,
+      "Zeit": "12.00 - 15.00 Uhr",
       "Thema": "Für einen Tarifvertrag bei Zalando",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "25",
       "Veranstalter": "ver.di Bezirk SWOS",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-12-01",
@@ -140,6 +150,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "150",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-12-03",
+      "Zeit": null,
+      "Thema": "NSU-Komplex umfassend aufklären. Wer aussteigt, muss aussagen!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -169,7 +189,7 @@
       "Thema": "Zubringer - Schulstreik gegen die Wehrpflicht",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "nicht benannt",
+      "Teilnehmer": "400",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -181,6 +201,16 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "Die Linke Dresden, Linksjugend, SDS",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-12-05",
+      "Zeit": null,
+      "Thema": "Schulstreik gegen die Wehrpflicht",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
