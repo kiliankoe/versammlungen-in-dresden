@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-11-27",
+  "Dateidatum": "2025-11-28",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-11-27",
-      "Zeit": "17.00 - 19.00 Uhr",
-      "Thema": "'Abriss Eisenbahnbrückenübergang'",
-      "Ort": "Herman-Mende-Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-11-27",
-      "Zeit": "10.00 - 12.30 Uhr",
-      "Thema": "Nahverkehr - Mehr ins Personal investieren!",
-      "Ort": null,
-      "Startpunkt": "Schützenplatz ",
-      "Teilnehmer": "45",
-      "Veranstalter": "ver.di - Bezirk Sachsen-West-Ost-Süd",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-11-28",
       "Zeit": "16.30 - 18.00 Uhr",
@@ -241,6 +221,16 @@
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e.V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-12-06",
+      "Zeit": null,
+      "Thema": "Gegen russische Propaganda - Solidarität mit der Ukraine ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
