@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-11-28",
+  "Dateidatum": "2025-11-29",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,16 +14,6 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2025-11-28",
-      "Zeit": "16.30 - 18.00 Uhr",
-      "Thema": "Wo bleibt der deutsche Generalstreik für Palästina? ",
-      "Ort": null,
-      "Startpunkt": "Schützenplatz",
-      "Teilnehmer": "15",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2025-11-29",
       "Zeit": "11.30 - 19.00 Uhr",
       "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
@@ -31,7 +21,7 @@
       "Startpunkt": null,
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
-      "Status": "beschieden"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2025-11-29",
@@ -55,13 +45,13 @@
     },
     {
       "Datum": "2025-11-29",
-      "Zeit": null,
+      "Zeit": "13.45 - 17.00 Uhr",
       "Thema": "Die Wahrheit über die Tierindustrie.",
-      "Ort": null,
+      "Ort": "An der Frauenkirche",
       "Startpunkt": null,
       "Teilnehmer": "6",
       "Veranstalter": "Anonymous for the Voiceless ",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-11-30",
@@ -134,12 +124,52 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2025-12-02",
+      "Zeit": null,
+      "Thema": "FRIEDENSCAMP - Einer MUSS den Frieden beginnen wie den Krieg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "5",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-12-03",
+      "Zeit": null,
+      "Thema": "FRIEDENSCAMP - Einer MUSS den Frieden beginnen wie den Krieg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "5",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-12-03",
       "Zeit": null,
       "Thema": "NSU-Komplex umfassend aufklären. Wer aussteigt, muss aussagen!",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-12-04",
+      "Zeit": null,
+      "Thema": "FRIEDENSCAMP - Einer MUSS den Frieden beginnen wie den Krieg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "5",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-12-05",
+      "Zeit": null,
+      "Thema": "FRIEDENSCAMP - Einer MUSS den Frieden beginnen wie den Krieg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "5",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -481,16 +511,6 @@
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e.V.",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2026-01-29",
-      "Zeit": null,
-      "Thema": "Kundgebung zur Einkommensrunde 2025/2026 für die Beschäftigten der Länder",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2000",
-      "Veranstalter": "dbb beamtenbund und tarifunion",
       "Status": "angemeldet"
     },
     {
