@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-12-01",
+  "Dateidatum": "2025-12-02",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,84 +14,24 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2025-12-01",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "15",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-12-01",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Fred stellt sich in den Weg",
-      "Ort": null,
-      "Startpunkt": "Dr.-Külz-Ring",
-      "Teilnehmer": "50",
-      "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-12-01",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "25",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-12-01",
-      "Zeit": "18.00 - 19.00 Uhr",
-      "Thema": "Tag des Widerstands gegen Abwälzung der Kriegs- und Krisenlasten auf die breiten Massen. Aktiver Widerstand gegen Krieg und modernen Faschismus. Solidarität mit Gaza! Schluss mit Waffenlieferung durch BRD! ",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-12-01",
-      "Zeit": "12.00 - 15.00 Uhr",
-      "Thema": "Für einen Tarifvertrag bei Zalando",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "25",
-      "Veranstalter": "ver.di Bezirk SWOS",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-12-01",
-      "Zeit": "19.00 - 20.30 Uhr",
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": "Dr.-Külz-Ring",
-      "Teilnehmer": "150",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2025-12-02",
-      "Zeit": null,
+      "Zeit": "ab 10.00 Uhr",
       "Thema": "FRIEDENSCAMP - Einer MUSS den Frieden beginnen wie den Krieg",
-      "Ort": null,
+      "Ort": "Augustusbrücke",
       "Startpunkt": null,
       "Teilnehmer": "5",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-12-03",
-      "Zeit": null,
+      "Zeit": "ganztägig",
       "Thema": "FRIEDENSCAMP - Einer MUSS den Frieden beginnen wie den Krieg",
-      "Ort": null,
+      "Ort": "Augustusbrücke",
       "Startpunkt": null,
       "Teilnehmer": "5",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-12-03",
@@ -105,23 +45,23 @@
     },
     {
       "Datum": "2025-12-04",
-      "Zeit": null,
+      "Zeit": "ganztägig",
       "Thema": "FRIEDENSCAMP - Einer MUSS den Frieden beginnen wie den Krieg",
-      "Ort": null,
+      "Ort": "Augustusbrücke",
       "Startpunkt": null,
       "Teilnehmer": "5",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-12-05",
-      "Zeit": null,
+      "Zeit": "bis 17.00 Uhr",
       "Thema": "FRIEDENSCAMP - Einer MUSS den Frieden beginnen wie den Krieg",
-      "Ort": null,
+      "Ort": "Augustusbrücke",
       "Startpunkt": null,
       "Teilnehmer": "5",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-12-05",
@@ -166,7 +106,7 @@
     {
       "Datum": "2025-12-05",
       "Zeit": null,
-      "Thema": "Schulstreik gegen die Wehrpflicht",
+      "Thema": "Zubringer - Schulstreik gegen die Wehrpflicht",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "50",
