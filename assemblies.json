@@ -54,6 +54,26 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2025-12-04",
+      "Zeit": "07.30 - 09.15 Uhr",
+      "Thema": "NSU-Komplex umfassend aufklären. Wer aussteigt, muss aussagen!",
+      "Ort": "Hammerweg",
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-12-04",
+      "Zeit": null,
+      "Thema": "Nein zur Wehrpflicht: Solidarität mit dem Schulstreik",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "SDAJ Dresden",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-12-05",
       "Zeit": "bis 17.00 Uhr",
       "Thema": "FRIEDENSCAMP - Einer MUSS den Frieden beginnen wie den Krieg",
@@ -95,13 +115,13 @@
     },
     {
       "Datum": "2025-12-05",
-      "Zeit": null,
+      "Zeit": "16.30 - 19.30 Uhr",
       "Thema": "Wir sterben nicht für Eure Kriege!",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wiener Platz",
       "Teilnehmer": "300",
       "Veranstalter": "Die Linke Dresden, Linksjugend, SDS",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-12-05",
@@ -115,13 +135,13 @@
     },
     {
       "Datum": "2025-12-05",
-      "Zeit": null,
+      "Zeit": "18.00 - 20.00 Uhr",
       "Thema": "Aktionstag gegen die Wehrpflicht",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Theaterplatz",
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-12-06",
@@ -292,6 +312,16 @@
       "Teilnehmer": "30",
       "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-12-15",
+      "Zeit": null,
+      "Thema": "Nein zur Miltarisierung der TU Dresden!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-12-15",
