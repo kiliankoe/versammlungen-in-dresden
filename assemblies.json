@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-12-03",
+  "Dateidatum": "2025-12-04",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -30,16 +30,6 @@
       "Ort": "Augustusbrücke",
       "Startpunkt": null,
       "Teilnehmer": "5",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-12-03",
-      "Zeit": "07.30 - 09.45 Uhr",
-      "Thema": "NSU-Komplex umfassend aufklären. Wer aussteigt, muss aussagen!",
-      "Ort": "Hammerg",
-      "Startpunkt": null,
-      "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
     },
@@ -161,6 +151,16 @@
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e.V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-12-06",
+      "Zeit": null,
+      "Thema": "Für das Leben",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "3",
+      "Veranstalter": "Freie Baptistengemeinde Dresden n.e.V. ",
       "Status": "angemeldet"
     },
     {
