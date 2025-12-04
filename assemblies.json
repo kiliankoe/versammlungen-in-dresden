@@ -55,13 +55,13 @@
     },
     {
       "Datum": "2025-12-04",
-      "Zeit": null,
+      "Zeit": "15.00 - 16.00 Uhr",
       "Thema": "Nein zur Wehrpflicht: Solidarität mit dem Schulstreik",
-      "Ort": null,
+      "Ort": "Coschützer Straße",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "SDAJ Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-12-05",
@@ -72,16 +72,6 @@
       "Teilnehmer": "5",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-12-05",
-      "Zeit": null,
-      "Thema": "Michael Brück wehrt sich gegen die Wehr-Pflicht. Mehr Umarmungen, weniger Diskussionen! Freie  Sachsen unterstützen Fuchsis Friedensprotest!",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "10- 20",
-      "Veranstalter": "FREIE SACHSEN",
-      "Status": "angemeldet"
     },
     {
       "Datum": "2025-12-05",
@@ -111,6 +101,16 @@
       "Startpunkt": "Wiener Platz",
       "Teilnehmer": "300",
       "Veranstalter": "Die Linke Dresden, Linksjugend, SDS",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-12-05",
+      "Zeit": "17.00 - 21.00 Uhr",
+      "Thema": "Michael Brück wehrt sich gegen die Wehr-Pflicht. Mehr Umarmungen, weniger Diskussionen! Freie  Sachsen unterstützen Fuchsis Friedensprotest!",
+      "Ort": "Theaterplatz",
+      "Startpunkt": null,
+      "Teilnehmer": "10- 20",
+      "Veranstalter": "FREIE SACHSEN",
       "Status": "beschieden"
     },
     {
@@ -431,6 +431,16 @@
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e.V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-01-27",
+      "Zeit": null,
+      "Thema": "Gedenken an die Opfer des National­sozialismus ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "350",
+      "Veranstalter": "Ostra e. V.",
       "Status": "angemeldet"
     },
     {
