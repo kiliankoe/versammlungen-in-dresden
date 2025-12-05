@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-12-04",
+  "Dateidatum": "2025-12-05",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -44,26 +44,6 @@
       "Status": "beschieden"
     },
     {
-      "Datum": "2025-12-04",
-      "Zeit": "07.30 - 09.15 Uhr",
-      "Thema": "NSU-Komplex umfassend aufklären. Wer aussteigt, muss aussagen!",
-      "Ort": "Hammerweg",
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-12-04",
-      "Zeit": "15.00 - 16.00 Uhr",
-      "Thema": "Nein zur Wehrpflicht: Solidarität mit dem Schulstreik",
-      "Ort": "Coschützer Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "SDAJ Dresden",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2025-12-05",
       "Zeit": "bis 17.00 Uhr",
       "Thema": "FRIEDENSCAMP - Einer MUSS den Frieden beginnen wie den Krieg",
@@ -75,23 +55,23 @@
     },
     {
       "Datum": "2025-12-05",
-      "Zeit": null,
+      "Zeit": "10.00 - 14.00 Uhr",
       "Thema": "Schulstreik gegen die Wehrpflicht",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Postplatz",
       "Teilnehmer": "1000",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-12-05",
-      "Zeit": null,
+      "Zeit": "09.00 - 10.00 Uhr",
       "Thema": "Zubringer - Schulstreik gegen die Wehrpflicht",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Straßburger Platz",
       "Teilnehmer": "400",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-12-05",
@@ -105,6 +85,16 @@
     },
     {
       "Datum": "2025-12-05",
+      "Zeit": "09.00 - 10.30 Uhr",
+      "Thema": "Zubringer - Schulstreik gegen die Wehrpflicht",
+      "Ort": null,
+      "Startpunkt": "Alaunplatz",
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-12-05",
       "Zeit": "17.00 - 21.00 Uhr",
       "Thema": "Michael Brück wehrt sich gegen die Wehr-Pflicht. Mehr Umarmungen, weniger Diskussionen! Freie  Sachsen unterstützen Fuchsis Friedensprotest!",
       "Ort": "Theaterplatz",
@@ -112,16 +102,6 @@
       "Teilnehmer": "10- 20",
       "Veranstalter": "FREIE SACHSEN",
       "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-12-05",
-      "Zeit": null,
-      "Thema": "Zubringer - Schulstreik gegen die Wehrpflicht",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
     },
     {
       "Datum": "2025-12-05",
@@ -185,16 +165,6 @@
     },
     {
       "Datum": "2025-12-08",
-      "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "200",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-12-08",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
@@ -222,6 +192,16 @@
       "Teilnehmer": "10",
       "Veranstalter": "Ruhrpottmission e.V",
       "Status": "abgemeldet"
+    },
+    {
+      "Datum": "2025-12-08",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2025-12-11",
@@ -371,7 +351,7 @@
       "Startpunkt": "Dr.-Külz-Ring",
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "beschieden"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2025-12-22",
@@ -411,7 +391,7 @@
       "Startpunkt": "Dr.-Külz-Ring",
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "beschieden"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2025-12-29",
