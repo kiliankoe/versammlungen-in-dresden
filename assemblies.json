@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-12-09",
+  "Dateidatum": "2025-12-10",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -15,33 +15,33 @@
   "Versammlungen": [
     {
       "Datum": "2025-12-10",
-      "Zeit": null,
+      "Zeit": "11.00 - 12.30 Uhr",
       "Thema": "Tag der Menschenrechte - Freiheit für Abdullah Öcalan",
-      "Ort": null,
+      "Ort": "Dr.-Külz-Ring",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-12-11",
-      "Zeit": null,
+      "Zeit": "16.00 - 18.30 Uhr",
       "Thema": "Kürzungen? Nicht mit uns! ",
-      "Ort": null,
+      "Ort": "Schnurbaum-Allee",
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "Bündnis gegen Kürzungen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-12-11",
-      "Zeit": null,
+      "Zeit": "08.30 - 09.30 Uhr",
       "Thema": "XR (Extinction Rebellion) - Stoppt den fossilen Wahnsinn! Forderung für einen ambitionierteren Wärmeplan der Stadt Dresden, Wärme-/Energiewende beschleunigen und so Klimakosten für die Bürger:innen senken!",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Fritz-Foerster-Platz",
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-12-11",
@@ -141,6 +141,16 @@
       "Startpunkt": null,
       "Teilnehmer": "8",
       "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-12-19",
+      "Zeit": null,
+      "Thema": "Demokratie verteidigen - auch im Supermarkt",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "Campact e.V.",
       "Status": "angemeldet"
     },
     {
@@ -246,10 +256,30 @@
     {
       "Datum": "2026-01-05",
       "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-01-05",
+      "Zeit": null,
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-01-12",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -266,10 +296,30 @@
     {
       "Datum": "2026-01-19",
       "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-01-19",
+      "Zeit": null,
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-01-26",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -296,10 +346,30 @@
     {
       "Datum": "2026-02-02",
       "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-02",
+      "Zeit": null,
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-09",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -376,10 +446,30 @@
     {
       "Datum": "2026-02-16",
       "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-16",
+      "Zeit": null,
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-23",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
