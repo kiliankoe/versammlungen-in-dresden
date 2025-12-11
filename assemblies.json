@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-12-10",
+  "Dateidatum": "2025-12-11",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-12-10",
-      "Zeit": "11.00 - 12.30 Uhr",
-      "Thema": "Tag der Menschenrechte - Freiheit für Abdullah Öcalan",
-      "Ort": "Dr.-Külz-Ring",
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-12-11",
       "Zeit": "16.00 - 18.30 Uhr",
@@ -45,13 +35,13 @@
     },
     {
       "Datum": "2025-12-11",
-      "Zeit": null,
+      "Zeit": "15.30 - 17.00 Uhr",
       "Thema": "Queere Geflüchtete nicht im Stich lassen!",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wiener Platz ",
       "Teilnehmer": "300",
-      "Veranstalter": "Sächsischer Flüchtlingsrat e.V.",
-      "Status": "angemeldet"
+      "Veranstalter": "Sächsischer Flüchtlingsrat e. V.",
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-12-12",
@@ -141,6 +131,16 @@
       "Startpunkt": null,
       "Teilnehmer": "8",
       "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-12-19",
+      "Zeit": null,
+      "Thema": "Klimaschützen ist kein Verbrechen - Autobahn-Ausbau endlich stoppen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -286,10 +286,30 @@
     {
       "Datum": "2026-01-12",
       "Zeit": null,
+      "Thema": "Klimaschützen ist kein Verbrechen - Autobahn-Ausbau endlich stoppen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-01-12",
+      "Zeit": null,
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-01-16",
+      "Zeit": null,
+      "Thema": "Klimaschützen ist kein Verbrechen - Autobahn-Ausbau endlich stoppen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -306,10 +326,30 @@
     {
       "Datum": "2026-01-19",
       "Zeit": null,
+      "Thema": "Klimaschützen ist kein Verbrechen - Autobahn-Ausbau endlich stoppen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-01-19",
+      "Zeit": null,
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-01-23",
+      "Zeit": null,
+      "Thema": "Klimaschützen ist kein Verbrechen - Autobahn-Ausbau endlich stoppen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
