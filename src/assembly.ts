@@ -7,6 +7,6 @@ export interface Assembly {
   Ort?: string;
   Startpunkt?: string;
   Teilnehmer?: string;
-  Veranstalter: string;
+  Veranstalter: string | null;
   Status: string;
 }

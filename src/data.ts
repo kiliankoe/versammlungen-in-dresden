@@ -22,7 +22,7 @@ export function contentWarning(assembly: Assembly): string | undefined {
   if (rightWingTopics.includes(assembly.Thema.toLowerCase())) {
     return "Rechte Versammlung";
   }
-  if (rightWingOrganizers.includes(assembly.Veranstalter.toLowerCase())) {
+  if (assembly.Veranstalter && rightWingOrganizers.includes(assembly.Veranstalter.toLowerCase())) {
     return "Rechte Versammlung";
   }
   return undefined;
@@ -48,6 +48,7 @@ const organizerReplacements: Record<string, string> = {
   "Initiative 'Dresden WiEdersetzen'": "@ddwiedersetzen@dresden.network"
 };
 
-export function formatOrganizer(organizer: string) {
+export function formatOrganizer(organizer: string | null) {
+  if (!organizer) return null;
   return organizerReplacements[organizer] || organizer;
 }

@@ -29,6 +29,7 @@ export async function readCSV(filename) {
 }
 
 export function cleanOrganizer(organizer) {
+  if (!organizer) return null;
   const replacements = {
     "Partei Freie Sachsen": "Freie Sachsen",
     "Partei FREIE SACHSEN": "Freie Sachsen",

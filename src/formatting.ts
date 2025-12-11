@@ -49,7 +49,7 @@ export function formatPost(a: Assembly) {
       lines.push(`Geplant sind ${a.Teilnehmer} Teilnehmer·innen.`);
     }
   }
-  if (a.Veranstalter !== "natürliche Person") {
+  if (a.Veranstalter && a.Veranstalter !== "natürliche Person") {
     lines.push(`Veranstaltet durch ${formatOrganizer(a.Veranstalter)}`);
   }
   return lines.join("\n");
