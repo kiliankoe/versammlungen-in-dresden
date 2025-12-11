@@ -45,13 +45,13 @@
     },
     {
       "Datum": "2025-12-12",
-      "Zeit": null,
+      "Zeit": "17.45 - 19.15 Uhr",
       "Thema": "Kundgebung gegen die Tierausbeutung im Dresdner Weihnachts-Cirkus",
-      "Ort": null,
+      "Ort": "Kötzschenbroder Straße",
       "Startpunkt": null,
       "Teilnehmer": "40",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-12-15",
@@ -105,13 +105,13 @@
     },
     {
       "Datum": "2025-12-15",
-      "Zeit": null,
+      "Zeit": "12.30 - 14.30 Uhr",
       "Thema": "Nein zur Miltarisierung der TU Dresden!",
-      "Ort": null,
+      "Ort": "Mommsenstraße ",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-12-15",
@@ -461,6 +461,16 @@
       "Startpunkt": null,
       "Teilnehmer": "unbekannt",
       "Veranstalter": "Wellenlänge",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-13",
+      "Zeit": null,
+      "Thema": "Dresden kein Ort für Nazis",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1000",
+      "Veranstalter": null,
       "Status": "angemeldet"
     },
     {
