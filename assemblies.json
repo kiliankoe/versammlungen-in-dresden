@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-12-11",
+  "Dateidatum": "2025-12-12",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,36 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2025-12-11",
-      "Zeit": "16.00 - 18.30 Uhr",
-      "Thema": "Kürzungen? Nicht mit uns! ",
-      "Ort": "Schnurbaum-Allee",
-      "Startpunkt": null,
-      "Teilnehmer": "300",
-      "Veranstalter": "Bündnis gegen Kürzungen",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-12-11",
-      "Zeit": "08.30 - 09.30 Uhr",
-      "Thema": "XR (Extinction Rebellion) - Stoppt den fossilen Wahnsinn! Forderung für einen ambitionierteren Wärmeplan der Stadt Dresden, Wärme-/Energiewende beschleunigen und so Klimakosten für die Bürger:innen senken!",
-      "Ort": null,
-      "Startpunkt": "Fritz-Foerster-Platz",
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-12-11",
-      "Zeit": "15.30 - 17.00 Uhr",
-      "Thema": "Queere Geflüchtete nicht im Stich lassen!",
-      "Ort": null,
-      "Startpunkt": "Wiener Platz ",
-      "Teilnehmer": "300",
-      "Veranstalter": "Sächsischer Flüchtlingsrat e. V.",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2025-12-12",
       "Zeit": "17.45 - 19.15 Uhr",
@@ -62,16 +32,6 @@
       "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-12-15",
-      "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "200",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
     },
     {
       "Datum": "2025-12-15",
@@ -116,11 +76,11 @@
     {
       "Datum": "2025-12-15",
       "Zeit": null,
-      "Thema": "Eröffnung der Informationstafeln als Erweiterung der 'Grünen Seestraße' durch DresdenZero  mit Redebeiträgen aus Politik, Verwaltung und DresdenZero.",
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "DresdenZero",
+      "Teilnehmer": "150",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -141,6 +101,16 @@
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-12-19",
+      "Zeit": null,
+      "Thema": "Eröffnung der Informationstafeln als Erweiterung der 'Grünen Seestraße' durch DresdenZero  mit Redebeiträgen aus Politik, Verwaltung und DresdenZero.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "DresdenZero",
       "Status": "angemeldet"
     },
     {
@@ -172,16 +142,6 @@
       "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-12-22",
-      "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "200",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
     },
     {
       "Datum": "2025-12-22",
@@ -376,7 +336,7 @@
     {
       "Datum": "2026-01-27",
       "Zeit": null,
-      "Thema": "Gedenken an die Opfer des National­sozialismus ",
+      "Thema": "Den Opfern gedenken, das Leben feiern. ",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "350",
