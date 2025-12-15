@@ -65,13 +65,13 @@
     },
     {
       "Datum": "2025-12-15",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
+      "Ort": "Dr.-Külz-Ring",
       "Startpunkt": null,
       "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-12-18",
@@ -420,7 +420,7 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1000",
-      "Veranstalter": null,
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
