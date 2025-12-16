@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-12-15",
+  "Dateidatum": "2025-12-16",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,74 +14,14 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2025-12-15",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "15",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-12-15",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Fred stellt sich in den Weg",
-      "Ort": null,
-      "Startpunkt": "Dr.-Külz-Ring",
-      "Teilnehmer": "50",
-      "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-12-15",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "25",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-12-15",
-      "Zeit": "18.00 - 19.00 Uhr",
-      "Thema": "Tag des Widerstands gegen Abwälzung der Kriegs- und Krisenlasten auf die breiten Massen. Aktiver Widerstand gegen Krieg und modernen Faschismus. Solidarität mit Gaza! Schluss mit Waffenlieferung durch BRD! ",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-12-15",
-      "Zeit": "12.30 - 14.30 Uhr",
-      "Thema": "Nein zur Miltarisierung der TU Dresden!",
-      "Ort": "Mommsenstraße ",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-12-15",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": "Dr.-Külz-Ring",
-      "Startpunkt": null,
-      "Teilnehmer": "150",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2025-12-18",
-      "Zeit": null,
+      "Zeit": "16.00 - 18.00 Uhr",
       "Thema": "Mahnwache der OMAS GEGEN RECHTS.DRESDEN für Frieden - gegen Krieg und Gewalt überall",
-      "Ort": null,
+      "Ort": "Kleine Kirchgasse",
       "Startpunkt": null,
       "Teilnehmer": "8",
       "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-12-19",
@@ -95,12 +35,22 @@
     },
     {
       "Datum": "2025-12-19",
-      "Zeit": null,
+      "Zeit": "15.00 - 16.00 Uhr",
       "Thema": "Eröffnung der Informationstafeln als Erweiterung der 'Grünen Seestraße' durch DresdenZero  mit Redebeiträgen aus Politik, Verwaltung und DresdenZero.",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "DresdenZero",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-12-19",
+      "Zeit": null,
+      "Thema": "Von Borkum bis zur Lausitz: Raus aus dem Gas!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Fridays For Future Dresden",
       "Status": "angemeldet"
     },
     {
@@ -380,7 +330,7 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "50",
-      "Veranstalter": "Bündnis 90 / Die Grünen, Stadtverband Dresden",
+      "Veranstalter": "Bündnis 90/Die Grünen, Stadtverband Dresden",
       "Status": "angemeldet"
     },
     {
@@ -390,7 +340,7 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
-      "Veranstalter": "Gesellschaft zur Förderung der Frauenkirche Dresden e. V., Herrn Prof. Ludwig Güttler ",
+      "Veranstalter": "Gesellschaft zur Förderung der Frauenkirche Dresden e. V.",
       "Status": "angemeldet"
     },
     {
@@ -441,6 +391,16 @@
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-14",
+      "Zeit": null,
+      "Thema": "PRüF: Prüfung Rette Übrigens Freiheit",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "250",
+      "Veranstalter": "PRüF! Sachsen",
       "Status": "angemeldet"
     },
     {
@@ -495,6 +455,16 @@
     },
     {
       "Datum": "2026-03-09",
+      "Zeit": null,
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-03-16",
       "Zeit": null,
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": null,
