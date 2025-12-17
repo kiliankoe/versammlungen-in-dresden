@@ -104,6 +104,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2025-12-27",
+      "Zeit": null,
+      "Thema": "Tiere raus aus dem Zirkus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "5",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2025-12-29",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -304,6 +314,26 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2026-02-07",
+      "Zeit": null,
+      "Thema": "'Im Schmerz vereint' - Kein Opfer ist vergessen!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-08",
+      "Zeit": null,
+      "Thema": "'Im Schmerz vereint' - Kein Opfer ist vergessen!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-02-09",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -320,6 +350,26 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-12",
+      "Zeit": null,
+      "Thema": "Flamme der Erinnerung – Mahnwache zum 13. Februar 1945",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "14-85",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-13",
+      "Zeit": null,
+      "Thema": "Flamme der Erinnerung – Mahnwache zum 13. Februar 1945",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "14-85",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -396,10 +446,30 @@
     {
       "Datum": "2026-02-14",
       "Zeit": null,
+      "Thema": "Flamme der Erinnerung – Mahnwache zum 13. Februar 1945",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "14-85",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-14",
+      "Zeit": null,
       "Thema": "Erhalt von Meinungs- und Versammlungsfreiheit in der Landeshauptstadt Dresden ",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "10",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-14",
+      "Zeit": null,
+      "Thema": "'Im Schmerz vereint' - Kein Opfer ist vergessen!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -411,6 +481,16 @@
       "Startpunkt": null,
       "Teilnehmer": "250",
       "Veranstalter": "PRüF! Sachsen",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-15",
+      "Zeit": null,
+      "Thema": "'Im Schmerz vereint' - Kein Opfer ist vergessen!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
