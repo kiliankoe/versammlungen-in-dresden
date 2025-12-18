@@ -45,23 +45,23 @@
     },
     {
       "Datum": "2025-12-19",
-      "Zeit": null,
+      "Zeit": "14.00 - 14.30 Uhr",
       "Thema": "Von Borkum bis zur Lausitz: Raus aus dem Gas!",
-      "Ort": null,
+      "Ort": "Königsufer",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Fridays For Future Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-12-19",
-      "Zeit": null,
+      "Zeit": "16.00 - 17.00 Uhr",
       "Thema": "Demokratie verteidigen - auch im Supermarkt",
-      "Ort": null,
+      "Ort": "Antonstraße ",
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "Campact e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-12-20",
@@ -161,6 +161,26 @@
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e.V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-12-31",
+      "Zeit": null,
+      "Thema": "Silvester zum Knast! Gemeinsam gegen Repression, Knast und Ausbeutung!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "40",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2025-12-31",
+      "Zeit": null,
+      "Thema": "Silvester zum Knast! Gemeinsam gegen Repression, Knast und Ausbeutung!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "40",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -324,6 +344,26 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2026-02-07",
+      "Zeit": null,
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-07",
+      "Zeit": null,
+      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-02-08",
       "Zeit": null,
       "Thema": "'Im Schmerz vereint' - Kein Opfer ist vergessen!",
@@ -331,6 +371,26 @@
       "Startpunkt": null,
       "Teilnehmer": "1.000",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-08",
+      "Zeit": null,
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-08",
+      "Zeit": null,
+      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
       "Status": "angemeldet"
     },
     {
@@ -476,6 +536,26 @@
     {
       "Datum": "2026-02-14",
       "Zeit": null,
+      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-14",
+      "Zeit": null,
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-14",
+      "Zeit": null,
       "Thema": "PRüF: Prüfung Rette Übrigens Freiheit",
       "Ort": null,
       "Startpunkt": null,
@@ -491,6 +571,26 @@
       "Startpunkt": null,
       "Teilnehmer": "1.000",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-15",
+      "Zeit": null,
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-15",
+      "Zeit": null,
+      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
       "Status": "angemeldet"
     },
     {
