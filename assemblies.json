@@ -155,13 +155,13 @@
     },
     {
       "Datum": "2025-12-29",
-      "Zeit": null,
+      "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "3 Minute Movie Challenge",
-      "Ort": null,
+      "Ort": "Schloßplatz",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2025-12-31",
@@ -346,6 +346,16 @@
     {
       "Datum": "2026-02-07",
       "Zeit": null,
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Neustadt",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-07",
+      "Zeit": null,
       "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
       "Startpunkt": null,
@@ -371,6 +381,16 @@
       "Startpunkt": null,
       "Teilnehmer": "1.000",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-08",
+      "Zeit": null,
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Neustadt",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
       "Status": "angemeldet"
     },
     {
@@ -536,7 +556,7 @@
     {
       "Datum": "2026-02-14",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Neustadt",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -547,6 +567,16 @@
       "Datum": "2026-02-14",
       "Zeit": null,
       "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-14",
+      "Zeit": null,
+      "Thema": "Kein Platz für Nazis - Infopunkt",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -576,7 +606,7 @@
     {
       "Datum": "2026-02-15",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Neustadt",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -587,6 +617,16 @@
       "Datum": "2026-02-15",
       "Zeit": null,
       "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-15",
+      "Zeit": null,
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
