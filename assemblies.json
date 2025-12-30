@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-12-29",
+  "Dateidatum": "2025-12-30",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,94 +14,64 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2025-12-29",
+      "Datum": "2025-12-31",
+      "Zeit": "17.00 - 19.00 Uhr",
+      "Thema": "Silvester zum Knast! Gemeinsam gegen Repression, Knast und Ausbeutung!",
+      "Ort": "Hammerweg",
+      "Startpunkt": null,
+      "Teilnehmer": "40",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2025-12-31",
+      "Zeit": "15.00 - 16.00 Uhr",
+      "Thema": "Silvester zum Knast! Gemeinsam gegen Repression, Knast und Ausbeutung!",
+      "Ort": "Hamburger Straße",
+      "Startpunkt": null,
+      "Teilnehmer": "40",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-01-03",
+      "Zeit": null,
+      "Thema": "Tierrechte & Veganismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Activists for the Victims e.V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-01-05",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
       "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
+      "Status": "beschieden"
     },
     {
-      "Datum": "2025-12-29",
+      "Datum": "2026-01-05",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-01-05",
       "Zeit": null,
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "200",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-12-29",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Fred stellt sich in den Weg",
-      "Ort": null,
-      "Startpunkt": "Dr.-Külz-Ring",
-      "Teilnehmer": "50",
-      "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2025-12-29",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "25",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-12-29",
-      "Zeit": "14.00 - 17.00 Uhr",
-      "Thema": "3 Minute Movie Challenge",
-      "Ort": "Schloßplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "15",
-      "Veranstalter": "Activists for the Victims e.V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2025-12-31",
-      "Zeit": null,
-      "Thema": "Silvester zum Knast! Gemeinsam gegen Repression, Knast und Ausbeutung!",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "40",
+      "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
-    },
-    {
-      "Datum": "2025-12-31",
-      "Zeit": null,
-      "Thema": "Silvester zum Knast! Gemeinsam gegen Repression, Knast und Ausbeutung!",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "40",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2026-01-05",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "15",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-01-05",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "25",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
     },
     {
       "Datum": "2026-01-12",
@@ -266,7 +236,7 @@
     {
       "Datum": "2026-02-07",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Thema": "Kein Platz für Nazis - Infopunkt",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -276,7 +246,7 @@
     {
       "Datum": "2026-02-07",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -476,7 +446,7 @@
     {
       "Datum": "2026-02-14",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Thema": "Kein Platz für Nazis - Infopunkt",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -486,7 +456,7 @@
     {
       "Datum": "2026-02-14",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -526,7 +496,7 @@
     {
       "Datum": "2026-02-15",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -536,7 +506,7 @@
     {
       "Datum": "2026-02-15",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Thema": "Kein Platz für Nazis - Infopunkt",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -615,6 +585,16 @@
     },
     {
       "Datum": "2026-03-23",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-03-30",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
