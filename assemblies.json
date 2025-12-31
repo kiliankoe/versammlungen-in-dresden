@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2025-12-30",
+  "Dateidatum": "2025-12-31",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -35,13 +35,13 @@
     },
     {
       "Datum": "2026-01-03",
-      "Zeit": null,
+      "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "Tierrechte & Veganismus",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-01-05",
@@ -124,6 +124,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2026-01-17",
+      "Zeit": null,
+      "Thema": "3 Minute Movie Challenge",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Activists for the Victims e.V.",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-01-19",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -184,6 +194,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2026-01-26",
+      "Zeit": null,
+      "Thema": "Mahnwache zur Einkommensrunde 25/26 für die Beschäftigten der Länder",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "BTB Sachsen - Gewerkschaft Technik und Naturwissenschaft",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-01-27",
       "Zeit": null,
       "Thema": "Den Opfern gedenken, das Leben feiern. ",
@@ -236,7 +256,7 @@
     {
       "Datum": "2026-02-07",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -246,7 +266,7 @@
     {
       "Datum": "2026-02-07",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Thema": "Kein Platz für Nazis - Infopunkt",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -446,7 +466,7 @@
     {
       "Datum": "2026-02-14",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -456,7 +476,7 @@
     {
       "Datum": "2026-02-14",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Thema": "Kein Platz für Nazis - Infopunkt",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
