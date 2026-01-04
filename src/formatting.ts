@@ -52,5 +52,12 @@ export function formatPost(a: Assembly) {
   if (a.Veranstalter && a.Veranstalter !== "natürliche Person") {
     lines.push(`Veranstaltet durch ${formatOrganizer(a.Veranstalter)}`);
   }
+
+  const now = new Date();
+  const day = String(now.getDate()).padStart(2, "0");
+  const month = String(now.getMonth() + 1).padStart(2, "0");
+  lines.push("");
+  lines.push(`#dd${day}${month}`);
+
   return lines.join("\n");
 }
