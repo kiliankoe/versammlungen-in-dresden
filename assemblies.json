@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-01-06",
+  "Dateidatum": "2026-01-07",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -132,6 +132,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-01-22",
+      "Zeit": null,
+      "Thema": "Kundgebung zum 5. Jahrestag des Inkrafttretens des Atomwaffenverbotsvertrags",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Attac-Trägerverein e. V., Regionalgruppe Dresden, c/o ÖIZ Dresden",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-01-23",
@@ -276,6 +286,16 @@
     {
       "Datum": "2026-02-08",
       "Zeit": null,
+      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-08",
+      "Zeit": null,
       "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
       "Startpunkt": null,
@@ -286,11 +306,11 @@
     {
       "Datum": "2026-02-08",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Thema": "Mahngang Täter: innenspuren 2026",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "1.000",
-      "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
+      "Teilnehmer": "400",
+      "Veranstalter": "Dresden Widersetzen",
       "Status": "angemeldet"
     },
     {
@@ -446,7 +466,7 @@
     {
       "Datum": "2026-02-14",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Thema": "Kein Platz für Nazis - Infopunkt",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -456,7 +476,7 @@
     {
       "Datum": "2026-02-14",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
