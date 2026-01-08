@@ -15,13 +15,13 @@
   "Versammlungen": [
     {
       "Datum": "2026-01-08",
-      "Zeit": null,
+      "Zeit": "14.00 - 18.00 Uhr",
       "Thema": "Landwirte wollen Mitbestimmung bei Mercosur",
-      "Ort": null,
+      "Ort": "An der Frauenkirche",
       "Startpunkt": null,
       "Teilnehmer": "150",
       "Veranstalter": "Land schafft Verbindung Sachsen e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-01-12",
@@ -204,6 +204,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2026-01-27",
+      "Zeit": null,
+      "Thema": "Namenlesung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Ökumenisches Informationszentrum e.V.",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-02-02",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -286,7 +296,7 @@
     {
       "Datum": "2026-02-08",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Thema": "Kein Platz für Nazis - Infopunkt",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -296,7 +306,7 @@
     {
       "Datum": "2026-02-08",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -466,7 +476,7 @@
     {
       "Datum": "2026-02-14",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Thema": "Kein Platz für Nazis - Infopunkt",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -476,7 +486,7 @@
     {
       "Datum": "2026-02-14",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -579,7 +589,7 @@
       "Thema": "„Transmisogynie – Opfer schützen und Täter nicht!“ ",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "ca. 100–200",
+      "Teilnehmer": "ca. 100 bis 200",
       "Veranstalter": "'AG Gleichstellung und Feminismus“ Die Linke Dresden",
       "Status": "angemeldet"
     },
