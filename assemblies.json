@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-01-09",
+  "Dateidatum": "2026-01-10",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -55,13 +55,13 @@
     },
     {
       "Datum": "2026-01-12",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.15 Uhr",
       "Thema": "Wer schweigt stimmt zu-Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-01-15",
@@ -366,16 +366,6 @@
     {
       "Datum": "2026-02-13",
       "Zeit": null,
-      "Thema": "Stilles Gedenken vor der Frauenkirche Dresden",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "1.000",
-      "Veranstalter": "Gesellschaft zur Förderung der Frauenkirche Dresden e. V.",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2026-02-13",
-      "Zeit": null,
       "Thema": "Stilles Ge(h)denken Dresden",
       "Ort": null,
       "Startpunkt": null,
@@ -411,6 +401,16 @@
       "Startpunkt": null,
       "Teilnehmer": "10.000",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-13",
+      "Zeit": null,
+      "Thema": "Stilles Gedenken vor der Frauenkirche Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "Gesellschaft zur Förderung der Frauenkirche Dresden e. V.",
       "Status": "angemeldet"
     },
     {
