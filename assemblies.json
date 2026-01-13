@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-01-12",
+  "Dateidatum": "2026-01-13",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,63 +14,23 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2026-01-12",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "15",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-01-12",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Fred stellt sich in den Weg",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "50",
-      "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-01-12",
-      "Zeit": "09.00 - 16.00 Uhr",
-      "Thema": "Klimaschützen ist kein Verbrechen - Autobahn-Ausbau endlich stoppen",
-      "Ort": "Lothringer Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "15",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2026-01-12",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "25",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-01-12",
-      "Zeit": "19.00 - 20.15 Uhr",
-      "Thema": "Wer schweigt stimmt zu-Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "150",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2026-01-15",
       "Zeit": null,
-      "Thema": "XR (Extinction Rebellion) - Stoppt den fossilen Wahnsinn! Forderung für einen ambitionierteren Wärmeplan der Stadt Dresden. ",
+      "Thema": "XR (Extinction Rebellion) - Stoppt den fossilen Wahnsinn! - Forderung für einen ambitionierteren Wärmeplan der Stadt Dresden. ",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-01-15",
+      "Zeit": null,
+      "Thema": "Jahrestag der Ermordung Rosa Luxemburgs und Karl Liebknechts",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30-80",
+      "Veranstalter": "Die Linke Dresden",
       "Status": "angemeldet"
     },
     {
@@ -152,6 +112,26 @@
       "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
       "Status": "abgemeldet"
+    },
+    {
+      "Datum": "2026-01-23",
+      "Zeit": null,
+      "Thema": "Völkerrecht - oder das Recht des Stärkeren?",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "Initiative Dresden Stadt des Friedens",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-01-25",
+      "Zeit": null,
+      "Thema": "Gedenken an das Blutbad im Keglerheim am 25.1.1933",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-01-26",
@@ -246,7 +226,7 @@
     {
       "Datum": "2026-02-07",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -256,7 +236,7 @@
     {
       "Datum": "2026-02-07",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Thema": "Kein Platz für Nazis - Infopunkt",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -466,7 +446,7 @@
     {
       "Datum": "2026-02-14",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -476,7 +456,7 @@
     {
       "Datum": "2026-02-14",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Thema": "Kein Platz für Nazis - Infopunkt",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -574,6 +554,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2026-02-24",
+      "Zeit": null,
+      "Thema": "Solidarität mit der Ukraine",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-02-28",
       "Zeit": null,
       "Thema": "„Transmisogynie – Opfer schützen und Täter nicht!“ ",
@@ -635,6 +625,16 @@
     },
     {
       "Datum": "2026-04-06",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-04-13",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
