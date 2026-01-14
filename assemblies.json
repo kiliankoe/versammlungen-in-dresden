@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-01-13",
+  "Dateidatum": "2026-01-14",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -25,13 +25,13 @@
     },
     {
       "Datum": "2026-01-15",
-      "Zeit": null,
+      "Zeit": "16.00 - 17.15 Uhr",
       "Thema": "Jahrestag der Ermordung Rosa Luxemburgs und Karl Liebknechts",
-      "Ort": null,
+      "Ort": "Rosa-Luxemburg-Platz",
       "Startpunkt": null,
       "Teilnehmer": "30-80",
       "Veranstalter": "Die Linke Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-01-16",
@@ -52,6 +52,16 @@
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e.V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-01-18",
+      "Zeit": null,
+      "Thema": "All Eyes on Iran",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "ZIVD e.V - Zentrum Interkulturelle Verständigung Dresden",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-01-19",
@@ -426,7 +436,7 @@
     {
       "Datum": "2026-02-13",
       "Zeit": null,
-      "Thema": "Mahnwache für die Oper der Bombardierung Dresdens am 13.02.1945",
+      "Thema": "Mahnwache für die Opfer der Bombardierung Dresdens am 13.02.1945",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "50",
