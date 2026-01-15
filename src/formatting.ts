@@ -53,9 +53,7 @@ export function formatPost(a: Assembly) {
     lines.push(`Veranstaltet durch ${formatOrganizer(a.Veranstalter)}`);
   }
 
-  const now = new Date();
-  const day = String(now.getDate()).padStart(2, "0");
-  const month = String(now.getMonth() + 1).padStart(2, "0");
+  const [, month, day] = a.Datum.split("-");
   lines.push("");
   lines.push(`#dd${day}${month}`);
 
