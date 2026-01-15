@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-01-14",
+  "Dateidatum": "2026-01-15",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -45,6 +45,16 @@
     },
     {
       "Datum": "2026-01-17",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-01-17",
       "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "3 Minute Movie Challenge",
       "Ort": "Prager Straße",
@@ -85,13 +95,13 @@
     },
     {
       "Datum": "2026-01-19",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.00 Uhr",
       "Thema": "Gegen die Abwälzung von Krisen+ Kriegsvorbereitung auf die breiten Massen! Gegen jede Art von sozialer Demontage! Gegen Imperialistische Kriege! Freiheit für Gaza! Kampf dem Faschismus auch in seiner Tarnung als Modern!  ",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-01-19",
@@ -112,6 +122,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-01-19",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-01-22",
@@ -141,6 +161,16 @@
       "Startpunkt": null,
       "Teilnehmer": "25",
       "Veranstalter": "Initiative Dresden Stadt des Friedens",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-01-24",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
       "Status": "angemeldet"
     },
     {
@@ -214,6 +244,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2026-01-31",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-02-02",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -225,13 +265,13 @@
     },
     {
       "Datum": "2026-02-02",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.00 Uhr",
       "Thema": "Gegen die Abwälzung von Krisen+ Kriegsvorbereitung auf die breiten Massen! Gegen jede Art von sozialer Demontage! Gegen Imperialistische Kriege! Freiheit für Gaza! Kampf dem Faschismus auch in seiner Tarnung als Modern!  ",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-02-02",
@@ -284,6 +324,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2026-02-07",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-02-08",
       "Zeit": null,
       "Thema": "'Im Schmerz vereint' - Kein Opfer ist vergessen!",
@@ -306,7 +356,7 @@
     {
       "Datum": "2026-02-08",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Thema": "Kein Platz für Nazis - Infopunkt",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -316,7 +366,7 @@
     {
       "Datum": "2026-02-08",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -416,21 +466,21 @@
     {
       "Datum": "2026-02-13",
       "Zeit": null,
-      "Thema": "Menschenkette zum 13. Februar ",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "10.000",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2026-02-13",
-      "Zeit": null,
       "Thema": "Stilles Gedenken vor der Frauenkirche Dresden",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
       "Veranstalter": "Gesellschaft zur Förderung der Frauenkirche Dresden e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-13",
+      "Zeit": null,
+      "Thema": "Menschenkette zum 13. Februar ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10.000",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -486,6 +536,16 @@
     {
       "Datum": "2026-02-14",
       "Zeit": null,
+      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-14",
+      "Zeit": null,
       "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
       "Startpunkt": null,
@@ -496,11 +556,11 @@
     {
       "Datum": "2026-02-14",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "1.000",
-      "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
       "Status": "angemeldet"
     },
     {
@@ -565,13 +625,13 @@
     },
     {
       "Datum": "2026-02-16",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.00 Uhr",
       "Thema": "Gegen die Abwälzung von Krisen+ Kriegsvorbereitung auf die breiten Massen! Gegen jede Art von sozialer Demontage! Gegen Imperialistische Kriege! Freiheit für Gaza! Kampf dem Faschismus auch in seiner Tarnung als Modern!  ",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-02-16",
@@ -582,6 +642,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-02-21",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-02-23",
@@ -624,14 +694,24 @@
       "Status": "angemeldet"
     },
     {
-      "Datum": "2026-03-02",
+      "Datum": "2026-02-28",
       "Zeit": null,
-      "Thema": "Gegen die Abwälzung von Krisen+ Kriegsvorbereitung auf die breiten Massen! Gegen jede Art von sozialer Demontage! Gegen Imperialistische Kriege! Freiheit für Gaza! Kampf dem Faschismus auch in seiner Tarnung als Modern!  ",
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
       "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-03-02",
+      "Zeit": "18.00 - 19.00 Uhr",
+      "Thema": "Gegen die Abwälzung von Krisen+ Kriegsvorbereitung auf die breiten Massen! Gegen jede Art von sozialer Demontage! Gegen Imperialistische Kriege! Freiheit für Gaza! Kampf dem Faschismus auch in seiner Tarnung als Modern!  ",
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-03-02",
@@ -642,6 +722,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-03-07",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-03-09",
@@ -654,14 +744,24 @@
       "Status": "beschieden"
     },
     {
-      "Datum": "2026-03-16",
+      "Datum": "2026-03-14",
       "Zeit": null,
-      "Thema": "Gegen die Abwälzung von Krisen+ Kriegsvorbereitung auf die breiten Massen! Gegen jede Art von sozialer Demontage! Gegen Imperialistische Kriege! Freiheit für Gaza! Kampf dem Faschismus auch in seiner Tarnung als Modern!  ",
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
       "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-03-16",
+      "Zeit": "18.00 - 19.00 Uhr",
+      "Thema": "Gegen die Abwälzung von Krisen+ Kriegsvorbereitung auf die breiten Massen! Gegen jede Art von sozialer Demontage! Gegen Imperialistische Kriege! Freiheit für Gaza! Kampf dem Faschismus auch in seiner Tarnung als Modern!  ",
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-03-16",
@@ -672,6 +772,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-03-21",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-03-23",
@@ -682,6 +792,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-03-28",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-03-30",
