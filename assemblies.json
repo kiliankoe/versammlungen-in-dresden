@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-01-15",
+  "Dateidatum": "2026-01-16",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-01-15",
-      "Zeit": "08.45 - 09.30 Uhr",
-      "Thema": "XR (Extinction Rebellion) - Stoppt den fossilen Wahnsinn! - Forderung für einen ambitionierteren Wärmeplan der Stadt Dresden. ",
-      "Ort": null,
-      "Startpunkt": "Stauffenbergallee/Königsbrücker Straße",
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-01-15",
-      "Zeit": "16.00 - 17.15 Uhr",
-      "Thema": "Jahrestag der Ermordung Rosa Luxemburgs und Karl Liebknechts",
-      "Ort": "Rosa-Luxemburg-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "30-80",
-      "Veranstalter": "Die Linke Dresden",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-01-16",
       "Zeit": "09.00 - 16.00 Uhr",
@@ -62,6 +42,16 @@
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e.V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-01-18",
+      "Zeit": null,
+      "Thema": "Gebet und Forderung nach der Freilassung aller politischen Gefangenen in Venezuela",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-01-18",
@@ -155,13 +145,13 @@
     },
     {
       "Datum": "2026-01-23",
-      "Zeit": null,
+      "Zeit": "15.00 - 17.00 Uhr",
       "Thema": "Völkerrecht - oder das Recht des Stärkeren?",
-      "Ort": null,
+      "Ort": "Dr.-Külz-Ring",
       "Startpunkt": null,
       "Teilnehmer": "25",
       "Veranstalter": "Initiative Dresden Stadt des Friedens",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-01-24",
@@ -306,7 +296,7 @@
     {
       "Datum": "2026-02-07",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Thema": "Kein Platz für Nazis - Infopunkt",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -316,7 +306,7 @@
     {
       "Datum": "2026-02-07",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -356,7 +346,7 @@
     {
       "Datum": "2026-02-08",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -366,7 +356,7 @@
     {
       "Datum": "2026-02-08",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Thema": "Kein Platz für Nazis - Infopunkt",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
