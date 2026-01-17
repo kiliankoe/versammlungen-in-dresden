@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-01-16",
+  "Dateidatum": "2026-01-17",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,24 +14,14 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2026-01-16",
-      "Zeit": "09.00 - 16.00 Uhr",
-      "Thema": "Klimaschützen ist kein Verbrechen - Autobahn-Ausbau endlich stoppen",
-      "Ort": "Lothringer Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "15",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
       "Datum": "2026-01-17",
-      "Zeit": null,
+      "Zeit": "13.30 - 18.30 Uhr",
       "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
-      "Ort": null,
+      "Ort": "Altmarkt",
       "Startpunkt": null,
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-01-17",
@@ -45,23 +35,23 @@
     },
     {
       "Datum": "2026-01-18",
-      "Zeit": null,
+      "Zeit": "13.00 - 15.00 Uhr",
       "Thema": "Gebet und Forderung nach der Freilassung aller politischen Gefangenen in Venezuela",
-      "Ort": null,
+      "Ort": "Theaterplatz",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-01-18",
-      "Zeit": null,
+      "Zeit": "13.30 - 18.30 Uhr",
       "Thema": "All Eyes on Iran",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Neustädter Markt",
       "Teilnehmer": "200",
       "Veranstalter": "ZIVD e.V - Zentrum Interkulturelle Verständigung Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-01-19",
@@ -115,13 +105,13 @@
     },
     {
       "Datum": "2026-01-19",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.30 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-01-22",
@@ -155,13 +145,13 @@
     },
     {
       "Datum": "2026-01-24",
-      "Zeit": null,
+      "Zeit": "13.30 - 18.30 Uhr",
       "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
-      "Ort": null,
+      "Ort": "Altmarkt",
       "Startpunkt": null,
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-01-25",
@@ -224,6 +214,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2026-01-27",
+      "Zeit": null,
+      "Thema": "WÜRDEVOLL ERINNERN",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "SPD Dresden-Plauen",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-01-28",
       "Zeit": null,
       "Thema": "Hochschulaktionstag - Alle zusammen auf die Straße für bessere Arbeits- und Studienbedingungen!",
@@ -235,13 +235,13 @@
     },
     {
       "Datum": "2026-01-31",
-      "Zeit": null,
+      "Zeit": "13.30 - 18.30 Uhr",
       "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
-      "Ort": null,
+      "Ort": "Altmarkt",
       "Startpunkt": null,
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-02-02",
@@ -296,16 +296,6 @@
     {
       "Datum": "2026-02-07",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Infopunkt",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "1.000",
-      "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2026-02-07",
-      "Zeit": null,
       "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
       "Startpunkt": null,
@@ -316,12 +306,22 @@
     {
       "Datum": "2026-02-07",
       "Zeit": null,
-      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Thema": "Kein Platz für Nazis - Infopunkt",
       "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-07",
+      "Zeit": "13.30 - 18.30 Uhr",
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": "Altmarkt",
       "Startpunkt": null,
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-02-08",
@@ -346,7 +346,7 @@
     {
       "Datum": "2026-02-08",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Thema": "Kein Platz für Nazis - Infopunkt",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -356,7 +356,7 @@
     {
       "Datum": "2026-02-08",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -484,6 +484,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2026-02-13",
+      "Zeit": null,
+      "Thema": "Tu was gegen Rechts! Demokratie stärken",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "BÜNDNIS 90/DIE GRÜNEN",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-02-14",
       "Zeit": null,
       "Thema": "Flamme der Erinnerung – Mahnwache zum 13. Februar 1945",
@@ -545,12 +555,22 @@
     },
     {
       "Datum": "2026-02-14",
-      "Zeit": null,
+      "Zeit": "13.30 - 18.30 Uhr",
       "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
-      "Ort": null,
+      "Ort": "Altmarkt",
       "Startpunkt": null,
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-02-14",
+      "Zeit": null,
+      "Thema": "'Tu was gegen Rechts! Demokratie stärken'",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "BÜNDNIS 90/DIE GRÜNEN",
       "Status": "angemeldet"
     },
     {
@@ -635,13 +655,13 @@
     },
     {
       "Datum": "2026-02-21",
-      "Zeit": null,
+      "Zeit": "13.30 - 18.30 Uhr",
       "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
-      "Ort": null,
+      "Ort": "Altmarkt",
       "Startpunkt": null,
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-02-23",
@@ -685,13 +705,13 @@
     },
     {
       "Datum": "2026-02-28",
-      "Zeit": null,
+      "Zeit": "13.30 - 18.30 Uhr",
       "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
-      "Ort": null,
+      "Ort": "Altmarkt",
       "Startpunkt": null,
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-03-02",
@@ -715,13 +735,13 @@
     },
     {
       "Datum": "2026-03-07",
-      "Zeit": null,
+      "Zeit": "13.30 - 18.30 Uhr",
       "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
-      "Ort": null,
+      "Ort": "Altmarkt",
       "Startpunkt": null,
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-03-09",
@@ -735,13 +755,13 @@
     },
     {
       "Datum": "2026-03-14",
-      "Zeit": null,
+      "Zeit": "13.30 - 18.30 Uhr",
       "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
-      "Ort": null,
+      "Ort": "Altmarkt",
       "Startpunkt": null,
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-03-16",
@@ -765,13 +785,13 @@
     },
     {
       "Datum": "2026-03-21",
-      "Zeit": null,
+      "Zeit": "13.30 - 18.30 Uhr",
       "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
-      "Ort": null,
+      "Ort": "Altmarkt",
       "Startpunkt": null,
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-03-23",
@@ -785,13 +805,13 @@
     },
     {
       "Datum": "2026-03-28",
-      "Zeit": null,
+      "Zeit": "13.30 - 18.30 Uhr",
       "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
-      "Ort": null,
+      "Ort": "Altmarkt",
       "Startpunkt": null,
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-03-30",
