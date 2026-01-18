@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-01-17",
+  "Dateidatum": "2026-01-18",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-01-17",
-      "Zeit": "13.30 - 18.30 Uhr",
-      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
-      "Ort": "Altmarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "12",
-      "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-01-17",
-      "Zeit": "14.00 - 17.00 Uhr",
-      "Thema": "3 Minute Movie Challenge",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "15",
-      "Veranstalter": "Activists for the Victims e.V.",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-01-18",
       "Zeit": "13.00 - 15.00 Uhr",
@@ -296,7 +276,7 @@
     {
       "Datum": "2026-02-07",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Thema": "Kein Platz für Nazis - Infopunkt",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -306,7 +286,7 @@
     {
       "Datum": "2026-02-07",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -346,7 +326,7 @@
     {
       "Datum": "2026-02-08",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -356,7 +336,7 @@
     {
       "Datum": "2026-02-08",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Thema": "Kein Platz für Nazis - Infopunkt",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -606,7 +586,7 @@
     {
       "Datum": "2026-02-15",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Thema": "Kein Platz für Nazis - Infopunkt",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -616,7 +596,7 @@
     {
       "Datum": "2026-02-15",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
