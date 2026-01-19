@@ -115,13 +115,13 @@
     },
     {
       "Datum": "2026-01-25",
-      "Zeit": null,
+      "Zeit": "10.00 - 11.00 Uhr",
       "Thema": "Gedenken an das Blutbad im Keglerheim am 25.1.1933",
-      "Ort": null,
+      "Ort": "Weißeritzstraße",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-01-26",
@@ -185,12 +185,22 @@
     },
     {
       "Datum": "2026-01-28",
-      "Zeit": null,
+      "Zeit": "10.30 - 14.00 Uhr",
       "Thema": "Hochschulaktionstag - Alle zusammen auf die Straße für bessere Arbeits- und Studienbedingungen!",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Fritz-Förster-Platz ",
       "Teilnehmer": "400",
       "Veranstalter": "ver.di - Vereinte Dienstleistungsgewerkschaft",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-01-29",
+      "Zeit": null,
+      "Thema": "Fuß- und Radentscheid Dresden - Forderungen nicht ignorieren!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -566,7 +576,7 @@
     {
       "Datum": "2026-02-15",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -576,7 +586,7 @@
     {
       "Datum": "2026-02-15",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Thema": "Kein Platz für Nazis - Infopunkt",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -694,6 +704,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2026-03-05",
+      "Zeit": null,
+      "Thema": "Schulstreik gegen Wehrpflicht",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-03-07",
       "Zeit": "13.30 - 18.30 Uhr",
       "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
@@ -782,6 +802,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-04-01",
+      "Zeit": null,
+      "Thema": "Unsere Zukunft ist kein Witz — Wir halten zusammen für ein besseres Morgen.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1000",
+      "Veranstalter": "Kampagne Jugend- und Gleichstellungsarbeit sichern",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-04-06",
