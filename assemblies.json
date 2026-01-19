@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-01-18",
+  "Dateidatum": "2026-01-19",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-01-18",
-      "Zeit": "13.00 - 15.00 Uhr",
-      "Thema": "Gebet und Forderung nach der Freilassung aller politischen Gefangenen in Venezuela",
-      "Ort": "Theaterplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-01-18",
-      "Zeit": "13.30 - 18.30 Uhr",
-      "Thema": "All Eyes on Iran",
-      "Ort": null,
-      "Startpunkt": "Neustädter Markt",
-      "Teilnehmer": "200",
-      "Veranstalter": "ZIVD e.V - Zentrum Interkulturelle Verständigung Dresden",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-01-19",
       "Zeit": "18.00 - 19.30 Uhr",
