@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-01-19",
+  "Dateidatum": "2026-01-20",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,66 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-01-19",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "15",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-01-19",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Fred stellt sich in den Weg",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "50",
-      "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-01-19",
-      "Zeit": "18.00 - 19.00 Uhr",
-      "Thema": "Gegen die Abwälzung von Krisen+ Kriegsvorbereitung auf die breiten Massen! Gegen jede Art von sozialer Demontage! Gegen Imperialistische Kriege! Freiheit für Gaza! Kampf dem Faschismus auch in seiner Tarnung als Modern!  ",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-01-19",
-      "Zeit": "09.00 - 16.00 Uhr",
-      "Thema": "Klimaschützen ist kein Verbrechen - Autobahn-Ausbau endlich stoppen",
-      "Ort": "Lothringer Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "15",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2026-01-19",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "25",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-01-19",
-      "Zeit": "19.00 - 20.30 Uhr",
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "150",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-01-22",
       "Zeit": "16.00 - 18.00 Uhr",
@@ -175,13 +115,13 @@
     },
     {
       "Datum": "2026-01-27",
-      "Zeit": null,
+      "Zeit": "17.00 - 20.00 Uhr",
       "Thema": "WÜRDEVOLL ERINNERN",
-      "Ort": null,
+      "Ort": "Münchner Platz",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "SPD Dresden-Plauen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-01-28",
@@ -266,7 +206,7 @@
     {
       "Datum": "2026-02-07",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -276,7 +216,7 @@
     {
       "Datum": "2026-02-07",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Thema": "Kein Platz für Nazis - Infopunkt",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -316,7 +256,7 @@
     {
       "Datum": "2026-02-08",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Thema": "Kein Platz für Nazis - Infopunkt",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -326,7 +266,7 @@
     {
       "Datum": "2026-02-08",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -825,6 +765,16 @@
     },
     {
       "Datum": "2026-04-13",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-04-20",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
