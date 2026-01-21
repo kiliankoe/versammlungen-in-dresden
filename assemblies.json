@@ -14,14 +14,34 @@
   ],
   "Versammlungen": [
     {
+      "Datum": "2026-01-20",
+      "Zeit": null,
+      "Thema": "Solidarität mit Kurdistan! Hände weg von Rojava!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "unbekannt",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-01-21",
       "Zeit": null,
-      "Thema": "Solidarität mit syrischen Kurdistand!",
+      "Thema": "Solidarität mit Kurdistan! Hände weg von Rojava!",
       "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "unbekannt",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-01-21",
+      "Zeit": "16.00 - 18.00 Uhr",
+      "Thema": "Solidarität mit syrischen Kurdistan!",
+      "Ort": "Wiener Platz",
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "Deutsch Syrische Freundschaft e. V. Meißen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-01-21",
@@ -116,7 +136,7 @@
     {
       "Datum": "2026-01-26",
       "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu-Zeit für Bürgerverantwortung",
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "150",
