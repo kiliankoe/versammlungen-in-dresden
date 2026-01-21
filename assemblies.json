@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-01-20",
+  "Dateidatum": "2026-01-21",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,6 +13,26 @@
     }
   ],
   "Versammlungen": [
+    {
+      "Datum": "2026-01-21",
+      "Zeit": null,
+      "Thema": "Solidarität mit syrischen Kurdistand!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "Deutsch Syrische Freundschaft e. V. Meißen",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-01-21",
+      "Zeit": null,
+      "Thema": "Hände weg von Rojava!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
     {
       "Datum": "2026-01-22",
       "Zeit": "16.00 - 18.00 Uhr",
@@ -92,6 +112,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-01-26",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu-Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-01-27",
@@ -326,16 +356,6 @@
     {
       "Datum": "2026-02-13",
       "Zeit": null,
-      "Thema": "Tu was gegen rechts - Demokratie stärken",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "Bündnis 90/Die Grünen, Stadtverband Dresden",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2026-02-13",
-      "Zeit": null,
       "Thema": "Stilles Ge(h)denken Dresden",
       "Ort": null,
       "Startpunkt": null,
@@ -516,7 +536,7 @@
     {
       "Datum": "2026-02-15",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Thema": "Kein Platz für Nazis - Infopunkt",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -526,7 +546,7 @@
     {
       "Datum": "2026-02-15",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
