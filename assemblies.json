@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-01-21",
+  "Dateidatum": "2026-01-22",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -16,40 +16,30 @@
     {
       "Datum": "2026-01-20",
       "Zeit": null,
-      "Thema": "Solidarität mit Kurdistan! Hände weg von Rojava!",
+      "Thema": "Mahnwache für Rojava",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "15",
-      "Veranstalter": "unbekannt",
+      "Teilnehmer": "3",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
       "Datum": "2026-01-21",
       "Zeit": null,
-      "Thema": "Solidarität mit Kurdistan! Hände weg von Rojava!",
+      "Thema": "Mahnwache für Rojava",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "15",
-      "Veranstalter": "unbekannt",
+      "Teilnehmer": "3",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
-      "Datum": "2026-01-21",
-      "Zeit": "16.00 - 18.00 Uhr",
-      "Thema": "Solidarität mit syrischen Kurdistan!",
-      "Ort": "Wiener Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "100",
-      "Veranstalter": "Deutsch Syrische Freundschaft e. V. Meißen",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-01-21",
+      "Datum": "2026-01-22",
       "Zeit": null,
-      "Thema": "Hände weg von Rojava!",
+      "Thema": "Mahnwache für Rojava",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "200",
+      "Teilnehmer": "3",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -62,6 +52,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "Attac-Trägerverein e. V., Regionalgruppe Dresden, c/o ÖIZ Dresden",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-01-23",
+      "Zeit": null,
+      "Thema": "Mahnwache für Rojava",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "3",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-01-23",
@@ -135,6 +135,16 @@
     },
     {
       "Datum": "2026-01-26",
+      "Zeit": "11.00 - 14.00 Uhr",
+      "Thema": "Mahnwache zur Einkommensrunde 25/26 für die Beschäftigten der Länder",
+      "Ort": "Olbrichtplatz",
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "BTB Sachsen - Gewerkschaft Technik und Naturwissenschaft",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-01-26",
       "Zeit": null,
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
@@ -155,13 +165,13 @@
     },
     {
       "Datum": "2026-01-27",
-      "Zeit": null,
+      "Zeit": "12.00 - 16.00 Uhr",
       "Thema": "Namenlesung",
-      "Ort": null,
+      "Ort": "An der Kreuzkirche",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "Ökumenisches Informationszentrum e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-01-27",
@@ -486,7 +496,7 @@
     {
       "Datum": "2026-02-14",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -496,7 +506,7 @@
     {
       "Datum": "2026-02-14",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Thema": "Kein Platz für Nazis - Infopunkt",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -712,6 +722,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-03-09",
+      "Zeit": null,
+      "Thema": "intersektionaler  feministischer Frauenstreik 2026 - Ohne uns steht alles still",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "Töchter Kollektiv",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-03-14",
