@@ -15,33 +15,33 @@
   "Versammlungen": [
     {
       "Datum": "2026-01-20",
-      "Zeit": null,
+      "Zeit": "ab 18.00 Uhr",
       "Thema": "Mahnwache für Rojava",
-      "Ort": null,
+      "Ort": "Neustädter Markt",
       "Startpunkt": null,
       "Teilnehmer": "3",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-01-21",
-      "Zeit": null,
+      "Zeit": "ganztägig",
       "Thema": "Mahnwache für Rojava",
-      "Ort": null,
+      "Ort": "Neustädter Markt",
       "Startpunkt": null,
       "Teilnehmer": "3",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-01-22",
-      "Zeit": null,
+      "Zeit": "ganztägig",
       "Thema": "Mahnwache für Rojava",
-      "Ort": null,
+      "Ort": "Neustädter Markt",
       "Startpunkt": null,
       "Teilnehmer": "3",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-01-22",
@@ -54,14 +54,24 @@
       "Status": "beschieden"
     },
     {
-      "Datum": "2026-01-23",
-      "Zeit": null,
-      "Thema": "Mahnwache für Rojava",
+      "Datum": "2026-01-22",
+      "Zeit": "17.00 - 19.30 Uhr",
+      "Thema": "Lage in Rojava ",
       "Ort": null,
+      "Startpunkt": "Alaunplatz",
+      "Teilnehmer": "60",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-01-23",
+      "Zeit": "bis 20.00 Uhr",
+      "Thema": "Mahnwache für Rojava",
+      "Ort": "Neustädter Markt",
       "Startpunkt": null,
       "Teilnehmer": "3",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-01-23",
@@ -72,6 +82,16 @@
       "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
       "Status": "abgemeldet"
+    },
+    {
+      "Datum": "2026-01-23",
+      "Zeit": null,
+      "Thema": "Lage in Rojava ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "60",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-01-23",
@@ -145,13 +165,13 @@
     },
     {
       "Datum": "2026-01-26",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.15 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-01-27",
@@ -192,6 +212,16 @@
       "Teilnehmer": "400",
       "Veranstalter": "ver.di - Vereinte Dienstleistungsgewerkschaft",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-01-29",
+      "Zeit": null,
+      "Thema": "Kein Schlussstrich! Solidarität mit den Betroffenen von NSU- und Naziterror! ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-01-29",
@@ -244,6 +274,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2026-02-04",
+      "Zeit": null,
+      "Thema": "Holt Maja zurück - Antifaschismus ist notwendig, nicht kriminell!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-02-07",
       "Zeit": null,
       "Thema": "'Im Schmerz vereint' - Kein Opfer ist vergessen!",
@@ -266,7 +306,7 @@
     {
       "Datum": "2026-02-07",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Thema": "Kein Platz für Nazis - Infopunkt",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -276,7 +316,7 @@
     {
       "Datum": "2026-02-07",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -344,6 +384,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2026-02-08",
+      "Zeit": null,
+      "Thema": "Nett hier, aber wart ihr schon mal in einer Stadt, wo man den Faschos nicht den roten Teppich ausrollt?",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-02-09",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -370,6 +420,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "14-85",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-12",
+      "Zeit": null,
+      "Thema": "Autokorso für die Flamme der Erinnerung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "25 bis 40",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -430,6 +490,26 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "10.000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-13",
+      "Zeit": null,
+      "Thema": "Fuchs, du hast die Wahrheit gestohlen!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-13",
+      "Zeit": null,
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Uni",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1000",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -526,6 +606,16 @@
     {
       "Datum": "2026-02-14",
       "Zeit": null,
+      "Thema": "Keine Liebe für Faschos",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-14",
+      "Zeit": null,
       "Thema": "'Tu was gegen Rechts! Demokratie stärken'",
       "Ort": null,
       "Startpunkt": null,
@@ -581,6 +671,16 @@
       "Startpunkt": null,
       "Teilnehmer": "1.000",
       "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-15",
+      "Zeit": null,
+      "Thema": "Nett hier, aber wart ihr schon mal in einer Stadt, wo man den Faschos nicht den roten Teppich ausrollt?",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
