@@ -65,13 +65,13 @@
     },
     {
       "Datum": "2026-01-23",
-      "Zeit": null,
+      "Zeit": "17.00 - 19.30 Uhr",
       "Thema": "Lage in Rojava ",
       "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "60",
+      "Startpunkt": "Wiener Platz ",
+      "Teilnehmer": "60-100",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-01-23",
@@ -105,13 +105,13 @@
     },
     {
       "Datum": "2026-01-25",
-      "Zeit": null,
+      "Zeit": "14.00 - 18.00 Uhr",
       "Thema": "Defend Rojava",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Alaunplatz",
       "Teilnehmer": "400",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-01-26",
@@ -165,13 +165,13 @@
     },
     {
       "Datum": "2026-01-27",
-      "Zeit": null,
+      "Zeit": "17.00 - 19.00 Uhr",
       "Thema": "Den Opfern gedenken, das Leben feiern. ",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Schlesischer Platz",
       "Teilnehmer": "350",
       "Veranstalter": "Ostra e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-01-27",
@@ -274,6 +274,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2026-02-05",
+      "Zeit": null,
+      "Thema": "Gegen Kürzungen an unser alle Daseinsvorsorge an den Unis, der Bildung, Sozialem, Nahverkehr und mehr. Für mehr Geld und faire Bedingungen für Beschäftigte im TVL und TVN - für ein lebenswertes Sachsen für alle!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-02-07",
       "Zeit": null,
       "Thema": "'Im Schmerz vereint' - Kein Opfer ist vergessen!",
@@ -281,7 +291,7 @@
       "Startpunkt": null,
       "Teilnehmer": "1.000",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2026-02-07",
@@ -331,7 +341,7 @@
       "Startpunkt": null,
       "Teilnehmer": "1.000",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2026-02-08",
@@ -631,7 +641,7 @@
       "Startpunkt": null,
       "Teilnehmer": "1.000",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2026-02-15",
