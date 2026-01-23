@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-01-22",
+  "Dateidatum": "2026-01-23",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -40,26 +40,6 @@
       "Ort": "Neustädter Markt",
       "Startpunkt": null,
       "Teilnehmer": "3",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-01-22",
-      "Zeit": "16.00 - 18.00 Uhr",
-      "Thema": "Kundgebung zum 5. Jahrestag des Inkrafttretens des Atomwaffenverbotsvertrags",
-      "Ort": "Kleine Kirchgasse",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "Attac-Trägerverein e. V., Regionalgruppe Dresden, c/o ÖIZ Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-01-22",
-      "Zeit": "17.00 - 19.30 Uhr",
-      "Thema": "Lage in Rojava ",
-      "Ort": null,
-      "Startpunkt": "Alaunplatz",
-      "Teilnehmer": "60",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
     },
@@ -122,6 +102,16 @@
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-01-25",
+      "Zeit": null,
+      "Thema": "Defend Rojava",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "400",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-01-26",
@@ -306,7 +296,7 @@
     {
       "Datum": "2026-02-07",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -316,7 +306,7 @@
     {
       "Datum": "2026-02-07",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Thema": "Kein Platz für Nazis - Infopunkt",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
