@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-01-23",
+  "Dateidatum": "2026-01-24",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,76 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-01-20",
-      "Zeit": "ab 18.00 Uhr",
-      "Thema": "Mahnwache für Rojava",
-      "Ort": "Neustädter Markt",
-      "Startpunkt": null,
-      "Teilnehmer": "3",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-01-21",
-      "Zeit": "ganztägig",
-      "Thema": "Mahnwache für Rojava",
-      "Ort": "Neustädter Markt",
-      "Startpunkt": null,
-      "Teilnehmer": "3",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-01-22",
-      "Zeit": "ganztägig",
-      "Thema": "Mahnwache für Rojava",
-      "Ort": "Neustädter Markt",
-      "Startpunkt": null,
-      "Teilnehmer": "3",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-01-23",
-      "Zeit": "bis 20.00 Uhr",
-      "Thema": "Mahnwache für Rojava",
-      "Ort": "Neustädter Markt",
-      "Startpunkt": null,
-      "Teilnehmer": "3",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-01-23",
-      "Zeit": "09.00 - 16.00 Uhr",
-      "Thema": "Klimaschützen ist kein Verbrechen - Autobahn-Ausbau endlich stoppen",
-      "Ort": "Lothringer Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "15",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2026-01-23",
-      "Zeit": "17.00 - 19.30 Uhr",
-      "Thema": "Lage in Rojava ",
-      "Ort": null,
-      "Startpunkt": "Wiener Platz ",
-      "Teilnehmer": "60-100",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-01-23",
-      "Zeit": "15.00 - 17.00 Uhr",
-      "Thema": "Völkerrecht - oder das Recht des Stärkeren?",
-      "Ort": "Dr.-Külz-Ring",
-      "Startpunkt": null,
-      "Teilnehmer": "25",
-      "Veranstalter": "Initiative Dresden Stadt des Friedens",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-01-24",
       "Zeit": "13.30 - 18.30 Uhr",
@@ -306,7 +236,7 @@
     {
       "Datum": "2026-02-07",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Thema": "Kein Platz für Nazis - Infopunkt",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -316,7 +246,7 @@
     {
       "Datum": "2026-02-07",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
