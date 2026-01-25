@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-01-24",
+  "Dateidatum": "2026-01-25",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-01-24",
-      "Zeit": "13.30 - 18.30 Uhr",
-      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
-      "Ort": "Altmarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "12",
-      "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-01-25",
       "Zeit": "10.00 - 11.00 Uhr",
@@ -872,6 +862,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-04-25",
+      "Zeit": null,
+      "Thema": "Trauerwache Deutschland – Gemeinsames Gedenken der Opfer der letzten 11 Jahre",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "250",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     }
   ]
 }
