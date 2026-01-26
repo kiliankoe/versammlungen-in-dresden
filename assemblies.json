@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-01-25",
+  "Dateidatum": "2026-01-26",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-01-25",
-      "Zeit": "10.00 - 11.00 Uhr",
-      "Thema": "Gedenken an das Blutbad im Keglerheim am 25.1.1933",
-      "Ort": "Weißeritzstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-01-25",
-      "Zeit": "14.00 - 18.00 Uhr",
-      "Thema": "Defend Rojava",
-      "Ort": null,
-      "Startpunkt": "Alaunplatz",
-      "Teilnehmer": "400",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-01-26",
       "Zeit": "18.00 - 19.30 Uhr",
@@ -152,6 +132,16 @@
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-01-31",
+      "Zeit": null,
+      "Thema": "Sichtbarmachung der Gesichter und Schicksale der Opfer der Repression in Venezuela  - Forderung nach Schließung von Folterzentren und Freilassung aller politischen Gefangenen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-02-02",
