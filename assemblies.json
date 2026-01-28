@@ -15,13 +15,13 @@
   "Versammlungen": [
     {
       "Datum": "2026-01-28",
-      "Zeit": null,
+      "Zeit": "17.00 - 19.30 Uhr",
       "Thema": "Lage in Rojava ",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wiener Platz",
       "Teilnehmer": "400",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-01-28",
@@ -46,12 +46,22 @@
     {
       "Datum": "2026-01-29",
       "Zeit": null,
-      "Thema": "Fuß- und Radentscheid Dresden - Forderungen nicht ignorieren!",
+      "Thema": "BEISTAND für Fr. Dr. Witzschel",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "30",
+      "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-01-29",
+      "Zeit": "16.00 - 17.00 Uhr",
+      "Thema": "Fuß- und Radentscheid Dresden - Forderungen nicht ignorieren!",
+      "Ort": null,
+      "Startpunkt": "Rathausplatz",
+      "Teilnehmer": "30",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-01-31",
@@ -84,7 +94,7 @@
       "Status": "angemeldet"
     },
     {
-      "Datum": "2026-01-31",
+      "Datum": "2026-02-01",
       "Zeit": null,
       "Thema": "Lichterzug in Gedenken an die Opfer im Iran",
       "Ort": null,
