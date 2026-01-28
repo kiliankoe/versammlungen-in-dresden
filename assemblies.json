@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-01-27",
+  "Dateidatum": "2026-01-28",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,34 +14,14 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2026-01-27",
-      "Zeit": "17.00 - 19.00 Uhr",
-      "Thema": "Den Opfern gedenken, das Leben feiern. ",
+      "Datum": "2026-01-28",
+      "Zeit": null,
+      "Thema": "Lage in Rojava ",
       "Ort": null,
-      "Startpunkt": "Schlesischer Platz",
-      "Teilnehmer": "350",
-      "Veranstalter": "Ostra e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-01-27",
-      "Zeit": "12.00 - 16.00 Uhr",
-      "Thema": "Namenlesung",
-      "Ort": "An der Kreuzkirche",
       "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "Ökumenisches Informationszentrum e.V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-01-27",
-      "Zeit": "17.00 - 20.00 Uhr",
-      "Thema": "WÜRDEVOLL ERINNERN",
-      "Ort": "Münchner Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "SPD Dresden-Plauen",
-      "Status": "beschieden"
+      "Teilnehmer": "400",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-01-28",
@@ -55,13 +35,13 @@
     },
     {
       "Datum": "2026-01-29",
-      "Zeit": null,
+      "Zeit": "07.30 - 09.30 Uhr",
       "Thema": "Kein Schlussstrich! Solidarität mit den Betroffenen von NSU- und Naziterror! ",
-      "Ort": null,
+      "Ort": "Hammerweg",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-01-29",
@@ -85,13 +65,13 @@
     },
     {
       "Datum": "2026-01-31",
-      "Zeit": null,
-      "Thema": "Sichtbarmachung der Gesichter und Schicksale der Opfer der Repression in Venezuela  - Forderung nach Schließung von Folterzentren und Freilassung aller politischen Gefangenen",
+      "Zeit": "14.45 - 16.00 Uhr",
+      "Thema": "Sichtbarmachung der Gesichter und Schicksale der Opfer der Repression in Venezuela - Forderung nach Schließung von Folterzentren und Freilassung aller politischen Gefangenen",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Neustädter Markt",
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-01-31",
@@ -101,6 +81,16 @@
       "Startpunkt": null,
       "Teilnehmer": "400",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-01-31",
+      "Zeit": null,
+      "Thema": "Lichterzug in Gedenken an die Opfer im Iran",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "ZIVD e. V. – Zentrum Interkultureller Verständigung Dresden",
       "Status": "angemeldet"
     },
     {
@@ -142,6 +132,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-02-02",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-02-04",
@@ -186,7 +186,7 @@
     {
       "Datum": "2026-02-07",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -196,7 +196,7 @@
     {
       "Datum": "2026-02-07",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Thema": "Kein Platz für Nazis - Infopunkt",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -236,7 +236,7 @@
     {
       "Datum": "2026-02-08",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -246,7 +246,7 @@
     {
       "Datum": "2026-02-08",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Thema": "Kein Platz für Nazis - Infopunkt",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -546,7 +546,7 @@
     {
       "Datum": "2026-02-15",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -556,7 +556,7 @@
     {
       "Datum": "2026-02-15",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Thema": "Kein Platz für Nazis - Infopunkt",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
