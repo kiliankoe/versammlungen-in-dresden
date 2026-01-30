@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-01-29",
+  "Dateidatum": "2026-01-30",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,36 +14,6 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2026-01-29",
-      "Zeit": "07.30 - 09.30 Uhr",
-      "Thema": "Kein Schlussstrich! Solidarität mit den Betroffenen von NSU- und Naziterror! ",
-      "Ort": "Hammerweg",
-      "Startpunkt": null,
-      "Teilnehmer": "15",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-01-29",
-      "Zeit": null,
-      "Thema": "BEISTAND für Fr. Dr. Witzschel",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2026-01-29",
-      "Zeit": "16.00 - 17.00 Uhr",
-      "Thema": "Fuß- und Radentscheid Dresden - Forderungen nicht ignorieren!",
-      "Ort": null,
-      "Startpunkt": "Rathausplatz",
-      "Teilnehmer": "30",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2026-01-30",
       "Zeit": null,
       "Thema": "Lage in Rojava ",
@@ -56,12 +26,22 @@
     {
       "Datum": "2026-01-30",
       "Zeit": null,
-      "Thema": "Gegen juristische Willkür und parlamentarische Verschleppung — Rehabilitation für Dr. Bianca Witzschel",
+      "Thema": "Freiheit für Dr. Bianca Witzschel! Steckt Kretschmer in den Knast!",
       "Ort": null,
       "Startpunkt": null,
+      "Teilnehmer": "10-20",
+      "Veranstalter": "FREIE SACHSEN",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-01-30",
+      "Zeit": "14.00 - 18.30 Uhr",
+      "Thema": "Gegen juristische Willkür und parlamentarische Verschleppung — Rehabilitation für Dr. Bianca Witzschel",
+      "Ort": null,
+      "Startpunkt": "Neumarkt",
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-01-31",
@@ -85,23 +65,23 @@
     },
     {
       "Datum": "2026-01-31",
-      "Zeit": null,
+      "Zeit": "13.30 - 18.30 Uhr",
       "Thema": "Defend Rojava",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Alaunplatz",
       "Teilnehmer": "400",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-02-01",
-      "Zeit": null,
+      "Zeit": "16.45 - 20.00 Uhr",
       "Thema": "Lichterzug in Gedenken an die Opfer im Iran",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Neustädter Markt",
       "Teilnehmer": "300",
       "Veranstalter": "ZIVD e. V. – Zentrum Interkultureller Verständigung Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-02-02",
@@ -115,13 +95,13 @@
     },
     {
       "Datum": "2026-02-02",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-02-02",
@@ -160,6 +140,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-04",
+      "Zeit": null,
+      "Thema": "DVB verteidigen - ÖPNV stärken!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -295,13 +285,13 @@
     },
     {
       "Datum": "2026-02-09",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-02-09",
@@ -595,13 +585,13 @@
     },
     {
       "Datum": "2026-02-16",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-02-16",
@@ -645,13 +635,13 @@
     },
     {
       "Datum": "2026-02-23",
-      "Zeit": null,
+      "Zeit": "ab 19.00 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-02-23",
@@ -665,13 +655,13 @@
     },
     {
       "Datum": "2026-02-24",
-      "Zeit": null,
+      "Zeit": "ganztägig",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-02-24",
@@ -685,43 +675,43 @@
     },
     {
       "Datum": "2026-02-25",
-      "Zeit": null,
+      "Zeit": "ganztägig",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-02-26",
-      "Zeit": null,
+      "Zeit": "ganztägig",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-02-27",
-      "Zeit": null,
+      "Zeit": "ganztägig",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-02-28",
-      "Zeit": null,
+      "Zeit": "ganztägig",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-02-28",
@@ -745,23 +735,23 @@
     },
     {
       "Datum": "2026-03-01",
-      "Zeit": null,
+      "Zeit": "ganztägig",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-03-02",
-      "Zeit": null,
+      "Zeit": "bis 21.00 Uhr",
       "Thema": "Fred stellt sich in den Weg",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-03-02",
@@ -952,6 +942,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-04-30",
+      "Zeit": null,
+      "Thema": "Take Back The Night",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     }
   ]
 }
