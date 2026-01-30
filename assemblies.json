@@ -84,6 +84,26 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2026-02-01",
+      "Zeit": "13.00 - 16.00 Uhr",
+      "Thema": "Hoffnung und Zusammenhalt",
+      "Ort": "Postplatz",
+      "Startpunkt": null,
+      "Teilnehmer": "8",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-02-01",
+      "Zeit": "15.00 - 19.00 Uhr",
+      "Thema": "Defend Rojava",
+      "Ort": null,
+      "Startpunkt": "Wiener Platz",
+      "Teilnehmer": "400",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
       "Datum": "2026-02-02",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -125,13 +145,13 @@
     },
     {
       "Datum": "2026-02-02",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.30 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-02-04",
