@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-01-30",
+  "Dateidatum": "2026-01-31",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,36 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-01-30",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Lage in Rojava ",
-      "Ort": null,
-      "Startpunkt": "Alaunplatz",
-      "Teilnehmer": "400",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-01-30",
-      "Zeit": null,
-      "Thema": "Freiheit für Dr. Bianca Witzschel! Steckt Kretschmer in den Knast!",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "10-20",
-      "Veranstalter": "FREIE SACHSEN",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2026-01-30",
-      "Zeit": "14.00 - 18.30 Uhr",
-      "Thema": "Gegen juristische Willkür und parlamentarische Verschleppung — Rehabilitation für Dr. Bianca Witzschel",
-      "Ort": null,
-      "Startpunkt": "Neumarkt",
-      "Teilnehmer": "200",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-01-31",
       "Zeit": "13.30 - 18.30 Uhr",
@@ -206,7 +176,7 @@
     {
       "Datum": "2026-02-07",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Thema": "Kein Platz für Nazis - Infopunkt",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -216,7 +186,7 @@
     {
       "Datum": "2026-02-07",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -256,7 +226,7 @@
     {
       "Datum": "2026-02-08",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Thema": "Kein Platz für Nazis - Infopunkt",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -266,7 +236,7 @@
     {
       "Datum": "2026-02-08",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -486,7 +456,7 @@
     {
       "Datum": "2026-02-14",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Thema": "Kein Platz für Nazis - Infopunkt",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -496,7 +466,7 @@
     {
       "Datum": "2026-02-14",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -566,7 +536,7 @@
     {
       "Datum": "2026-02-15",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Thema": "Kein Platz für Nazis - Infopunkt",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -576,7 +546,7 @@
     {
       "Datum": "2026-02-15",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -970,6 +940,46 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-05-01",
+      "Zeit": null,
+      "Thema": "1. Mai Kundgebung des DGB 2026",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "DGB Dresden-Oberes Elbtal",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-05-01",
+      "Zeit": null,
+      "Thema": "1. Mai 2026",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "ver.di",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-05-01",
+      "Zeit": null,
+      "Thema": "Die Linke lädt zum 1. Mai ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "400",
+      "Veranstalter": "Die Linke Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-05-01",
+      "Zeit": null,
+      "Thema": "Anarchistischer 1. Mai",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     }
