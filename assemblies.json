@@ -236,20 +236,20 @@
     {
       "Datum": "2026-02-12",
       "Zeit": null,
-      "Thema": "Flamme der Erinnerung – Mahnwache zum 13. Februar 1945",
+      "Thema": "Autokorso für die Flamme der Erinnerung",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "14-85",
+      "Teilnehmer": "25 bis 40",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
       "Datum": "2026-02-12",
       "Zeit": null,
-      "Thema": "Autokorso für die Flamme der Erinnerung",
+      "Thema": "Flamme der Erinnerung – Mahnwache zum 13. Februar 1945",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "25 bis 40",
+      "Teilnehmer": "14-85",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -386,27 +386,7 @@
     {
       "Datum": "2026-02-14",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Neustadt",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "1.000",
-      "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2026-02-14",
-      "Zeit": null,
       "Thema": "Kein Platz für Nazis - Infopunkt",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "1.000",
-      "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2026-02-14",
-      "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -431,6 +411,36 @@
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-14",
+      "Zeit": null,
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-14",
+      "Zeit": null,
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Neustadt ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1000",
+      "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-14",
+      "Zeit": null,
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Neustadt 2",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
       "Status": "angemeldet"
     },
     {
@@ -476,7 +486,7 @@
     {
       "Datum": "2026-02-15",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -486,7 +496,7 @@
     {
       "Datum": "2026-02-15",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Thema": "Kein Platz für Nazis - Infopunkt",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
