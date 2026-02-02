@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-02-01",
+  "Dateidatum": "2026-02-02",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,36 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-02-01",
-      "Zeit": "16.45 - 20.00 Uhr",
-      "Thema": "Lichterzug in Gedenken an die Opfer im Iran",
-      "Ort": null,
-      "Startpunkt": "Neustädter Markt",
-      "Teilnehmer": "300",
-      "Veranstalter": "ZIVD e. V. – Zentrum Interkultureller Verständigung Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-02-01",
-      "Zeit": "13.00 - 16.00 Uhr",
-      "Thema": "Hoffnung und Zusammenhalt",
-      "Ort": "Postplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "8",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-02-01",
-      "Zeit": "15.00 - 19.00 Uhr",
-      "Thema": "Defend Rojava",
-      "Ort": null,
-      "Startpunkt": "Wiener Platz",
-      "Teilnehmer": "400",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-02-02",
       "Zeit": "18.00 - 19.30 Uhr",
@@ -196,7 +166,7 @@
     {
       "Datum": "2026-02-08",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -206,7 +176,7 @@
     {
       "Datum": "2026-02-08",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Thema": "Kein Platz für Nazis - Infopunkt",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -426,7 +396,7 @@
     {
       "Datum": "2026-02-14",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Thema": "Kein Platz für Nazis - Infopunkt",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -436,7 +406,7 @@
     {
       "Datum": "2026-02-14",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
