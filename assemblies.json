@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-02-02",
+  "Dateidatum": "2026-02-03",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,56 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-02-02",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "15",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-02-02",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Fred stellt sich in den Weg",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "50",
-      "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-02-02",
-      "Zeit": "18.00 - 19.00 Uhr",
-      "Thema": "Gegen die Abwälzung von Krisen+ Kriegsvorbereitung auf die breiten Massen! Gegen jede Art von sozialer Demontage! Gegen Imperialistische Kriege! Freiheit für Gaza! Kampf dem Faschismus auch in seiner Tarnung als Modern!  ",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-02-02",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "25",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-02-02",
-      "Zeit": "19.00 - 20.30 Uhr",
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "150",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-02-04",
       "Zeit": null,
@@ -84,14 +34,24 @@
       "Status": "angemeldet"
     },
     {
-      "Datum": "2026-02-05",
+      "Datum": "2026-02-04",
       "Zeit": null,
-      "Thema": "Gegen Kürzungen an unser alle Daseinsvorsorge an den Unis, der Bildung, Sozialem, Nahverkehr und mehr. Für mehr Geld und faire Bedingungen für Beschäftigte im TVL und TVN - für ein lebenswertes Sachsen für alle!",
+      "Thema": "Mit dieser Demonstration möchten wir gegen die zuletzt in Syrien verübten Massaker, Anschläge und Gewalttaten durch dschihadistische Gruppen protestieren. Im Mittelpunkt steht der Protest gegen Gewalt an Zivilisten, insbesondere an Frauen ",
       "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300-400",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-05",
+      "Zeit": "09.00 - 14.00 Uhr",
+      "Thema": "Gegen Kürzungen an unser alle Daseinsvorsorge an den Unis, der Bildung, Sozialem, Nahverkehr und mehr. Für mehr Geld und faire Bedingungen für Beschäftigte im TVL und TVN - für ein lebenswertes Sachsen für alle!",
+      "Ort": "Bernhard-von-Lindenau-Platz",
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-02-07",
@@ -116,7 +76,7 @@
     {
       "Datum": "2026-02-07",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -126,7 +86,7 @@
     {
       "Datum": "2026-02-07",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Thema": "Kein Platz für Nazis - Infopunkt",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -232,6 +192,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-02-09",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren? Wir auch!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-02-12",
@@ -746,6 +716,16 @@
     {
       "Datum": "2026-03-09",
       "Zeit": null,
+      "Thema": "Feministischer Schulstreik zum 09.03.2026",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "80",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-03-09",
+      "Zeit": null,
       "Thema": "intersektionaler  feministischer Frauenstreik 2026 - Ohne uns steht alles still",
       "Ort": null,
       "Startpunkt": null,
@@ -932,6 +912,16 @@
       "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-05-04",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
     }
   ]
 }
