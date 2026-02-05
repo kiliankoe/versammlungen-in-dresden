@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-02-04",
+  "Dateidatum": "2026-02-05",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,36 +14,6 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2026-02-04",
-      "Zeit": "18.00 - 20.30 Uhr",
-      "Thema": "Holt Maja zurück - Antifaschismus ist notwendig, nicht kriminell!",
-      "Ort": null,
-      "Startpunkt": "Carolaplatz",
-      "Teilnehmer": "200",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-02-04",
-      "Zeit": "13.00 - 17.00 Uhr",
-      "Thema": "DVB verteidigen - ÖPNV stärken!",
-      "Ort": "Albertplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-02-04",
-      "Zeit": "17.00 - 19.30 Uhr",
-      "Thema": "Mit dieser Demonstration möchten wir gegen die zuletzt in Syrien verübten Massaker, Anschläge und Gewalttaten durch dschihadistische Gruppen protestieren. Im Mittelpunkt steht der Protest gegen Gewalt an Zivilisten, insbesondere an Frauen ",
-      "Ort": null,
-      "Startpunkt": "Wiener Platz",
-      "Teilnehmer": "300-400",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2026-02-05",
       "Zeit": "09.00 - 14.00 Uhr",
       "Thema": "Gegen Kürzungen an unser alle Daseinsvorsorge an den Unis, der Bildung, Sozialem, Nahverkehr und mehr. Für mehr Geld und faire Bedingungen für Beschäftigte im TVL und TVN - für ein lebenswertes Sachsen für alle!",
@@ -51,7 +21,7 @@
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2026-02-07",
@@ -114,6 +84,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2026-02-07",
+      "Zeit": null,
+      "Thema": "Belagerung Beenden! - Status für Rojava",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-02-08",
       "Zeit": null,
       "Thema": "'Im Schmerz vereint' - Kein Opfer ist vergessen!",
@@ -136,7 +116,7 @@
     {
       "Datum": "2026-02-08",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Thema": "Kein Platz für Nazis - Infopunkt",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -146,12 +126,12 @@
     {
       "Datum": "2026-02-08",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
       "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2026-02-08",
@@ -365,13 +345,13 @@
     },
     {
       "Datum": "2026-02-14",
-      "Zeit": null,
+      "Zeit": "10.45 - 11.15 Uhr",
       "Thema": "Erhalt von Meinungs- und Versammlungsfreiheit in der Landeshauptstadt Dresden ",
-      "Ort": null,
+      "Ort": "Neumarkt ",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-02-14",
@@ -662,6 +642,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-02-26",
+      "Zeit": null,
+      "Thema": "XR (Extinction Rebellion) - Erdgas verfeuert unsere Zukunft! Jetzt einen ambitionierteren Wärmeplan umsetzen, für günstigere Heizkosten der Bürger.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-02-27",
