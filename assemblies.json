@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-02-05",
+  "Dateidatum": "2026-02-06",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-02-05",
-      "Zeit": "09.00 - 14.00 Uhr",
-      "Thema": "Gegen Kürzungen an unser alle Daseinsvorsorge an den Unis, der Bildung, Sozialem, Nahverkehr und mehr. Für mehr Geld und faire Bedingungen für Beschäftigte im TVL und TVN - für ein lebenswertes Sachsen für alle!",
-      "Ort": "Bernhard-von-Lindenau-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "100",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
     {
       "Datum": "2026-02-07",
       "Zeit": null,
@@ -46,7 +36,7 @@
     {
       "Datum": "2026-02-07",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -56,7 +46,7 @@
     {
       "Datum": "2026-02-07",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Thema": "Kein Platz für Nazis - Infopunkt",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -75,13 +65,13 @@
     },
     {
       "Datum": "2026-02-07",
-      "Zeit": null,
+      "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "3 Minute Movie Challenge",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-02-07",
@@ -135,13 +125,13 @@
     },
     {
       "Datum": "2026-02-08",
-      "Zeit": null,
+      "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "Mahngang Täter: innenspuren 2026",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Taschenberg",
       "Teilnehmer": "400",
       "Veranstalter": "Dresden Widersetzen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-02-08",
@@ -151,7 +141,7 @@
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2026-02-09",
@@ -396,20 +386,20 @@
     {
       "Datum": "2026-02-14",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Neustadt ",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "1.000",
+      "Teilnehmer": "1000",
       "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
       "Status": "angemeldet"
     },
     {
       "Datum": "2026-02-14",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Neustadt ",
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "1000",
+      "Teilnehmer": "1.000",
       "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
       "Status": "angemeldet"
     },
@@ -765,13 +755,13 @@
     },
     {
       "Datum": "2026-03-07",
-      "Zeit": null,
+      "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "3 Minute Movie Challenge",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-03-09",
@@ -942,6 +932,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-04-06",
+      "Zeit": null,
+      "Thema": "Ostermarsch 2026   Für Soziales und Bildung - Gegen Rüstung und Krieg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "Initiative Dresden Stadt des Friedens",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-04-13",
