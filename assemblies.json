@@ -195,13 +195,13 @@
     },
     {
       "Datum": "2026-02-13",
-      "Zeit": null,
+      "Zeit": "17.00 - 21.00 Uhr",
       "Thema": "Tu was gegen Rechts! Demokratie stärken",
-      "Ort": null,
+      "Ort": "Dr.-Külz-Ring",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "BÜNDNIS 90/DIE GRÜNEN",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-02-14",
@@ -256,20 +256,20 @@
     {
       "Datum": "2026-02-14",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Neustadt ",
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "1000",
+      "Teilnehmer": "1.000",
       "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
       "Status": "angemeldet"
     },
     {
       "Datum": "2026-02-14",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Neustadt ",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "1.000",
+      "Teilnehmer": "1000",
       "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
       "Status": "angemeldet"
     },
@@ -312,6 +312,16 @@
       "Teilnehmer": "250",
       "Veranstalter": "PRüF! Sachsen",
       "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-14",
+      "Zeit": "14.30 - 16.30 Uhr",
+      "Thema": "Für das Leben",
+      "Ort": "Prager Straße",
+      "Startpunkt": null,
+      "Teilnehmer": "3",
+      "Veranstalter": "Freie Baptistengemeinde Dresden",
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-02-15",
@@ -402,6 +412,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-02-19",
+      "Zeit": null,
+      "Thema": "Say their names - Gedanktag zum 5. Jahrestag vom Anschlag in Hanau",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
+      "Veranstalter": "Seebrücke Dresden",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-02-19",
@@ -644,6 +664,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2026-03-08",
+      "Zeit": null,
+      "Thema": "Feministischer Kampftag",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "600",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-03-09",
       "Zeit": null,
       "Thema": "Bühlau geht spazieren",
@@ -740,7 +770,7 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "15",
-      "Veranstalter": "Activists for the Victims e.V.",
+      "Veranstalter": "Activists for the Victims e. V.",
       "Status": "angemeldet"
     },
     {
