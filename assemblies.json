@@ -15,23 +15,23 @@
   "Versammlungen": [
     {
       "Datum": "2026-02-11",
-      "Zeit": null,
+      "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "Mord verjährt nicht! Dresden Gedenken",
-      "Ort": null,
+      "Ort": "Dr.-Külz-Ring",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "Freie SACHSEN",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-02-12",
-      "Zeit": null,
+      "Zeit": "16.45 - 17.45 Uhr",
       "Thema": "Autokorso für die Flamme der Erinnerung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Mügelner Straße (Heidenau)",
       "Teilnehmer": "25 bis 40",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-02-12",
@@ -95,13 +95,13 @@
     },
     {
       "Datum": "2026-02-13",
-      "Zeit": null,
+      "Zeit": "17.00 - 18.30 Uhr",
       "Thema": "Menschenkette zum 13. Februar ",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Ortsamtsbereich Altstadt",
       "Teilnehmer": "10.000",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-02-13",
@@ -206,20 +206,20 @@
     {
       "Datum": "2026-02-14",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Neustadt ",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "1.000",
+      "Teilnehmer": "1000",
       "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
       "Status": "angemeldet"
     },
     {
       "Datum": "2026-02-14",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Neustadt ",
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "1000",
+      "Teilnehmer": "1.000",
       "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
       "Status": "angemeldet"
     },
@@ -251,6 +251,16 @@
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "BÜNDNIS 90/DIE GRÜNEN",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-02-14",
+      "Zeit": null,
+      "Thema": "'Ihr seid nicht schuld an dem, was war, aber verantwortlich dafür, dass es nicht mehr gesc ieht.' (Max Mannheimer, 1920-2016)",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "BÜNDNIS 90/ DIE GRÜNEN Sachsen",
       "Status": "angemeldet"
     },
     {
@@ -296,7 +306,7 @@
     {
       "Datum": "2026-02-15",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -306,7 +316,7 @@
     {
       "Datum": "2026-02-15",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Thema": "Kein Platz für Nazis - Infopunkt",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
