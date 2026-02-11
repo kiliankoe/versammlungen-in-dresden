@@ -65,23 +65,23 @@
     },
     {
       "Datum": "2026-02-13",
-      "Zeit": null,
+      "Zeit": "14.00 - 23.59 Uhr",
       "Thema": "Stilles Ge(h)denken Dresden",
-      "Ort": null,
+      "Ort": "Altmarkt",
       "Startpunkt": null,
       "Teilnehmer": "unbekannt",
       "Veranstalter": "Wellenlänge",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-02-13",
-      "Zeit": null,
+      "Zeit": "14.00 - 23.59 Uhr",
       "Thema": "Stilles Ge(h)denken Dresden",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "unbekannt",
       "Veranstalter": "Wellenlänge",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-02-13",
@@ -125,23 +125,23 @@
     },
     {
       "Datum": "2026-02-13",
-      "Zeit": null,
+      "Zeit": "16.30 - 19.00 Uhr",
       "Thema": "Kein Platz für Nazis - Zubringerdemo Uni",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Fritz-Förster-Platz",
       "Teilnehmer": "1000",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-02-13",
-      "Zeit": null,
+      "Zeit": "16.30 - 18.30 Uhr",
       "Thema": "Kein Platz für Nazis - Zubringerdemo Neustadt",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Alaunpark",
       "Teilnehmer": "1000",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-02-13",
@@ -384,6 +384,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2026-02-16",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-02-19",
       "Zeit": null,
       "Thema": "Say their names - Gedanktag zum 5. Jahrestag vom Anschlag in Hanau",
@@ -395,13 +405,13 @@
     },
     {
       "Datum": "2026-02-19",
-      "Zeit": null,
+      "Zeit": "16.00 - 18.00 Uhr",
       "Thema": "Mahnwache der OMAS GEGEN RECHTS.DRESDEN für Frieden - gegen Krieg und Gewalt überall",
-      "Ort": null,
+      "Ort": "Kleine Kirchgasse",
       "Startpunkt": null,
       "Teilnehmer": "8",
       "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-02-21",
