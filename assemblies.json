@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-02-10",
+  "Dateidatum": "2026-02-11",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -22,6 +22,16 @@
       "Teilnehmer": "20",
       "Veranstalter": "Freie SACHSEN",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-02-11",
+      "Zeit": null,
+      "Thema": "Kein Werben fürs Sterben. Gegen den öffentlichen Appell der Bundeswehr!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-02-12",
@@ -256,7 +266,7 @@
     {
       "Datum": "2026-02-14",
       "Zeit": null,
-      "Thema": "'Ihr seid nicht schuld an dem, was war, aber verantwortlich dafür, dass es nicht mehr gesc ieht.' (Max Mannheimer, 1920-2016)",
+      "Thema": "'Ihr seid nicht schuld an dem, was war, aber verantwortlich dafür, dass es nicht mehr gesch ieht.' (Max Mannheimer, 1920-2016)",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "50",
@@ -952,6 +962,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-05-12",
+      "Zeit": null,
+      "Thema": "'Mittendrin statt außen vor' Menschen mit Behinderungen möchten ernst genommen werden. Ihr Ziel: umfassende Teilhabe",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1500",
+      "Veranstalter": "Lebenshilfe Sachsen e. V.",
+      "Status": "angemeldet"
     }
   ]
 }
