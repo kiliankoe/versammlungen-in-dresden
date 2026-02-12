@@ -175,13 +175,13 @@
     },
     {
       "Datum": "2026-02-14",
-      "Zeit": null,
+      "Zeit": "12.00 - 18.00 Uhr",
       "Thema": "Kein Platz für Nazis - Infopunkt",
-      "Ort": null,
+      "Ort": "Postplatz",
       "Startpunkt": null,
       "Teilnehmer": "1.000",
       "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-02-14",
@@ -225,13 +225,13 @@
     },
     {
       "Datum": "2026-02-14",
-      "Zeit": null,
+      "Zeit": "12.00 - 15.00 Uhr",
       "Thema": "Keine Liebe für Faschos",
-      "Ort": null,
+      "Ort": "Friedrichstraße",
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-02-14",
@@ -245,13 +245,13 @@
     },
     {
       "Datum": "2026-02-14",
-      "Zeit": null,
-      "Thema": "'Ihr seid nicht schuld an dem, was war, aber verantwortlich dafür, dass es nicht mehr gesch ieht.' (Max Mannheimer, 1920-2016)",
-      "Ort": null,
+      "Zeit": "11.00 - 17.00 Uhr",
+      "Thema": "'Ihr seid nicht schuld an dem, was war, aber verantwortlich dafür, dass es nicht mehr geschieht.' (Max Mannheimer, 1920-2016)",
+      "Ort": "Wettiner Platz",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "BÜNDNIS 90/ DIE GRÜNEN Sachsen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-02-14",
@@ -387,7 +387,7 @@
       "Datum": "2026-02-19",
       "Zeit": "18.00 - 19.00 Uhr",
       "Thema": "Say their names - Gedanktag zum 5. Jahrestag vom Anschlag in Hanau",
-      "Ort": "Jorge-Gomonadai-Platz",
+      "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
       "Teilnehmer": "150",
       "Veranstalter": "Seebrücke Dresden",
