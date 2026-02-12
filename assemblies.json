@@ -61,7 +61,7 @@
       "Startpunkt": null,
       "Teilnehmer": "unbekannt",
       "Veranstalter": "Wellenlänge",
-      "Status": "beschieden"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2026-02-13",
@@ -235,13 +235,13 @@
     },
     {
       "Datum": "2026-02-14",
-      "Zeit": null,
+      "Zeit": "11.00 - 15.00 Uhr",
       "Thema": "'Tu was gegen Rechts! Demokratie stärken'",
-      "Ort": null,
+      "Ort": "Dr.-Külz-Ring",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "BÜNDNIS 90/DIE GRÜNEN",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-02-14",
@@ -385,13 +385,13 @@
     },
     {
       "Datum": "2026-02-19",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.00 Uhr",
       "Thema": "Say their names - Gedanktag zum 5. Jahrestag vom Anschlag in Hanau",
-      "Ort": null,
+      "Ort": "Jorge-Gomonadai-Platz",
       "Startpunkt": null,
       "Teilnehmer": "150",
       "Veranstalter": "Seebrücke Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-02-19",
