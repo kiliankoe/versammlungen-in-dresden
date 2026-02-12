@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-02-11",
+  "Dateidatum": "2026-02-12",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-02-11",
-      "Zeit": "15.00 - 18.00 Uhr",
-      "Thema": "Mord verjährt nicht! Dresden Gedenken",
-      "Ort": "Dr.-Külz-Ring",
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "Freie SACHSEN",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-02-11",
-      "Zeit": null,
-      "Thema": "Kein Werben fürs Sterben. Gegen den öffentlichen Appell der Bundeswehr!",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
     {
       "Datum": "2026-02-12",
       "Zeit": "16.45 - 17.45 Uhr",
@@ -67,7 +47,7 @@
       "Datum": "2026-02-13",
       "Zeit": "14.00 - 23.59 Uhr",
       "Thema": "Stilles Ge(h)denken Dresden",
-      "Ort": "Altmarkt",
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "unbekannt",
       "Veranstalter": "Wellenlänge",
@@ -77,7 +57,7 @@
       "Datum": "2026-02-13",
       "Zeit": "14.00 - 23.59 Uhr",
       "Thema": "Stilles Ge(h)denken Dresden",
-      "Ort": "Neumarkt",
+      "Ort": "Altmarkt",
       "Startpunkt": null,
       "Teilnehmer": "unbekannt",
       "Veranstalter": "Wellenlänge",
@@ -215,33 +195,33 @@
     },
     {
       "Datum": "2026-02-14",
-      "Zeit": null,
+      "Zeit": "10.30 - 12.00 Uhr",
       "Thema": "Kein Platz für Nazis - Zubringerdemo Neustadt ",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Alaunstraße",
       "Teilnehmer": "1000",
       "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-02-14",
-      "Zeit": null,
+      "Zeit": "10.30 - 00.00 Uhr",
       "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Friedrich-List-Platz/Strehlener Straße",
       "Teilnehmer": "1.000",
       "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-02-14",
-      "Zeit": null,
+      "Zeit": "10.30 - 00.00 Uhr",
       "Thema": "Kein Platz für Nazis - Zubringerdemo Neustadt 2",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Schlesischer Platz",
       "Teilnehmer": "300",
       "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-02-14",
@@ -311,7 +291,7 @@
       "Startpunkt": null,
       "Teilnehmer": "1.000",
       "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2026-02-15",
@@ -321,7 +301,7 @@
       "Startpunkt": null,
       "Teilnehmer": "1.000",
       "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2026-02-15",
@@ -331,7 +311,7 @@
       "Startpunkt": null,
       "Teilnehmer": "1.000",
       "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2026-02-15",
