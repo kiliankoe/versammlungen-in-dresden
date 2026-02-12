@@ -47,7 +47,7 @@
       "Datum": "2026-02-13",
       "Zeit": "14.00 - 23.59 Uhr",
       "Thema": "Stilles Ge(h)denken Dresden",
-      "Ort": "Neumarkt",
+      "Ort": "Altmarkt",
       "Startpunkt": null,
       "Teilnehmer": "unbekannt",
       "Veranstalter": "Wellenlänge",
@@ -57,7 +57,7 @@
       "Datum": "2026-02-13",
       "Zeit": "14.00 - 23.59 Uhr",
       "Thema": "Stilles Ge(h)denken Dresden",
-      "Ort": "Altmarkt",
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "unbekannt",
       "Veranstalter": "Wellenlänge",
@@ -105,7 +105,7 @@
     },
     {
       "Datum": "2026-02-13",
-      "Zeit": "16.30 - 19.00 Uhr",
+      "Zeit": "17.30 - 19.00 Uhr",
       "Thema": "Kein Platz für Nazis - Zubringerdemo Uni",
       "Ort": null,
       "Startpunkt": "Fritz-Förster-Platz",
@@ -115,7 +115,7 @@
     },
     {
       "Datum": "2026-02-13",
-      "Zeit": "16.30 - 18.30 Uhr",
+      "Zeit": "17.30 - 19.00 Uhr",
       "Thema": "Kein Platz für Nazis - Zubringerdemo Neustadt",
       "Ort": null,
       "Startpunkt": "Alaunpark",
@@ -165,13 +165,13 @@
     },
     {
       "Datum": "2026-02-14",
-      "Zeit": null,
+      "Zeit": "14.00 - 22.00 Uhr",
       "Thema": "'Im Schmerz vereint' - Kein Opfer ist vergessen!",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Weißeritzstraße",
       "Teilnehmer": "1.000",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-02-14",
@@ -324,6 +324,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2026-02-15",
+      "Zeit": null,
+      "Thema": "Im Gedenken an Xelil Sen - Freiheit für Öcalan! Status für Rojava!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-02-16",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -392,6 +402,16 @@
       "Teilnehmer": "8",
       "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-02-20",
+      "Zeit": null,
+      "Thema": "Ukraine - Frieden jetzt!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "Initiative Dresden Stadt des Friedens",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-02-21",
