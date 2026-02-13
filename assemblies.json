@@ -251,7 +251,7 @@
       "Startpunkt": null,
       "Teilnehmer": "250",
       "Veranstalter": "PRüF! Sachsen",
-      "Status": "beschieden"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2026-02-14",
@@ -311,17 +311,17 @@
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2026-02-15",
-      "Zeit": null,
+      "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "Im Gedenken an Xelil Sen - Freiheit für Öcalan! Status für Rojava!",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Jorge-Gomondai-Platz",
       "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-02-16",
@@ -365,13 +365,13 @@
     },
     {
       "Datum": "2026-02-16",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.20 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-02-19",
