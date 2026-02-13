@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-02-12",
+  "Dateidatum": "2026-02-13",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-02-12",
-      "Zeit": "16.45 - 17.45 Uhr",
-      "Thema": "Autokorso für die Flamme der Erinnerung",
-      "Ort": null,
-      "Startpunkt": "Mügelner Straße (Heidenau)",
-      "Teilnehmer": "25 bis 40",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-02-12",
       "Zeit": "ab 17.45 Uhr",
@@ -195,21 +185,21 @@
     },
     {
       "Datum": "2026-02-14",
-      "Zeit": "10.30 - 12.00 Uhr",
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Neustadt ",
-      "Ort": null,
-      "Startpunkt": "Alaunstraße",
-      "Teilnehmer": "1000",
-      "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-02-14",
       "Zeit": "10.30 - 00.00 Uhr",
       "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
       "Startpunkt": "Friedrich-List-Platz/Strehlener Straße",
       "Teilnehmer": "1.000",
+      "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-02-14",
+      "Zeit": "10.30 - 12.00 Uhr",
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Neustadt ",
+      "Ort": null,
+      "Startpunkt": "Alaunstraße",
+      "Teilnehmer": "1000",
       "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
       "Status": "beschieden"
     },
