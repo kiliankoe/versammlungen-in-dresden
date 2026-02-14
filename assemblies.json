@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-02-13",
+  "Dateidatum": "2026-02-14",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -31,106 +31,6 @@
       "Startpunkt": null,
       "Teilnehmer": "14-85",
       "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-02-13",
-      "Zeit": "14.00 - 23.59 Uhr",
-      "Thema": "Stilles Ge(h)denken Dresden",
-      "Ort": "Altmarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "unbekannt",
-      "Veranstalter": "Wellenlänge",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-02-13",
-      "Zeit": "14.00 - 23.59 Uhr",
-      "Thema": "Stilles Ge(h)denken Dresden",
-      "Ort": "Neumarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "unbekannt",
-      "Veranstalter": "Wellenlänge",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2026-02-13",
-      "Zeit": "18.15 - 22.30 Uhr",
-      "Thema": "Dresden kein Ort für Nazis",
-      "Ort": "Altmarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "1000",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-02-13",
-      "Zeit": "16.00 - 22.30 Uhr",
-      "Thema": "Stilles Gedenken vor der Frauenkirche Dresden",
-      "Ort": "Neumarkt",
-      "Startpunkt": "Hasenberg",
-      "Teilnehmer": "1.000",
-      "Veranstalter": "Gesellschaft zur Förderung der Frauenkirche Dresden e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-02-13",
-      "Zeit": "17.00 - 18.30 Uhr",
-      "Thema": "Menschenkette zum 13. Februar ",
-      "Ort": null,
-      "Startpunkt": "Ortsamtsbereich Altstadt",
-      "Teilnehmer": "10.000",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-02-13",
-      "Zeit": "12.00 - 16.00 Uhr",
-      "Thema": "Fuchs, du hast die Wahrheit gestohlen!",
-      "Ort": "Neumarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "100",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-02-13",
-      "Zeit": "17.30 - 19.00 Uhr",
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Uni",
-      "Ort": null,
-      "Startpunkt": "Fritz-Förster-Platz",
-      "Teilnehmer": "1000",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-02-13",
-      "Zeit": "17.30 - 19.00 Uhr",
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Neustadt",
-      "Ort": null,
-      "Startpunkt": "Alaunpark",
-      "Teilnehmer": "1000",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-02-13",
-      "Zeit": "12.00 - 16.00 Uhr",
-      "Thema": "Mahnwache für die Opfer der Bombardierung Dresdens am 13.02.1945",
-      "Ort": "Neumarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-02-13",
-      "Zeit": "17.00 - 21.00 Uhr",
-      "Thema": "Tu was gegen Rechts! Demokratie stärken",
-      "Ort": "Dr.-Külz-Ring",
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "BÜNDNIS 90/DIE GRÜNEN",
       "Status": "beschieden"
     },
     {
@@ -185,21 +85,21 @@
     },
     {
       "Datum": "2026-02-14",
-      "Zeit": "10.30 - 00.00 Uhr",
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
-      "Ort": null,
-      "Startpunkt": "Friedrich-List-Platz/Strehlener Straße",
-      "Teilnehmer": "1.000",
-      "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-02-14",
       "Zeit": "10.30 - 12.00 Uhr",
       "Thema": "Kein Platz für Nazis - Zubringerdemo Neustadt ",
       "Ort": null,
       "Startpunkt": "Alaunstraße",
       "Teilnehmer": "1000",
+      "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-02-14",
+      "Zeit": "10.30 - 00.00 Uhr",
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Ort": null,
+      "Startpunkt": "Friedrich-List-Platz/Strehlener Straße",
+      "Teilnehmer": "1.000",
       "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
       "Status": "beschieden"
     },
