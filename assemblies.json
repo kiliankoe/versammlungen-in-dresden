@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-02-14",
+  "Dateidatum": "2026-02-15",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,156 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-02-12",
-      "Zeit": "ab 17.45 Uhr",
-      "Thema": "Flamme der Erinnerung – Mahnwache zum 13. Februar 1945",
-      "Ort": "Dr.-Külz-Ring",
-      "Startpunkt": null,
-      "Teilnehmer": "14-85",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-02-13",
-      "Zeit": "ganztägig",
-      "Thema": "Flamme der Erinnerung – Mahnwache zum 13. Februar 1945",
-      "Ort": "Dr.-Külz-Ring",
-      "Startpunkt": null,
-      "Teilnehmer": "14-85",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-02-14",
-      "Zeit": "bis 07.00 Uhr",
-      "Thema": "Flamme der Erinnerung – Mahnwache zum 13. Februar 1945",
-      "Ort": "Dr.-Külz-Ring",
-      "Startpunkt": null,
-      "Teilnehmer": "14-85",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-02-14",
-      "Zeit": "10.45 - 11.15 Uhr",
-      "Thema": "Erhalt von Meinungs- und Versammlungsfreiheit in der Landeshauptstadt Dresden ",
-      "Ort": "Neumarkt ",
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-02-14",
-      "Zeit": "14.00 - 22.00 Uhr",
-      "Thema": "'Im Schmerz vereint' - Kein Opfer ist vergessen!",
-      "Ort": null,
-      "Startpunkt": "Weißeritzstraße",
-      "Teilnehmer": "1.000",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-02-14",
-      "Zeit": "12.00 - 18.00 Uhr",
-      "Thema": "Kein Platz für Nazis - Infopunkt",
-      "Ort": "Postplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "1.000",
-      "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-02-14",
-      "Zeit": "13.30 - 18.30 Uhr",
-      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
-      "Ort": "Altmarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "12",
-      "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-02-14",
-      "Zeit": "10.30 - 12.00 Uhr",
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Neustadt ",
-      "Ort": null,
-      "Startpunkt": "Alaunstraße",
-      "Teilnehmer": "1000",
-      "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-02-14",
-      "Zeit": "10.30 - 00.00 Uhr",
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
-      "Ort": null,
-      "Startpunkt": "Friedrich-List-Platz/Strehlener Straße",
-      "Teilnehmer": "1.000",
-      "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-02-14",
-      "Zeit": "10.30 - 00.00 Uhr",
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Neustadt 2",
-      "Ort": null,
-      "Startpunkt": "Schlesischer Platz",
-      "Teilnehmer": "300",
-      "Veranstalter": "Dresden - WiEdersetzen - Gedenken abschaffen!",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-02-14",
-      "Zeit": "12.00 - 15.00 Uhr",
-      "Thema": "Keine Liebe für Faschos",
-      "Ort": "Friedrichstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "200",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-02-14",
-      "Zeit": "11.00 - 15.00 Uhr",
-      "Thema": "'Tu was gegen Rechts! Demokratie stärken'",
-      "Ort": "Dr.-Külz-Ring",
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "BÜNDNIS 90/DIE GRÜNEN",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-02-14",
-      "Zeit": "11.00 - 17.00 Uhr",
-      "Thema": "'Ihr seid nicht schuld an dem, was war, aber verantwortlich dafür, dass es nicht mehr geschieht.' (Max Mannheimer, 1920-2016)",
-      "Ort": "Wettiner Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "BÜNDNIS 90/ DIE GRÜNEN Sachsen",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-02-14",
-      "Zeit": "14.00 - 16.00 Uhr",
-      "Thema": "PRüF: Prüfung Rette Übrigens Freiheit",
-      "Ort": "Altmarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "250",
-      "Veranstalter": "PRüF! Sachsen",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2026-02-14",
-      "Zeit": "14.30 - 16.30 Uhr",
-      "Thema": "Für das Leben",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "3",
-      "Veranstalter": "Freie Baptistengemeinde Dresden",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-02-15",
       "Zeit": null,
@@ -186,7 +36,7 @@
     {
       "Datum": "2026-02-15",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
+      "Thema": "Kein Platz für Nazis - Infopunkt",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
@@ -196,7 +46,7 @@
     {
       "Datum": "2026-02-15",
       "Zeit": null,
-      "Thema": "Kein Platz für Nazis - Infopunkt",
+      "Thema": "Kein Platz für Nazis - Zubringerdemo Süd",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1.000",
