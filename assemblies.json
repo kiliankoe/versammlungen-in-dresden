@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-02-17",
+  "Dateidatum": "2026-02-18",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -94,6 +94,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2026-02-23",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-02-24",
       "Zeit": "ganztägig",
       "Thema": "Fred stellt sich in den Weg",
@@ -105,23 +115,23 @@
     },
     {
       "Datum": "2026-02-24",
-      "Zeit": null,
-      "Thema": "Der Kriegstreiber heißt Putin! Volle Solidarität mit der Ukraine!",
+      "Zeit": "17.00 - 19.00 Uhr",
+      "Thema": "Solidarität mit der Ukraine",
       "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "80",
+      "Startpunkt": "Neumarkt",
+      "Teilnehmer": "500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-02-24",
-      "Zeit": null,
-      "Thema": "Solidarität mit der Ukraine",
+      "Zeit": "16.00 - 17.00 Uhr",
+      "Thema": "Der Kriegstreiber heißt Putin! Volle Solidarität mit der Ukraine!",
       "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "500",
+      "Startpunkt": "Jorge-Gomondai-Platz",
+      "Teilnehmer": "80",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-02-25",
@@ -192,6 +202,16 @@
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e.V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-02-28",
+      "Zeit": null,
+      "Thema": "3 Jahre nach der Zugkatastrophe in Tempi/Griechenland - Kein Vergessen!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "Griechische Gemeinde Dresden e. V. ",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-03-01",
