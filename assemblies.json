@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-02-18",
+  "Dateidatum": "2026-02-19",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -101,6 +101,16 @@
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
+      "Status": "abgemeldet"
+    },
+    {
+      "Datum": "2026-02-23",
+      "Zeit": null,
+      "Thema": "Gedenkmarsch für Quentin Deranque",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "Freie Sachsen",
       "Status": "angemeldet"
     },
     {
@@ -235,13 +245,13 @@
     },
     {
       "Datum": "2026-03-02",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-03-02",
@@ -305,13 +315,13 @@
     },
     {
       "Datum": "2026-03-09",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-03-09",
@@ -354,14 +364,24 @@
       "Status": "beschieden"
     },
     {
-      "Datum": "2026-03-16",
+      "Datum": "2026-03-14",
       "Zeit": null,
-      "Thema": "Bühlau geht spazieren",
+      "Thema": "Der Genozid geht weiter. Freiheit für Palästina",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "20",
+      "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-03-16",
+      "Zeit": "18.00 - 19.30 Uhr",
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": "Bautzner Landstraße",
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-03-16",
@@ -405,13 +425,13 @@
     },
     {
       "Datum": "2026-03-23",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-03-23",
@@ -435,13 +455,13 @@
     },
     {
       "Datum": "2026-03-30",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-03-30",
@@ -461,6 +481,16 @@
       "Startpunkt": null,
       "Teilnehmer": "1000",
       "Veranstalter": "Kampagne Jugend- und Gleichstellungsarbeit sichern",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-04-04",
+      "Zeit": null,
+      "Thema": "Flucht, Repression, Widerstand. Solidarität von Dresden bis Gaza! Demo zum Todestag von Jorge Gomondai.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -495,13 +525,13 @@
     },
     {
       "Datum": "2026-04-13",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-04-13",
@@ -515,13 +545,13 @@
     },
     {
       "Datum": "2026-04-20",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-04-20",
@@ -545,13 +575,13 @@
     },
     {
       "Datum": "2026-04-27",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-04-27",
