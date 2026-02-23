@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-02-22",
+  "Dateidatum": "2026-02-23",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -271,6 +271,16 @@
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-03-15",
+      "Zeit": null,
+      "Thema": "Kranzniederlegung am Kossuth Denkmal in Klotzsche anl. der Revolution 1848",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "39",
+      "Veranstalter": "Turul Sachsen",
       "Status": "angemeldet"
     },
     {
