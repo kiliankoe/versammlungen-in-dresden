@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-02-23",
+  "Dateidatum": "2026-02-24",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,66 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-02-23",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "15",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-02-23",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Fred stellt sich in den Weg",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "50",
-      "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-02-23",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "25",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-02-23",
-      "Zeit": "18.30 - 20.30 Uhr",
-      "Thema": "Nazis töten. Antifas schützen!",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "200",
-      "Veranstalter": "Azubis gegen Rechts Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-02-23",
-      "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "100",
-      "Veranstalter": "natürliche Person",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2026-02-23",
-      "Zeit": "19.00 - 20.40 Uhr",
-      "Thema": "Gedenkmarsch für Quentin Deranque",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "100",
-      "Veranstalter": "Freie Sachsen",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-02-24",
       "Zeit": "17.00 - 19.00 Uhr",
@@ -95,11 +35,21 @@
     },
     {
       "Datum": "2026-02-26",
-      "Zeit": null,
+      "Zeit": "08.00 - 09.15 Uhr",
       "Thema": "XR (Extinction Rebellion) - Erdgas verfeuert unsere Zukunft! Jetzt einen ambitionierteren Wärmeplan umsetzen, für günstigere Heizkosten der Bürger.",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Georgplatz",
       "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-02-27",
+      "Zeit": null,
+      "Thema": "Gerechtigkeit für Emma - Femizide stoppen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -125,13 +75,13 @@
     },
     {
       "Datum": "2026-02-28",
-      "Zeit": null,
+      "Zeit": "15.00 - 16.00 Uhr",
       "Thema": "3 Jahre nach der Zugkatastrophe in Tempi/Griechenland - Kein Vergessen!",
-      "Ort": null,
+      "Ort": "Wiener Platz",
       "Startpunkt": null,
       "Teilnehmer": "25",
       "Veranstalter": "Griechische Gemeinde Dresden e. V. ",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-03-02",
@@ -585,6 +535,16 @@
     },
     {
       "Datum": "2026-05-18",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-05-25",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
