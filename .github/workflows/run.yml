@@ -22,6 +22,7 @@ jobs:
           bun install
           bun run src/update.ts
           bun run scripts/build-csv.ts
+          bun run scripts/geocode.ts
         env:
           MASTO_SERVER_URL: ${{ secrets.MASTO_SERVER_URL }}
           ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}

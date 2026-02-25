@@ -170,3 +170,7 @@ dist
 
 # IntelliJ based IDEs
 .idea
+
+# Symlinks for local web dev (real files are copied by Pages workflow)
+web/assemblies.csv
+web/locations.json

@@ -1,0 +1,643 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Versammlungen in Dresden</title>
+  <!-- Privacy-friendly analytics by Plausible -->
+  <script async src="https://t.kilko.de/js/pa-d_eq8rNo8iJww3FH3BkTQ.js"></script>
+  <script>
+    window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
+    plausible.init()
+  </script>
+  <script src="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js"></script>
+  <link href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css" rel="stylesheet" />
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    html, body {
+      height: 100%;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+      background: #f5f5f5;
+      color: #333;
+      display: flex;
+      flex-direction: column;
+    }
+
+    #map {
+      width: 100%;
+      flex: 1;
+    }
+
+    .controls {
+      background: #fff;
+      padding: 12px 20px;
+      border-bottom: 1px solid #ddd;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+
+    .controls h1 {
+      font-size: 16px;
+      font-weight: 600;
+      white-space: nowrap;
+    }
+
+    .controls .separator {
+      width: 1px;
+      height: 24px;
+      background: #ddd;
+    }
+
+    .slider-group {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      flex: 1;
+      min-width: 250px;
+    }
+
+    .slider-group label {
+      font-size: 13px;
+      color: #666;
+      white-space: nowrap;
+    }
+
+    .slider-group input[type="range"] {
+      flex: 1;
+      min-width: 120px;
+      accent-color: #4a90d9;
+    }
+
+    .slider-group .range-value {
+      font-size: 13px;
+      font-weight: 500;
+      min-width: 80px;
+    }
+
+    .stats {
+      font-size: 13px;
+      color: #666;
+      white-space: nowrap;
+    }
+
+    .checkbox-group {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      font-size: 13px;
+      color: #555;
+      white-space: nowrap;
+      user-select: none;
+    }
+
+    .checkbox-group input[type="checkbox"] {
+      accent-color: #c62828;
+    }
+
+    .footer {
+      background: #fff;
+      border-top: 1px solid #ddd;
+      padding: 8px 20px;
+      font-size: 12px;
+      color: #888;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+
+    .footer a {
+      color: #4a90d9;
+      text-decoration: none;
+    }
+
+    .footer a:hover {
+      text-decoration: underline;
+    }
+
+    .maplibregl-popup-content {
+      padding: 12px 16px;
+      font-size: 13px;
+      line-height: 1.5;
+      max-width: 320px;
+      border-radius: 8px;
+    }
+
+    .popup-date {
+      font-weight: 600;
+      color: #4a90d9;
+      margin-bottom: 4px;
+    }
+
+    .popup-topic {
+      margin-bottom: 8px;
+      font-size: 14px;
+    }
+
+    .popup-meta {
+      color: #666;
+      font-size: 12px;
+    }
+
+    .popup-meta span {
+      display: block;
+    }
+
+    .popup-status {
+      display: inline-block;
+      padding: 1px 6px;
+      border-radius: 3px;
+      font-size: 11px;
+      font-weight: 500;
+      margin-top: 4px;
+    }
+
+    .popup-status.beschieden { background: #d4edda; color: #155724; }
+    .popup-status.angemeldet { background: #fff3cd; color: #856404; }
+    .popup-status.abgemeldet { background: #f8d7da; color: #721c24; }
+
+    .cluster-marker {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 50%;
+      color: #fff;
+      font-weight: 600;
+      font-size: 13px;
+      border: 2px solid rgba(255, 255, 255, 0.8);
+      box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+    }
+
+    .loading-overlay {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      bottom: 0;
+      background: rgba(255, 255, 255, 0.9);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 1000;
+      font-size: 16px;
+      color: #666;
+    }
+
+    .loading-overlay.hidden { display: none; }
+  </style>
+</head>
+<body>
+  <div class="loading-overlay" id="loading">Daten werden geladen...</div>
+
+  <div class="controls">
+    <h1>Versammlungen in Dresden</h1>
+    <div class="separator"></div>
+    <div class="slider-group">
+      <label for="range-start">Zeitraum:</label>
+      <input type="date" id="range-start" />
+      <span>&ndash;</span>
+      <input type="date" id="range-end" />
+    </div>
+    <label class="checkbox-group" for="future-only">
+      <input type="checkbox" id="future-only" />
+      Noch stattfindende
+    </label>
+    <div class="stats" id="stats"></div>
+  </div>
+
+  <div id="map"></div>
+
+  <div class="footer">
+    <span>
+      Datenquelle:
+      <a href="https://www.dresden.de/versammlungsuebersicht" target="_blank" rel="noopener">dresden.de</a>
+      &middot; Karte: <a href="https://openfreemap.org" target="_blank" rel="noopener">OpenFreeMap</a>
+      &middot; Daten: &copy; <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a>
+    </span>
+    <span>
+      <a href="https://github.com/kiliankoe/versammlungen-in-dresden" target="_blank" rel="noopener">Quellcode auf GitHub</a>
+    </span>
+  </div>
+
+  <script>
+    // --- Config ---
+    const DRESDEN_CENTER = [13.7373, 51.0504];
+    const DEFAULT_ZOOM = 12;
+    // In GitHub Pages deployment, data files are copied alongside index.html.
+    // For local dev from repo root (python3 -m http.server), they're at '../'.
+    // We try './' first (deployed), then fall back to '../' (local dev).
+    const DATA_PATHS = ['.', '..'];
+
+    // --- Utilities ---
+    function parseCSV(text) {
+      const lines = text.split('\n').filter(l => l.trim());
+      const headers = parseCSVLine(lines[0]);
+      return lines.slice(1).map(line => {
+        const values = parseCSVLine(line);
+        const obj = {};
+        headers.forEach((h, i) => obj[h] = values[i] || '');
+        return obj;
+      });
+    }
+
+    function parseCSVLine(line) {
+      const result = [];
+      let current = '';
+      let inQuotes = false;
+      for (let i = 0; i < line.length; i++) {
+        const ch = line[i];
+        if (inQuotes) {
+          if (ch === '"' && line[i + 1] === '"') {
+            current += '"';
+            i++;
+          } else if (ch === '"') {
+            inQuotes = false;
+          } else {
+            current += ch;
+          }
+        } else {
+          if (ch === '"') {
+            inQuotes = true;
+          } else if (ch === ',') {
+            result.push(current);
+            current = '';
+          } else {
+            current += ch;
+          }
+        }
+      }
+      result.push(current);
+      return result;
+    }
+
+    function formatDate(dateStr) {
+      if (!dateStr) return '';
+      const parts = dateStr.split('-');
+      if (parts.length !== 3) return dateStr;
+      return `${parts[2]}.${parts[1]}.${parts[0]}`;
+    }
+
+    function formatDateKey(date) {
+      const y = date.getFullYear();
+      const m = String(date.getMonth() + 1).padStart(2, '0');
+      const d = String(date.getDate()).padStart(2, '0');
+      return `${y}-${m}-${d}`;
+    }
+
+    function daysBetween(dateStr, now) {
+      const d = new Date(dateStr);
+      return Math.floor((now - d) / (1000 * 60 * 60 * 24));
+    }
+
+    function estimateAttendees(rawValue) {
+      if (!rawValue) return 20;
+
+      const text = String(rawValue).toLowerCase();
+      const numbers = (text.match(/\d{1,3}(?:[.\s]\d{3})+|\d+/g) || [])
+        .map((value) => parseInt(value.replace(/[.\s]/g, ''), 10))
+        .filter((value) => Number.isFinite(value) && value > 0);
+
+      if (numbers.length === 0) return 20;
+
+      const hasRange = /-|–|—|bis/.test(text) && numbers.length >= 2;
+      let estimate = numbers[0];
+
+      if (hasRange) {
+        estimate = Math.round((numbers[0] + numbers[1]) / 2);
+      }
+
+      return Math.max(8, Math.min(5000, estimate));
+    }
+
+    function rowTimestampMs(row) {
+      const value = Date.parse(row.timestamp || '');
+      if (Number.isFinite(value)) return value;
+      const fallback = Date.parse(`${row.date || ''}T00:00:00Z`);
+      if (Number.isFinite(fallback)) return fallback;
+      return 0;
+    }
+
+    function dedupeRowsByAssemblyId(rows) {
+      const latestById = new Map();
+
+      for (const row of rows) {
+        const key = row.id || `${row.date}::${row.topic}::${row.location}::${row.start}`;
+        const current = latestById.get(key);
+        if (!current || rowTimestampMs(row) > rowTimestampMs(current)) {
+          latestById.set(key, row);
+        }
+      }
+
+      return Array.from(latestById.values());
+    }
+
+    function dateToDayNumber(dateStr) {
+      const value = Date.parse(`${dateStr}T00:00:00Z`);
+      if (!Number.isFinite(value)) return 0;
+      return Math.floor(value / 86400000);
+    }
+
+    // --- Main ---
+    async function init() {
+      // Load data - try each base path until we find the data
+      let csvText, locationsData;
+      for (const base of DATA_PATHS) {
+        try {
+          const [csvResp, locResp] = await Promise.all([
+            fetch(`${base}/assemblies.csv`),
+            fetch(`${base}/locations.json`),
+          ]);
+          if (csvResp.ok && locResp.ok) {
+            csvText = await csvResp.text();
+            locationsData = await locResp.json();
+            break;
+          }
+        } catch (e) { /* try next base */ }
+      }
+      if (!csvText || !locationsData) {
+        throw new Error('Daten konnten nicht geladen werden');
+      }
+
+      const rows = parseCSV(csvText);
+      const uniqueRows = dedupeRowsByAssemblyId(rows);
+      const now = new Date();
+
+      // Determine date range from data
+      const dates = uniqueRows.map(r => r.date).filter(d => d).sort();
+      const minDate = dates[0];
+      const maxDate = dates[dates.length - 1];
+
+      // Set up date inputs
+      const startInput = document.getElementById('range-start');
+      const endInput = document.getElementById('range-end');
+      const futureOnlyInput = document.getElementById('future-only');
+      const todayKey = formatDateKey(new Date());
+      startInput.min = minDate;
+      startInput.max = maxDate;
+      endInput.min = minDate;
+      endInput.max = maxDate;
+      startInput.value = minDate;
+      endInput.value = maxDate;
+
+      // Build GeoJSON features for all assemblies with coordinates
+      const allFeatures = [];
+      let skipped = 0;
+
+      for (const row of uniqueRows) {
+        // Use location, falling back to start
+        const placeName = row.location || row.start || '';
+        if (!placeName) { skipped++; continue; }
+
+        const coords = locationsData[placeName];
+        if (!coords) { skipped++; continue; }
+
+        const days = daysBetween(row.date, now);
+        const attendeesEstimate = estimateAttendees(row.attendees);
+        const dayNumber = dateToDayNumber(row.date);
+        const sortKey = dayNumber * 100000 + attendeesEstimate;
+
+        allFeatures.push({
+          type: 'Feature',
+          geometry: {
+            type: 'Point',
+            coordinates: [coords.lng, coords.lat],
+          },
+          properties: {
+            date: row.date,
+            time: row.time || '',
+            topic: row.topic || '',
+            location: row.location || '',
+            start: row.start || '',
+            attendees: row.attendees || '',
+            organizer: row.organizer || '',
+            status: row.status || '',
+            days: days,
+            attendeesEstimate: attendeesEstimate,
+            sortKey: sortKey,
+          },
+        });
+      }
+
+      // Initialize map
+      const map = new maplibregl.Map({
+        style: 'https://tiles.openfreemap.org/styles/positron',
+        center: DRESDEN_CENTER,
+        zoom: DEFAULT_ZOOM,
+        container: 'map',
+      });
+
+      map.addControl(new maplibregl.NavigationControl(), 'top-right');
+
+      function getFilteredFeatures() {
+        const startDate = startInput.value;
+        const endDate = endInput.value;
+        const futureOnly = futureOnlyInput.checked;
+
+        return allFeatures.filter(f => {
+          const d = f.properties.date;
+          if (d < startDate || d > endDate) return false;
+          if (futureOnly && d < todayKey) return false;
+          return true;
+        });
+      }
+
+      function buildGeoJSON(features) {
+        return { type: 'FeatureCollection', features };
+      }
+
+      function updateMap() {
+        const features = getFilteredFeatures();
+
+        const statsEl = document.getElementById('stats');
+        statsEl.textContent = `${features.length} Versammlungen auf der Karte`;
+
+        map.getSource('assemblies').setData(buildGeoJSON(features));
+      }
+
+      map.on('load', () => {
+        document.getElementById('loading').classList.add('hidden');
+        map.resize();
+
+        // Add source with empty data first, then set data
+        map.addSource('assemblies', {
+          type: 'geojson',
+          data: buildGeoJSON([]),
+        });
+
+        // Heatmap at lower zoom levels to show concentration hotspots.
+        map.addLayer({
+          id: 'assemblies-heat',
+          type: 'heatmap',
+          source: 'assemblies',
+          maxzoom: 12,
+          paint: {
+            'heatmap-weight': [
+              'interpolate', ['linear'], ['get', 'days'],
+              0, 1,
+              365, 0.35,
+              1500, 0.1,
+            ],
+            'heatmap-intensity': [
+              'interpolate', ['linear'], ['zoom'],
+              8, 0.7,
+              12, 1.3,
+            ],
+            'heatmap-color': [
+              'interpolate', ['linear'], ['heatmap-density'],
+              0, 'rgba(170, 170, 170, 0)',
+              0.2, 'rgba(170, 170, 170, 0.25)',
+              0.4, 'rgba(180, 120, 120, 0.45)',
+              0.6, 'rgba(196, 95, 95, 0.65)',
+              0.8, 'rgba(205, 62, 62, 0.85)',
+              1, 'rgba(150, 32, 32, 0.95)',
+            ],
+            'heatmap-radius': [
+              'interpolate', ['linear'], ['zoom'],
+              8, 20,
+              12, 35,
+            ],
+            'heatmap-opacity': [
+              'interpolate', ['linear'], ['zoom'],
+              8, 0.65,
+              12, 0.4,
+            ],
+          },
+        });
+
+        // Individual points (visible from mid-zoom onwards).
+        map.addLayer({
+          id: 'assemblies-point',
+          type: 'circle',
+          source: 'assemblies',
+          minzoom: 10,
+          layout: {
+            // Always draw newer assemblies on top of older ones.
+            // Same-day ties are broken by attendee estimate.
+            'circle-sort-key': ['get', 'sortKey'],
+          },
+          paint: {
+            'circle-radius': [
+              'interpolate', ['linear'], ['zoom'],
+              10, ['min', 12, ['+', 2, ['*', 0.22, ['sqrt', ['get', 'attendeesEstimate']]]]],
+              12, ['min', 16, ['+', 3, ['*', 0.30, ['sqrt', ['get', 'attendeesEstimate']]]]],
+              16, ['min', 22, ['+', 4, ['*', 0.38, ['sqrt', ['get', 'attendeesEstimate']]]]],
+            ],
+            'circle-color': [
+              'interpolate', ['linear'], ['get', 'days'],
+              -1, 'rgb(212, 53, 53)',
+              0, 'rgb(205, 40, 40)',
+              30, 'rgb(196, 45, 45)',
+              90, 'rgb(180, 70, 70)',
+              180, 'rgb(165, 98, 98)',
+              365, 'rgb(154, 126, 126)',
+              730, 'rgb(180, 180, 180)',
+            ],
+            'circle-opacity': [
+              'interpolate', ['linear'], ['get', 'days'],
+              -1, 0.92,
+              0, 0.88,
+              30, 0.75,
+              90, 0.55,
+              180, 0.35,
+              365, 0.2,
+              730, 0.08,
+              1500, 0.04,
+            ],
+            'circle-stroke-width': 1,
+            'circle-stroke-color': [
+              'interpolate', ['linear'], ['get', 'days'],
+              -1, 'rgb(145, 22, 22)',
+              0, 'rgb(145, 22, 22)',
+              90, 'rgb(145, 70, 70)',
+              365, 'rgb(150, 140, 140)',
+              730, 'rgb(170, 170, 170)',
+            ],
+            'circle-stroke-opacity': [
+              'interpolate', ['linear'], ['get', 'days'],
+              -1, 0.65,
+              0, 0.55,
+              90, 0.4,
+              365, 0.22,
+              730, 0.1,
+              1500, 0.04,
+            ],
+          },
+        });
+
+        // Click on individual point for popup
+        map.on('click', 'assemblies-point', (e) => {
+          const f = e.features[0];
+          const p = f.properties;
+          const coords = f.geometry.coordinates.slice();
+
+          while (Math.abs(e.lngLat.lng - coords[0]) > 180) {
+            coords[0] += e.lngLat.lng > coords[0] ? 360 : -360;
+          }
+
+          const locationText = p.location && p.start
+            ? `Ort: ${p.location}<br>Startpunkt: ${p.start}`
+            : p.location
+              ? `Ort: ${p.location}`
+              : p.start
+                ? `Startpunkt: ${p.start}`
+                : '';
+
+          const timeText = p.time ? `Uhrzeit: ${p.time}` : '';
+          const attendeesText = p.attendees ? `Teilnehmer: ${p.attendees}` : '';
+          const organizerText = p.organizer ? `Veranstalter: ${p.organizer}` : '';
+
+          const html = `
+            <div class="popup-date">${formatDate(p.date)}</div>
+            <div class="popup-topic">${p.topic}</div>
+            <div class="popup-meta">
+              ${locationText ? `<span>${locationText}</span>` : ''}
+              ${timeText ? `<span>${timeText}</span>` : ''}
+              ${attendeesText ? `<span>${attendeesText}</span>` : ''}
+              ${organizerText ? `<span>${organizerText}</span>` : ''}
+            </div>
+            <span class="popup-status ${p.status}">${p.status}</span>
+          `;
+
+          new maplibregl.Popup({ maxWidth: '320px' })
+            .setLngLat(coords)
+            .setHTML(html)
+            .addTo(map);
+        });
+
+        // Cursor changes
+        map.on('mouseenter', 'assemblies-point', () => { map.getCanvas().style.cursor = 'pointer'; });
+        map.on('mouseleave', 'assemblies-point', () => { map.getCanvas().style.cursor = ''; });
+
+        // Now set the actual data
+        updateMap();
+      });
+
+      // Debounce helper
+      let debounceTimer;
+      function debouncedUpdate() {
+        clearTimeout(debounceTimer);
+        debounceTimer = setTimeout(() => {
+          if (map.loaded()) updateMap();
+        }, 200);
+      }
+
+      startInput.addEventListener('change', debouncedUpdate);
+      endInput.addEventListener('change', debouncedUpdate);
+      futureOnlyInput.addEventListener('change', debouncedUpdate);
+    }
+
+    init().catch(err => {
+      console.error('Failed to load data:', err);
+      document.getElementById('loading').textContent =
+        'Fehler beim Laden der Daten. Bitte Seite neu laden.';
+    });
+  </script>
+</body>
+</html>

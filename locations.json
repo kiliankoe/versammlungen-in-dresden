@@ -1,0 +1,1130 @@
+{
+  "Akademiestraße": {
+    "lat": 51.0516593,
+    "lng": 13.7454748
+  },
+  "Alaunpark": {
+    "lat": 51.0707907,
+    "lng": 13.7549001
+  },
+  "Alaunplatz": {
+    "lat": 51.0708616,
+    "lng": 13.75621
+  },
+  "Alaunplatz, befestigte Wochenmarktfläche": {
+    "lat": 51.0708616,
+    "lng": 13.75621
+  },
+  "Alaunstraße": {
+    "lat": 51.0638334,
+    "lng": 13.748554
+  },
+  "Alaunstraße (Scheune-Vorplatz)": {
+    "lat": 51.0662864,
+    "lng": 13.7516707
+  },
+  "Albert-Wolf-Platz": {
+    "lat": 51.0078383,
+    "lng": 13.8040548
+  },
+  "Albertplatz": {
+    "lat": 51.0624364,
+    "lng": 13.7455161
+  },
+  "Alexander-Herzen-Straße": {
+    "lat": 51.1180198,
+    "lng": 13.7852711
+  },
+  "Altgorbitzer Ring": {
+    "lat": 51.0438831,
+    "lng": 13.6675508
+  },
+  "Altleuben": {
+    "lat": 51.0141728,
+    "lng": 13.8306721
+  },
+  "Altmarkt": {
+    "lat": 51.0496269,
+    "lng": 13.7378803
+  },
+  "Altpieschen": {
+    "lat": 51.0787972,
+    "lng": 13.7172186
+  },
+  "Amalie-Dietrich-Platz": {
+    "lat": 51.0449945,
+    "lng": 13.6792356
+  },
+  "Ammonstraße/Ecke Freiberger Straße": {
+    "lat": 51.0482348,
+    "lng": 13.7206231
+  },
+  "An der Frauenkirche": {
+    "lat": 51.0521968,
+    "lng": 13.7405436
+  },
+  "An der Kreuzkirche": {
+    "lat": 51.0487258,
+    "lng": 13.7392255
+  },
+  "An der Kreuzkirche mit Mahnwachen": {
+    "lat": 51.0487258,
+    "lng": 13.7392255
+  },
+  "An der Schleife": {
+    "lat": 51.0895957,
+    "lng": 13.769821
+  },
+  "Antonstraße": {
+    "lat": 51.0623389,
+    "lng": 13.7355642
+  },
+  "Archivstraße": {
+    "lat": 51.0585032,
+    "lng": 13.7486564
+  },
+  "Augustusbrücke": {
+    "lat": 51.0553921,
+    "lng": 13.7396386
+  },
+  "Augustusbrücke und Schloßplatz": {
+    "lat": 51.0553921,
+    "lng": 13.7396386
+  },
+  "Autobahnanschlussstelle Wilder Mann": {
+    "lat": 51.1011796,
+    "lng": 13.71431
+  },
+  "Autobahnanschlussstelle Wilder Mann, Altstadt (A4)": {
+    "lat": 51.1011796,
+    "lng": 13.71431
+  },
+  "Bahnhof Mitte": {
+    "lat": 51.0564583,
+    "lng": 13.7238859
+  },
+  "Bahnhofstraße": {
+    "lat": 51.0836872,
+    "lng": 13.6410383
+  },
+  "Bamberger Straße": {
+    "lat": 51.0321629,
+    "lng": 13.7165767
+  },
+  "Bautzner Landstraße": {
+    "lat": 51.0636874,
+    "lng": 13.8130668
+  },
+  "Bautzner Straße": {
+    "lat": 51.063496,
+    "lng": 13.7475312
+  },
+  "Bayrische Straße": {
+    "lat": 51.0418344,
+    "lng": 13.7260859
+  },
+  "Bereich S-Bahnhof Dresden Strehlen": {
+    "lat": 51.031143,
+    "lng": 13.7613454
+  },
+  "Bergstraße": {
+    "lat": 51.0405609,
+    "lng": 13.7280364
+  },
+  "Bernhard-von Lindenau-Platz": {
+    "lat": 51.0557038,
+    "lng": 13.7340151
+  },
+  "Bernhard-von-Lindenau Platz": {
+    "lat": 51.0557038,
+    "lng": 13.7340151
+  },
+  "Bernhard-von-Lindenau-Platz": {
+    "lat": 51.0557038,
+    "lng": 13.7340151
+  },
+  "Bernhardt-von-Lindenau-Platz": {
+    "lat": 51.0557038,
+    "lng": 13.7340151
+  },
+  "Binzer Weg": {
+    "lat": 51.1244513,
+    "lng": 13.7904018
+  },
+  "Bischofsweg": {
+    "lat": 51.0716201,
+    "lng": 13.7492842
+  },
+  "Bischofswerda; Hohe Straße": {
+    "lat": 51.0418185,
+    "lng": 13.7241054
+  },
+  "Bonhoefferplatz": {
+    "lat": 51.0385638,
+    "lng": 13.7022884
+  },
+  "Borsbergstraße": {
+    "lat": 51.0467231,
+    "lng": 13.7721476
+  },
+  "Bremer Straße": {
+    "lat": 51.0615617,
+    "lng": 13.7125022
+  },
+  "Brühlsche Terasse": {
+    "lat": 51.0534105,
+    "lng": 13.740608
+  },
+  "Brühlsche Terrasse": {
+    "lat": 51.0534105,
+    "lng": 13.740608
+  },
+  "Brühlsche Treppe": {
+    "lat": 51.0534105,
+    "lng": 13.740608
+  },
+  "Brühlschen Terrasse": {
+    "lat": 51.0534105,
+    "lng": 13.740608
+  },
+  "Brühlschen Treppe": {
+    "lat": 51.0371085,
+    "lng": 13.7355811
+  },
+  "Brühlscher Garten": {
+    "lat": 51.0528256,
+    "lng": 13.7449443
+  },
+  "Bönischplatz": {
+    "lat": 51.0555163,
+    "lng": 13.7623764
+  },
+  "Carolabrücke": {
+    "lat": 51.0531476,
+    "lng": 13.747785
+  },
+  "Carolaplatz": {
+    "lat": 51.0571437,
+    "lng": 13.7461121
+  },
+  "Caspar-David-Friedrich-Straße": {
+    "lat": 51.0270819,
+    "lng": 13.7571344
+  },
+  "Chiaveriegasse": {
+    "lat": 51.0531971,
+    "lng": 13.736473
+  },
+  "Cockerwiese": {
+    "lat": 51.045382,
+    "lng": 13.7510788
+  },
+  "Columbusstraße": {
+    "lat": 51.0451493,
+    "lng": 13.7043469
+  },
+  "Comeniusstraße": {
+    "lat": 51.0472388,
+    "lng": 13.7557982
+  },
+  "Conertplatz": {
+    "lat": 51.0456578,
+    "lng": 13.6932472
+  },
+  "Coschützer Straße": {
+    "lat": 51.0292117,
+    "lng": 13.7070119
+  },
+  "Coventrystraße": {
+    "lat": 51.0474045,
+    "lng": 13.6891205
+  },
+  "Devrientstraße": {
+    "lat": 51.0585411,
+    "lng": 13.731588
+  },
+  "Dippoldiswalder Platz": {
+    "lat": 51.0466482,
+    "lng": 13.7347212
+  },
+  "Dr-Külz-Ring": {
+    "lat": 51.0475963,
+    "lng": 13.7384923
+  },
+  "Dr. Külz Ring": {
+    "lat": 51.0475963,
+    "lng": 13.7384923
+  },
+  "Dr. Külz-Ring": {
+    "lat": 51.0475963,
+    "lng": 13.7384923
+  },
+  "Dr.-Külz-Ring": {
+    "lat": 51.0475963,
+    "lng": 13.7384923
+  },
+  "Dreyßigplatz": {
+    "lat": 51.0810838,
+    "lng": 13.7129944
+  },
+  "Eisenbahnstraße": {
+    "lat": 51.0668592,
+    "lng": 13.7376813
+  },
+  "Elberadweg": {
+    "lat": 51.0546844,
+    "lng": 13.7379674
+  },
+  "Elisabeth-Boer-Straße": {
+    "lat": 51.0816386,
+    "lng": 13.757822
+  },
+  "Ernst-Thälmann-Straße (Lonnewitz)": {
+    "lat": 51.0332771,
+    "lng": 13.7499836
+  },
+  "Espenstraße": {
+    "lat": 51.0444979,
+    "lng": 13.6645581
+  },
+  "F.-C.-Weiskopf-Platz": {
+    "lat": 51.0298131,
+    "lng": 13.7062989
+  },
+  "Ferdinandstraße": {
+    "lat": 51.0455149,
+    "lng": 13.7376553
+  },
+  "Fetscherplatz": {
+    "lat": 51.0465076,
+    "lng": 13.7706287
+  },
+  "Feuerstelle im Bereich der Fährstelle Neustadt": {
+    "lat": 51.0655831,
+    "lng": 13.7411205
+  },
+  "Fiedlerstraße": {
+    "lat": 51.0534796,
+    "lng": 13.773499
+  },
+  "Flughafen Dresden": {
+    "lat": 51.1342993,
+    "lng": 13.7694808
+  },
+  "Fläche in Höhe des Milchpavillons": {
+    "lat": 51.0446,
+    "lng": 13.7497
+  },
+  "Freiberger Straße": {
+    "lat": 51.0510432,
+    "lng": 13.7323129
+  },
+  "Friedensplatz": {
+    "lat": 51.0521624,
+    "lng": 13.7918849
+  },
+  "Friedrich-List-Platz": {
+    "lat": 51.0389226,
+    "lng": 13.7333886
+  },
+  "Friedrich-List-Platz/Strehlener Straße": {
+    "lat": 51.0386058,
+    "lng": 13.7341758
+  },
+  "Friedrich-Wieck-Straße": {
+    "lat": 51.0529712,
+    "lng": 13.8122725
+  },
+  "Friedrichstraße": {
+    "lat": 51.0582274,
+    "lng": 13.7176041
+  },
+  "Fritz-Foerster Platz": {
+    "lat": 51.0303649,
+    "lng": 13.7304843
+  },
+  "Fritz-Foerster-Platz": {
+    "lat": 51.0303649,
+    "lng": 13.7304843
+  },
+  "Fritz-Forrster-Platz": {
+    "lat": 51.0306657,
+    "lng": 13.7305081
+  },
+  "Fritz-Förster-Platz": {
+    "lat": 51.0303649,
+    "lng": 13.7304843
+  },
+  "Fährstelle Neustadt": {
+    "lat": 51.0655831,
+    "lng": 13.7411205
+  },
+  "Galeriestraße": {
+    "lat": 51.0507766,
+    "lng": 13.7391791
+  },
+  "Georgplatz": {
+    "lat": 51.0460645,
+    "lng": 13.7413779
+  },
+  "Geystraße": {
+    "lat": 51.0230685,
+    "lng": 13.7531227
+  },
+  "Glacisstraße": {
+    "lat": 51.0588025,
+    "lng": 13.7523084
+  },
+  "Grenzstraße": {
+    "lat": 51.1282809,
+    "lng": 13.7782287
+  },
+  "Große Meißner Straße": {
+    "lat": 51.0584948,
+    "lng": 13.7389612
+  },
+  "Großmannstraße": {
+    "lat": 51.0228128,
+    "lng": 13.7124533
+  },
+  "Gustav-Adolf-Platz": {
+    "lat": 51.0301007,
+    "lng": 13.7604305
+  },
+  "Görlitzer Straße": {
+    "lat": 51.0676312,
+    "lng": 13.7546791
+  },
+  "Hamburger Straße": {
+    "lat": 51.0581306,
+    "lng": 13.7098622
+  },
+  "Hammerg": {
+    "lat": 51.0899107,
+    "lng": 13.7438357
+  },
+  "Hammerweg": {
+    "lat": 51.0899107,
+    "lng": 13.7438357
+  },
+  "Hasenberg": {
+    "lat": 51.0526574,
+    "lng": 13.7468334
+  },
+  "Hauptstraße": {
+    "lat": 51.0586081,
+    "lng": 13.7421581
+  },
+  "Helmut-Schön-Allee": {
+    "lat": 51.0431131,
+    "lng": 13.7496193
+  },
+  "Helmut-Schön-Allee/Ecke Lennéstraße": {
+    "lat": 51.0431131,
+    "lng": 13.7496193
+  },
+  "Herkulesallee": {
+    "lat": 51.0444294,
+    "lng": 13.750943
+  },
+  "Herman-Mende-Straße": {
+    "lat": 51.0871254,
+    "lng": 13.7638885
+  },
+  "Hermsdorfer Straße": {
+    "lat": 51.0458424,
+    "lng": 13.6955261
+  },
+  "Hertzstraße": {
+    "lat": 51.0109267,
+    "lng": 13.8229713
+  },
+  "Industriestraße": {
+    "lat": 51.0907999,
+    "lng": 13.7059885
+  },
+  "Innenstadt/Theaterplatz": {
+    "lat": 51.0538077,
+    "lng": 13.7356598
+  },
+  "Jacob Winter Platz": {
+    "lat": 51.0057961,
+    "lng": 13.7966623
+  },
+  "Jacob-Winter-Platz": {
+    "lat": 51.0057961,
+    "lng": 13.7966623
+  },
+  "Jacob-Winter-Platz/": {
+    "lat": 51.0057961,
+    "lng": 13.7966623
+  },
+  "Jahnstraße": {
+    "lat": 51.0541369,
+    "lng": 13.7242288
+  },
+  "Jakob-Winter-Platz": {
+    "lat": 51.0054698,
+    "lng": 13.799021
+  },
+  "Johann-Mayer-Straße": {
+    "lat": 51.0745871,
+    "lng": 13.7450833
+  },
+  "Jorge Gomondai Platz": {
+    "lat": 51.061741,
+    "lng": 13.7450406
+  },
+  "Jorge-Gomonadai-Platz": {
+    "lat": 51.061741,
+    "lng": 13.7450406
+  },
+  "Jorge-Gomondai Platz": {
+    "lat": 51.061741,
+    "lng": 13.7450406
+  },
+  "Jorge-Gomondai-Platz": {
+    "lat": 51.061741,
+    "lng": 13.7450406
+  },
+  "Kamenzer Straße": {
+    "lat": 51.065632,
+    "lng": 13.7568869
+  },
+  "Keiner Kirchgasse": {
+    "lat": 51.0500647,
+    "lng": 13.7405484
+  },
+  "Kesselsdorfer Straße": {
+    "lat": 51.0436462,
+    "lng": 13.7041257
+  },
+  "Kipsdorfer Straße": {
+    "lat": 51.041202,
+    "lng": 13.7933967
+  },
+  "Kleine Kirchgasse": {
+    "lat": 51.0500647,
+    "lng": 13.7405484
+  },
+  "Kleine Marienbrücke": {
+    "lat": 51.0616105,
+    "lng": 13.7347737
+  },
+  "Kleiner Kirchgasse": {
+    "lat": 51.0500647,
+    "lng": 13.7405484
+  },
+  "Koreanischer Platz": {
+    "lat": 51.0550614,
+    "lng": 13.7202744
+  },
+  "Kraftwerk Mitte": {
+    "lat": 51.0523814,
+    "lng": 13.722588
+  },
+  "Kreuzstraße": {
+    "lat": 51.0489856,
+    "lng": 13.739174
+  },
+  "Kreuzstraße im Bereich nördlich der Kreuzkirche": {
+    "lat": 51.0489856,
+    "lng": 13.739174
+  },
+  "Königsbrücker Straße": {
+    "lat": 51.0639821,
+    "lng": 13.7468249
+  },
+  "Königsstraße": {
+    "lat": 51.0614766,
+    "lng": 13.7425104
+  },
+  "Königstraße": {
+    "lat": 51.0614766,
+    "lng": 13.7425104
+  },
+  "Königsufer": {
+    "lat": 51.0555875,
+    "lng": 13.742917
+  },
+  "Königswaldplatz": {
+    "lat": 51.1160601,
+    "lng": 13.7832364
+  },
+  "Könneritzstraße": {
+    "lat": 51.0560748,
+    "lng": 13.7241859
+  },
+  "Könneritzstraße und Weißeritzstraße": {
+    "lat": 51.0560748,
+    "lng": 13.7241859
+  },
+  "Köpckestraße": {
+    "lat": 51.0572801,
+    "lng": 13.7439778
+  },
+  "Körnerplatz": {
+    "lat": 51.0540246,
+    "lng": 13.8149542
+  },
+  "Kötzschenbroder Straße": {
+    "lat": 51.0775871,
+    "lng": 13.7155341
+  },
+  "Leipziger Straße": {
+    "lat": 51.0633025,
+    "lng": 13.7369874
+  },
+  "Lennéstraße": {
+    "lat": 51.0436027,
+    "lng": 13.752475
+  },
+  "Lindenaustraße": {
+    "lat": 51.0378374,
+    "lng": 13.7296533
+  },
+  "Lingnerallee": {
+    "lat": 51.0472852,
+    "lng": 13.7440889
+  },
+  "Lingnerplatz": {
+    "lat": 51.0440656,
+    "lng": 13.747269
+  },
+  "Loschwitzer Brücke": {
+    "lat": 51.0533818,
+    "lng": 13.8100915
+  },
+  "Lothringer Straße": {
+    "lat": 51.0551385,
+    "lng": 13.7553972
+  },
+  "Louisenstraße": {
+    "lat": 51.067681,
+    "lng": 13.7489134
+  },
+  "Ludwig-Kossuth Straße": {
+    "lat": 51.1157208,
+    "lng": 13.7459387
+  },
+  "Löbau": {
+    "lat": 51.0680481,
+    "lng": 13.7661173
+  },
+  "Löbau, Äußere Bautzner Straße": {
+    "lat": 51.0680481,
+    "lng": 13.7661173
+  },
+  "Löwenhainer Straße": {
+    "lat": 51.030933,
+    "lng": 13.8124229
+  },
+  "Marienallee": {
+    "lat": 51.0726526,
+    "lng": 13.7652822
+  },
+  "Marienstraße": {
+    "lat": 51.0500523,
+    "lng": 13.732453
+  },
+  "Marschnerstraße": {
+    "lat": 51.0477895,
+    "lng": 13.7574091
+  },
+  "Martin-Luther-Platz": {
+    "lat": 51.0641693,
+    "lng": 13.7569745
+  },
+  "Martin-Luther-Straße": {
+    "lat": 51.0635645,
+    "lng": 13.7553459
+  },
+  "Marwa El-Sherbini Park": {
+    "lat": 51.0545966,
+    "lng": 13.7566761
+  },
+  "Marwa El-Sherbini-Park": {
+    "lat": 51.0545966,
+    "lng": 13.7566761
+  },
+  "Marwa-El-Sherbini-Park": {
+    "lat": 51.0545966,
+    "lng": 13.7566761
+  },
+  "Maxim-Gorki-Straße": {
+    "lat": 51.0872821,
+    "lng": 13.7374161
+  },
+  "Meißner Landstraße": {
+    "lat": 51.0618629,
+    "lng": 13.6812088
+  },
+  "Merianplatz": {
+    "lat": 51.0450115,
+    "lng": 13.6704548
+  },
+  "Messering": {
+    "lat": 51.0683339,
+    "lng": 13.7173513
+  },
+  "Mommsenstraße": {
+    "lat": 51.0272416,
+    "lng": 13.7309181
+  },
+  "Moritzgasse": {
+    "lat": 51.0505544,
+    "lng": 13.7409719
+  },
+  "Mügelner Straße (Heidenau)": {
+    "lat": 50.9862401,
+    "lng": 13.8555477
+  },
+  "Münchner Platz": {
+    "lat": 51.0293127,
+    "lng": 13.722623
+  },
+  "Neukircher Straße": {
+    "lat": 51.0613397,
+    "lng": 13.8488087
+  },
+  "Neumarkt": {
+    "lat": 51.0513098,
+    "lng": 13.7407113
+  },
+  "Neumarkt,": {
+    "lat": 51.0513098,
+    "lng": 13.7407113
+  },
+  "Neustädter Elbufer": {
+    "lat": 51.055927,
+    "lng": 13.744527
+  },
+  "Neustädter Fähranleger": {
+    "lat": 51.0582347,
+    "lng": 13.7414251
+  },
+  "Neustädter Markt": {
+    "lat": 51.0582347,
+    "lng": 13.7414251
+  },
+  "Nürnberger Platz": {
+    "lat": 51.0317767,
+    "lng": 13.7269699
+  },
+  "Nürnberger Straße": {
+    "lat": 51.034143,
+    "lng": 13.7226229
+  },
+  "Obermarkt in Freiberg": {
+    "lat": 51.0509378,
+    "lng": 13.7323679
+  },
+  "Oberwachwitzer Weg": {
+    "lat": 51.0388341,
+    "lng": 13.8422222
+  },
+  "Offenburger Straße": {
+    "lat": 51.0074971,
+    "lng": 13.6934979
+  },
+  "Olbrichtplatz": {
+    "lat": 51.0768918,
+    "lng": 13.757359
+  },
+  "Ortsamtsbereich Altstadt": {
+    "lat": 51.0517447,
+    "lng": 13.7372977
+  },
+  "Oskar-Röder-Straße": {
+    "lat": 51.0213741,
+    "lng": 13.7911065
+  },
+  "Oskarstraße": {
+    "lat": 51.0326863,
+    "lng": 13.7625074
+  },
+  "Ostra-Allee": {
+    "lat": 51.0522216,
+    "lng": 13.7323908
+  },
+  "Otto-Mohr-Straße": {
+    "lat": 51.0143906,
+    "lng": 13.7951215
+  },
+  "Palaisplatz": {
+    "lat": 51.0599448,
+    "lng": 13.737632
+  },
+  "Parkplatz Pieschener Allee": {
+    "lat": 51.0606668,
+    "lng": 13.728112
+  },
+  "Parkplatz Sarrasanistraße": {
+    "lat": 51.0580285,
+    "lng": 13.7456297
+  },
+  "Pieschener Allee": {
+    "lat": 51.0606668,
+    "lng": 13.728112
+  },
+  "Pillnitzer Landstraße": {
+    "lat": 51.0530762,
+    "lng": 13.8172697
+  },
+  "Pillnitzer Straße": {
+    "lat": 51.0511529,
+    "lng": 13.7477533
+  },
+  "Pirnaer Landstraße": {
+    "lat": 51.0205376,
+    "lng": 13.810991
+  },
+  "Pirnaischer Platz": {
+    "lat": 51.0492399,
+    "lng": 13.7456873
+  },
+  "Postplatz": {
+    "lat": 51.0515484,
+    "lng": 13.7324657
+  },
+  "Prager Str.aße": {
+    "lat": 51.0468624,
+    "lng": 13.7368758
+  },
+  "Prager Straße": {
+    "lat": 51.0468624,
+    "lng": 13.7368758
+  },
+  "Prager Straße,": {
+    "lat": 51.0468624,
+    "lng": 13.7368758
+  },
+  "Prießnitzstraße": {
+    "lat": 51.0647676,
+    "lng": 13.7591618
+  },
+  "Prohliser Allee": {
+    "lat": 51.0057965,
+    "lng": 13.7998558
+  },
+  "Radeburger Straße": {
+    "lat": 51.0872921,
+    "lng": 13.7375637
+  },
+  "Rathausplatz": {
+    "lat": 51.047741,
+    "lng": 13.742087
+  },
+  "Reitbahnstraße": {
+    "lat": 51.0453675,
+    "lng": 13.7330796
+  },
+  "Riesaer Straße": {
+    "lat": 51.0810994,
+    "lng": 13.7287766
+  },
+  "Rosa-Luxemburg-Platz": {
+    "lat": 51.0582019,
+    "lng": 13.7527485
+  },
+  "Rossbachstraße": {
+    "lat": 51.0537765,
+    "lng": 13.7546866
+  },
+  "Rothenburger Straße": {
+    "lat": 51.0643554,
+    "lng": 13.7524811
+  },
+  "Roßbachstraße": {
+    "lat": 51.0537765,
+    "lng": 13.7546866
+  },
+  "Rudolf-Leonhard-Straße": {
+    "lat": 51.0720238,
+    "lng": 13.7473226
+  },
+  "Sachsenallee": {
+    "lat": 51.0547387,
+    "lng": 13.7574451
+  },
+  "Sachsenplatz": {
+    "lat": 51.0558131,
+    "lng": 13.7560415
+  },
+  "Sarrasanistraße": {
+    "lat": 51.0580285,
+    "lng": 13.7456297
+  },
+  "Schandauer Straße": {
+    "lat": 51.0434085,
+    "lng": 13.7832665
+  },
+  "Schanzenstraße": {
+    "lat": 51.0757305,
+    "lng": 13.7496594
+  },
+  "Schießgasse": {
+    "lat": 51.0507446,
+    "lng": 13.7439747
+  },
+  "Schillerplatz": {
+    "lat": 51.0523898,
+    "lng": 13.807544
+  },
+  "Schlesischer Platz": {
+    "lat": 51.0658669,
+    "lng": 13.7405404
+  },
+  "Schlesischer Platz und Hansastraße": {
+    "lat": 51.0658669,
+    "lng": 13.7405404
+  },
+  "Schlossplatz": {
+    "lat": 51.0534521,
+    "lng": 13.7384101
+  },
+  "Schloßplatz": {
+    "lat": 51.0534521,
+    "lng": 13.7384101
+  },
+  "Schloßstraße": {
+    "lat": 51.0509827,
+    "lng": 13.7373725
+  },
+  "Schnurbaum-Allee": {
+    "lat": 51.0493286,
+    "lng": 13.7381437
+  },
+  "Schützenplatz": {
+    "lat": 51.0555952,
+    "lng": 13.7266449
+  },
+  "Schützenplatz (Bautzen)": {
+    "lat": 51.0555952,
+    "lng": 13.7266449
+  },
+  "Seestraße": {
+    "lat": 51.0473732,
+    "lng": 13.7368181
+  },
+  "Sophienstraße": {
+    "lat": 51.0539274,
+    "lng": 13.7385634
+  },
+  "Spenerstraße": {
+    "lat": 51.0470356,
+    "lng": 13.7839584
+  },
+  "Spielplatz am Fichtepark": {
+    "lat": 51.0234861,
+    "lng": 13.7094814
+  },
+  "St. Petersburger Straße": {
+    "lat": 51.0476201,
+    "lng": 13.7442309
+  },
+  "Stadtbezirksamt Altstadt": {
+    "lat": 51.0524767,
+    "lng": 13.7297312
+  },
+  "Stadtbezirksamt Altstadt und Neustadt": {
+    "lat": 51.0524767,
+    "lng": 13.7297312
+  },
+  "Stauffenbergallee": {
+    "lat": 51.0751694,
+    "lng": 13.7599183
+  },
+  "Stauffenbergallee/Königsbrücker Straße": {
+    "lat": 51.0770297,
+    "lng": 13.7559415
+  },
+  "Steinstraße/Terrassenufer": {
+    "lat": 51.0550053,
+    "lng": 13.7364201
+  },
+  "Straßburger Platz": {
+    "lat": 51.0460099,
+    "lng": 13.7548225
+  },
+  "Strehlener Platz": {
+    "lat": 51.0336709,
+    "lng": 13.7491051
+  },
+  "Strehlener Straße": {
+    "lat": 51.0382941,
+    "lng": 13.7353487
+  },
+  "Stresemannplatz": {
+    "lat": 51.0434781,
+    "lng": 13.7735134
+  },
+  "Stromwerk": {
+    "lat": 51.0537344,
+    "lng": 13.7224622
+  },
+  "Stuttgarter Straße": {
+    "lat": 51.0142233,
+    "lng": 13.7223831
+  },
+  "Taschenberg": {
+    "lat": 51.0525674,
+    "lng": 13.7366105
+  },
+  "Terassenufer": {
+    "lat": 51.0535364,
+    "lng": 13.7411608
+  },
+  "Terrassenufer": {
+    "lat": 51.0550053,
+    "lng": 13.7364201
+  },
+  "Theaterplatz": {
+    "lat": 51.0538077,
+    "lng": 13.7356598
+  },
+  "Theaterstraße": {
+    "lat": 51.0517858,
+    "lng": 13.7318749
+  },
+  "Theatherplatz": {
+    "lat": 51.0538077,
+    "lng": 13.7356598
+  },
+  "Theatherstraße": {
+    "lat": 51.0517858,
+    "lng": 13.7318749
+  },
+  "Theterplatz": {
+    "lat": 51.0538077,
+    "lng": 13.7356598
+  },
+  "Tiergartenstraße": {
+    "lat": 51.0369995,
+    "lng": 13.7550692
+  },
+  "Ullersdorfer Platz": {
+    "lat": 51.0620002,
+    "lng": 13.8549988
+  },
+  "Urnenstraße": {
+    "lat": 50.9905229,
+    "lng": 13.8055734
+  },
+  "Waisenhausstraße": {
+    "lat": 51.0469579,
+    "lng": 13.7370898
+  },
+  "Wallstraße": {
+    "lat": 51.0482855,
+    "lng": 13.7342742
+  },
+  "Wasaplatz": {
+    "lat": 51.0281179,
+    "lng": 13.7598668
+  },
+  "Wasastraße": {
+    "lat": 51.0302051,
+    "lng": 13.758091
+  },
+  "Washingtonstraße": {
+    "lat": 51.0667667,
+    "lng": 13.6895264
+  },
+  "Weißeritzstraße": {
+    "lat": 51.0577633,
+    "lng": 13.72511
+  },
+  "Wettiner Platz": {
+    "lat": 51.0531057,
+    "lng": 13.7243718
+  },
+  "Widgardstraße": {
+    "lat": 51.0573182,
+    "lng": 13.7466684
+  },
+  "Wiener Platz": {
+    "lat": 51.0403927,
+    "lng": 13.731467
+  },
+  "Wiener Platz, Bayrische Straße und Strehlener Straße": {
+    "lat": 51.0403927,
+    "lng": 13.731467
+  },
+  "Wiener Straße": {
+    "lat": 51.0397373,
+    "lng": 13.7369023
+  },
+  "Wiener Straße, Bayrische Straße, Am Hauptbahnhof und Wiener Platz": {
+    "lat": 51.0397373,
+    "lng": 13.7369023
+  },
+  "Wigardstraße": {
+    "lat": 51.0573182,
+    "lng": 13.7466684
+  },
+  "Wilder-Mann-Straße": {
+    "lat": 51.0872005,
+    "lng": 13.715371
+  },
+  "Willdruffer Straße": {
+    "lat": 51.0502003,
+    "lng": 13.7430815
+  },
+  "Willsdruffer Straße": {
+    "lat": 51.0502003,
+    "lng": 13.7430815
+  },
+  "Wilsdruffer Straße": {
+    "lat": 51.0502003,
+    "lng": 13.7430815
+  },
+  "Wilsdruffer Straße;": {
+    "lat": 51.0502003,
+    "lng": 13.7430815
+  },
+  "Windmühlenstraße": {
+    "lat": 50.9990306,
+    "lng": 13.8037576
+  },
+  "Winer Platz": {
+    "lat": 51.0403927,
+    "lng": 13.731467
+  },
+  "Wölfnitzer Ring": {
+    "lat": 51.0430927,
+    "lng": 13.6733882
+  },
+  "Zellescher Weg": {
+    "lat": 51.0282174,
+    "lng": 13.7365989
+  },
+  "Zittauer Straße": {
+    "lat": 51.0673767,
+    "lng": 13.7669802
+  },
+  "Zschierener Bootslippe": {
+    "lat": 51.0070771,
+    "lng": 13.8497066
+  },
+  "Zschierener Bootsslippe": {
+    "lat": 51.0070771,
+    "lng": 13.8497066
+  },
+  "Zu Messe": {
+    "lat": 51.0699288,
+    "lng": 13.7143466
+  },
+  "Zur Messe": {
+    "lat": 51.0701067,
+    "lng": 13.7146197
+  },
+  "zentraler Theaterplatz": {
+    "lat": 51.0538077,
+    "lng": 13.7356598
+  },
+  "Österreicher Straße": {
+    "lat": 51.0297231,
+    "lng": 13.8323417
+  }
+}
