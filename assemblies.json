@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-03-02",
+  "Dateidatum": "2026-03-03",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,66 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-03-02",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-03-02",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Fred stellt sich in den Weg",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "50",
-      "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-03-02",
-      "Zeit": "18.00 - 19.00 Uhr",
-      "Thema": "Gegen die Abwälzung von Krisen+ Kriegsvorbereitung auf die breiten Massen! Gegen jede Art von sozialer Demontage! Gegen Imperialistische Kriege! Freiheit für Gaza! Kampf dem Faschismus auch in seiner Tarnung als Modern!  ",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-03-02",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "25",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-03-02",
-      "Zeit": "17.30 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren? Wir auch!",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-03-02",
-      "Zeit": "19.00 - 20.30 Uhr",
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "100",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-03-05",
       "Zeit": null,
@@ -105,13 +45,13 @@
     },
     {
       "Datum": "2026-03-05",
-      "Zeit": null,
+      "Zeit": "17.00 - 18.30 Uhr",
       "Thema": "Wehrpflicht? Aufrüstung? Nicht mit uns!",
-      "Ort": null,
+      "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
       "Teilnehmer": "150",
       "Veranstalter": "Die Linke Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-03-05",
@@ -195,13 +135,13 @@
     },
     {
       "Datum": "2026-03-09",
-      "Zeit": null,
+      "Zeit": "16.00 - 17.45 Uhr",
       "Thema": "intersektionaler  feministischer Frauenstreik 2026 - Ohne uns steht alles still",
-      "Ort": null,
+      "Ort": "Postplatz",
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "Töchter Kollektiv",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-03-14",
@@ -272,6 +212,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-03-18",
+      "Zeit": null,
+      "Thema": "Fleisch bedeutet immer Tierleid!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "6",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-03-21",
@@ -592,6 +542,16 @@
       "Teilnehmer": "1000",
       "Veranstalter": "Die Linke Dresden",
       "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-06-01",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
     }
   ]
 }
