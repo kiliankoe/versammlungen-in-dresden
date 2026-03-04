@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-03-03",
+  "Dateidatum": "2026-03-04",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -86,6 +86,16 @@
     {
       "Datum": "2026-03-08",
       "Zeit": null,
+      "Thema": "Gehen für den Frieden ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "max. 20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-03-08",
+      "Zeit": null,
       "Thema": "Feministischer Kampftag",
       "Ort": null,
       "Startpunkt": null,
@@ -126,6 +136,16 @@
     {
       "Datum": "2026-03-09",
       "Zeit": null,
+      "Thema": "Bühlau geht spazieren? Wir auch!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-03-09",
+      "Zeit": null,
       "Thema": "Feministischer Schulstreik zum 09.03.2026",
       "Ort": null,
       "Startpunkt": null,
@@ -135,7 +155,7 @@
     },
     {
       "Datum": "2026-03-09",
-      "Zeit": "16.00 - 17.45 Uhr",
+      "Zeit": "16.00 - 18.00 Uhr",
       "Thema": "intersektionaler  feministischer Frauenstreik 2026 - Ohne uns steht alles still",
       "Ort": "Postplatz",
       "Startpunkt": null,
@@ -451,6 +471,16 @@
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "DGB Dresden-Oberes Elbtal",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-05-01",
+      "Zeit": null,
+      "Thema": "1. Mai 2026",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "ver.di",
       "Status": "angemeldet"
     },
     {
