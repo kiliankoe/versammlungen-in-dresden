@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-03-04",
+  "Dateidatum": "2026-03-05",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -15,33 +15,33 @@
   "Versammlungen": [
     {
       "Datum": "2026-03-05",
-      "Zeit": null,
+      "Zeit": "09.00 - 10.00 Uhr",
       "Thema": "Zubringer zum Schulstreik gegen Wehrpflicht",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Straßburger Platz",
       "Teilnehmer": "50",
       "Veranstalter": "Schulstreik gegen Wehrpflicht",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-03-05",
-      "Zeit": null,
+      "Zeit": "09.00 - 10.00 Uhr",
       "Thema": "Zubringer zum Schulstreik gegen Wehrpflicht",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Rothenburger Straße",
       "Teilnehmer": "50",
       "Veranstalter": "Schulstreik gegen Wehrpflicht",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-03-05",
-      "Zeit": null,
+      "Zeit": "09.00 - 10.00 Uhr",
       "Thema": "Zubringer - Schulstreik gegen Wehrpflicht",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wiener Platz",
       "Teilnehmer": "80",
       "Veranstalter": "Schulstreik gegen Wehrpflicht",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-03-05",
@@ -55,13 +55,13 @@
     },
     {
       "Datum": "2026-03-05",
-      "Zeit": null,
+      "Zeit": "10.00 - 13.30 Uhr",
       "Thema": "Schulstreik gegen Wehrpflicht",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Postplatz",
       "Teilnehmer": "500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-03-07",
@@ -95,13 +95,13 @@
     },
     {
       "Datum": "2026-03-08",
-      "Zeit": null,
+      "Zeit": "14.00 - 18.30 Uhr",
       "Thema": "Feministischer Kampftag",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "600",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-03-09",
@@ -496,6 +496,16 @@
     {
       "Datum": "2026-05-01",
       "Zeit": null,
+      "Thema": "Familientag – Kundgebung am 1. Mai ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "SPD Dresden-Plauen",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-05-01",
+      "Zeit": null,
       "Thema": "Die Linke lädt zum 1. Mai ",
       "Ort": null,
       "Startpunkt": null,
@@ -522,6 +532,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-05-05",
+      "Zeit": null,
+      "Thema": "Gemeinsam für den Schutz der Menschenrechte, denn Menschenrechte sind nicht verhandelbar!  Protestaktion anlässl. des Europ. Protesttages der Menschen mit Behinderung '5. Mai'",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "Zentrum selbstbestimmt Leben in Sachsen e.V.",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-05-11",
