@@ -115,13 +115,13 @@
     },
     {
       "Datum": "2026-03-09",
-      "Zeit": null,
+      "Zeit": "09.30 - 14.00 Uhr",
       "Thema": "Feministischer Schulstreik zum 09.03.2026",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Alaunplatz",
       "Teilnehmer": "80",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-03-09",
@@ -155,13 +155,13 @@
     },
     {
       "Datum": "2026-03-15",
-      "Zeit": null,
+      "Zeit": "16.00 - 17.00 Uhr",
       "Thema": "Kranzniederlegung am Kossuth Denkmal in Klotzsche anl. der Revolution 1848",
-      "Ort": null,
+      "Ort": "Ludwig-Kossuth-Straße",
       "Startpunkt": null,
       "Teilnehmer": "39",
       "Veranstalter": "Turul Sachsen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-03-16",
