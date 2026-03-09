@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-03-08",
+  "Dateidatum": "2026-03-09",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-03-08",
-      "Zeit": "14.00 - 16.00 Uhr",
-      "Thema": "Gehen für den Frieden ",
-      "Ort": null,
-      "Startpunkt": "Georgplatz",
-      "Teilnehmer": "max. 20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-03-08",
-      "Zeit": "14.00 - 18.30 Uhr",
-      "Thema": "Feministischer Kampftag",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "600",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-03-09",
       "Zeit": "18.00 - 19.30 Uhr",
@@ -65,13 +45,13 @@
     },
     {
       "Datum": "2026-03-09",
-      "Zeit": null,
+      "Zeit": "17.30 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren? Wir auch!",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-03-09",
