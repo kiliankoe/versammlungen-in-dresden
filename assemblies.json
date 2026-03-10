@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-03-09",
+  "Dateidatum": "2026-03-10",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,86 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-03-09",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-03-09",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Fred stellt sich in den Weg",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "50",
-      "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-03-09",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "25",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-03-09",
-      "Zeit": "17.30 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren? Wir auch!",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-03-09",
-      "Zeit": "19.00 - 20.30 Uhr",
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "250",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-03-09",
-      "Zeit": null,
-      "Thema": "Freie Sachsen unterstützen den 250. Montagsprotest!  Der Trauti kommt im Partyhut!",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "FREIE SACHSEN",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2026-03-09",
-      "Zeit": "09.30 - 14.00 Uhr",
-      "Thema": "Feministischer Schulstreik zum 09.03.2026",
-      "Ort": null,
-      "Startpunkt": "Alaunplatz",
-      "Teilnehmer": "80",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-03-09",
-      "Zeit": "16.00 - 18.00 Uhr",
-      "Thema": "intersektionaler  feministischer Frauenstreik 2026 - Ohne uns steht alles still",
-      "Ort": "Postplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "200",
-      "Veranstalter": "Töchter Kollektiv",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-03-14",
       "Zeit": "13.30 - 18.30 Uhr",
@@ -171,6 +91,16 @@
       "Startpunkt": null,
       "Teilnehmer": "6",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-03-19",
+      "Zeit": null,
+      "Thema": "Mahnwache der OMAS GEGEN RECHTS.DRESDEN für Frieden - gegen Krieg und Gewalt überall",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "8",
+      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
       "Status": "angemeldet"
     },
     {
@@ -582,6 +512,16 @@
       "Teilnehmer": "10.000",
       "Veranstalter": "CSD Dresden e. V.",
       "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-06-08",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
     }
   ]
 }
