@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-03-11",
+  "Dateidatum": "2026-03-12",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -26,6 +26,16 @@
     {
       "Datum": "2026-03-14",
       "Zeit": null,
+      "Thema": "'Gaza muss leben! Schluß mit dem Krieg im Nahen Osten!'",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Internationalistisches Bündnis",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-03-14",
+      "Zeit": null,
       "Thema": "Der Genozid geht weiter. Freiheit für Palästina",
       "Ort": null,
       "Startpunkt": null,
@@ -36,7 +46,7 @@
     {
       "Datum": "2026-03-14",
       "Zeit": null,
-      "Thema": "Solidarität mit iranischer Revolution und Dankeschön für militärische Support von USA und  Israel",
+      "Thema": "Solidarität mit iranischer Revolution und Dankeschön für militärische Support von USA und Israel",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "100",
@@ -95,13 +105,13 @@
     },
     {
       "Datum": "2026-03-17",
-      "Zeit": null,
+      "Zeit": "16.15 - 17.30 Uhr",
       "Thema": "Die Grenzen des Mandats überwinden. Für eine angemessene Entgeltsteigerung beim SRH Berufsbildungswerk.",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Hellerhofstraße",
       "Teilnehmer": "100",
       "Veranstalter": "Vereinte Dienstleistungsgewerkschaft (ver.di)",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-03-18",
@@ -116,11 +126,41 @@
     {
       "Datum": "2026-03-19",
       "Zeit": null,
+      "Thema": "Für das Leben!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2 - 5",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-03-19",
+      "Zeit": null,
       "Thema": "Mahnwache der OMAS GEGEN RECHTS.DRESDEN für Frieden - gegen Krieg und Gewalt überall",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "8",
       "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-03-20",
+      "Zeit": null,
+      "Thema": "Für das Leben!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2 - 5",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-03-20",
+      "Zeit": null,
+      "Thema": "Du willst Frieden - dann tu was!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "23",
+      "Veranstalter": "Initiative Dresden Stadt des Friedens",
       "Status": "angemeldet"
     },
     {
