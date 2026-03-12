@@ -25,13 +25,13 @@
     },
     {
       "Datum": "2026-03-14",
-      "Zeit": null,
+      "Zeit": "10.30 - 13.30 Uhr",
       "Thema": "'Gaza muss leben! Schluß mit dem Krieg im Nahen Osten!'",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Internationalistisches Bündnis",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-03-14",
@@ -51,6 +51,16 @@
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-03-15",
+      "Zeit": null,
+      "Thema": "Die Opfer im Fokus - 15. März, Internationaler Tag gegen Polizeigewalt",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "Piratenpartei Sachsen",
       "Status": "angemeldet"
     },
     {
@@ -212,6 +222,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-03-26",
+      "Zeit": null,
+      "Thema": "Klima schützen! Raus aus den Fossilen!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-03-28",
