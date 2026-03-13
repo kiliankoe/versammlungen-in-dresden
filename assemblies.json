@@ -35,33 +35,33 @@
     },
     {
       "Datum": "2026-03-14",
-      "Zeit": null,
+      "Zeit": "13.00 - 16.30 Uhr",
       "Thema": "Der Genozid geht weiter. Freiheit für Palästina",
-      "Ort": null,
+      "Ort": "An der Frauenkirche",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-03-14",
-      "Zeit": null,
+      "Zeit": "14.00 - 16.30 Uhr",
       "Thema": "Solidarität mit iranischer Revolution und Dankeschön für militärische Support von USA und Israel",
-      "Ort": null,
+      "Ort": "Theaterplaz",
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-03-15",
-      "Zeit": null,
+      "Zeit": "14.00 - 16.00 Uhr",
       "Thema": "Die Opfer im Fokus - 15. März, Internationaler Tag gegen Polizeigewalt",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Alaunplatz",
       "Teilnehmer": "100",
       "Veranstalter": "Piratenpartei Sachsen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-03-15",
@@ -112,6 +112,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-03-16",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-03-17",
@@ -165,13 +175,13 @@
     },
     {
       "Datum": "2026-03-20",
-      "Zeit": null,
+      "Zeit": "15.15 - 17.00 Uhr",
       "Thema": "Du willst Frieden - dann tu was!",
-      "Ort": null,
+      "Ort": "Dr.-Külz-Ring",
       "Startpunkt": null,
       "Teilnehmer": "23",
       "Veranstalter": "Initiative Dresden Stadt des Friedens",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-03-21",
@@ -306,7 +316,7 @@
     {
       "Datum": "2026-04-06",
       "Zeit": null,
-      "Thema": "Ostermarsch 2026   Kriege verweigern - Frieden schaffen",
+      "Thema": "Ostermarsch 2026 Kriege verweigern - Frieden schaffen",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "500",
