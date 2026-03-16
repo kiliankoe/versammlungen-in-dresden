@@ -55,13 +55,13 @@
     },
     {
       "Datum": "2026-03-16",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.30 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-03-17",
@@ -85,33 +85,33 @@
     },
     {
       "Datum": "2026-03-19",
-      "Zeit": null,
+      "Zeit": "13.00 - 15.45 Uhr",
       "Thema": "Für das Leben!",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "2 - 5",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-03-19",
-      "Zeit": null,
+      "Zeit": "16.00 - 18.00 Uhr",
       "Thema": "Mahnwache der OMAS GEGEN RECHTS.DRESDEN für Frieden - gegen Krieg und Gewalt überall",
-      "Ort": null,
+      "Ort": "Kleine Kirchgasse",
       "Startpunkt": null,
       "Teilnehmer": "8",
       "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-03-20",
-      "Zeit": null,
+      "Zeit": "13.00 - 15.45 Uhr",
       "Thema": "Für das Leben!",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "2 - 5",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-03-20",
@@ -461,6 +461,16 @@
       "Startpunkt": null,
       "Teilnehmer": "1500",
       "Veranstalter": "Lebenshilfe Sachsen e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-05-14",
+      "Zeit": null,
+      "Thema": "Familie im Fokus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "SPD Dresden Striesen",
       "Status": "angemeldet"
     },
     {
