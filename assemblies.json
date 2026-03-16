@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-03-15",
+  "Dateidatum": "2026-03-16",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-03-15",
-      "Zeit": "14.00 - 16.00 Uhr",
-      "Thema": "Die Opfer im Fokus - 15. März, Internationaler Tag gegen Polizeigewalt",
-      "Ort": null,
-      "Startpunkt": "Alaunplatz",
-      "Teilnehmer": "100",
-      "Veranstalter": "Piratenpartei Sachsen",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-03-15",
-      "Zeit": "16.00 - 17.00 Uhr",
-      "Thema": "Kranzniederlegung am Kossuth Denkmal in Klotzsche anl. der Revolution 1848",
-      "Ort": "Ludwig-Kossuth-Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "39",
-      "Veranstalter": "Turul Sachsen",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-03-16",
       "Zeit": "18.00 - 19.30 Uhr",
