@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-03-16",
+  "Dateidatum": "2026-03-17",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,56 +14,6 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2026-03-16",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-03-16",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Fred stellt sich in den Weg",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "50",
-      "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-03-16",
-      "Zeit": "18.00 - 19.00 Uhr",
-      "Thema": "Gegen die Abwälzung von Krisen+ Kriegsvorbereitung auf die breiten Massen! Gegen jede Art von sozialer Demontage! Gegen Imperialistische Kriege! Freiheit für Gaza! Kampf dem Faschismus auch in seiner Tarnung als Modern!  ",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-03-16",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "25",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-03-16",
-      "Zeit": "19.00 - 20.30 Uhr",
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "150",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2026-03-17",
       "Zeit": "16.15 - 17.30 Uhr",
       "Thema": "Die Grenzen des Mandats überwinden. Für eine angemessene Entgeltsteigerung beim SRH Berufsbildungswerk.",
@@ -75,13 +25,13 @@
     },
     {
       "Datum": "2026-03-18",
-      "Zeit": null,
+      "Zeit": "10.00 - 11.00 Uhr",
       "Thema": "Fleisch bedeutet immer Tierleid!",
-      "Ort": null,
+      "Ort": "Seestraße",
       "Startpunkt": null,
       "Teilnehmer": "6",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-03-19",
@@ -172,6 +122,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-03-23",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-03-26",
@@ -376,16 +336,6 @@
     {
       "Datum": "2026-05-01",
       "Zeit": null,
-      "Thema": "1. Mai 2026",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "500",
-      "Veranstalter": "ver.di",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2026-05-01",
-      "Zeit": null,
       "Thema": "Familientag – Kundgebung am 1. Mai ",
       "Ort": null,
       "Startpunkt": null,
@@ -555,6 +505,16 @@
     },
     {
       "Datum": "2026-06-08",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-06-15",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
