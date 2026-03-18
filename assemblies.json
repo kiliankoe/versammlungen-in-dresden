@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-03-17",
+  "Dateidatum": "2026-03-18",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-03-17",
-      "Zeit": "16.15 - 17.30 Uhr",
-      "Thema": "Die Grenzen des Mandats überwinden. Für eine angemessene Entgeltsteigerung beim SRH Berufsbildungswerk.",
-      "Ort": null,
-      "Startpunkt": "Hellerhofstraße",
-      "Teilnehmer": "100",
-      "Veranstalter": "Vereinte Dienstleistungsgewerkschaft (ver.di)",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-03-18",
       "Zeit": "10.00 - 11.00 Uhr",
@@ -154,6 +144,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2026-03-29",
+      "Zeit": null,
+      "Thema": "Demonstration in Solidarität mit dem kubanischen Volk, für die Freilassung aller politischen Gefangenen in Kuba",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "40",
+      "Veranstalter": "PatriaYVida e.V.",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-03-30",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -175,6 +175,16 @@
     },
     {
       "Datum": "2026-03-30",
+      "Zeit": null,
+      "Thema": "Gegen die Abwälzung von Krisen+ Kriegsvorbereitung auf die breiten Massen! Gegen jede Art von sozialer Demontage! Gegen Imperialistische Kriege! Freiheit für Gaza! Kampf dem Faschismus auch in seiner Tarnung als Modern!  ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-03-30",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
@@ -182,6 +192,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-04-01",
+      "Zeit": null,
+      "Thema": "Zubringerdemo für 'Wir halten zusammen für ein besseres Morgen!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-04-01",
@@ -212,6 +232,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-04-06",
+      "Zeit": null,
+      "Thema": "Ostermarsch:  'Der Frieden ist das Meisterwerk der Vernunft'",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-04-06",
@@ -276,6 +306,16 @@
     {
       "Datum": "2026-04-25",
       "Zeit": null,
+      "Thema": "Dyke* March Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Dyke* March Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-04-25",
+      "Zeit": null,
       "Thema": "Trauerwache Deutschland – Gemeinsames Gedenken der Opfer der letzten 11 Jahre",
       "Ort": null,
       "Startpunkt": null,
@@ -292,6 +332,16 @@
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-04-27",
+      "Zeit": null,
+      "Thema": "Gegen die Abwälzung von Krisen+ Kriegsvorbereitung auf die breiten Massen! Gegen jede Art von sozialer Demontage! Gegen Imperialistische Kriege! Freiheit für Gaza! Kampf dem Faschismus auch in seiner Tarnung als Modern!  ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-04-27",
@@ -384,6 +434,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2026-05-08",
+      "Zeit": null,
+      "Thema": "Antifa Schulter an Schulter",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "70",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-05-09",
       "Zeit": null,
       "Thema": "Liegenddemo ME/CFS - Aufmerksamkeit, Aufklärung, Forschung, Behandlung, Unterstützung - Jetzt",
@@ -420,7 +480,7 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "100",
-      "Veranstalter": "SPD Dresden Striesen",
+      "Veranstalter": "SPD Dresden-Striesen",
       "Status": "angemeldet"
     },
     {
@@ -451,6 +511,16 @@
       "Startpunkt": null,
       "Teilnehmer": "1000",
       "Veranstalter": "Die Linke Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-06-01",
+      "Zeit": null,
+      "Thema": "Gegen die Abwälzung von Krisen+ Kriegsvorbereitung auf die breiten Massen! Gegen jede Art von sozialer Demontage! Gegen Imperialistische Kriege! Freiheit für Gaza! Kampf dem Faschismus auch in seiner Tarnung als Modern!  ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
       "Status": "angemeldet"
     },
     {
