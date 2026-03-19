@@ -84,6 +84,26 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2026-03-21",
+      "Zeit": "ab 12.00 Uhr",
+      "Thema": "6. Jahrestag des 1. VERFASSUNGSWIDRIGEN Lockdown",
+      "Ort": null,
+      "Startpunkt": "Neumarkt",
+      "Teilnehmer": "mind. 2",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-03-22",
+      "Zeit": "bis 18.00 Uhr",
+      "Thema": "6. Jahrestag des 1. VERFASSUNGSWIDRIGEN Lockdown",
+      "Ort": null,
+      "Startpunkt": "Neumarkt",
+      "Teilnehmer": "mind. 2",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
       "Datum": "2026-03-23",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -115,23 +135,23 @@
     },
     {
       "Datum": "2026-03-23",
-      "Zeit": null,
+      "Zeit": "17.30 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren? Wir auch!",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-03-23",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.30 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-03-26",
@@ -205,13 +225,13 @@
     },
     {
       "Datum": "2026-03-30",
-      "Zeit": null,
+      "Zeit": "17.30 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren? Wir auch!",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-04-01",
@@ -219,7 +239,7 @@
       "Thema": "Zubringerdemo für 'Wir halten zusammen für ein besseres Morgen!",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "50",
+      "Teilnehmer": "150",
       "Veranstalter": "FreddielinkeSocke_official",
       "Status": "angemeldet"
     },
@@ -401,6 +421,16 @@
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "DGB Dresden-Oberes Elbtal",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-05-01",
+      "Zeit": null,
+      "Thema": "Keine Straßenfeste den Faschist:innen - Dresden weltoffen und solidarisch",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
