@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-03-18",
+  "Dateidatum": "2026-03-19",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,16 +14,6 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2026-03-18",
-      "Zeit": "10.00 - 11.00 Uhr",
-      "Thema": "Fleisch bedeutet immer Tierleid!",
-      "Ort": "Seestraße",
-      "Startpunkt": null,
-      "Teilnehmer": "6",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2026-03-19",
       "Zeit": "13.00 - 15.45 Uhr",
       "Thema": "Für das Leben!",
@@ -31,7 +21,7 @@
       "Startpunkt": null,
       "Teilnehmer": "2 - 5",
       "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2026-03-19",
@@ -51,7 +41,7 @@
       "Startpunkt": null,
       "Teilnehmer": "2 - 5",
       "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2026-03-20",
@@ -145,13 +135,13 @@
     },
     {
       "Datum": "2026-03-26",
-      "Zeit": null,
+      "Zeit": "15.00 - 20.00 Uhr",
       "Thema": "Klima schützen! Raus aus den Fossilen!",
-      "Ort": null,
+      "Ort": "Rathausplatz",
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-03-28",
@@ -231,6 +221,16 @@
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "FreddielinkeSocke_official",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-04-01",
+      "Zeit": null,
+      "Thema": "Zubringer für Unsere Zukunft ist kein Witz - Wir halten zusammen für ein besseres Morgen.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "Azubis gegen Rechts Dresden",
       "Status": "angemeldet"
     },
     {
@@ -632,6 +632,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-06-17",
+      "Zeit": null,
+      "Thema": "Wie Christliche Werte das Leben der heutigen Jugend positiv verändern wird",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50 bis 200",
+      "Veranstalter": "Internationales Steiger Zentrum e. V.",
+      "Status": "angemeldet"
     }
   ]
 }
