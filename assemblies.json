@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-03-23",
+  "Dateidatum": "2026-03-24",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,56 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-03-23",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-03-23",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Fred stellt sich in den Weg",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "50",
-      "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-03-23",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "25",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-03-23",
-      "Zeit": "17.30 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren? Wir auch!",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-03-23",
-      "Zeit": "19.00 - 20.30 Uhr",
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "100",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-03-26",
       "Zeit": "15.00 - 20.00 Uhr",
@@ -205,13 +155,13 @@
     },
     {
       "Datum": "2026-04-06",
-      "Zeit": null,
+      "Zeit": "11.30 - 14.00 Uhr",
       "Thema": "Ostermarsch:  'Der Frieden ist das Meisterwerk der Vernunft'",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Postplatz",
       "Teilnehmer": "500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-04-06",
@@ -272,6 +222,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-04-22",
+      "Zeit": null,
+      "Thema": "Umweltschutz, Kunstinstallation von Kindern in 17 deutschen Städten am Earth Day",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Blue Demonstration e.V.",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-04-25",
@@ -464,6 +424,26 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2026-05-12",
+      "Zeit": null,
+      "Thema": "Demonstration zum Tag der Pflegenden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "Bündnis für Pflege Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-05-14",
+      "Zeit": null,
+      "Thema": "Gemeinsam gegen Sexismus und patriarchale Gewalt",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "Feministisches Himmelfahrtskommando 'Berta Caceres'",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-05-14",
       "Zeit": null,
       "Thema": "Familie im Fokus",
@@ -602,6 +582,16 @@
       "Teilnehmer": "2000",
       "Veranstalter": "Queer Prider Dresden",
       "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-06-22",
+      "Zeit": "19.00 - 21.00 Uhr",
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": "Jorge-Gomondai-Platz",
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
     }
   ]
 }
