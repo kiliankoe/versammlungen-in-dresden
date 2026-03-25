@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-03-24",
+  "Dateidatum": "2026-03-25",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -41,6 +41,16 @@
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "Zentrum für Demokratieentwicklung",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-03-28",
+      "Zeit": null,
+      "Thema": "Sparen auf Kosten der Seele? Das geht uns alle an!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "120",
+      "Veranstalter": "Dresdner Institut für Psychodynamische Psychotherapie e. V.",
       "Status": "angemeldet"
     },
     {
@@ -325,13 +335,13 @@
     },
     {
       "Datum": "2026-05-01",
-      "Zeit": null,
+      "Zeit": "10.00 - 18.00 Uhr",
       "Thema": "Familientag – Kundgebung am 1. Mai ",
-      "Ort": null,
+      "Ort": "Westendstraße",
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "SPD Dresden-Plauen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-05-01",
@@ -445,13 +455,13 @@
     },
     {
       "Datum": "2026-05-14",
-      "Zeit": null,
+      "Zeit": "10.00 - 17.00 Uhr",
       "Thema": "Familie im Fokus",
-      "Ort": null,
+      "Ort": "Friedensplatz",
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "SPD Dresden-Striesen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-05-18",
