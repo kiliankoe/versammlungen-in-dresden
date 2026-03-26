@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-03-25",
+  "Dateidatum": "2026-03-26",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -35,13 +35,13 @@
     },
     {
       "Datum": "2026-03-28",
-      "Zeit": null,
+      "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "Fotoausstellung und Kundgebung zum 4. Jahrestag der Ereignisse in Bucha",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "Zentrum für Demokratieentwicklung",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-03-28",
@@ -55,13 +55,13 @@
     },
     {
       "Datum": "2026-03-29",
-      "Zeit": null,
+      "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "Demonstration in Solidarität mit dem kubanischen Volk, für die Freilassung aller politischen Gefangenen in Kuba",
-      "Ort": null,
+      "Ort": "Jorge-Gomondai-Platz,",
       "Startpunkt": null,
       "Teilnehmer": "40",
       "Veranstalter": "PatriaYVida e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-03-30",
@@ -85,13 +85,13 @@
     },
     {
       "Datum": "2026-03-30",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.00 Uhr",
       "Thema": "Gegen die Abwälzung von Krisen+ Kriegsvorbereitung auf die breiten Massen! Gegen jede Art von sozialer Demontage! Gegen Imperialistische Kriege! Freiheit für Gaza! Kampf dem Faschismus auch in seiner Tarnung als Modern!  ",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-03-30",
@@ -112,6 +112,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-03-30",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-04-01",
@@ -175,13 +185,13 @@
     },
     {
       "Datum": "2026-04-06",
-      "Zeit": null,
+      "Zeit": "11.00 - 15.00 Uhr",
       "Thema": "Ostermarsch 2026 Kriege verweigern - Frieden schaffen",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Neustädter Markt ",
       "Teilnehmer": "500",
       "Veranstalter": "Initiative Dresden Stadt des Friedens",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-04-06",
@@ -275,13 +285,13 @@
     },
     {
       "Datum": "2026-04-27",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.00 Uhr",
       "Thema": "Gegen die Abwälzung von Krisen+ Kriegsvorbereitung auf die breiten Massen! Gegen jede Art von sozialer Demontage! Gegen Imperialistische Kriege! Freiheit für Gaza! Kampf dem Faschismus auch in seiner Tarnung als Modern!  ",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-04-27",
@@ -495,13 +505,13 @@
     },
     {
       "Datum": "2026-06-01",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.00 Uhr",
       "Thema": "Gegen die Abwälzung von Krisen+ Kriegsvorbereitung auf die breiten Massen! Gegen jede Art von sozialer Demontage! Gegen Imperialistische Kriege! Freiheit für Gaza! Kampf dem Faschismus auch in seiner Tarnung als Modern!  ",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-06-01",
