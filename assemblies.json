@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-03-27",
+  "Dateidatum": "2026-03-28",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -115,12 +115,22 @@
     },
     {
       "Datum": "2026-04-01",
-      "Zeit": null,
-      "Thema": "Zubringerdemo für 'Wir halten zusammen für ein besseres Morgen!",
+      "Zeit": "17.00 - 18.00 Uhr",
+      "Thema": "Zubringerdemo für 'Wir halten zusammen für ein besseres Morgen!'",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Schlesischer Platz",
       "Teilnehmer": "150",
       "Veranstalter": "FreddielinkeSocke_official",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-04-01",
+      "Zeit": null,
+      "Thema": "15 Jahre Stillstand in der Johannstadt – Jetzt Platz am Elberadweg schaffen!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "ADFC Dresden e.V.",
       "Status": "angemeldet"
     },
     {
