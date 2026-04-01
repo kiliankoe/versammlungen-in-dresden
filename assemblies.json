@@ -35,13 +35,13 @@
     },
     {
       "Datum": "2026-04-01",
-      "Zeit": null,
+      "Zeit": "16.15 - 17.00 Uhr",
       "Thema": "Zubringer für Unsere Zukunft ist kein Witz - Wir halten zusammen für ein besseres Morgen.",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wiener Platz",
       "Teilnehmer": "100",
       "Veranstalter": "Azubis gegen Rechts Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-04-01",
@@ -55,13 +55,13 @@
     },
     {
       "Datum": "2026-04-04",
-      "Zeit": null,
+      "Zeit": "11.30 - 19.00 Uhr",
       "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
-      "Ort": null,
+      "Ort": "Altmarkt",
       "Startpunkt": null,
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-04-04",
@@ -105,12 +105,22 @@
     },
     {
       "Datum": "2026-04-06",
-      "Zeit": null,
+      "Zeit": "11.00 - 14.00 Uhr",
       "Thema": "Rumeiern mit den Sucksen",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Postplatz",
       "Teilnehmer": "100",
       "Veranstalter": "FreddielinkeSocke_official",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-04-06",
+      "Zeit": null,
+      "Thema": "Freie Sachsen unterstützen den Ostermarsch für den Frieden! Der Friedenstrauti kommt!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10 bis 20",
+      "Veranstalter": "Partei FREIE SACHSEN",
       "Status": "angemeldet"
     },
     {
