@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-03-31",
+  "Dateidatum": "2026-04-01",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -30,7 +30,7 @@
       "Ort": null,
       "Startpunkt": "Elberadweg unterhalb Waldschlößchenbrücke (Altstädter Seite)",
       "Teilnehmer": "50",
-      "Veranstalter": "ADFC Dresden e.V.",
+      "Veranstalter": "ADFC Dresden e. V.",
       "Status": "beschieden"
     },
     {
@@ -75,13 +75,13 @@
     },
     {
       "Datum": "2026-04-04",
-      "Zeit": null,
+      "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "3 Minute Movie Challenge",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-04-06",
@@ -125,6 +125,16 @@
     },
     {
       "Datum": "2026-04-06",
+      "Zeit": null,
+      "Thema": "!!! Auch die FRIEDENSTAUBE hat einen LINKEN & einen RECHTEN Flügel !!!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-04-06",
       "Zeit": "16.00 - 18.30 Uhr",
       "Thema": "Gedenkkundgebung für Jorge Gomondai",
       "Ort": "Jorge-Gomondai-Platz",
@@ -132,6 +142,16 @@
       "Teilnehmer": "80",
       "Veranstalter": "Ausländerrat Dresden e. V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-04-11",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-04-13",
@@ -375,13 +395,13 @@
     },
     {
       "Datum": "2026-05-09",
-      "Zeit": null,
+      "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "3 Minute Movie Challenge",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-05-11",
