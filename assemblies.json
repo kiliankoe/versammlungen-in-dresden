@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-04-01",
+  "Dateidatum": "2026-04-02",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,46 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-04-01",
-      "Zeit": "17.00 - 18.00 Uhr",
-      "Thema": "Zubringerdemo für 'Wir halten zusammen für ein besseres Morgen!'",
-      "Ort": null,
-      "Startpunkt": "Schlesischer Platz",
-      "Teilnehmer": "150",
-      "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-04-01",
-      "Zeit": "08.15 - 09.15 Uhr",
-      "Thema": "15 Jahre Stillstand in der Johannstadt – Jetzt Platz am Elberadweg schaffen!",
-      "Ort": null,
-      "Startpunkt": "Elberadweg unterhalb Waldschlößchenbrücke (Altstädter Seite)",
-      "Teilnehmer": "50",
-      "Veranstalter": "ADFC Dresden e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-04-01",
-      "Zeit": "16.15 - 17.00 Uhr",
-      "Thema": "Zubringer für Unsere Zukunft ist kein Witz - Wir halten zusammen für ein besseres Morgen.",
-      "Ort": null,
-      "Startpunkt": "Wiener Platz",
-      "Teilnehmer": "100",
-      "Veranstalter": "Azubis gegen Rechts Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-04-01",
-      "Zeit": "17.00 - 20.00 Uhr",
-      "Thema": "Unsere Zukunft ist kein Witz — Wir halten zusammen für ein besseres Morgen.",
-      "Ort": "Altmarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "1000",
-      "Veranstalter": "Kampagne Jugend- und Gleichstellungsarbeit sichern",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-04-04",
       "Zeit": "11.30 - 19.00 Uhr",
@@ -155,13 +115,13 @@
     },
     {
       "Datum": "2026-04-11",
-      "Zeit": null,
+      "Zeit": "11.30 - 19.00 Uhr",
       "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
-      "Ort": null,
+      "Ort": "Altmarkt",
       "Startpunkt": null,
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-04-13",
@@ -182,6 +142,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-04-18",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-04-20",
@@ -551,6 +521,16 @@
       "Startpunkt": null,
       "Teilnehmer": "10.000",
       "Veranstalter": "CSD Dresden e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-06-06",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
       "Status": "angemeldet"
     },
     {
