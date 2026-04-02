@@ -25,6 +25,16 @@
     },
     {
       "Datum": "2026-04-04",
+      "Zeit": "13.30 - 16.00 Uhr",
+      "Thema": "Für das Leben",
+      "Ort": "Prager Straße",
+      "Startpunkt": null,
+      "Teilnehmer": "4",
+      "Veranstalter": "Freie Baptistengemeinde Dresden e.V. ",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-04-04",
       "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "Flucht, Repression, Widerstand. Solidarität von Dresden bis Gaza! Demo zum Todestag von Jorge Gomondai.",
       "Ort": null,
@@ -75,13 +85,13 @@
     },
     {
       "Datum": "2026-04-06",
-      "Zeit": null,
+      "Zeit": "10.00 - 12.30 Uhr",
       "Thema": "Freie Sachsen unterstützen den Ostermarsch für den Frieden! Der Friedenstrauti kommt!",
-      "Ort": null,
+      "Ort": "Postplatz",
       "Startpunkt": null,
       "Teilnehmer": "10 bis 20",
       "Veranstalter": "Partei FREIE SACHSEN",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-04-06",
@@ -142,6 +152,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-04-16",
+      "Zeit": null,
+      "Thema": "Kundgebung zum Geburtstag Ernst Thälmanns Nie wieder Faschismus, nie wieder Krieg!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-04-18",
