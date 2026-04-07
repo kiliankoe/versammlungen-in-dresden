@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-04-06",
+  "Dateidatum": "2026-04-07",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,76 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-04-06",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "25",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-04-06",
-      "Zeit": "11.30 - 14.00 Uhr",
-      "Thema": "Ostermarsch:  'Der Frieden ist das Meisterwerk der Vernunft'",
-      "Ort": null,
-      "Startpunkt": "Postplatz",
-      "Teilnehmer": "500",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-04-06",
-      "Zeit": "11.00 - 14.00 Uhr",
-      "Thema": "Rumeiern mit den Sucksen",
-      "Ort": null,
-      "Startpunkt": "Postplatz",
-      "Teilnehmer": "100",
-      "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-04-06",
-      "Zeit": "10.00 - 12.30 Uhr",
-      "Thema": "Freie Sachsen unterstützen den Ostermarsch für den Frieden! Der Friedenstrauti kommt!",
-      "Ort": "Postplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "10 bis 20",
-      "Veranstalter": "Partei FREIE SACHSEN",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-04-06",
-      "Zeit": "11.00 - 15.00 Uhr",
-      "Thema": "Ostermarsch 2026 Kriege verweigern - Frieden schaffen",
-      "Ort": null,
-      "Startpunkt": "Neustädter Markt ",
-      "Teilnehmer": "500",
-      "Veranstalter": "Initiative Dresden Stadt des Friedens",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-04-06",
-      "Zeit": null,
-      "Thema": "!!! Auch die FRIEDENSTAUBE hat einen LINKEN & einen RECHTEN Flügel !!!",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "2",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2026-04-06",
-      "Zeit": "16.00 - 18.30 Uhr",
-      "Thema": "Gedenkkundgebung für Jorge Gomondai",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "80",
-      "Veranstalter": "Ausländerrat Dresden e. V.",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-04-11",
       "Zeit": "11.30 - 19.00 Uhr",
