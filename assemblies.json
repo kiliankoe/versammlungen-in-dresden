@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-04-07",
+  "Dateidatum": "2026-04-08",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -35,6 +35,16 @@
     },
     {
       "Datum": "2026-04-13",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-04-13",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
@@ -42,6 +52,26 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-04-13",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren? Wir auch!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-04-16",
+      "Zeit": null,
+      "Thema": "Mahnwache der OMAS GEGEN RECHTS.DRESDEN für Frieden - gegen Krieg und Gewalt überall",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "8",
+      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-04-16",
@@ -75,6 +105,16 @@
     },
     {
       "Datum": "2026-04-20",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-04-20",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
@@ -84,6 +124,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2026-04-20",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren? Wir auch!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-04-22",
       "Zeit": null,
       "Thema": "Umweltschutz, Kunstinstallation von Kindern in 17 deutschen Städten am Earth Day",
@@ -91,6 +141,16 @@
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Blue Demonstration e.V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-04-24",
+      "Zeit": null,
+      "Thema": "EPH stoppen, Energiewende retten",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "250",
+      "Veranstalter": "Fridays For Future Dresden",
       "Status": "angemeldet"
     },
     {
@@ -135,6 +195,16 @@
     },
     {
       "Datum": "2026-04-27",
+      "Zeit": null,
+      "Thema": "Fred stellt sich in den Weg",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "FreddielinkeSocke_official",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-04-27",
       "Zeit": "18.00 - 19.00 Uhr",
       "Thema": "Gegen die Abwälzung von Krisen+ Kriegsvorbereitung auf die breiten Massen! Gegen jede Art von sozialer Demontage! Gegen Imperialistische Kriege! Freiheit für Gaza! Kampf dem Faschismus auch in seiner Tarnung als Modern!  ",
       "Ort": "Prager Straße",
@@ -160,6 +230,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-04-30",
+      "Zeit": null,
+      "Thema": "Stoppt den fossilen Wahnsinn! Mit der Aktion fordern wir von der Politik und Verwaltung, dass Erneuerbarer Strom und Energiesparen vorangetrieben werden, sodass wir geordnet aus allen fossilen Energieträgern aussteigen können.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -366,6 +446,16 @@
     {
       "Datum": "2026-05-28",
       "Zeit": null,
+      "Thema": "Stoppt den fossilen Wahnsinn! Mit der Aktion fordern wir von der Politik und Verwaltung, dass Erneuerbarer Strom und Energiesparen vorangetrieben werden, sodass wir geordnet aus allen fossilen Energieträgern aussteigen können.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-05-28",
+      "Zeit": null,
       "Thema": "Politische Versammlung der Linken Dresden",
       "Ort": null,
       "Startpunkt": null,
@@ -392,6 +482,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-06-01",
+      "Zeit": null,
+      "Thema": "Kinder - Straßen - Parade für, von und mit - kleinen und großen Kindern für ihre Rechte.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
+      "Veranstalter": "Zentralwerk e.V.",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-06-04",
