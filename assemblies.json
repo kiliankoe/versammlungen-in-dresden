@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-04-08",
+  "Dateidatum": "2026-04-09",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -60,6 +60,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-04-13",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -382,6 +392,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-05-11",
+      "Zeit": null,
+      "Thema": "Kitas retten!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "GEW Sachsen",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-05-12",
