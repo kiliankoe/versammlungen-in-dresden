@@ -25,13 +25,13 @@
     },
     {
       "Datum": "2026-04-16",
-      "Zeit": null,
+      "Zeit": "17.00 - 18.00 Uhr",
       "Thema": "Kundgebung zum Geburtstag Ernst Thälmanns Nie wieder Faschismus, nie wieder Krieg!",
-      "Ort": null,
+      "Ort": "Strehlener Platz",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-04-17",
@@ -92,6 +92,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-04-20",
+      "Zeit": null,
+      "Thema": "Endstation Links",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-04-22",
@@ -346,6 +356,16 @@
     {
       "Datum": "2026-05-09",
       "Zeit": null,
+      "Thema": "Dresden für die Prüfung der rechtsextremen Parteien",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "Pürfung Rettet Übringens Freiheit (PRÜF) - Sachsen",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-05-09",
+      "Zeit": null,
       "Thema": "Liegenddemo ME/CFS - Aufmerksamkeit, Aufklärung, Forschung, Behandlung, Unterstützung - Jetzt",
       "Ort": null,
       "Startpunkt": null,
@@ -442,6 +462,16 @@
       "Teilnehmer": "100",
       "Veranstalter": "SPD Dresden-Striesen",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-05-15",
+      "Zeit": null,
+      "Thema": "FRIEDEN beginnt mit UNS - im DIALOG (offener Runder Tisch zum Thema ´Wehrpflicht´)",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-05-16",
@@ -632,6 +662,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-06-12",
+      "Zeit": null,
+      "Thema": "Sichtbar solidarisch gemeinsam gegen Abschottung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "250",
+      "Veranstalter": "Seebrücke Dresden",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-06-13",
