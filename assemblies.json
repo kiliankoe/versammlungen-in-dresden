@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-04-14",
+  "Dateidatum": "2026-04-15",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -92,6 +92,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-04-20",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-04-20",
