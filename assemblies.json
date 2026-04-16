@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-04-15",
+  "Dateidatum": "2026-04-16",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -35,13 +35,13 @@
     },
     {
       "Datum": "2026-04-17",
-      "Zeit": null,
+      "Zeit": "16.00 - 18.00 Uhr",
       "Thema": "Gaza, Venezuela, Iran - wie weiter?",
-      "Ort": null,
+      "Ort": "Dr.-Külz-Ring",
       "Startpunkt": null,
       "Teilnehmer": "37",
       "Veranstalter": "Initiative Dresden Stadt des Friedens",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-04-18",
@@ -52,6 +52,16 @@
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-04-18",
+      "Zeit": null,
+      "Thema": "Jesus Christus- Retter der Welt.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-04-20",
@@ -105,23 +115,23 @@
     },
     {
       "Datum": "2026-04-20",
-      "Zeit": null,
+      "Zeit": "08.00 - 09.30 Uhr",
       "Thema": "Endstation Links",
-      "Ort": null,
+      "Ort": "Hammerweg ",
       "Startpunkt": null,
       "Teilnehmer": "2",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-04-22",
-      "Zeit": null,
+      "Zeit": "12.00 - 12.30 Uhr",
       "Thema": "Umweltschutz, Kunstinstallation von Kindern in 17 deutschen Städten am Earth Day",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Blue Demonstration e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-04-24",
@@ -165,13 +175,13 @@
     },
     {
       "Datum": "2026-04-25",
-      "Zeit": null,
+      "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "Tierrechte & Veganismus",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-04-27",
@@ -370,7 +380,7 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "500",
-      "Veranstalter": "Pürfung Rettet Übringens Freiheit (PRÜF) - Sachsen",
+      "Veranstalter": "Prüfung Rettet Übringens Freiheit (PRÜF) - Sachsen",
       "Status": "angemeldet"
     },
     {
