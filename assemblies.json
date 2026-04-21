@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-04-20",
+  "Dateidatum": "2026-04-21",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,73 +14,13 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2026-04-20",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-04-20",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Fred stellt sich in den Weg",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "50",
-      "Veranstalter": "FreddielinkeSocke_official",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-04-20",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "25",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-04-20",
-      "Zeit": "17.30 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren? Wir auch!",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-04-20",
-      "Zeit": "19.00 - 20.30 Uhr",
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "150",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-04-20",
-      "Zeit": "08.00 - 09.30 Uhr",
-      "Thema": "Endstation Links",
-      "Ort": "Hammerweg ",
-      "Startpunkt": null,
-      "Teilnehmer": "2",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2026-04-22",
       "Zeit": "12.00 - 12.30 Uhr",
       "Thema": "Umweltschutz, Kunstinstallation von Kindern in 17 deutschen Städten am Earth Day",
       "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "30",
-      "Veranstalter": "Blue Demonstration e.V.",
+      "Veranstalter": "Blue Demonstration e. V.",
       "Status": "beschieden"
     },
     {
@@ -115,13 +55,13 @@
     },
     {
       "Datum": "2026-04-25",
-      "Zeit": null,
+      "Zeit": "14.00 - 19.00 Uhr",
       "Thema": "Trauerwache Deutschland - Opfer seit 2015 - gegen das Vergessen",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Neumarkt",
       "Teilnehmer": "250",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-04-25",
@@ -172,6 +112,26 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-04-27",
+      "Zeit": null,
+      "Thema": "Aktive Mittagspause Tarifrunde Telekom",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "Ver.di SAT FB A",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-04-29",
+      "Zeit": null,
+      "Thema": "ver.di Demo zur Tarifrunde Telekom",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "Ver.di SAT FB A",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-04-30",
@@ -256,6 +216,16 @@
     {
       "Datum": "2026-05-01",
       "Zeit": null,
+      "Thema": "1.Mai - Kampf- und Feiertag der Arbeiterklasse! Gegen Militarisierung und Burgfrieden!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "49",
+      "Veranstalter": "Initiative Dresden Stadt des Friedens",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-05-01",
+      "Zeit": null,
       "Thema": "1.Mai-Antikapitalistisch-Antimilitaristisch-Internationalistisch",
       "Ort": null,
       "Startpunkt": null,
@@ -295,13 +265,13 @@
     },
     {
       "Datum": "2026-05-05",
-      "Zeit": null,
+      "Zeit": "11.00 - 14.00 Uhr",
       "Thema": "Taktgefühl für alle – Musikalische Kundgebungen für barrierefreie Mobilität im ländlichen Raum",
-      "Ort": null,
+      "Ort": "Wiener Platz",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "WeltMusik und Energie- Forschung e. V. (WMEF)",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-05-05",
@@ -372,6 +342,16 @@
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e.V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-05-09",
+      "Zeit": null,
+      "Thema": "Toleranz im Park",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "Tolerave e. V.",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-05-10",
