@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-04-21",
+  "Dateidatum": "2026-04-22",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -46,12 +46,22 @@
     {
       "Datum": "2026-04-25",
       "Zeit": null,
-      "Thema": "Dyke* March Dresden",
+      "Thema": "Ohne uns wird´s kalt - Psychotherapie verteidigen!",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "Dyke* March Dresden",
+      "Teilnehmer": "15",
+      "Veranstalter": "DIPP e. V.",
       "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-04-25",
+      "Zeit": "13.45 - 16.15 Uhr",
+      "Thema": "Dyke* March Dresden",
+      "Ort": null,
+      "Startpunkt": "Bischofsplatz",
+      "Teilnehmer": "50-200",
+      "Veranstalter": "Dyke* March Dresden",
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-04-25",
@@ -205,18 +215,18 @@
     },
     {
       "Datum": "2026-05-01",
-      "Zeit": null,
+      "Zeit": "12.00 - 18.30 Uhr",
       "Thema": "Anarchistischer 1. Mai",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wettiner Platz",
       "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-05-01",
       "Zeit": null,
-      "Thema": "1.Mai - Kampf- und Feiertag der Arbeiterklasse! Gegen Militarisierung und Burgfrieden!",
+      "Thema": "1. Mai - Kampf- und Feiertag der Arbeiterklasse! Gegen Militarisierung und Burgfrieden!",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "49",
