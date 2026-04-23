@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-04-22",
+  "Dateidatum": "2026-04-23",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,24 +14,14 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2026-04-22",
-      "Zeit": "12.00 - 12.30 Uhr",
-      "Thema": "Umweltschutz, Kunstinstallation von Kindern in 17 deutschen Städten am Earth Day",
-      "Ort": "Neumarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "Blue Demonstration e. V.",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2026-04-24",
-      "Zeit": null,
+      "Zeit": "14.00 - 16.15 Uhr",
       "Thema": "EPH stoppen, Energiewende retten",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Schloßplatz",
       "Teilnehmer": "250",
       "Veranstalter": "Fridays For Future Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-04-25",
@@ -45,13 +35,13 @@
     },
     {
       "Datum": "2026-04-25",
-      "Zeit": null,
+      "Zeit": "11.00 - 15.00 Uhr",
       "Thema": "Ohne uns wird´s kalt - Psychotherapie verteidigen!",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "DIPP e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-04-25",
@@ -126,6 +116,16 @@
     {
       "Datum": "2026-04-27",
       "Zeit": null,
+      "Thema": "Bühlau geht spazieren? Wir auch!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-04-27",
+      "Zeit": null,
       "Thema": "Aktive Mittagspause Tarifrunde Telekom",
       "Ort": null,
       "Startpunkt": null,
@@ -145,13 +145,13 @@
     },
     {
       "Datum": "2026-04-30",
-      "Zeit": null,
+      "Zeit": "19.30 - 22.00 Uhr",
       "Thema": "Take Back The Night",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Schloßplatz",
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-04-30",
@@ -304,6 +304,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2026-05-08",
+      "Zeit": null,
+      "Thema": "Schulstreik gegen die Wehrpflicht",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-05-09",
       "Zeit": "11.30 - 19.00 Uhr",
       "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
@@ -445,13 +455,13 @@
     },
     {
       "Datum": "2026-05-15",
-      "Zeit": null,
+      "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "FRIEDEN beginnt mit UNS - im DIALOG (offener Runder Tisch zum Thema ´Wehrpflicht´)",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-05-16",
