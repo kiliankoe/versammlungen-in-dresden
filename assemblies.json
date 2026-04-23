@@ -125,12 +125,22 @@
     },
     {
       "Datum": "2026-04-27",
-      "Zeit": null,
+      "Zeit": "11.30 - 12.30 Uhr",
       "Thema": "Aktive Mittagspause Tarifrunde Telekom",
-      "Ort": null,
+      "Ort": "Riesaer Straße",
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "Ver.di SAT FB A",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-04-27",
+      "Zeit": null,
+      "Thema": "Gegen Behörden-Willkür - Anträge gehören bearbeitet!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "FAU Dresden",
       "Status": "angemeldet"
     },
     {
@@ -335,13 +345,13 @@
     },
     {
       "Datum": "2026-05-09",
-      "Zeit": null,
+      "Zeit": "15.00 - 17.30 Uhr",
       "Thema": "Liegenddemo ME/CFS - Aufmerksamkeit, Aufklärung, Forschung, Behandlung, Unterstützung - Jetzt",
-      "Ort": null,
+      "Ort": "Neumarkt ",
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-05-09",
