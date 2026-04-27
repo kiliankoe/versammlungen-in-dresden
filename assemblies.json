@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-04-26",
+  "Dateidatum": "2026-04-27",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -652,6 +652,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-06-17",
+      "Zeit": null,
+      "Thema": "Kranzniederlegung zum Jahrestag des Volksaufstands am 17. Juni",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-06-17",
