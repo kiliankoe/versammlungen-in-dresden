@@ -125,23 +125,23 @@
     },
     {
       "Datum": "2026-05-02",
-      "Zeit": null,
+      "Zeit": "14.00 - 19.00 Uhr",
       "Thema": "Gedenken an den 2. Mai 2014 in Odessa",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-05-03",
-      "Zeit": null,
+      "Zeit": "14.00 - 19.00 Uhr",
       "Thema": "Galerie der Aufklärung",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-05-04",
@@ -265,13 +265,13 @@
     },
     {
       "Datum": "2026-05-09",
-      "Zeit": null,
+      "Zeit": "16.30 - 20.00 Uhr",
       "Thema": "Toleranz im Park",
-      "Ort": null,
+      "Ort": "Alaunplatz",
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "Tolerave e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-05-10",
