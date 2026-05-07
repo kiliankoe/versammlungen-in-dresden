@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-05-06",
+  "Dateidatum": "2026-05-07",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -135,22 +135,22 @@
     },
     {
       "Datum": "2026-05-11",
+      "Zeit": "17.00 - 18.00 Uhr",
+      "Thema": "Kitas retten!",
+      "Ort": "Bernhard-von-Lindenau-Platz Dresden",
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "GEW Sachsen",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-05-11",
       "Zeit": null,
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2026-05-11",
-      "Zeit": null,
-      "Thema": "Kitas retten!",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "100",
-      "Veranstalter": "GEW Sachsen",
       "Status": "angemeldet"
     },
     {
@@ -394,6 +394,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2026-06-06",
+      "Zeit": null,
+      "Thema": "Queer - Sichtbar - Unbeugsam",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-06-08",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -441,6 +451,16 @@
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "Prüfung Rettet Übringens Freiheit (PRÜF) - Sachsen",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-06-13",
+      "Zeit": null,
+      "Thema": "Jugend gegen Rechts - AfD verhindern!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "Azubis gegen Rechts Dresden",
       "Status": "angemeldet"
     },
     {
