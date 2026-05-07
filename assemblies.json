@@ -25,13 +25,13 @@
     },
     {
       "Datum": "2026-05-08",
-      "Zeit": null,
+      "Zeit": "09.00 - 14.00 Uhr",
       "Thema": "Schulstreik gegen die Wehrpflicht",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Postplatz",
       "Teilnehmer": "500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-05-09",
@@ -45,13 +45,13 @@
     },
     {
       "Datum": "2026-05-09",
-      "Zeit": null,
+      "Zeit": "12.30 - 16.00 Uhr",
       "Thema": "Dresden für die Prüfung der rechtsextremen Parteien",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Theaterplatz",
       "Teilnehmer": "500",
       "Veranstalter": "Prüfung Rettet Übringens Freiheit (PRÜF) - Sachsen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-05-09",
@@ -95,13 +95,13 @@
     },
     {
       "Datum": "2026-05-09",
-      "Zeit": null,
+      "Zeit": "17.00 - 17.45 Uhr",
       "Thema": "European Peace Project",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "30",
-      "Veranstalter": "LAG Frieden von BSW im Friedensbündnis 'Dresden-Stadt des Friedens'",
-      "Status": "angemeldet"
+      "Veranstalter": "LAG Frieden von BSW im Friedensbündnis ",
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-05-10",
@@ -135,6 +135,16 @@
     },
     {
       "Datum": "2026-05-11",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren? Wir auch!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-05-11",
       "Zeit": "17.00 - 18.00 Uhr",
       "Thema": "Kitas retten!",
       "Ort": "Bernhard-von-Lindenau-Platz Dresden",
@@ -155,13 +165,13 @@
     },
     {
       "Datum": "2026-05-12",
-      "Zeit": null,
+      "Zeit": "12.30 - 14.00 Uhr",
       "Thema": "'Mittendrin statt außen vor' Menschen mit Behinderungen möchten ernst genommen werden. Ihr Ziel: umfassende Teilhabe",
-      "Ort": null,
+      "Ort": "Bernhard-von-Lindenau-Platz",
       "Startpunkt": null,
       "Teilnehmer": "1500",
       "Veranstalter": "Lebenshilfe Sachsen e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-05-12",
@@ -522,6 +532,16 @@
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-06-20",
+      "Zeit": null,
+      "Thema": "Aufstehen für den Frieden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-06-22",
