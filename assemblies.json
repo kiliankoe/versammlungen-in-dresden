@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-05-07",
+  "Dateidatum": "2026-05-08",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -135,13 +135,13 @@
     },
     {
       "Datum": "2026-05-11",
-      "Zeit": null,
+      "Zeit": "17.30 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren? Wir auch!",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-05-11",
