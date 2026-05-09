@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-05-08",
+  "Dateidatum": "2026-05-09",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-05-08",
-      "Zeit": "20.00 - 22.00 Uhr",
-      "Thema": "Antifa Schulter an Schulter",
-      "Ort": "Alaunplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "70",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-05-08",
-      "Zeit": "09.00 - 14.00 Uhr",
-      "Thema": "Schulstreik gegen die Wehrpflicht",
-      "Ort": null,
-      "Startpunkt": "Postplatz",
-      "Teilnehmer": "500",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-05-09",
       "Zeit": "11.30 - 19.00 Uhr",
@@ -155,13 +135,13 @@
     },
     {
       "Datum": "2026-05-11",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.30 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-05-12",
@@ -175,13 +155,13 @@
     },
     {
       "Datum": "2026-05-12",
-      "Zeit": null,
+      "Zeit": "16.30 - 18.45 Uhr",
       "Thema": "Demonstration zum Tag der Pflegenden",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bernhard-von-Lindenau-Platz",
       "Teilnehmer": "300",
       "Veranstalter": "Bündnis für Pflege Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-05-14",
@@ -311,6 +291,16 @@
       "Startpunkt": null,
       "Teilnehmer": "70",
       "Veranstalter": "Rudolf Rollt",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-05-31",
+      "Zeit": null,
+      "Thema": "Kuchenbasar gegen die AfD",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
