@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-05-10",
+  "Dateidatum": "2026-05-11",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-05-10",
-      "Zeit": "09.00 - 13.00 Uhr",
-      "Thema": "Mahnwache gegen Ausbeutung der Tiere - Artgerecht ist nur die Freiheit",
-      "Ort": "Tiergartenstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-05-11",
       "Zeit": "18.00 - 19.30 Uhr",
