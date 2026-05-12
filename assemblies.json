@@ -35,13 +35,13 @@
     },
     {
       "Datum": "2026-05-14",
-      "Zeit": null,
+      "Zeit": "11.00 - 20.00 Uhr",
       "Thema": "Gemeinsam gegen Sexismus und patriarchale Gewalt",
-      "Ort": null,
+      "Ort": "Palaisgarten",
       "Startpunkt": null,
       "Teilnehmer": "25",
       "Veranstalter": "Feministisches Himmelfahrtskommando 'Berta Caceres'",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-05-14",
@@ -175,13 +175,13 @@
     },
     {
       "Datum": "2026-05-30",
-      "Zeit": null,
+      "Zeit": "18.00 - 22.00 Uhr",
       "Thema": "Skatepark her, Kürzungen weg!",
-      "Ort": null,
+      "Ort": "Rudolf-Leonhard-Straße",
       "Startpunkt": null,
       "Teilnehmer": "70",
       "Veranstalter": "Rudolf Rollt",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-05-31",
@@ -287,6 +287,16 @@
       "Datum": "2026-06-06",
       "Zeit": null,
       "Thema": "Queer - Sichtbar - Unbeugsam",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-06-07",
+      "Zeit": null,
+      "Thema": "Zubringerkorso zum 'Projekt eine Million' in Berlin",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "100",
