@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-05-13",
+  "Dateidatum": "2026-05-14",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -35,6 +35,16 @@
     },
     {
       "Datum": "2026-05-15",
+      "Zeit": "16.00 - 17.00 Uhr",
+      "Thema": "SPD, wo seid ihr? Reiches fossilen Heizungshorrer stoppen – Klimaziele schützen!",
+      "Ort": "Devrientstraße",
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Fridays For Future Dresden",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-05-15",
       "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "FRIEDEN beginnt mit UNS - im DIALOG (offener Runder Tisch zum Thema ´Wehrpflicht´)",
       "Ort": "Neumarkt",
@@ -55,13 +65,13 @@
     },
     {
       "Datum": "2026-05-17",
-      "Zeit": null,
+      "Zeit": "16.00 - 17.00 Uhr",
       "Thema": "Wenn die Behörde pennt -  gibt's kein Dixieland",
-      "Ort": null,
+      "Ort": "Terrassenufer",
       "Startpunkt": null,
       "Teilnehmer": "1.000",
       "Veranstalter": "Förderverein Jazztradition Dresden e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-05-18",
@@ -85,23 +95,23 @@
     },
     {
       "Datum": "2026-05-18",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.30 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-05-22",
-      "Zeit": null,
+      "Zeit": "16.00 - 18.00 Uhr",
       "Thema": "77 Jahre Grundgesetz - wir fordern Einhaltung!",
-      "Ort": null,
+      "Ort": "Bautzner Straße",
       "Startpunkt": null,
       "Teilnehmer": "40",
       "Veranstalter": "Initiative Dresden Stadt des Friedens",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-05-23",
@@ -145,13 +155,13 @@
     },
     {
       "Datum": "2026-05-28",
-      "Zeit": null,
+      "Zeit": "16.00 - 21.00 Uhr",
       "Thema": "Politische Versammlung der Linken Dresden",
-      "Ort": null,
+      "Ort": "Neustädter Markt",
       "Startpunkt": null,
       "Teilnehmer": "1000",
       "Veranstalter": "Die Linke Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-05-30",
