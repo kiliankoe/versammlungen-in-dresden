@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-05-14",
+  "Dateidatum": "2026-05-15",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-05-14",
-      "Zeit": "11.00 - 20.00 Uhr",
-      "Thema": "Gemeinsam gegen Sexismus und patriarchale Gewalt",
-      "Ort": "Palaisgarten",
-      "Startpunkt": null,
-      "Teilnehmer": "25",
-      "Veranstalter": "Feministisches Himmelfahrtskommando 'Berta Caceres'",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-05-14",
-      "Zeit": "10.00 - 17.00 Uhr",
-      "Thema": "Familie im Fokus",
-      "Ort": "Friedensplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "100",
-      "Veranstalter": "SPD Dresden-Striesen",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-05-15",
       "Zeit": "16.00 - 17.00 Uhr",
