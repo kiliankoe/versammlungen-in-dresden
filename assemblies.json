@@ -35,6 +35,16 @@
     },
     {
       "Datum": "2026-05-18",
+      "Zeit": "17.30 - 19.30 Uhr",
+      "Thema": "Bühlau geht spazieren? Wir auch!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-05-18",
       "Zeit": "19.00 - 20.30 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
@@ -325,11 +335,11 @@
     },
     {
       "Datum": "2026-06-15",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
+      "Zeit": "16.00 - 22.00 Uhr",
+      "Thema": "Jahrestag: Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
-      "Teilnehmer": "25",
+      "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
     },
