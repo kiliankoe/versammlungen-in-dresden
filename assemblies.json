@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-05-18",
+  "Dateidatum": "2026-05-19",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,44 +14,24 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2026-05-18",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-05-18",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "25",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-05-18",
-      "Zeit": "17.30 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren? Wir auch!",
+      "Datum": "2026-05-21",
+      "Zeit": null,
+      "Thema": "Mahnwache der OMAS GEGEN RECHTS.DRESDEN für Frieden - gegen Krieg und Gewalt überall",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Teilnehmer": "8",
+      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
+      "Status": "angemeldet"
     },
     {
-      "Datum": "2026-05-18",
-      "Zeit": "19.00 - 20.30 Uhr",
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Datum": "2026-05-22",
+      "Zeit": null,
+      "Thema": "Friedliche Demonstration gegen die Hinrichtung junger Menschen im Iran sowie für Menschenrechte, Freiheit und Menschlichkeit",
       "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "150",
+      "Startpunkt": null,
+      "Teilnehmer": "unbekannt",
       "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-05-22",
@@ -134,6 +114,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2026-05-30",
+      "Zeit": null,
+      "Thema": "Tierrechte & Veganismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Activists for the Victims e.V.",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-05-31",
       "Zeit": null,
       "Thema": "Kuchenbasar gegen die AfD",
@@ -175,13 +165,13 @@
     },
     {
       "Datum": "2026-06-01",
-      "Zeit": null,
+      "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "Kinder - Straßen - Parade für, von und mit - kleinen und großen Kindern für ihre Rechte.",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Riesaer Straße",
       "Teilnehmer": "150",
       "Veranstalter": "Zentralwerk e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-06-04",
@@ -241,6 +231,16 @@
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-06-06",
+      "Zeit": null,
+      "Thema": "3 Minute Movie Challenge",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Activists for the Victims e.V.",
       "Status": "angemeldet"
     },
     {
@@ -394,6 +394,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2026-06-20",
+      "Zeit": null,
+      "Thema": "Tierrechte & Veganismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Activists for the Victims e.V.",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-06-22",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -434,6 +444,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2026-06-28",
+      "Zeit": null,
+      "Thema": "Frieden mit Diplomatie",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-06-29",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -462,6 +482,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-07-04",
+      "Zeit": null,
+      "Thema": "3 Minute Movie Challenge",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Activists for the Victims e.V.",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-07-11",
