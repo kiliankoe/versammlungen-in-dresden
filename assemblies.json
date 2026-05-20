@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-05-19",
+  "Dateidatum": "2026-05-20",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -29,7 +29,7 @@
       "Thema": "Friedliche Demonstration gegen die Hinrichtung junger Menschen im Iran sowie für Menschenrechte, Freiheit und Menschlichkeit",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "unbekannt",
+      "Teilnehmer": "30-50",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -62,6 +62,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-05-25",
+      "Zeit": null,
+      "Thema": "Kuchen gegen AfD-Bundesparteitag",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "Azubis gegen Rechts Dresden",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-05-27",
@@ -254,6 +264,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2026-06-07",
+      "Zeit": null,
+      "Thema": "Versammlung gegen die AfD",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-06-08",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -364,13 +384,13 @@
       "Status": "angemeldet"
     },
     {
-      "Datum": "2026-06-20",
+      "Datum": "2026-06-19",
       "Zeit": null,
-      "Thema": "Queer Pride Dresden",
+      "Thema": "Betroffene im Fokus! Für ein Recht auf anonymen Schutz bei Gewalt",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "2000",
-      "Veranstalter": "Queer Prider Dresden",
+      "Teilnehmer": "50",
+      "Veranstalter": "Frauen für Frauen e.V. Leipzig",
       "Status": "angemeldet"
     },
     {
@@ -382,6 +402,16 @@
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-06-20",
+      "Zeit": null,
+      "Thema": "Queer Pride Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2000",
+      "Veranstalter": "Queer Pride Dresden",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-06-20",
