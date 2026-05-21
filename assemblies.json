@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-05-20",
+  "Dateidatum": "2026-05-21",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -15,13 +15,13 @@
   "Versammlungen": [
     {
       "Datum": "2026-05-21",
-      "Zeit": null,
+      "Zeit": "16.00 - 18.00 Uhr",
       "Thema": "Mahnwache der OMAS GEGEN RECHTS.DRESDEN für Frieden - gegen Krieg und Gewalt überall",
-      "Ort": null,
+      "Ort": "Kleine Kirchgasse",
       "Startpunkt": null,
       "Teilnehmer": "8",
       "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-05-22",
@@ -66,12 +66,22 @@
     {
       "Datum": "2026-05-25",
       "Zeit": null,
-      "Thema": "Kuchen gegen AfD-Bundesparteitag",
+      "Thema": "Zusammen gegen Faschismus - Freiheit für alle Antifas",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "25",
-      "Veranstalter": "Azubis gegen Rechts Dresden",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-05-25",
+      "Zeit": "14.00 - 19.00 Uhr",
+      "Thema": "Kuchen gegen AfD-Bundesparteitag",
+      "Ort": "Alaunstraße",
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "Azubis gegen Rechts Dresden",
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-05-27",
@@ -182,6 +192,16 @@
       "Teilnehmer": "150",
       "Veranstalter": "Zentralwerk e.V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-06-01",
+      "Zeit": null,
+      "Thema": "WIR gegen Windräder im Hochland - Bürgerinitiative Gegenwind ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "Bürgerinitiative Gegenwind Schönfelder Hochland",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-06-04",
@@ -381,6 +401,16 @@
       "Startpunkt": null,
       "Teilnehmer": "50 bis 200",
       "Veranstalter": "Internationales Steiger Zentrum e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-06-19",
+      "Zeit": null,
+      "Thema": "Schulstreik gegen Rechts",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "Schülis gegen Rechts Dresden",
       "Status": "angemeldet"
     },
     {
