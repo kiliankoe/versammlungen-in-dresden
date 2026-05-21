@@ -25,13 +25,13 @@
     },
     {
       "Datum": "2026-05-22",
-      "Zeit": null,
+      "Zeit": "14.00 - 15.30 Uhr",
       "Thema": "Friedliche Demonstration gegen die Hinrichtung junger Menschen im Iran sowie für Menschenrechte, Freiheit und Menschlichkeit",
-      "Ort": null,
+      "Ort": "Theaterplatz",
       "Startpunkt": null,
       "Teilnehmer": "30-50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-05-22",
@@ -70,6 +70,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "25",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-05-25",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu-Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
