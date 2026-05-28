@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-05-27",
+  "Dateidatum": "2026-05-28",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-05-27",
-      "Zeit": "14.15 - 18.00 Uhr",
-      "Thema": "1 Jahr Maßnahmenpaket",
-      "Ort": "Königsufer",
-      "Startpunkt": null,
-      "Teilnehmer": "150",
-      "Veranstalter": "GEW Sachsen",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-05-28",
       "Zeit": "08.00 - 09.00 Uhr",
@@ -75,13 +65,13 @@
     },
     {
       "Datum": "2026-05-31",
-      "Zeit": null,
+      "Zeit": "14.00 - 19.00 Uhr",
       "Thema": "Kuchenbasar gegen die AfD",
-      "Ort": null,
+      "Ort": "Alaunstraße",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-06-01",
@@ -115,6 +105,16 @@
     },
     {
       "Datum": "2026-06-01",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-06-01",
       "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "Kinder - Straßen - Parade für, von und mit - kleinen und großen Kindern für ihre Rechte.",
       "Ort": null,
@@ -144,16 +144,6 @@
       "Status": "angemeldet"
     },
     {
-      "Datum": "2026-06-01",
-      "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "150",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
       "Datum": "2026-06-04",
       "Zeit": null,
       "Thema": "33. Christopher Street Day Dresden 2026 (Pol. Straßenfest)",
@@ -171,6 +161,16 @@
       "Startpunkt": null,
       "Teilnehmer": "500-1.000",
       "Veranstalter": "CSD Dresden e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-06-05",
+      "Zeit": null,
+      "Thema": "Weltumwelttag: Flashmob 'Warming Stripes für Dresden'",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -280,6 +280,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-06-09",
+      "Zeit": null,
+      "Thema": "Das Hochland bleibt demokratisch!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -452,6 +462,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-06-22",
+      "Zeit": null,
+      "Thema": "85. Jahrestag des deutschen Überfalls auf die Sowjetunion - Russland ist nicht unser Feind!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "Initiative Dresden Stadt des Friedens",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-06-26",
