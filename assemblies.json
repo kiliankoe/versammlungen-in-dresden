@@ -85,23 +85,23 @@
     },
     {
       "Datum": "2026-06-01",
-      "Zeit": null,
+      "Zeit": "17.30 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren? Wir auch!",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-06-01",
-      "Zeit": null,
+      "Zeit": "18.00 - 20.30 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-06-01",
@@ -144,26 +144,6 @@
       "Status": "beschieden"
     },
     {
-      "Datum": "2026-06-04",
-      "Zeit": null,
-      "Thema": "33. Christopher Street Day Dresden 2026 (Pol. Straßenfest)",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "500-1.000",
-      "Veranstalter": "CSD Dresden e. V.",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2026-06-05",
-      "Zeit": null,
-      "Thema": "33. Christopher Street Day Dresden 2026 (Pol. Straßenfest)",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "500-1.000",
-      "Veranstalter": "CSD Dresden e. V.",
-      "Status": "angemeldet"
-    },
-    {
       "Datum": "2026-06-05",
       "Zeit": null,
       "Thema": "Weltumwelttag: Flashmob 'Warming Stripes für Dresden'",
@@ -171,16 +151,6 @@
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2026-06-06",
-      "Zeit": null,
-      "Thema": "33. Christopher Street Day Dresden 2026 (Pol. Straßenfest)",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "500-1.000",
-      "Veranstalter": "CSD Dresden e. V.",
       "Status": "angemeldet"
     },
     {
@@ -355,13 +325,13 @@
     },
     {
       "Datum": "2026-06-17",
-      "Zeit": null,
+      "Zeit": "08.00 - 08.30 Uhr",
       "Thema": "Kranzniederlegung zum Jahrestag des Volksaufstands am 17. Juni",
-      "Ort": null,
+      "Ort": "Marienstraße",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-06-17",
