@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-06-01",
+  "Dateidatum": "2026-06-02",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,94 +14,24 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2026-06-01",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
+      "Datum": "2026-06-04",
+      "Zeit": null,
+      "Thema": "Für gesellschaftliche Teilhabe - Grundrechte sind kein  Ermessensspielraum",
       "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-06-01",
-      "Zeit": "18.00 - 19.00 Uhr",
-      "Thema": "Gegen die Abwälzung von Krisen+ Kriegsvorbereitung auf die breiten Massen! Gegen jede Art von sozialer Demontage! Gegen Imperialistische Kriege! Freiheit für Gaza! Kampf dem Faschismus auch in seiner Tarnung als Modern!  ",
-      "Ort": "Prager Straße",
       "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
-      "Status": "beschieden"
+      "Teilnehmer": "???",
+      "Veranstalter": "CSD Dresden e. V.",
+      "Status": "angemeldet"
     },
     {
-      "Datum": "2026-06-01",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
+      "Datum": "2026-06-05",
+      "Zeit": null,
+      "Thema": "Für queere Sichtbarkeit - Unsichtbar machen? Nicht mit uns.",
+      "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "25",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-06-01",
-      "Zeit": "17.30 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren? Wir auch!",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-06-01",
-      "Zeit": "18.00 - 20.30 Uhr",
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "150",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-06-01",
-      "Zeit": "17.30 - 21.30 Uhr",
-      "Thema": "Den Neo-Faschist*innen den Platz nehmen",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße/Ecke Schloßstraße",
-      "Teilnehmer": "50",
-      "Veranstalter": "Fred die linke Socke das Original / Queeres Freital",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-06-01",
-      "Zeit": "14.00 - 17.00 Uhr",
-      "Thema": "Kinder - Straßen - Parade für, von und mit - kleinen und großen Kindern für ihre Rechte.",
-      "Ort": null,
-      "Startpunkt": "Riesaer Straße",
-      "Teilnehmer": "150",
-      "Veranstalter": "Zentralwerk e.V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-06-01",
-      "Zeit": "15.30 - 20.00 Uhr",
-      "Thema": "WIR gegen Windräder im Hochland - Bürgerinitiative Gegenwind ",
-      "Ort": "Am Schloß",
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "Bürgerinitiative Gegenwind Schönfelder Hochland",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-06-01",
-      "Zeit": "16.00 - 21.00 Uhr",
-      "Thema": "antifaschistisches Zusammenkommen & Bannermalen",
-      "Ort": "Alaunplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "widersetzen Dresden ",
-      "Status": "beschieden"
+      "Teilnehmer": "???",
+      "Veranstalter": "CSD Dresden e. V.",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-06-05",
@@ -110,7 +40,7 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
+      "Veranstalter": "Fridays vor Future Dresden",
       "Status": "angemeldet"
     },
     {
@@ -125,13 +55,13 @@
     },
     {
       "Datum": "2026-06-06",
-      "Zeit": null,
+      "Zeit": "11.30 - 19.00 Uhr",
       "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-06-06",
@@ -145,13 +75,13 @@
     },
     {
       "Datum": "2026-06-06",
-      "Zeit": null,
+      "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "3 Minute Movie Challenge",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Activists for the Victims e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-06-07",
@@ -206,10 +136,20 @@
     {
       "Datum": "2026-06-08",
       "Zeit": null,
-      "Thema": "MitmachMontag #kommmachmit⁩",
+      "Thema": "Bühlau geht spazieren? Wir auch!",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-06-08",
+      "Zeit": null,
+      "Thema": "MitmachMontag #kommmachmit⁩",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150-200",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -485,13 +425,13 @@
     },
     {
       "Datum": "2026-07-04",
-      "Zeit": null,
+      "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "3 Minute Movie Challenge",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Activists for the Victims e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-07-06",
@@ -611,6 +551,26 @@
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-08-31",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-08-31",
+      "Zeit": null,
+      "Thema": "Dresden.Respekt: Interkulturelles Gastmahl auf dem Neumarkt zur Demonstration von Vielfalt und Weltoffenheit, Dialog und Respekt",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "4.000",
+      "Veranstalter": "CSD Dresden e. V. & Cellex-Stiftung",
       "Status": "angemeldet"
     }
   ]
