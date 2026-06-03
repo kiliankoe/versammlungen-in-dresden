@@ -15,6 +15,16 @@
   "Versammlungen": [
     {
       "Datum": "2026-06-04",
+      "Zeit": "ab 12.00 Uhr",
+      "Thema": "33. Christopher Street Day Dresden 2026 (Pol. Straßenfest)",
+      "Ort": "Altmarkt",
+      "Startpunkt": null,
+      "Teilnehmer": "500-1.000",
+      "Veranstalter": "CSD Dresden e. V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-06-04",
       "Zeit": null,
       "Thema": "Für gesellschaftliche Teilhabe - Grundrechte sind kein  Ermessensspielraum",
       "Ort": null,
@@ -25,13 +35,13 @@
     },
     {
       "Datum": "2026-06-05",
-      "Zeit": null,
-      "Thema": "Für queere Sichtbarkeit - Unsichtbar machen? Nicht mit uns.",
-      "Ort": null,
+      "Zeit": "ganztägig",
+      "Thema": "33. Christopher Street Day Dresden 2026 (Pol. Straßenfest)",
+      "Ort": "Altmarkt",
       "Startpunkt": null,
-      "Teilnehmer": "???",
+      "Teilnehmer": "500-1.000",
       "Veranstalter": "CSD Dresden e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-06-05",
@@ -41,6 +51,16 @@
       "Startpunkt": null,
       "Teilnehmer": "4",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-06-05",
+      "Zeit": null,
+      "Thema": "Für queere Sichtbarkeit - Unsichtbar machen? Nicht mit uns.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
+      "Veranstalter": "CSD Dresden e. V.",
       "Status": "angemeldet"
     },
     {
@@ -62,6 +82,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-06-06",
+      "Zeit": "bis 16.00 Uhr",
+      "Thema": "33. Christopher Street Day Dresden 2026 (Pol. Straßenfest)",
+      "Ort": "Altmarkt",
+      "Startpunkt": null,
+      "Teilnehmer": "500-1.000",
+      "Veranstalter": "CSD Dresden e. V.",
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-06-06",
@@ -311,7 +341,7 @@
       "Startpunkt": null,
       "Teilnehmer": "300",
       "Veranstalter": "Schülis gegen Rechts Dresden",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2026-06-19",
