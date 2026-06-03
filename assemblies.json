@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-06-02",
+  "Dateidatum": "2026-06-03",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -36,11 +36,31 @@
     {
       "Datum": "2026-06-05",
       "Zeit": null,
+      "Thema": "Hilfe für die Ukraine ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "4",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-06-05",
+      "Zeit": null,
       "Thema": "Weltumwelttag: Flashmob 'Warming Stripes für Dresden'",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "Fridays vor Future Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-06-05",
+      "Zeit": null,
+      "Thema": "Picknicken und Protestbriefe schreiben",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -96,6 +116,16 @@
     {
       "Datum": "2026-06-07",
       "Zeit": null,
+      "Thema": "Infostand für psychische Gesundheit",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-06-07",
+      "Zeit": null,
       "Thema": "Versammlung gegen die AfD",
       "Ort": null,
       "Startpunkt": null,
@@ -105,13 +135,13 @@
     },
     {
       "Datum": "2026-06-07",
-      "Zeit": null,
+      "Zeit": "14.00 - 16.30 Uhr",
       "Thema": "National Animal Rights Day",
-      "Ort": null,
+      "Ort": "Schloßplatz",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Activists for the Victims e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-06-08",
@@ -155,13 +185,13 @@
     },
     {
       "Datum": "2026-06-09",
-      "Zeit": null,
+      "Zeit": "14.30 - 16.30 Uhr",
       "Thema": "Das Hochland bleibt demokratisch!",
-      "Ort": null,
+      "Ort": "Ullersdorfer Platz",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-06-12",
