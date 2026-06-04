@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-06-03",
+  "Dateidatum": "2026-06-04",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -75,13 +75,13 @@
     },
     {
       "Datum": "2026-06-05",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Picknicken und Protestbriefe schreiben",
-      "Ort": null,
+      "Ort": "Alaunpark ",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-06-06",
@@ -165,13 +165,13 @@
     },
     {
       "Datum": "2026-06-07",
-      "Zeit": null,
+      "Zeit": "11.00 - 13.00 Uhr",
       "Thema": "Infostand für psychische Gesundheit",
-      "Ort": null,
+      "Ort": "Jorge-Gomondai-Platz ",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-06-07",
@@ -215,23 +215,23 @@
     },
     {
       "Datum": "2026-06-08",
-      "Zeit": null,
+      "Zeit": "17.30 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren? Wir auch!",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Neukircher Straße",
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-06-08",
-      "Zeit": null,
+      "Zeit": "16.00 - 18.00 Uhr",
       "Thema": "MitmachMontag #kommmachmit⁩",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Neukircher Straße",
       "Teilnehmer": "150-200",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-06-08",
@@ -404,6 +404,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2026-06-21",
+      "Zeit": null,
+      "Thema": "85. Jahrestag des deutschen Überfalls auf die Sowjetunion - Russland ist nicht unser Feind!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "Initiative Dresden Stadt des Friedens",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-06-22",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -422,16 +432,6 @@
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-06-22",
-      "Zeit": null,
-      "Thema": "85. Jahrestag des deutschen Überfalls auf die Sowjetunion - Russland ist nicht unser Feind!",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "100",
-      "Veranstalter": "Initiative Dresden Stadt des Friedens",
-      "Status": "angemeldet"
     },
     {
       "Datum": "2026-06-23",
@@ -472,6 +472,16 @@
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-06-28",
+      "Zeit": null,
+      "Thema": "Demonstration in Solidarität mit dem kubanischen Volk, für die Freilassung aller politischen Gefangenen in Kuba",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "40",
+      "Veranstalter": "PatriaYVida e. V.",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-06-28",
