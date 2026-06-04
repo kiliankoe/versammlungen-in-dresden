@@ -65,13 +65,13 @@
     },
     {
       "Datum": "2026-06-05",
-      "Zeit": null,
+      "Zeit": "16.00 - 16.45 Uhr",
       "Thema": "Weltumwelttag: Flashmob 'Warming Stripes für Dresden'",
-      "Ort": null,
+      "Ort": "Wilsdruffer Straße ",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "Fridays vor Future Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-06-05",
@@ -121,17 +121,27 @@
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2026-06-06",
-      "Zeit": null,
+      "Zeit": "12.00 - 20.30 Uhr",
       "Thema": "Hilfe für die Ukraine ",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "4",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-06-06",
+      "Zeit": "12.00 - 18.00 Uhr",
+      "Thema": "Hoffnung und Zusammenhalt",
+      "Ort": "Neustädter Markt",
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-06-06",
@@ -175,13 +185,13 @@
     },
     {
       "Datum": "2026-06-07",
-      "Zeit": null,
+      "Zeit": "12.00 - 20.00 Uhr",
       "Thema": "Versammlung gegen die AfD",
-      "Ort": null,
+      "Ort": "Alaunplatz",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-06-07",
@@ -292,6 +302,16 @@
       "Teilnehmer": "500",
       "Veranstalter": "Azubis gegen Rechts Dresden",
       "Status": "abgemeldet"
+    },
+    {
+      "Datum": "2026-06-14",
+      "Zeit": null,
+      "Thema": "Alaunstraße Autofrei",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-06-15",
