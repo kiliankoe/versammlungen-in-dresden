@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-06-04",
+  "Dateidatum": "2026-06-05",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -20,16 +20,6 @@
       "Ort": "Altmarkt",
       "Startpunkt": null,
       "Teilnehmer": "500-1.000",
-      "Veranstalter": "CSD Dresden e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-06-04",
-      "Zeit": "18.00 - 19.00 Uhr",
-      "Thema": "Für gesellschaftliche Teilhabe - Grundrechte sind kein  Ermessensspielraum",
-      "Ort": null,
-      "Startpunkt": "Altmarkt ",
-      "Teilnehmer": "100",
       "Veranstalter": "CSD Dresden e. V.",
       "Status": "beschieden"
     },
@@ -245,13 +235,13 @@
     },
     {
       "Datum": "2026-06-08",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.30 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-06-09",
