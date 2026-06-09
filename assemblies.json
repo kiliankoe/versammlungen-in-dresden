@@ -75,13 +75,13 @@
     },
     {
       "Datum": "2026-06-14",
-      "Zeit": null,
+      "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "Alaunstraße Autofrei",
-      "Ort": null,
+      "Ort": "Alaunstraße",
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-06-14",
@@ -235,13 +235,13 @@
     },
     {
       "Datum": "2026-06-21",
-      "Zeit": null,
+      "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "Alaunstraße Autofrei",
-      "Ort": null,
+      "Ort": "Alaunstraße",
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-06-22",
@@ -325,13 +325,13 @@
     },
     {
       "Datum": "2026-06-28",
-      "Zeit": null,
+      "Zeit": "18.00 - 20.00 Uhr",
       "Thema": "Frieden mit Diplomatie",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-06-29",
