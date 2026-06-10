@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-06-09",
+  "Dateidatum": "2026-06-10",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-06-09",
-      "Zeit": "14.30 - 16.30 Uhr",
-      "Thema": "Das Hochland bleibt demokratisch!",
-      "Ort": "Ullersdorfer Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-06-12",
       "Zeit": "16.00 - 18.00 Uhr",
