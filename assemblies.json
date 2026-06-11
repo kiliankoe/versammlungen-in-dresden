@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-06-10",
+  "Dateidatum": "2026-06-11",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -45,13 +45,13 @@
     },
     {
       "Datum": "2026-06-13",
-      "Zeit": null,
+      "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "Dresden für die Prüfung der rechtsextremen Parteien",
-      "Ort": null,
+      "Ort": "Theaterplatz",
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "Prüfung Rettet Übringens Freiheit (PRÜF) - Sachsen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-06-13",
@@ -114,6 +114,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2026-06-15",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-06-17",
       "Zeit": "08.00 - 08.30 Uhr",
       "Thema": "Kranzniederlegung zum Jahrestag des Volksaufstands am 17. Juni",
@@ -156,6 +166,16 @@
     {
       "Datum": "2026-06-19",
       "Zeit": null,
+      "Thema": "Solidarität mit Menschen auf der Flucht",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "Initiative Seebrücke Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-06-19",
+      "Zeit": null,
       "Thema": "Betroffene im Fokus! Für ein Recht auf anonymen Schutz bei Gewalt",
       "Ort": null,
       "Startpunkt": null,
@@ -185,13 +205,13 @@
     },
     {
       "Datum": "2026-06-20",
-      "Zeit": null,
+      "Zeit": "14.00 - 20.00 Uhr",
       "Thema": "Queer Pride Dresden",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Schlesischer Platz",
       "Teilnehmer": "2000",
       "Veranstalter": "Queer Pride Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-06-20",
