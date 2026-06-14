@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-06-13",
+  "Dateidatum": "2026-06-14",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,36 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-06-13",
-      "Zeit": "11.30 - 19.00 Uhr",
-      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
-      "Ort": "Altmarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "12",
-      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-06-13",
-      "Zeit": "14.00 - 17.00 Uhr",
-      "Thema": "Dresden für die Prüfung der rechtsextremen Parteien",
-      "Ort": "Theaterplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "500",
-      "Veranstalter": "Prüfung Rettet Übringens Freiheit (PRÜF) - Sachsen",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-06-13",
-      "Zeit": null,
-      "Thema": "Jugend gegen Rechts - AfD verhindern!",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "500",
-      "Veranstalter": "Azubis gegen Rechts Dresden",
-      "Status": "abgemeldet"
-    },
     {
       "Datum": "2026-06-14",
       "Zeit": "15.00 - 18.00 Uhr",
@@ -531,6 +501,16 @@
       "Startpunkt": null,
       "Teilnehmer": "4.000",
       "Veranstalter": "CSD Dresden e. V. & Cellex-Stiftung",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-09-12",
+      "Zeit": null,
+      "Thema": "Dresden für die Prüfung der rechtsextremen Parteien",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "Prüfung Rettet Übringens Freiheit (PRÜF) - Sachsen",
       "Status": "angemeldet"
     }
   ]
