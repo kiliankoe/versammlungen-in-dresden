@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-06-14",
+  "Dateidatum": "2026-06-15",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-06-14",
-      "Zeit": "15.00 - 18.00 Uhr",
-      "Thema": "Alaunstraße Autofrei",
-      "Ort": "Alaunstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "100",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-06-14",
-      "Zeit": "14.00 - 19.00 Uhr",
-      "Thema": "Galerie der Aufklärung",
-      "Ort": "Neumarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "15",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-06-15",
       "Zeit": "18.00 - 19.30 Uhr",
@@ -105,13 +85,13 @@
     },
     {
       "Datum": "2026-06-18",
-      "Zeit": null,
+      "Zeit": "16.00 - 18.00 Uhr",
       "Thema": "Mahnwache der OMAS GEGEN RECHTS.DRESDEN für Frieden - gegen Krieg und Gewalt überall",
-      "Ort": null,
+      "Ort": "Kleine Kirchgasse",
       "Startpunkt": null,
       "Teilnehmer": "8",
       "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-06-19",
