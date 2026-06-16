@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-06-15",
+  "Dateidatum": "2026-06-16",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,56 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-06-15",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-06-15",
-      "Zeit": "17.30 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren? Wir auch!",
-      "Ort": null,
-      "Startpunkt": "Grundstraße",
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-06-15",
-      "Zeit": "16.00 - 22.00 Uhr",
-      "Thema": "Jahrestag: Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-06-15",
-      "Zeit": "17.30 - 21.30 Uhr",
-      "Thema": "Den Neo-Faschist*innen den Platz nehmen",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "50",
-      "Veranstalter": "Fred die linke Socke das Original / Queeres Freital",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-06-15",
-      "Zeit": "19.00 - 20.30 Uhr",
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "150",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-06-17",
       "Zeit": "08.00 - 08.30 Uhr",
@@ -105,23 +55,23 @@
     },
     {
       "Datum": "2026-06-19",
-      "Zeit": null,
+      "Zeit": "16.45 - 17.45 Uhr",
       "Thema": "Solidarität mit Menschen auf der Flucht",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Postplatz",
       "Teilnehmer": "20",
       "Veranstalter": "Initiative Seebrücke Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-06-19",
-      "Zeit": null,
+      "Zeit": "10.00 - 12.00 Uhr",
       "Thema": "Betroffene im Fokus! Für ein Recht auf anonymen Schutz bei Gewalt",
-      "Ort": null,
+      "Ort": "Ostra-Allee",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "Frauen für Frauen e.V. Leipzig",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-06-19",
@@ -175,13 +125,13 @@
     },
     {
       "Datum": "2026-06-21",
-      "Zeit": null,
+      "Zeit": "10.00 - 12.00 Uhr",
       "Thema": "85. Jahrestag des deutschen Überfalls auf die Sowjetunion - Russland ist nicht unser Feind!",
-      "Ort": null,
+      "Ort": "Olbrichtplatz",
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "Initiative Dresden Stadt des Friedens",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-06-21",
@@ -244,6 +194,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2026-06-25",
+      "Zeit": null,
+      "Thema": "XR (Extinction Rebellion) - Dresden wird heißer und Hitze tötet - Entsiegelung rettet Lebe n! Hitzeschutz ist Meschenschutz",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-06-26",
       "Zeit": null,
       "Thema": "Run for Rescue - Spendenlauf für die Seenotrettung ",
@@ -271,6 +231,16 @@
       "Startpunkt": null,
       "Teilnehmer": "40",
       "Veranstalter": "PatriaYVida e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-06-28",
+      "Zeit": null,
+      "Thema": "Alaunstraße: Begegnungsort statt Durchgangsstraße",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "60",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -354,6 +324,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2026-07-06",
+      "Zeit": null,
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-07-11",
       "Zeit": null,
       "Thema": "Dresden für die Prüfung der rechtsextremen Parteien",
@@ -364,12 +344,32 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2026-07-11",
+      "Zeit": null,
+      "Thema": "Weg mit Merz!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "400",
+      "Veranstalter": "BSW Sachsen",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-07-13",
       "Zeit": null,
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-07-13",
+      "Zeit": null,
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -404,12 +404,32 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2026-07-20",
+      "Zeit": null,
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-07-27",
       "Zeit": null,
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-07-27",
+      "Zeit": null,
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -424,12 +444,32 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2026-08-03",
+      "Zeit": null,
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-08-10",
       "Zeit": null,
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-08-10",
+      "Zeit": null,
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -454,12 +494,32 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2026-08-17",
+      "Zeit": null,
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-08-24",
       "Zeit": null,
       "Thema": "Bühlau geht spazieren",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-08-24",
+      "Zeit": null,
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -484,6 +544,26 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2026-08-31",
+      "Zeit": null,
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-09-07",
+      "Zeit": null,
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-09-12",
       "Zeit": null,
       "Thema": "Dresden für die Prüfung der rechtsextremen Parteien",
@@ -491,6 +571,16 @@
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "Prüfung Rettet Übringens Freiheit (PRÜF) - Sachsen",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-09-14",
+      "Zeit": null,
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     }
   ]
