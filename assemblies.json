@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-06-16",
+  "Dateidatum": "2026-06-17",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -15,22 +15,22 @@
   "Versammlungen": [
     {
       "Datum": "2026-06-17",
+      "Zeit": "15.30 - 20.30 Uhr",
+      "Thema": "Wie Christliche Werte das Leben der heutigen Jugend positiv verändern wird",
+      "Ort": null,
+      "Startpunkt": "Altmarkt",
+      "Teilnehmer": "50 bis 200",
+      "Veranstalter": "Internationales Steiger Zentrum e. V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-06-17",
       "Zeit": "08.00 - 08.30 Uhr",
       "Thema": "Kranzniederlegung zum Jahrestag des Volksaufstands am 17. Juni",
       "Ort": "Marienstraße",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-06-17",
-      "Zeit": "17.00 - 20.30 Uhr",
-      "Thema": "Wie Christliche Werte das Leben der heutigen Jugend positiv verändern wird",
-      "Ort": null,
-      "Startpunkt": "Altmarkt",
-      "Teilnehmer": "50 bis 200",
-      "Veranstalter": "Internationales Steiger Zentrum e. V.",
       "Status": "beschieden"
     },
     {
@@ -75,13 +75,13 @@
     },
     {
       "Datum": "2026-06-19",
-      "Zeit": null,
+      "Zeit": "18.00 - 21.00 Uhr",
       "Thema": "Jugend gegen Rechts - AfD Parteitag verhindern!",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Alaunstraße",
       "Teilnehmer": "500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-06-20",
@@ -174,6 +174,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2026-06-22",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-06-23",
       "Zeit": null,
       "Thema": "Überwachungsstaat Sachsen verhindern!",
@@ -196,7 +206,7 @@
     {
       "Datum": "2026-06-25",
       "Zeit": null,
-      "Thema": "XR (Extinction Rebellion) - Dresden wird heißer und Hitze tötet - Entsiegelung rettet Lebe n! Hitzeschutz ist Meschenschutz",
+      "Thema": "XR (Extinction Rebellion) - Dresden wird heißer und Hitze tötet - Entsiegelung rettet Leben! Hitzeschutz ist Menschenschutz ",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "20",
