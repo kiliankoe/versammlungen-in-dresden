@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-06-18",
+  "Dateidatum": "2026-06-19",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-06-18",
-      "Zeit": "16.00 - 18.00 Uhr",
-      "Thema": "Mahnwache der OMAS GEGEN RECHTS.DRESDEN für Frieden - gegen Krieg und Gewalt überall",
-      "Ort": "Kleine Kirchgasse",
-      "Startpunkt": null,
-      "Teilnehmer": "8",
-      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-06-19",
       "Zeit": null,
@@ -175,23 +165,23 @@
     },
     {
       "Datum": "2026-06-23",
-      "Zeit": null,
+      "Zeit": "17.00 - 20.00 Uhr",
       "Thema": "Überwachungsstaat Sachsen verhindern!",
-      "Ort": null,
+      "Ort": "Terrassenufer",
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "GRÜNE JUGEND Sachsen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-06-24",
-      "Zeit": null,
+      "Zeit": "17.00 - 18.00 Uhr",
       "Thema": "Kitas retten!",
-      "Ort": null,
+      "Ort": "Terrassenufer",
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "GEW Sachsen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-06-25",
