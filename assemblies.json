@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-06-19",
+  "Dateidatum": "2026-06-20",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,46 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-06-19",
-      "Zeit": null,
-      "Thema": "Schulstreik gegen Rechts",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "300",
-      "Veranstalter": "Schülis gegen Rechts Dresden",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2026-06-19",
-      "Zeit": "16.45 - 17.45 Uhr",
-      "Thema": "Solidarität mit Menschen auf der Flucht",
-      "Ort": null,
-      "Startpunkt": "Postplatz",
-      "Teilnehmer": "20",
-      "Veranstalter": "Initiative Seebrücke Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-06-19",
-      "Zeit": "10.00 - 12.00 Uhr",
-      "Thema": "Betroffene im Fokus! Für ein Recht auf anonymen Schutz bei Gewalt",
-      "Ort": "Ostra-Allee",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "Frauen für Frauen e.V. Leipzig",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-06-19",
-      "Zeit": "18.00 - 21.00 Uhr",
-      "Thema": "Jugend gegen Rechts - AfD Parteitag verhindern!",
-      "Ort": null,
-      "Startpunkt": "Alaunstraße",
-      "Teilnehmer": "500",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-06-20",
       "Zeit": "11.30 - 19.00 Uhr",
@@ -135,13 +95,13 @@
     },
     {
       "Datum": "2026-06-22",
-      "Zeit": null,
+      "Zeit": "17.30 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren? Wir auch!",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Grundstraße",
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-06-22",
@@ -155,13 +115,13 @@
     },
     {
       "Datum": "2026-06-22",
-      "Zeit": null,
+      "Zeit": "18.30 - 20.30 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-06-23",
@@ -215,13 +175,13 @@
     },
     {
       "Datum": "2026-06-28",
-      "Zeit": null,
+      "Zeit": "14.00 - 17.00 Uhr",
       "Thema": "Demonstration in Solidarität mit dem kubanischen Volk, für die Freilassung aller politischen Gefangenen in Kuba",
-      "Ort": null,
+      "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
       "Teilnehmer": "40",
       "Veranstalter": "PatriaYVida e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-06-28",
