@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-06-21",
+  "Dateidatum": "2026-06-22",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-06-21",
-      "Zeit": "10.00 - 12.00 Uhr",
-      "Thema": "85. Jahrestag des deutschen Überfalls auf die Sowjetunion - Russland ist nicht unser Feind!",
-      "Ort": "Olbrichtplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "100",
-      "Veranstalter": "Initiative Dresden Stadt des Friedens",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-06-21",
-      "Zeit": "15.00 - 18.00 Uhr",
-      "Thema": "Alaunstraße Autofrei",
-      "Ort": "Alaunstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "100",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-06-22",
       "Zeit": "18.00 - 19.30 Uhr",
@@ -491,6 +471,16 @@
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-09-20",
+      "Zeit": null,
+      "Thema": "Kidical Mass: Die Zukunft fährt Fahrrad!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "350",
+      "Veranstalter": "ADFC Dresden e.V.",
       "Status": "angemeldet"
     }
   ]
