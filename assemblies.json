@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-06-22",
+  "Dateidatum": "2026-06-23",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,56 +14,6 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2026-06-22",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-06-22",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "25",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-06-22",
-      "Zeit": "17.30 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren? Wir auch!",
-      "Ort": null,
-      "Startpunkt": "Grundstraße",
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-06-22",
-      "Zeit": "17.30 - 21.30 Uhr",
-      "Thema": "Den Neo-Faschist*innen den Platz nehmen",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "50",
-      "Veranstalter": "Fred die linke Socke das Original / Queeres Freital",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-06-22",
-      "Zeit": "18.30 - 20.30 Uhr",
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "150",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2026-06-23",
       "Zeit": "17.00 - 20.00 Uhr",
       "Thema": "Überwachungsstaat Sachsen verhindern!",
@@ -72,6 +22,16 @@
       "Teilnehmer": "200",
       "Veranstalter": "GRÜNE JUGEND Sachsen",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-06-24",
+      "Zeit": null,
+      "Thema": "Liebe und Kraft nach Göttingen - Demonstration gegen Rechte Gewalt",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-06-24",
@@ -314,6 +274,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2026-08-01",
+      "Zeit": null,
+      "Thema": "Leben, wofür? Werte und Lebensfragen im Dialog.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "60",
+      "Veranstalter": "Run the Race e.V.",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-08-03",
       "Zeit": null,
       "Thema": "Bühlau geht spazieren",
@@ -330,6 +300,56 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-08-03",
+      "Zeit": null,
+      "Thema": "Leben, wofür? Werte und Lebensfragen im Dialog.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "60",
+      "Veranstalter": "Run the Race e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-08-06",
+      "Zeit": null,
+      "Thema": "Mahnwache  zum Gedenken an die Opfer der US-amerikanischen Atombombenabwürfe auf Hiroshima und Nagasaki am 6. August und 9. August 1945.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "40",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-08-07",
+      "Zeit": null,
+      "Thema": "Mahnwache  zum Gedenken an die Opfer der US-amerikanischen Atombombenabwürfe auf Hiroshima und Nagasaki am 6. August und 9. August 1945.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "40",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-08-08",
+      "Zeit": null,
+      "Thema": "Mahnwache  zum Gedenken an die Opfer der US-amerikanischen Atombombenabwürfe auf Hiroshima und Nagasaki am 6. August und 9. August 1945.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "40",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-08-09",
+      "Zeit": null,
+      "Thema": "Mahnwache  zum Gedenken an die Opfer der US-amerikanischen Atombombenabwürfe auf Hiroshima und Nagasaki am 6. August und 9. August 1945.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "40",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -471,6 +491,16 @@
       "Startpunkt": null,
       "Teilnehmer": "350",
       "Veranstalter": "ADFC Dresden e.V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-09-21",
+      "Zeit": null,
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     }
   ]
