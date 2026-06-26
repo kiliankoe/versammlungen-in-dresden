@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-06-25",
+  "Dateidatum": "2026-06-26",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,14 +14,14 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2026-06-25",
-      "Zeit": "08.15 - 09.00 Uhr",
-      "Thema": "XR (Extinction Rebellion) - Dresden wird heißer und Hitze tötet - Entsiegelung rettet Leben! Hitzeschutz ist Menschenschutz ",
+      "Datum": "2026-06-26",
+      "Zeit": null,
+      "Thema": "Autofreies Elbhangfest ",
       "Ort": null,
-      "Startpunkt": "Albertplatz",
-      "Teilnehmer": "20",
+      "Startpunkt": null,
+      "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-06-27",
@@ -51,7 +51,7 @@
       "Startpunkt": null,
       "Teilnehmer": "60",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2026-06-28",
@@ -95,6 +95,16 @@
     },
     {
       "Datum": "2026-06-29",
+      "Zeit": "17.30 - 19.30 Uhr",
+      "Thema": "Bühlau geht spazieren? Wir auch!",
+      "Ort": null,
+      "Startpunkt": "Grundstraße",
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-06-29",
       "Zeit": "17.30 - 21.30 Uhr",
       "Thema": "Den Neo-Faschist*innen den Platz nehmen",
       "Ort": null,
@@ -105,13 +115,13 @@
     },
     {
       "Datum": "2026-06-29",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.30 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-07-03",
@@ -201,6 +211,16 @@
       "Startpunkt": null,
       "Teilnehmer": "75",
       "Veranstalter": "Evangelische Allianz",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-07-18",
+      "Zeit": null,
+      "Thema": "weg mit Merz",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "BSW Sachsen",
       "Status": "angemeldet"
     },
     {
