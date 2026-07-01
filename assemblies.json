@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-06-30",
+  "Dateidatum": "2026-07-01",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,6 +14,16 @@
   ],
   "Versammlungen": [
     {
+      "Datum": "2026-07-01",
+      "Zeit": null,
+      "Thema": "Mahnwache für die Opfer des Erdbebens in Venezuela – Licht, Hoffnung und Solidarität",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-07-03",
       "Zeit": "15.00 - 19.00 Uhr",
       "Thema": "Free Party is not a crime! ",
@@ -22,6 +32,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-07-04",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-07-04",
@@ -56,6 +76,16 @@
     {
       "Datum": "2026-07-11",
       "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-07-11",
+      "Zeit": null,
       "Thema": "Dresden für die Prüfung der rechtsextremen Parteien",
       "Ort": null,
       "Startpunkt": null,
@@ -65,13 +95,13 @@
     },
     {
       "Datum": "2026-07-11",
-      "Zeit": null,
+      "Zeit": "11.00 - 12.00 Uhr",
       "Thema": "Gedenken an Herbert Wehner",
-      "Ort": null,
+      "Ort": "Spenerstraße",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "SPD Ortsverein Dresden-Striesen, Gruna, Blasewitz",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-07-11",
@@ -116,6 +146,16 @@
     {
       "Datum": "2026-07-18",
       "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-07-18",
+      "Zeit": null,
       "Thema": "weg mit Merz",
       "Ort": null,
       "Startpunkt": null,
@@ -154,6 +194,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2026-07-25",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-07-27",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -172,6 +222,26 @@
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-07-30",
+      "Zeit": null,
+      "Thema": "Stoppt den fossilen Wahnsinn! Mit der Aktion fordern wir von der Politik und Verwaltung, dass Erneuerbarer Strom und Energiesparen vorangetrieben werden, sodass wir geordnet aus allen fossilen Energieträgern aussteigen können.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "Extinction Rebellion",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-08-01",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-08-01",
@@ -216,7 +286,7 @@
     {
       "Datum": "2026-08-06",
       "Zeit": null,
-      "Thema": "Mahnwache  zum Gedenken an die Opfer der US-amerikanischen Atombombenabwürfe auf Hiroshima und Nagasaki am 6. August und 9. August 1945.",
+      "Thema": "Mahnwache zum Gedenken an die Opfer der US-amerikanischen Atombombenabwürfe auf Hiroshima und Nagasaki am 6. August und 9. August 1945",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "40",
@@ -226,7 +296,7 @@
     {
       "Datum": "2026-08-07",
       "Zeit": null,
-      "Thema": "Mahnwache  zum Gedenken an die Opfer der US-amerikanischen Atombombenabwürfe auf Hiroshima und Nagasaki am 6. August und 9. August 1945.",
+      "Thema": "Mahnwache zum Gedenken an die Opfer der US-amerikanischen Atombombenabwürfe auf Hiroshima und Nagasaki am 6. August und 9. August 1945",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "40",
@@ -236,7 +306,17 @@
     {
       "Datum": "2026-08-08",
       "Zeit": null,
-      "Thema": "Mahnwache  zum Gedenken an die Opfer der US-amerikanischen Atombombenabwürfe auf Hiroshima und Nagasaki am 6. August und 9. August 1945.",
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-08-08",
+      "Zeit": null,
+      "Thema": "Mahnwache zum Gedenken an die Opfer der US-amerikanischen Atombombenabwürfe auf Hiroshima und Nagasaki am 6. August und 9. August 1945",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "40",
@@ -246,7 +326,7 @@
     {
       "Datum": "2026-08-09",
       "Zeit": null,
-      "Thema": "Mahnwache  zum Gedenken an die Opfer der US-amerikanischen Atombombenabwürfe auf Hiroshima und Nagasaki am 6. August und 9. August 1945.",
+      "Thema": "Mahnwache zum Gedenken an die Opfer der US-amerikanischen Atombombenabwürfe auf Hiroshima und Nagasaki am 6. August und 9. August 1945",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "40",
@@ -271,6 +351,16 @@
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-08-15",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
       "Status": "angemeldet"
     },
     {
@@ -304,6 +394,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2026-08-22",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-08-24",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -331,6 +431,46 @@
       "Startpunkt": null,
       "Teilnehmer": "150",
       "Veranstalter": "Deutscher Gewerkschaftsbund Bezirk Sachsen",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-08-29",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-08-29",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-08-30",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-08-31",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
       "Status": "angemeldet"
     },
     {
@@ -364,6 +504,66 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2026-09-01",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-09-02",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-09-03",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-09-04",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-09-05",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-09-05",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-09-07",
       "Zeit": null,
       "Thema": "Mahnwache für Frieden Dresden",
@@ -371,6 +571,16 @@
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-09-12",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
       "Status": "angemeldet"
     },
     {
@@ -394,6 +604,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2026-09-19",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-09-20",
       "Zeit": null,
       "Thema": "Kidical Mass: Die Zukunft fährt Fahrrad!",
@@ -411,6 +631,16 @@
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-09-26",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
       "Status": "angemeldet"
     },
     {
