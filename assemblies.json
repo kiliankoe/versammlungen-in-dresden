@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-07-02",
+  "Dateidatum": "2026-07-03",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -66,6 +66,16 @@
     {
       "Datum": "2026-07-06",
       "Zeit": null,
+      "Thema": "Bühlau geht spazieren? Wir auch!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-07-06",
+      "Zeit": null,
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
       "Startpunkt": null,
@@ -90,7 +100,7 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "500",
-      "Veranstalter": "Prüfung Rettet Übringens Freiheit (PRÜF) - Sachsen",
+      "Veranstalter": "Prüfung Rettet Übrigens Freiheit (PRÜF) - Sachsen",
       "Status": "angemeldet"
     },
     {
@@ -154,6 +164,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2026-07-17",
+      "Zeit": null,
+      "Thema": "Normal. Deutsch. Rechtsterroristisch. Kein Schlussstrich.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-07-18",
       "Zeit": null,
       "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
@@ -165,13 +185,13 @@
     },
     {
       "Datum": "2026-07-18",
-      "Zeit": null,
+      "Zeit": "11.30 - 12.30 Uhr",
       "Thema": "weg mit Merz",
-      "Ort": null,
+      "Ort": "Neustädter Markt",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "BSW Sachsen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-07-19",
