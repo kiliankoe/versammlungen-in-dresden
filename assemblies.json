@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-07-06",
+  "Dateidatum": "2026-07-07",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,44 +14,14 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2026-07-06",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
+      "Datum": "2026-07-10",
+      "Zeit": null,
+      "Thema": "Kreidebild mit Musik und Reden ",
       "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
+      "Startpunkt": null,
       "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-07-06",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-07-06",
-      "Zeit": "17.30 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren? Wir auch!",
-      "Ort": null,
-      "Startpunkt": "Grundstraße",
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-07-06",
-      "Zeit": "19.00 - 20.00 Uhr",
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": "Wilsdruffer Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Veranstalter": "Fridays For Future Dresden",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-07-11",
@@ -125,13 +95,13 @@
     },
     {
       "Datum": "2026-07-13",
-      "Zeit": null,
+      "Zeit": "18.00 - 20.30 Uhr",
       "Thema": "Marsch für Frieden",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Alaunpark",
       "Teilnehmer": "75",
       "Veranstalter": "Evangelische Allianz",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-07-17",
@@ -750,6 +720,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-10-05",
+      "Zeit": null,
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     }
