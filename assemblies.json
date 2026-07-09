@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-07-08",
+  "Dateidatum": "2026-07-09",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -16,7 +16,7 @@
     {
       "Datum": "2026-07-10",
       "Zeit": null,
-      "Thema": "Kreidebild mit Musik und Reden ",
+      "Thema": "Warming Stripes Aktionstag",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "20",
@@ -62,6 +62,16 @@
       "Teilnehmer": "400",
       "Veranstalter": "BSW Sachsen",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-07-12",
+      "Zeit": null,
+      "Thema": "Leben im Hecht",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-07-13",
@@ -111,6 +121,16 @@
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-07-17",
+      "Zeit": null,
+      "Thema": "Reformen? Kürzungen! - stehen wir gemeinsam auf!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Initiative Dresden Stadt des Friedens",
       "Status": "angemeldet"
     },
     {
