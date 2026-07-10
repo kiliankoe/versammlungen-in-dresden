@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-07-09",
+  "Dateidatum": "2026-07-10",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -64,16 +64,6 @@
       "Status": "beschieden"
     },
     {
-      "Datum": "2026-07-12",
-      "Zeit": null,
-      "Thema": "Leben im Hecht",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
       "Datum": "2026-07-13",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -92,6 +82,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-07-13",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren? Wir auch!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-07-13",
@@ -397,7 +397,7 @@
       "Datum": "2026-08-15",
       "Zeit": "11.30 - 19.00 Uhr",
       "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
-      "Ort": "Altmarkt",
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
@@ -602,16 +602,6 @@
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
-    },
-    {
-      "Datum": "2026-09-19",
-      "Zeit": "11.30 - 19.00 Uhr",
-      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
-      "Ort": "Altmarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "12",
-      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
-      "Status": "beschieden"
     },
     {
       "Datum": "2026-09-20",
