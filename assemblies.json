@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-07-10",
+  "Dateidatum": "2026-07-11",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,16 +14,6 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2026-07-10",
-      "Zeit": null,
-      "Thema": "Warming Stripes Aktionstag",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "Fridays For Future Dresden",
-      "Status": "angemeldet"
-    },
-    {
       "Datum": "2026-07-11",
       "Zeit": "11.30 - 19.00 Uhr",
       "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
@@ -35,13 +25,13 @@
     },
     {
       "Datum": "2026-07-11",
-      "Zeit": null,
+      "Zeit": "14.00 - 17.30 Uhr",
       "Thema": "PRÜF - Dresden für die Prüfung der rechtsextremen Parteien",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Theaterplatz",
       "Teilnehmer": "500",
       "Veranstalter": "Prüfung Rettet Übrigens Freiheit (PRÜF) - Sachsen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-07-11",
@@ -112,6 +102,26 @@
       "Teilnehmer": "75",
       "Veranstalter": "Evangelische Allianz",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-07-14",
+      "Zeit": null,
+      "Thema": "Vonovia - nimm die illegitimen Mieterhöhungen aus 2025 und 2026 zurück!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-07-16",
+      "Zeit": null,
+      "Thema": "Mahnwache der OMAS GEGEN RECHTS.DRESDEN für Frieden - gegen Krieg und Gewalt überall",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "8",
+      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-07-17",
