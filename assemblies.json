@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-07-13",
+  "Dateidatum": "2026-07-14",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,64 +14,14 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2026-07-13",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Bühlau geht spazieren",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "20",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-07-13",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz ",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-07-13",
-      "Zeit": null,
-      "Thema": "Bühlau geht spazieren? Wir auch!",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2026-07-13",
-      "Zeit": "19.00 - 20.00 Uhr",
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": "Wilsdruffer Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-07-13",
-      "Zeit": "18.00 - 20.30 Uhr",
-      "Thema": "Marsch für Frieden",
-      "Ort": null,
-      "Startpunkt": "Alaunpark",
-      "Teilnehmer": "75",
-      "Veranstalter": "Evangelische Allianz",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2026-07-14",
-      "Zeit": null,
+      "Zeit": "17.30 - 18.30 Uhr",
       "Thema": "Vonovia - nimm die illegitimen Mieterhöhungen aus 2025 und 2026 zurück!",
-      "Ort": null,
+      "Ort": "Pfotenhauerstraße",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-07-16",
@@ -316,6 +266,16 @@
     {
       "Datum": "2026-08-08",
       "Zeit": null,
+      "Thema": "Dresden für die Prüfung der rechtsextremen Parteien",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "Prüfung Rettet Übringens Freiheit (PRÜF) - Sachsen",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-08-08",
+      "Zeit": null,
       "Thema": "Mahnwache zum Gedenken an die Opfer der US-amerikanischen Atombombenabwürfe auf Hiroshima und Nagasaki am 6. August und 9. August 1945",
       "Ort": null,
       "Startpunkt": null,
@@ -372,16 +332,6 @@
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
       "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-08-15",
-      "Zeit": null,
-      "Thema": "Dresden für die Prüfung der rechtsextremen Parteien",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "500",
-      "Veranstalter": "Prüfung Rettet Übringens Freiheit (PRÜF) - Sachsen",
-      "Status": "angemeldet"
     },
     {
       "Datum": "2026-08-17",
@@ -651,6 +601,16 @@
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "Prüfung Rettet Übringens Freiheit (PRÜF) - Sachsen",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-10-12",
+      "Zeit": null,
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     }
   ]
