@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-07-16",
+  "Dateidatum": "2026-07-17",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,13 +14,13 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2026-07-16",
-      "Zeit": "16.00 - 18.00 Uhr",
-      "Thema": "Mahnwache der OMAS GEGEN RECHTS.DRESDEN für Frieden - gegen Krieg und Gewalt überall",
-      "Ort": "Kleine Kirchgasse",
-      "Startpunkt": null,
-      "Teilnehmer": "8",
-      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
+      "Datum": "2026-07-17",
+      "Zeit": "18.00 - 21.00 Uhr",
+      "Thema": "Islamisten raus!",
+      "Ort": null,
+      "Startpunkt": "Weißeritzstraße ",
+      "Teilnehmer": "100",
+      "Veranstalter": "natürliche Person",
       "Status": "beschieden"
     },
     {
@@ -65,23 +65,23 @@
     },
     {
       "Datum": "2026-07-18",
-      "Zeit": null,
+      "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "3 Minute Movie Challenge",
-      "Ort": null,
+      "Ort": "Prager Straße ",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Activists for the Victims e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-07-19",
-      "Zeit": null,
+      "Zeit": "11.00 - 15.00 Uhr",
       "Thema": "Mahnwache gegen Ausbeutung der Tiere - Artgerecht ist nur die Freiheit",
-      "Ort": null,
+      "Ort": "Tiergartenstraße",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-07-20",
@@ -102,6 +102,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-07-20",
+      "Zeit": null,
+      "Thema": "Buntes Hochland geht spazieren!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-07-20",
