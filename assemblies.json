@@ -95,13 +95,13 @@
     },
     {
       "Datum": "2026-08-01",
-      "Zeit": null,
+      "Zeit": "15.00 - 19.00 Uhr",
       "Thema": "Leben, wofür? Werte und Lebensfragen im Dialog.",
-      "Ort": null,
+      "Ort": "Prager Straße ",
       "Startpunkt": null,
       "Teilnehmer": "60",
       "Veranstalter": "Run the Race e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-08-02",
@@ -145,13 +145,13 @@
     },
     {
       "Datum": "2026-08-03",
-      "Zeit": null,
+      "Zeit": "15.00 - 19.00 Uhr",
       "Thema": "Leben, wofür? Werte und Lebensfragen im Dialog.",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "60",
       "Veranstalter": "Run the Race e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-08-06",
