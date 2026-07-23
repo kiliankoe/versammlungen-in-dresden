@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-07-22",
+  "Dateidatum": "2026-07-23",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -25,12 +25,22 @@
     },
     {
       "Datum": "2026-07-25",
-      "Zeit": null,
+      "Zeit": "11.40 - 12.30 Uhr",
       "Thema": "Weg mit Merz",
-      "Ort": null,
+      "Ort": "Neustädter Markt",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "BSW Kreisverband Dresden",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-07-26",
+      "Zeit": null,
+      "Thema": "Steh auf, Venezuela (Levántate Venezuela)",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "Comando Venezuela ",
       "Status": "angemeldet"
     },
     {
@@ -115,13 +125,13 @@
     },
     {
       "Datum": "2026-08-02",
-      "Zeit": null,
+      "Zeit": "09.00 - 14.00 Uhr",
       "Thema": "Tierrechte",
-      "Ort": null,
+      "Ort": "Oskar-Röder-Straße",
       "Startpunkt": null,
       "Teilnehmer": "25",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-08-03",
@@ -215,13 +225,13 @@
     },
     {
       "Datum": "2026-08-08",
-      "Zeit": null,
+      "Zeit": "11.40 - 12.30 Uhr",
       "Thema": "Weg mit Merz",
-      "Ort": null,
+      "Ort": "Neustädter Markt ",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "BSW Kreisverband Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-08-09",
@@ -275,13 +285,13 @@
     },
     {
       "Datum": "2026-08-15",
-      "Zeit": null,
+      "Zeit": "11.40 - 12.30 Uhr",
       "Thema": "Weg mit Merz",
-      "Ort": null,
+      "Ort": "Dr.-Külz-RIng ",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "BSW Kreisverband Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-08-17",
@@ -325,13 +335,13 @@
     },
     {
       "Datum": "2026-08-22",
-      "Zeit": null,
+      "Zeit": "11.40 - 12.30 Uhr",
       "Thema": "Weg mit Merz",
-      "Ort": null,
+      "Ort": "Neustädter Markt ",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "BSW Kreisverband Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-08-24",
@@ -395,13 +405,13 @@
     },
     {
       "Datum": "2026-08-29",
-      "Zeit": null,
+      "Zeit": "11.40 - 12.30 Uhr",
       "Thema": "Weg mit Merz",
-      "Ort": null,
+      "Ort": "Neustädter Markt ",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "BSW Kreisverband Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-08-31",
