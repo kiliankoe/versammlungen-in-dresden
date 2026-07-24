@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-07-23",
+  "Dateidatum": "2026-07-24",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -62,6 +62,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-07-27",
+      "Zeit": null,
+      "Thema": "Bühlau geht spazieren? Wir auch!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-07-27",
