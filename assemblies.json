@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-07-24",
+  "Dateidatum": "2026-07-25",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -35,13 +35,13 @@
     },
     {
       "Datum": "2026-07-26",
-      "Zeit": null,
+      "Zeit": "16.00 - 18.00 Uhr",
       "Thema": "Steh auf, Venezuela (Levántate Venezuela)",
-      "Ort": null,
+      "Ort": "Theaterplatz",
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-07-27",
@@ -65,13 +65,13 @@
     },
     {
       "Datum": "2026-07-27",
-      "Zeit": null,
+      "Zeit": "17.30 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren? Wir auch!",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bautzner Landstraße",
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-07-27",
@@ -524,6 +524,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2026-09-07",
+      "Zeit": "16.00 - 19.00 Uhr",
+      "Thema": "MitmachMontag #kommmachmit⁩",
+      "Ort": "Bautzner Landstraße",
+      "Startpunkt": null,
+      "Teilnehmer": "250-300",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
       "Datum": "2026-09-12",
       "Zeit": "11.30 - 19.00 Uhr",
       "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
@@ -551,6 +561,16 @@
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-09-18",
+      "Zeit": null,
+      "Thema": "Parking Day 2026 - Städte für Menschen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Verkehrsclub Deutschland e. V. VCD",
       "Status": "angemeldet"
     },
     {
