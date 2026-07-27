@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-07-26",
+  "Dateidatum": "2026-07-27",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-07-26",
-      "Zeit": "16.00 - 18.00 Uhr",
-      "Thema": "Steh auf, Venezuela (Levántate Venezuela)",
-      "Ort": "Theaterplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "100",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-07-27",
       "Zeit": "18.00 - 19.30 Uhr",
@@ -92,6 +82,16 @@
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-08-01",
+      "Zeit": null,
+      "Thema": "Im Bewußtsein unserer Verantwortung  für eine friedliche Zukunft unserer Kinder und Enkel fordern wir keine weiter Eskalation der Waffen. Wir lehnen jeden Krieg ab.Diplomatie jetzt.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "8",
+      "Veranstalter": "1 Millionen Stimmen für den Frieden",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-08-01",
