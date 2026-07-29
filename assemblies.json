@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-07-28",
+  "Dateidatum": "2026-07-29",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -36,7 +36,7 @@
     {
       "Datum": "2026-08-01",
       "Zeit": null,
-      "Thema": "Im Bewußtsein unserer Verantwortung  für eine friedliche Zukunft unserer Kinder und Enkel fordern wir keine weiter Eskalation der Waffen. Wir lehnen jeden Krieg ab.Diplomatie jetzt.",
+      "Thema": "Im Bewußtsein unserer Verantwortung  für eine friedliche Zukunft unserer Kinder und Enkel fordern wir keine weiter Eskalation der Waffen. Wir lehnen jeden Krieg ab. Diplomatie jetzt.",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "8",
@@ -45,13 +45,13 @@
     },
     {
       "Datum": "2026-08-01",
-      "Zeit": null,
+      "Zeit": "12.30 - 15.30 Uhr",
       "Thema": "Glaubensfreiheit für Christen mit biblischem Werteverständnis",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Ruhrpottmission e.V",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-08-01",
@@ -85,13 +85,13 @@
     },
     {
       "Datum": "2026-08-03",
-      "Zeit": null,
+      "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": null,
+      "Ort": "Jorge-Gomondai-Platz ",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-08-03",
@@ -511,6 +511,16 @@
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Verkehrsclub Deutschland e. V. VCD",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-09-18",
+      "Zeit": null,
+      "Thema": "Park(ing) Day 2026 – Platz für Menschen statt für Autos, Zusammenleben in Löbtau",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "Allgemeiner Deutscher Fahrrad Club (ADFC) Dresden e. V.",
       "Status": "angemeldet"
     },
     {
