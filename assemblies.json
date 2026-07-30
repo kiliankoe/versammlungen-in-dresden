@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-07-29",
+  "Dateidatum": "2026-07-30",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -35,13 +35,13 @@
     },
     {
       "Datum": "2026-08-01",
-      "Zeit": null,
+      "Zeit": "10.00 - 14.00 Uhr",
       "Thema": "Im Bewußtsein unserer Verantwortung  für eine friedliche Zukunft unserer Kinder und Enkel fordern wir keine weiter Eskalation der Waffen. Wir lehnen jeden Krieg ab. Diplomatie jetzt.",
-      "Ort": null,
+      "Ort": "Dr.-Külz-Ring",
       "Startpunkt": null,
       "Teilnehmer": "8",
       "Veranstalter": "1 Millionen Stimmen für den Frieden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-08-01",
@@ -95,6 +95,16 @@
     },
     {
       "Datum": "2026-08-03",
+      "Zeit": null,
+      "Thema": "Buntes Hochland geht spazieren!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-08-03",
       "Zeit": "19.00 - 20.00 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": "Wilsdruffer Straße",
@@ -105,6 +115,16 @@
     },
     {
       "Datum": "2026-08-03",
+      "Zeit": null,
+      "Thema": "Für das Leben!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2-5",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-08-03",
       "Zeit": "15.00 - 19.00 Uhr",
       "Thema": "Leben, wofür? Werte und Lebensfragen im Dialog.",
       "Ort": "Prager Straße",
@@ -112,6 +132,26 @@
       "Teilnehmer": "60",
       "Veranstalter": "Run the Race e. V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-08-04",
+      "Zeit": null,
+      "Thema": "Für das Leben!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2-5",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-08-06",
+      "Zeit": null,
+      "Thema": "Für das Leben!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2-5",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-08-06",
@@ -470,6 +510,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "250-300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-09-07",
+      "Zeit": null,
+      "Thema": "Buntes Hochland geht spazieren⁩",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200-300",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
