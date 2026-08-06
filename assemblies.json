@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-08-05",
+  "Dateidatum": "2026-08-06",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -20,6 +20,16 @@
       "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "2-5",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-08-06",
+      "Zeit": "12.00 - 18.00 Uhr",
+      "Thema": "Zurück zu unseren christlichen Werten ",
+      "Ort": "Prager Straße",
+      "Startpunkt": null,
+      "Teilnehmer": "12",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
     },
@@ -139,7 +149,7 @@
       "Thema": "Petition bzgl. der Kürzungen",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "15",
+      "Teilnehmer": "25-35",
       "Veranstalter": "DGB Hochschulgruppe",
       "Status": "angemeldet"
     },
@@ -232,6 +242,16 @@
       "Teilnehmer": "10",
       "Veranstalter": "BSW Kreisverband Dresden",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-08-23",
+      "Zeit": null,
+      "Thema": "Mahnwache gegen Ausbeutung der Tiere - Artgerecht ist nur die Freiheit",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-08-24",
