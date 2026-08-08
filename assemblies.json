@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-08-07",
+  "Dateidatum": "2026-08-08",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-08-07",
-      "Zeit": "08.00 - 22.00 Uhr",
-      "Thema": "Mahnwache zum Gedenken an die Opfer der US-amerikanischen Atombombenabwürfe auf Hiroshima und Nagasaki am 6. August und 9. August 1945",
-      "Ort": "Kreuzstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "40",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-08-07",
-      "Zeit": "21.30 - 23.00 Uhr",
-      "Thema": "Mahnwache zum 81. Jahrestag des Atombombenabwurfs auf Hiroshima und Nagasaki",
-      "Ort": "Terrassenufer",
-      "Startpunkt": null,
-      "Teilnehmer": "5",
-      "Veranstalter": "Greenpeace Dresden",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-08-08",
       "Zeit": "11.30 - 19.00 Uhr",
@@ -105,13 +85,13 @@
     },
     {
       "Datum": "2026-08-10",
-      "Zeit": null,
+      "Zeit": "17.30 - 19.30 Uhr",
       "Thema": "Buntes Hochland geht spazieren!",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-08-10",
@@ -125,13 +105,13 @@
     },
     {
       "Datum": "2026-08-11",
-      "Zeit": null,
+      "Zeit": "11.00 - 13.00 Uhr",
       "Thema": "Petition bzgl. der Kürzungen",
-      "Ort": null,
+      "Ort": "Bergstraße",
       "Startpunkt": null,
       "Teilnehmer": "25-35",
       "Veranstalter": "DGB Hochschulgruppe",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-08-15",
@@ -152,6 +132,16 @@
       "Teilnehmer": "10",
       "Veranstalter": "BSW Kreisverband Dresden",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-08-16",
+      "Zeit": null,
+      "Thema": "Zukunftsweisend geht anders! Dresden wünscht sich 2 statt 4 Autospuren auf der neuen Carolabrücke!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "Greenpeace",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-08-17",
@@ -345,13 +335,13 @@
     },
     {
       "Datum": "2026-09-01",
-      "Zeit": null,
+      "Zeit": "11.00 - 14.00 Uhr",
       "Thema": "1. September - Weltfriedenstag! Überfall Deutschlands auf Polen 1939! Beginn des 2. Weltkrieges",
-      "Ort": null,
+      "Ort": "An der Frauenkirche",
       "Startpunkt": null,
       "Teilnehmer": "40",
       "Veranstalter": "Deutsche Kommunistische Partei (DKP)",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-09-01",
