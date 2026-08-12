@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-08-11",
+  "Dateidatum": "2026-08-12",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,33 +14,23 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2026-08-11",
-      "Zeit": "11.00 - 13.00 Uhr",
-      "Thema": "Petition bzgl. der Kürzungen",
-      "Ort": "Bergstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "25-35",
-      "Veranstalter": "DGB Hochschulgruppe",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2026-08-14",
       "Zeit": null,
-      "Thema": "Deutschland brauch Jesus Christus",
+      "Thema": "Deutschland braucht Jesus Christus",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "12",
+      "Teilnehmer": "ca.12",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
       "Datum": "2026-08-14",
       "Zeit": null,
-      "Thema": "Deutschland brauch Jesusu Christus",
+      "Thema": "Momenti Mori Versammlung",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "12",
-      "Veranstalter": "natürliche Person",
+      "Teilnehmer": "170",
+      "Veranstalter": "Internationales Steiger Zentrum e.V.",
       "Status": "angemeldet"
     },
     {
@@ -65,12 +55,22 @@
     },
     {
       "Datum": "2026-08-15",
-      "Zeit": null,
+      "Zeit": "10.00 - 13.30 Uhr",
       "Thema": "Im Bewusstsein unserer Verantwortung für eine friedliche Zukunft unserer Kinder und Enkel fordern wir Väter, Mütter, Großeltern Friedensdiplomatie.",
-      "Ort": null,
+      "Ort": "Dr.-Külz-Ring",
       "Startpunkt": null,
       "Teilnehmer": "4",
       "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-08-15",
+      "Zeit": null,
+      "Thema": "3 Minute Movie Challenge",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Activists for the Victims e. V.",
       "Status": "angemeldet"
     },
     {
@@ -244,6 +244,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2026-08-29",
+      "Zeit": null,
+      "Thema": "Tierrechte & Veganismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Activists for the Victims e. V.",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-08-31",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -304,6 +314,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2026-09-01",
+      "Zeit": null,
+      "Thema": "Antikriegstag",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "300",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-09-03",
       "Zeit": null,
       "Thema": "Jetzt reicht’s – Stadt. Land. Bund – Kürzungen? Nicht mit uns!",
@@ -339,7 +359,7 @@
       "Thema": "Demonstration gegen den Brieftaubensport ",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "500",
+      "Teilnehmer": "300-350",
       "Veranstalter": "Stadttauben-Initiative Dresden e.V.",
       "Status": "angemeldet"
     },
@@ -394,6 +414,36 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2026-09-12",
+      "Zeit": null,
+      "Thema": "Tierrechte & Veganismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Activists for the Victims e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-09-12",
+      "Zeit": null,
+      "Thema": "Gemeinsam solidarisch für Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-09-13",
+      "Zeit": null,
+      "Thema": "Alle zusammen für Demokratie",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10.000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-09-14",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
@@ -421,6 +471,16 @@
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "Allgemeiner Deutscher Fahrrad Club (ADFC) Dresden e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-09-19",
+      "Zeit": null,
+      "Thema": "3 Minute Movie Challenge",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Activists for the Victims e. V.",
       "Status": "angemeldet"
     },
     {
