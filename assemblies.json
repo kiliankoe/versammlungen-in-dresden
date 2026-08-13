@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-08-12",
+  "Dateidatum": "2026-08-13",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -15,13 +15,13 @@
   "Versammlungen": [
     {
       "Datum": "2026-08-14",
-      "Zeit": null,
+      "Zeit": "10.00 - 18.00 Uhr",
       "Thema": "Deutschland braucht Jesus Christus",
-      "Ort": null,
+      "Ort": "Wiener Platz ",
       "Startpunkt": null,
       "Teilnehmer": "ca.12",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-08-14",
@@ -65,13 +65,13 @@
     },
     {
       "Datum": "2026-08-15",
-      "Zeit": null,
+      "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "3 Minute Movie Challenge",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-08-16",
@@ -245,13 +245,13 @@
     },
     {
       "Datum": "2026-08-29",
-      "Zeit": null,
+      "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "Tierrechte & Veganismus",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-08-31",
@@ -415,13 +415,13 @@
     },
     {
       "Datum": "2026-09-12",
-      "Zeit": null,
+      "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "Tierrechte & Veganismus",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-09-12",
@@ -475,13 +475,13 @@
     },
     {
       "Datum": "2026-09-19",
-      "Zeit": null,
+      "Zeit": "15.00 - 18.00 Uhr",
       "Thema": "3 Minute Movie Challenge",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-09-20",
