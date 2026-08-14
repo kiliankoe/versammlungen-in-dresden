@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-08-13",
+  "Dateidatum": "2026-08-14",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -25,13 +25,13 @@
     },
     {
       "Datum": "2026-08-14",
-      "Zeit": null,
+      "Zeit": "17.15 - 18.20 Uhr",
       "Thema": "Momenti Mori Versammlung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wiener Platz",
       "Teilnehmer": "170",
-      "Veranstalter": "Internationales Steiger Zentrum e.V.",
-      "Status": "angemeldet"
+      "Veranstalter": "Internationales Steiger Zentrum e. V.",
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-08-15",
@@ -105,6 +105,16 @@
     },
     {
       "Datum": "2026-08-17",
+      "Zeit": null,
+      "Thema": "Buntes Hochland geht spazieren!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-08-17",
       "Zeit": "19.00 - 20.00 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": "Wilsdruffer Straße",
@@ -112,6 +122,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-08-17",
+      "Zeit": null,
+      "Thema": "Mahnwache für die Verletzten des Erdbebens in Kolumbien",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "ca. 30–50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-08-18",
@@ -216,7 +236,7 @@
     {
       "Datum": "2026-08-26",
       "Zeit": null,
-      "Thema": "Doppelhaushalt Sachsen (wird noch angepasst)",
+      "Thema": "Doppelhaushalt Sachsen",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "80 bis 100",
