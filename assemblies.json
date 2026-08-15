@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-08-14",
+  "Dateidatum": "2026-08-15",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-08-14",
-      "Zeit": "10.00 - 18.00 Uhr",
-      "Thema": "Deutschland braucht Jesus Christus",
-      "Ort": "Wiener Platz ",
-      "Startpunkt": null,
-      "Teilnehmer": "ca.12",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-08-14",
-      "Zeit": "17.15 - 18.20 Uhr",
-      "Thema": "Momenti Mori Versammlung",
-      "Ort": null,
-      "Startpunkt": "Wiener Platz",
-      "Teilnehmer": "170",
-      "Veranstalter": "Internationales Steiger Zentrum e. V.",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-08-15",
       "Zeit": "11.30 - 19.00 Uhr",
@@ -105,13 +85,13 @@
     },
     {
       "Datum": "2026-08-17",
-      "Zeit": null,
+      "Zeit": "17.30 - 19.30 Uhr",
       "Thema": "Buntes Hochland geht spazieren!",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Grundstraße",
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-08-17",
@@ -125,12 +105,22 @@
     },
     {
       "Datum": "2026-08-17",
-      "Zeit": null,
+      "Zeit": "20.00 - 22.00 Uhr",
       "Thema": "Mahnwache für die Verletzten des Erdbebens in Kolumbien",
-      "Ort": null,
+      "Ort": "An der Frauenkirche",
       "Startpunkt": null,
       "Teilnehmer": "ca. 30–50",
       "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-08-18",
+      "Zeit": null,
+      "Thema": "Zukunftsfähig geht anders: 2 Spuren auf der Carolabrücke sparen 30 Millionen Euro",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "6",
+      "Veranstalter": "Greenpeace Dresden, DresdenZero",
       "Status": "angemeldet"
     },
     {
@@ -141,6 +131,16 @@
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-08-20",
+      "Zeit": null,
+      "Thema": "Mahnwache der OMAS GEGEN RECHTS.DRESDEN für Frieden - gegen Krieg und Gewalt überall",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "8",
+      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
       "Status": "angemeldet"
     },
     {
@@ -325,13 +325,13 @@
     },
     {
       "Datum": "2026-09-01",
-      "Zeit": null,
+      "Zeit": "17.00 - 19.00 Uhr",
       "Thema": "Weltfrieden braucht keine Kriegstüchtigkeit!",
-      "Ort": null,
+      "Ort": "Dr.-Külz-Ring",
       "Startpunkt": null,
       "Teilnehmer": "250",
       "Veranstalter": "Initiative Dresden Stadt des Friedens",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-09-01",
