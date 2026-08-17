@@ -75,13 +75,13 @@
     },
     {
       "Datum": "2026-08-18",
-      "Zeit": null,
+      "Zeit": "17.00 - 18.00 Uhr",
       "Thema": "Kundgebung zum 76. Jahrestag der Ermordung Ernst Thälmanns - Nie wieder Faschismus, nie wieder Krieg!",
-      "Ort": null,
+      "Ort": "Strehlener Platz",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-08-20",
@@ -185,13 +185,13 @@
     },
     {
       "Datum": "2026-08-26",
-      "Zeit": null,
+      "Zeit": "12.00 - 14.00 Uhr",
       "Thema": "Doppelhaushalt Sachsen",
-      "Ort": null,
+      "Ort": "Bernhard-von-Lindenau-Platz",
       "Startpunkt": null,
       "Teilnehmer": "80 bis 100",
       "Veranstalter": "Deutscher Gewerkschaftsbund Bezirk Sachsen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-08-29",
@@ -517,6 +517,16 @@
       "Datum": "2026-10-03",
       "Zeit": null,
       "Thema": "Gemeinsam für Demokratie ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-10-03",
+      "Zeit": null,
+      "Thema": "Freiheitsreferendum",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "1000",
