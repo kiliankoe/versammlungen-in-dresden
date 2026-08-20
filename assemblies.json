@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-08-19",
+  "Dateidatum": "2026-08-20",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -84,6 +84,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2026-08-22",
+      "Zeit": null,
+      "Thema": "Galerie der Aufklärung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-08-23",
       "Zeit": null,
       "Thema": "Mahnwache gegen Ausbeutung der Tiere - Artgerecht ist nur die Freiheit",
@@ -142,6 +152,16 @@
       "Teilnehmer": "80 bis 100",
       "Veranstalter": "Deutscher Gewerkschaftsbund Bezirk Sachsen",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-08-27",
+      "Zeit": null,
+      "Thema": "Stoppt den fossilen Wahnsinn! Mit der Aktion fordern wir von der Politik und Verwaltung, dass Erneuerbarer Strom und Energiesparen vorangetrieben werden, sodass wir geordnet aus allen fossilen Energieträgern aussteigen können.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-08-29",
