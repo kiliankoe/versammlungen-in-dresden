@@ -65,13 +65,13 @@
     },
     {
       "Datum": "2026-08-22",
-      "Zeit": null,
+      "Zeit": "10.30 - 13.30 Uhr",
       "Thema": "Im Bewusstsein unserer Verantwortung für eine friedliche Zukunft unserer Kinder und Enkel fordern wir Väter, Mütter, Großeltern Friedensdiplomatie von unserer Regierung ",
-      "Ort": null,
+      "Ort": "Dr.-Külz-Ring",
       "Startpunkt": null,
       "Teilnehmer": "4",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-08-22",
@@ -84,7 +84,7 @@
       "Status": "angemeldet"
     },
     {
-      "Datum": "2026-08-22",
+      "Datum": "2026-08-23",
       "Zeit": null,
       "Thema": "Galerie der Aufklärung",
       "Ort": null,
@@ -95,13 +95,13 @@
     },
     {
       "Datum": "2026-08-23",
-      "Zeit": null,
+      "Zeit": "10.00 - 14.00 Uhr",
       "Thema": "Mahnwache gegen Ausbeutung der Tiere - Artgerecht ist nur die Freiheit",
-      "Ort": null,
+      "Ort": "Tiergartenstraße",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-08-24",
@@ -135,13 +135,13 @@
     },
     {
       "Datum": "2026-08-24",
-      "Zeit": null,
+      "Zeit": "17.30 - 20.00 Uhr",
       "Thema": "Solidarität mit der Ukraine",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Postplatz",
       "Teilnehmer": "500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-08-26",
@@ -205,16 +205,6 @@
     },
     {
       "Datum": "2026-08-31",
-      "Zeit": null,
-      "Thema": "Dresden.Respekt: Interkulturelles Gastmahl auf dem Neumarkt zur Demonstration von Vielfalt und Weltoffenheit, Dialog und Respekt",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "4.000",
-      "Veranstalter": "CSD Dresden e. V. & Cellex-Stiftung",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2026-08-31",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": "Jorge-Gomondai-Platz ",
@@ -231,6 +221,16 @@
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-08-31",
+      "Zeit": "16.00 - 20.30 Uhr",
+      "Thema": "Dresden.Respekt: Interkulturelles Gastmahl auf dem Neumarkt zur Demonstration von Vielfalt und Weltoffenheit, Dialog und Respekt",
+      "Ort": "Neumarkt",
+      "Startpunkt": null,
+      "Teilnehmer": "4.000",
+      "Veranstalter": "CSD Dresden e. V. & Cellex-Stiftung",
       "Status": "beschieden"
     },
     {
