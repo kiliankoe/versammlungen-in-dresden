@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-08-25",
+  "Dateidatum": "2026-08-26",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -51,6 +51,16 @@
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "BSW Kreisverband Dresden",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-08-29",
+      "Zeit": "10.30 - 13.30 Uhr",
+      "Thema": "Im Bewusstsein unserer Verantwortung für eine friedliche Zukunft unserer Kinder und Enkel fordern wir Väter,Mütter Großeltern Friedensdiplomatie.",
+      "Ort": "Neustädter Markt ",
+      "Startpunkt": null,
+      "Teilnehmer": "4",
+      "Veranstalter": "natürliche Person",
       "Status": "beschieden"
     },
     {
@@ -145,13 +155,13 @@
     },
     {
       "Datum": "2026-09-03",
-      "Zeit": null,
+      "Zeit": "16.00 - 20.00 Uhr",
       "Thema": "Jetzt reicht’s – Stadt. Land. Bund – Kürzungen? Nicht mit uns!",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Carolaplatz",
       "Teilnehmer": "500",
       "Veranstalter": "Bündnis gegen Kürzungen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-09-03",
@@ -165,13 +175,13 @@
     },
     {
       "Datum": "2026-09-03",
-      "Zeit": null,
+      "Zeit": "15.00 - 16.30 Uhr",
       "Thema": "Zukunftsfähig geht anders: 2 Spuren auf der Carolabrücke sparen 30 Millionen Euro",
-      "Ort": null,
+      "Ort": "Rathausplatz ",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "Greenpeace Dresden/Dresden Zero",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-09-05",
@@ -185,13 +195,13 @@
     },
     {
       "Datum": "2026-09-05",
-      "Zeit": null,
+      "Zeit": "11.00 - 14.30 Uhr",
       "Thema": "Demonstration gegen den Brieftaubensport ",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Alaunplatz",
       "Teilnehmer": "300-350",
       "Veranstalter": "Stadttauben-Initiative Dresden e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-09-07",
@@ -221,6 +231,16 @@
       "Startpunkt": null,
       "Teilnehmer": "200-300",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-09-08",
+      "Zeit": null,
+      "Thema": "RIP Königsbrücker - es hätte nicht so  kommen müssen. Königsbrücker muss leben! ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Königsbrücker muss leben!",
       "Status": "angemeldet"
     },
     {
