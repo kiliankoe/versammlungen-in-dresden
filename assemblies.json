@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-08-26",
+  "Dateidatum": "2026-08-27",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-08-26",
-      "Zeit": "12.00 - 14.00 Uhr",
-      "Thema": "Doppelhaushalt Sachsen",
-      "Ort": "Bernhard-von-Lindenau-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "80 bis 100",
-      "Veranstalter": "Deutscher Gewerkschaftsbund Bezirk Sachsen",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-08-27",
       "Zeit": "16.00 - 17.20 Uhr",
@@ -74,6 +64,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2026-08-30",
+      "Zeit": null,
+      "Thema": "Bundesweiter Gedenktag für die Toten in Abschiebehaft",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Kontaktgruppe Asyl und Abschiebehaft e.V.",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-08-31",
       "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Bühlau geht spazieren",
@@ -122,6 +122,16 @@
       "Teilnehmer": "4.000",
       "Veranstalter": "CSD Dresden e. V. & Cellex-Stiftung",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-08-31",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu-Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-09-01",
@@ -235,13 +245,13 @@
     },
     {
       "Datum": "2026-09-08",
-      "Zeit": null,
+      "Zeit": "12.15 - 13.00 Uhr",
       "Thema": "RIP Königsbrücker - es hätte nicht so  kommen müssen. Königsbrücker muss leben! ",
-      "Ort": null,
+      "Ort": "Königsbrücker Straße",
       "Startpunkt": null,
       "Teilnehmer": "10",
       "Veranstalter": "Königsbrücker muss leben!",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-09-12",
@@ -256,7 +266,7 @@
     {
       "Datum": "2026-09-12",
       "Zeit": null,
-      "Thema": "Dresden für die Prüfung der rechtsextremen Parteien",
+      "Thema": "PRÜF - Dresden für die Prüfung der rechtsextremen Parteien",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "500",
@@ -275,13 +285,13 @@
     },
     {
       "Datum": "2026-09-12",
-      "Zeit": null,
+      "Zeit": "14.00 - 18.00 Uhr",
       "Thema": "Gemeinsam solidarisch für Dresden",
-      "Ort": null,
+      "Ort": "Martin-Luther-Platz",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-09-13",
