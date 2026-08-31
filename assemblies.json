@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-08-30",
+  "Dateidatum": "2026-08-31",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-08-30",
-      "Zeit": "16.15 - 17.45 Uhr",
-      "Thema": "Bundesweiter Gedenktag für die Toten in Abschiebehaft",
-      "Ort": "Alaunpark ",
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "Kontaktgruppe Asyl und Abschiebehaft e.V.",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-08-31",
       "Zeit": "18.00 - 19.30 Uhr",
