@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-09-01",
+  "Dateidatum": "2026-09-02",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,36 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-09-01",
-      "Zeit": "11.00 - 14.00 Uhr",
-      "Thema": "1. September - Weltfriedenstag! Überfall Deutschlands auf Polen 1939! Beginn des 2. Weltkrieges",
-      "Ort": "An der Frauenkirche",
-      "Startpunkt": null,
-      "Teilnehmer": "40",
-      "Veranstalter": "Deutsche Kommunistische Partei (DKP)",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-09-01",
-      "Zeit": "17.00 - 19.00 Uhr",
-      "Thema": "Weltfrieden braucht keine Kriegstüchtigkeit!",
-      "Ort": "Dr.-Külz-Ring",
-      "Startpunkt": null,
-      "Teilnehmer": "250",
-      "Veranstalter": "Initiative Dresden Stadt des Friedens",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-09-01",
-      "Zeit": "17.00 - 19.00 Uhr",
-      "Thema": "Antikriegstag",
-      "Ort": null,
-      "Startpunkt": "Hauptstraße",
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-09-03",
       "Zeit": "16.00 - 20.00 Uhr",
@@ -92,6 +62,16 @@
       "Teilnehmer": "300-350",
       "Veranstalter": "Stadttauben-Initiative Dresden e.V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-09-05",
+      "Zeit": null,
+      "Thema": "Für das Leben",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "4",
+      "Veranstalter": "Freie Baptistengemeinde Dresden e.V. ",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-09-07",
@@ -224,6 +204,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2026-09-17",
+      "Zeit": null,
+      "Thema": "Mahnwache der OMAS GEGEN RECHTS.DRESDEN für Frieden - gegen Krieg und Gewalt überall",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "8",
+      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-09-18",
       "Zeit": null,
       "Thema": "Parking Day 2026 - Städte für Menschen",
@@ -235,13 +225,13 @@
     },
     {
       "Datum": "2026-09-18",
-      "Zeit": null,
+      "Zeit": "14.30 - 17.30 Uhr",
       "Thema": "Park(ing) Day 2026 – Platz für Menschen statt für Autos, Zusammenleben in Löbtau",
-      "Ort": null,
+      "Ort": "Burgkstraße",
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "Allgemeiner Deutscher Fahrrad Club (ADFC) Dresden e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-09-19",
@@ -282,6 +272,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "Fred die linke Socke das Original / Queeres Freital",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-09-25",
+      "Zeit": null,
+      "Thema": "Schulstreik gegen Wehrpflicht",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1000",
+      "Veranstalter": "Schulstreik gegen Wehrpflicht Dresden",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-09-26",
@@ -341,6 +341,16 @@
       "Startpunkt": null,
       "Teilnehmer": "1000",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-10-03",
+      "Zeit": null,
+      "Thema": "'Für mehr Sichtbarkeit im Straßenverkehr'",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "Golden Riders Dresden e.V.",
       "Status": "angemeldet"
     },
     {
