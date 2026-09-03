@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-09-02",
+  "Dateidatum": "2026-09-03",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -65,13 +65,13 @@
     },
     {
       "Datum": "2026-09-05",
-      "Zeit": null,
+      "Zeit": "14.00 - 16.00 Uhr",
       "Thema": "Für das Leben",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "4",
       "Veranstalter": "Freie Baptistengemeinde Dresden e.V. ",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-09-07",
@@ -114,6 +114,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2026-09-07",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-09-08",
       "Zeit": "12.15 - 13.00 Uhr",
       "Thema": "RIP Königsbrücker - es hätte nicht so  kommen müssen. Königsbrücker muss leben! ",
@@ -152,6 +162,16 @@
       "Teilnehmer": "15",
       "Veranstalter": "Activists for the Victims e. V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-09-12",
+      "Zeit": null,
+      "Thema": "Demokratie erhalten",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "ca. 2000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-09-12",
@@ -215,13 +235,13 @@
     },
     {
       "Datum": "2026-09-18",
-      "Zeit": null,
+      "Zeit": "14.00 - 19.00 Uhr",
       "Thema": "Parking Day 2026 - Städte für Menschen",
-      "Ort": null,
+      "Ort": "Nebenfahrbahn Bautzner Straße",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "Verkehrsclub Deutschland e. V. VCD",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-09-18",
