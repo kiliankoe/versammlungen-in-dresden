@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-09-04",
+  "Dateidatum": "2026-09-05",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -85,12 +85,22 @@
     },
     {
       "Datum": "2026-09-07",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.30 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-09-07",
+      "Zeit": null,
+      "Thema": "5 vor 12 war gestern",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "Zeit zum Handeln Dresden",
       "Status": "angemeldet"
     },
     {
