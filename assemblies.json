@@ -51,7 +51,7 @@
       "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "25",
       "Veranstalter": "Fred die linke Socke das Original / Queeres Freital",
-      "Status": "beschieden"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2026-09-07",
@@ -65,13 +65,13 @@
     },
     {
       "Datum": "2026-09-07",
-      "Zeit": null,
+      "Zeit": "18.00 - 22.00 Uhr",
       "Thema": "5 vor 12 war gestern",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Schloßplatz",
       "Teilnehmer": "500",
       "Veranstalter": "Zeit zum Handeln Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-09-08",
@@ -155,13 +155,13 @@
     },
     {
       "Datum": "2026-09-14",
-      "Zeit": null,
+      "Zeit": "16.30 - 18.30 Uhr",
       "Thema": "Stillen gehört ins Stadtbild - für mehr Sichtbarkeit und gesellschaftliche Akzeptanz des Stillens im öffentlichen Raum",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Augustusstraße",
       "Teilnehmer": "bis 50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-09-14",
@@ -242,6 +242,16 @@
       "Teilnehmer": "25",
       "Veranstalter": "Fred die linke Socke das Original / Queeres Freital",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-09-24",
+      "Zeit": null,
+      "Thema": "Keine Sparorgie in Dresden – Kürzungen? Nicht mit uns!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "400",
+      "Veranstalter": "Bündnis gegen Kürzungen",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-09-25",
