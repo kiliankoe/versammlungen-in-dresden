@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-09-06",
+  "Dateidatum": "2026-09-07",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -121,7 +121,7 @@
       "Startpunkt": null,
       "Teilnehmer": "ca. 2000",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2026-09-12",
