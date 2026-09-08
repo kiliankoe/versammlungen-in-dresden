@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-09-07",
+  "Dateidatum": "2026-09-08",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,66 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-09-07",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz ",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-09-07",
-      "Zeit": "16.00 - 19.00 Uhr",
-      "Thema": "MitmachMontag #kommmachmit⁩",
-      "Ort": "Bautzner Landstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "250-300",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-09-07",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Buntes Hochland geht spazieren!⁩",
-      "Ort": null,
-      "Startpunkt": "Bautzner Landstraße",
-      "Teilnehmer": "200-300",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-09-07",
-      "Zeit": "18.00 - 21.00 Uhr",
-      "Thema": "Den Neo-Faschist*innen den Platz nehmen",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "25",
-      "Veranstalter": "Fred die linke Socke das Original / Queeres Freital",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2026-09-07",
-      "Zeit": "19.00 - 20.30 Uhr",
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "150",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-09-07",
-      "Zeit": "18.00 - 22.00 Uhr",
-      "Thema": "5 vor 12 war gestern",
-      "Ort": null,
-      "Startpunkt": "Schloßplatz",
-      "Teilnehmer": "500",
-      "Veranstalter": "Zeit zum Handeln Dresden",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-09-08",
       "Zeit": "12.15 - 13.00 Uhr",
@@ -175,13 +115,13 @@
     },
     {
       "Datum": "2026-09-17",
-      "Zeit": null,
+      "Zeit": "16.00 - 18.00 Uhr",
       "Thema": "Mahnwache der OMAS GEGEN RECHTS.DRESDEN für Frieden - gegen Krieg und Gewalt überall",
-      "Ort": null,
+      "Ort": "Kleine kirchgasse",
       "Startpunkt": null,
       "Teilnehmer": "8",
       "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-09-18",
@@ -475,6 +415,16 @@
     },
     {
       "Datum": "2026-11-30",
+      "Zeit": null,
+      "Thema": "Mahnwache für Frieden Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-12-07",
       "Zeit": null,
       "Thema": "Mahnwache für Frieden Dresden",
       "Ort": null,
