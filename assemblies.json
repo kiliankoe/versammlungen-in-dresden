@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-09-09",
+  "Dateidatum": "2026-09-10",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -72,6 +72,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-09-12",
+      "Zeit": null,
+      "Thema": "Ostwind ist Stress für Pferde",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "3",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-09-13",
