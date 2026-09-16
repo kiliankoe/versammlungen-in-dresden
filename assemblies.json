@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-09-15",
+  "Dateidatum": "2026-09-16",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -45,13 +45,13 @@
     },
     {
       "Datum": "2026-09-18",
-      "Zeit": null,
+      "Zeit": "16.00 - 18.00 Uhr",
       "Thema": "Egal was ist - der Russe war´s?",
-      "Ort": null,
+      "Ort": "Dr.-Külz-Ring",
       "Startpunkt": null,
       "Teilnehmer": "45",
       "Veranstalter": "Initiative Dresden Stadt des Friedens",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-09-19",
@@ -65,13 +65,13 @@
     },
     {
       "Datum": "2026-09-20",
-      "Zeit": null,
+      "Zeit": "15.15 - 16.45 Uhr",
       "Thema": "Kidical Mass: Die Zukunft fährt Fahrrad!",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "350",
       "Veranstalter": "ADFC Dresden e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-09-21",
@@ -125,13 +125,13 @@
     },
     {
       "Datum": "2026-09-24",
-      "Zeit": null,
+      "Zeit": "08.15 - 09.00 Uhr",
       "Thema": "Extinction Rebellion Dresden - 'Sauna ist freiwillig, Hitzewellen nicht!' Willkommen in der Klimasauna, der Planet schwitzt, aber die Politik sauniert. Echter Klimaschutz jetzt!",
-      "Ort": null,
+      "Ort": "angrenzend an den Georgplatz",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-09-25",
