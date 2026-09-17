@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-09-16",
+  "Dateidatum": "2026-09-17",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -104,6 +104,26 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2026-09-21",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-09-21",
+      "Zeit": null,
+      "Thema": "Jetzt reicht’s: Aktionstag Auto- und Zulieferindustrie in Berlin-Brandenburg-Sachsen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "130",
+      "Veranstalter": "IG Metall Dresden",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-09-22",
       "Zeit": null,
       "Thema": "Gewerkschaftliche 'aktive Mittagspause' für betriebliche Kolleg/innen",
@@ -115,13 +135,13 @@
     },
     {
       "Datum": "2026-09-24",
-      "Zeit": null,
+      "Zeit": "16.30 - 18.30 Uhr",
       "Thema": "Keine Sparorgie in Dresden – Kürzungen? Nicht mit uns!",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "400",
       "Veranstalter": "Bündnis gegen Kürzungen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-09-24",
@@ -139,7 +159,7 @@
       "Thema": "Schulstreik gegen Wehrpflicht",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "1000",
+      "Teilnehmer": "1.000",
       "Veranstalter": "Schulstreik gegen Wehrpflicht Dresden",
       "Status": "angemeldet"
     },
@@ -209,7 +229,7 @@
       "Thema": "Gemeinsam für Demokratie ",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "1000",
+      "Teilnehmer": "1.000",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -264,6 +284,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2026-10-09",
+      "Zeit": null,
+      "Thema": "Sachsenkonvoi - Für Frieden in unserem Land",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "60",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-10-10",
       "Zeit": null,
       "Thema": "Dresden für die Prüfung der rechtsextremen Parteien",
@@ -282,6 +312,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-10-12",
+      "Zeit": null,
+      "Thema": "European Shield Tour zur Unterstützung des Safe Europe Acts",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-10-19",
