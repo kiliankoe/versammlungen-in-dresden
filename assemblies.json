@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-09-17",
+  "Dateidatum": "2026-09-18",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-09-17",
-      "Zeit": "16.00 - 18.00 Uhr",
-      "Thema": "Mahnwache der OMAS GEGEN RECHTS.DRESDEN für Frieden - gegen Krieg und Gewalt überall",
-      "Ort": "Kleine kirchgasse",
-      "Startpunkt": null,
-      "Teilnehmer": "8",
-      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-09-18",
       "Zeit": "14.00 - 19.00 Uhr",
@@ -64,6 +54,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2026-09-19",
+      "Zeit": "13.00 - 18.00 Uhr",
+      "Thema": "Mehr Platz für Menschen: PARKing Day Prießnitzstraße",
+      "Ort": null,
+      "Startpunkt": "Prießnitzstraße",
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
       "Datum": "2026-09-20",
       "Zeit": "15.15 - 16.45 Uhr",
       "Thema": "Kidical Mass: Die Zukunft fährt Fahrrad!",
@@ -87,8 +87,8 @@
       "Datum": "2026-09-21",
       "Zeit": "17.30 - 19.00 Uhr",
       "Thema": "Bühlau geht spazieren? Wir auch!",
-      "Ort": "Grundstraße",
-      "Startpunkt": null,
+      "Ort": null,
+      "Startpunkt": "Grundstraße",
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
@@ -105,33 +105,33 @@
     },
     {
       "Datum": "2026-09-21",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.30 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-09-21",
-      "Zeit": null,
+      "Zeit": "15.00 - 15.30 Uhr",
       "Thema": "Jetzt reicht’s: Aktionstag Auto- und Zulieferindustrie in Berlin-Brandenburg-Sachsen",
-      "Ort": null,
+      "Ort": "Lennéstraße",
       "Startpunkt": null,
       "Teilnehmer": "130",
       "Veranstalter": "IG Metall Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-09-22",
-      "Zeit": null,
+      "Zeit": "12.00 - 13.00 Uhr",
       "Thema": "Gewerkschaftliche 'aktive Mittagspause' für betriebliche Kolleg/innen",
-      "Ort": null,
+      "Ort": "Hertha-Lindner-Straße",
       "Startpunkt": null,
       "Teilnehmer": "80",
       "Veranstalter": "IG Metall Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-09-24",
@@ -184,14 +184,24 @@
       "Status": "angemeldet"
     },
     {
-      "Datum": "2026-09-27",
+      "Datum": "2026-09-26",
       "Zeit": null,
-      "Thema": "Demonstration in Solidarität mit dem kubanischen Volk, für die Freilassung aller politischen Gefangenen in Kuba",
+      "Thema": "Bitte helft verfolgten Christen",
       "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-09-27",
+      "Zeit": "15.00 - 17.30 Uhr",
+      "Thema": "Demonstration in Solidarität mit dem kubanischen Volk, für die Freilassung aller politischen Gefangenen in Kuba",
+      "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
       "Teilnehmer": "40",
       "Veranstalter": "PatriaYVida e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-09-28",
