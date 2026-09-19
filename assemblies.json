@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-09-18",
+  "Dateidatum": "2026-09-19",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,36 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-09-18",
-      "Zeit": "14.00 - 19.00 Uhr",
-      "Thema": "Parking Day 2026 - Städte für Menschen",
-      "Ort": "Nebenfahrbahn Bautzner Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "15",
-      "Veranstalter": "Verkehrsclub Deutschland e. V. VCD",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-09-18",
-      "Zeit": "14.30 - 17.30 Uhr",
-      "Thema": "Park(ing) Day 2026 – Platz für Menschen statt für Autos, Zusammenleben in Löbtau",
-      "Ort": "Burgkstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "200",
-      "Veranstalter": "Allgemeiner Deutscher Fahrrad Club (ADFC) Dresden e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-09-18",
-      "Zeit": "16.00 - 18.00 Uhr",
-      "Thema": "Egal was ist - der Russe war´s?",
-      "Ort": "Dr.-Külz-Ring",
-      "Startpunkt": null,
-      "Teilnehmer": "45",
-      "Veranstalter": "Initiative Dresden Stadt des Friedens",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-09-19",
       "Zeit": "15.00 - 18.00 Uhr",
@@ -185,13 +155,13 @@
     },
     {
       "Datum": "2026-09-26",
-      "Zeit": null,
+      "Zeit": "13.00 - 14.00 Uhr",
       "Thema": "Bitte helft verfolgten Christen",
-      "Ort": null,
+      "Ort": "Leipziger Straße",
       "Startpunkt": null,
       "Teilnehmer": "2",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-09-27",
@@ -282,6 +252,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-10-05",
+      "Zeit": null,
+      "Thema": "Zukunft für Theater und Kultur",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "Landesverband Sachsen des Deutschen Bühnenvereins",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-10-07",
