@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-09-22",
+  "Dateidatum": "2026-09-23",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-09-22",
-      "Zeit": "12.00 - 13.00 Uhr",
-      "Thema": "Gewerkschaftliche 'aktive Mittagspause' für betriebliche Kolleg/innen",
-      "Ort": "Hertha-Lindner-Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "80",
-      "Veranstalter": "IG Metall Dresden",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-09-24",
       "Zeit": "16.30 - 18.30 Uhr",
@@ -51,6 +41,16 @@
       "Startpunkt": null,
       "Teilnehmer": "1.000",
       "Veranstalter": "Schulstreik gegen Wehrpflicht Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-09-25",
+      "Zeit": null,
+      "Thema": "Living Wage Action Day - Arbeiter*innen verdienen mehr!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "8",
+      "Veranstalter": "Entwicklungspoltitisches Netzwerk Sachsen e. V.",
       "Status": "angemeldet"
     },
     {
