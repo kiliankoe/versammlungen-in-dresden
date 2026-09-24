@@ -35,13 +35,13 @@
     },
     {
       "Datum": "2026-09-25",
-      "Zeit": null,
+      "Zeit": "10.00 - 15.00 Uhr",
       "Thema": "Schulstreik gegen Wehrpflicht",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Postplatz",
       "Teilnehmer": "1.000",
       "Veranstalter": "Schulstreik gegen Wehrpflicht Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-09-25",
@@ -185,13 +185,13 @@
     },
     {
       "Datum": "2026-10-03",
-      "Zeit": null,
+      "Zeit": "13.00 - 17.00 Uhr",
       "Thema": "Für mehr Sichtbarkeit im Straßenverkehr",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wiener Platz",
       "Teilnehmer": "100",
       "Veranstalter": "Golden Riders Dresden e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-10-03",
@@ -274,6 +274,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2026-10-10",
+      "Zeit": null,
+      "Thema": "Tierrechte & Veganismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Activists for the Victims e. V.",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-10-12",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
@@ -302,6 +312,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-10-24",
+      "Zeit": null,
+      "Thema": "Tierrechte & Veganismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Activists for the Victims e. V.",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-10-26",
@@ -342,6 +362,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-11-07",
+      "Zeit": null,
+      "Thema": "Tierrechte & Veganismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "15",
+      "Veranstalter": "Activists for the Victims e. V.",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-11-09",
