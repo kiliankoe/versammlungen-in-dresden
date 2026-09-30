@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-09-29",
+  "Dateidatum": "2026-09-30",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -35,33 +35,33 @@
     },
     {
       "Datum": "2026-10-03",
-      "Zeit": null,
+      "Zeit": "13.00 - 16.00 Uhr",
       "Thema": "Gemeinsam für Demokratie ",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-10-03",
-      "Zeit": null,
+      "Zeit": "12.00 - 20.00 Uhr",
       "Thema": "Kundgebung für ethische Erinnerungskultur der Wendezeit",
-      "Ort": null,
+      "Ort": "Jorge-Gomondai-Platz",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-10-03",
-      "Zeit": null,
+      "Zeit": "12.30 - 14.00 Uhr",
       "Thema": "Friedens-Konvoi",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Parkplatz Kaditz  (P+R) Dresden",
       "Teilnehmer": "55",
       "Veranstalter": "Bauern&Mittelstandsbewegung Admin-Community",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-10-03",
@@ -75,11 +75,21 @@
     },
     {
       "Datum": "2026-10-03",
-      "Zeit": null,
+      "Zeit": "14.00 - 18.00 Uhr",
       "Thema": "Freiheitsreferendum",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Postplatz",
       "Teilnehmer": "1.000",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-10-04",
+      "Zeit": null,
+      "Thema": "Blockade der ukrainischen Stadt Oleschki durch russische Truppen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -111,6 +121,16 @@
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "Landesverband Sachsen des Deutschen Bühnenvereins",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-10-05",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -174,14 +194,24 @@
       "Status": "angemeldet"
     },
     {
-      "Datum": "2026-10-10",
+      "Datum": "2026-10-09",
       "Zeit": null,
-      "Thema": "Dresden für die Prüfung der rechtsextremen Parteien",
+      "Thema": "Protest gegen die geplanten Kürzungen und den drohenden Wegfall des FSJ Pädagogik",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-10-10",
+      "Zeit": "14.00 - 16.45 Uhr",
+      "Thema": "PRÜF - Dresden für die Prüfung der rechtsextremen Parteien",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "Prüfung Rettet Übringens Freiheit (PRÜF) - Sachsen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-10-10",
