@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-09-30",
+  "Dateidatum": "2026-10-01",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -42,6 +42,16 @@
       "Teilnehmer": "500",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-10-03",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-10-03",
@@ -174,16 +184,6 @@
       "Status": "angemeldet"
     },
     {
-      "Datum": "2026-10-08",
-      "Zeit": null,
-      "Thema": "Rettung des Serumwerkes Dresden (GSK)",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "600",
-      "Veranstalter": "IGBCE Sachsen",
-      "Status": "angemeldet"
-    },
-    {
       "Datum": "2026-10-09",
       "Zeit": null,
       "Thema": "Sachsenkonvoi - Für Frieden in unserem Land",
@@ -205,13 +205,23 @@
     },
     {
       "Datum": "2026-10-10",
-      "Zeit": "14.00 - 16.45 Uhr",
+      "Zeit": null,
       "Thema": "PRÜF - Dresden für die Prüfung der rechtsextremen Parteien",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "Prüfung Rettet Übringens Freiheit (PRÜF) - Sachsen",
-      "Status": "beschieden"
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-10-10",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-10-10",
@@ -244,6 +254,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2026-10-17",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-10-19",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
@@ -252,6 +272,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-10-24",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-10-24",
@@ -286,6 +316,16 @@
     {
       "Datum": "2026-10-31",
       "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-10-31",
+      "Zeit": null,
       "Thema": "Reformation 2.0 – Tag für Frieden und Freiheit ",
       "Ort": null,
       "Startpunkt": null,
@@ -314,6 +354,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2026-11-07",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-11-09",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
@@ -334,6 +384,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2026-11-14",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-11-16",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
@@ -342,6 +402,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-11-21",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-11-23",
@@ -354,6 +424,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2026-11-28",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-11-30",
       "Zeit": null,
       "Thema": "Mahnwache für Frieden Dresden",
@@ -361,6 +441,16 @@
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-12-05",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
       "Status": "angemeldet"
     },
     {
@@ -384,6 +474,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2026-12-12",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-12-14",
       "Zeit": null,
       "Thema": "Mahnwache für Frieden Dresden",
@@ -391,6 +491,16 @@
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-12-19",
+      "Zeit": null,
+      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "12",
+      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
       "Status": "angemeldet"
     },
     {
