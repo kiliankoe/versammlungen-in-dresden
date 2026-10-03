@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-10-02",
+  "Dateidatum": "2026-10-03",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -95,13 +95,13 @@
     },
     {
       "Datum": "2026-10-04",
-      "Zeit": null,
+      "Zeit": "14.00 - 16.30 Uhr",
       "Thema": "Blockade der ukrainischen Stadt Oleschki durch russische Truppen",
-      "Ort": null,
+      "Ort": "Jüdenhof",
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-10-04",
@@ -135,12 +135,22 @@
     },
     {
       "Datum": "2026-10-05",
-      "Zeit": null,
+      "Zeit": "17.30 - 18.30 Uhr",
       "Thema": "Für ein buntes demokratisches Hochland! ⁩",
-      "Ort": null,
+      "Ort": "Bautzner Landstraße",
       "Startpunkt": null,
       "Teilnehmer": "ca. 50",
       "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-10-05",
+      "Zeit": null,
+      "Thema": "Den neo-Faschist*innen die Plätze nehmen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "25",
+      "Veranstalter": "Fred die linke Socke das Original",
       "Status": "angemeldet"
     },
     {
