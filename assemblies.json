@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-10-04",
+  "Dateidatum": "2026-10-05",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-10-04",
-      "Zeit": "14.00 - 16.30 Uhr",
-      "Thema": "Blockade der ukrainischen Stadt Oleschki durch russische Truppen",
-      "Ort": "Jüdenhof",
-      "Startpunkt": null,
-      "Teilnehmer": "100",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-10-04",
-      "Zeit": "17.00 - 19.00 Uhr",
-      "Thema": "Gedenkkampagne - Mahnwache. LED-Truck als Gedenkkampagne für das Hamas-Massaker vom 7.10. im Kampf gegen Antisemitismus",
-      "Ort": "Neumarkt",
-      "Startpunkt": null,
-      "Teilnehmer": "10",
-      "Veranstalter": "Christen an der Seite Israels e. V.",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-10-05",
       "Zeit": "19.00 - 21.00 Uhr",
