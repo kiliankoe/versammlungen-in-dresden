@@ -45,13 +45,13 @@
     },
     {
       "Datum": "2026-10-05",
-      "Zeit": null,
+      "Zeit": "18.00 - 20.30 Uhr",
       "Thema": "Den neo-Faschist*innen die Plätze nehmen",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "25",
       "Veranstalter": "Fred die linke Socke das Original",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-10-05",
@@ -105,12 +105,22 @@
     },
     {
       "Datum": "2026-10-08",
-      "Zeit": null,
+      "Zeit": "15.30 - 19.00 Uhr",
       "Thema": "Rettung des Serumwerkes Dresden (GSK)",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Zirkusstraße",
       "Teilnehmer": "1.000",
       "Veranstalter": "IGBCE Sachsen",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-10-08",
+      "Zeit": null,
+      "Thema": "Grundrecht auf Asyl verteidigen! ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -362,6 +372,16 @@
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-11-28",
+      "Zeit": null,
+      "Thema": "#TeamNutznießerSachsen",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-11-30",
