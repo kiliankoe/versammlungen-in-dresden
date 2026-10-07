@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-10-06",
+  "Dateidatum": "2026-10-07",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,20 +14,10 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2026-10-06",
-      "Zeit": "11.30 - 13.00 Uhr",
-      "Thema": "Informations- und Austauschveranstaltung mit IGM Kolleginnen und Kollegen",
-      "Ort": "Provianthofstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "IG Metall Dresden",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2026-10-07",
       "Zeit": "17.00 - 18.00 Uhr",
       "Thema": "Mahnwache zum 3. Jahrestag des Hamas-Überfalls auf Israel vom 7. Oktober 2023",
-      "Ort": "Neumarkt",
+      "Ort": "An der Frauenkirche",
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "Deutsch-Israelische Gesellschaft e. V. AG Dresden",
@@ -35,13 +25,13 @@
     },
     {
       "Datum": "2026-10-07",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.30 Uhr",
       "Thema": "Freiheit für Palästina",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-10-08",
@@ -135,11 +125,21 @@
     },
     {
       "Datum": "2026-10-12",
-      "Zeit": null,
+      "Zeit": "17.30 - 19.00 Uhr",
       "Thema": "European Shield Tour zur Unterstützung des Safe Europe Acts",
-      "Ort": null,
+      "Ort": "Neumarkt ",
       "Startpunkt": null,
       "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-10-12",
+      "Zeit": null,
+      "Thema": "Kein Mensch ist illegal",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
