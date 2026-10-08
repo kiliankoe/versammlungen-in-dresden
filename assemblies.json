@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-10-07",
+  "Dateidatum": "2026-10-08",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-10-07",
-      "Zeit": "17.00 - 18.00 Uhr",
-      "Thema": "Mahnwache zum 3. Jahrestag des Hamas-Überfalls auf Israel vom 7. Oktober 2023",
-      "Ort": "An der Frauenkirche",
-      "Startpunkt": null,
-      "Teilnehmer": "100",
-      "Veranstalter": "Deutsch-Israelische Gesellschaft e. V. AG Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-10-07",
-      "Zeit": "19.00 - 20.30 Uhr",
-      "Thema": "Freiheit für Palästina",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-10-08",
       "Zeit": "12.00 - 15.00 Uhr",
@@ -55,13 +35,13 @@
     },
     {
       "Datum": "2026-10-08",
-      "Zeit": null,
+      "Zeit": "16.00 - 18.30 Uhr",
       "Thema": "Grundrecht auf Asyl verteidigen! ",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Bernhard-von-Lindenau-Platz",
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-10-09",
@@ -75,23 +55,23 @@
     },
     {
       "Datum": "2026-10-09",
-      "Zeit": null,
+      "Zeit": "10.00 - 12.00 Uhr",
       "Thema": "Protest gegen die geplanten Kürzungen und den drohenden Wegfall des FSJ Pädagogik",
-      "Ort": null,
+      "Ort": "Bernhard-von-Lindenau-Platz",
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-10-10",
-      "Zeit": null,
+      "Zeit": "14.00 - 16.45 Uhr",
       "Thema": "PRÜF - Dresden für die Prüfung der rechtsextremen Parteien",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Theaterplatz",
       "Teilnehmer": "500",
       "Veranstalter": "Prüfung Rettet Übringens Freiheit (PRÜF) - Sachsen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-10-10",
@@ -135,11 +115,31 @@
     },
     {
       "Datum": "2026-10-12",
-      "Zeit": null,
+      "Zeit": "17.00 - 19.00 Uhr",
       "Thema": "Kein Mensch ist illegal",
+      "Ort": "Neumarkt",
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-10-12",
+      "Zeit": null,
+      "Thema": "Unsere Nachbarn bleiben hier!",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-10-12",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu-Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
