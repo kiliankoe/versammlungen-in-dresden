@@ -115,6 +115,16 @@
     },
     {
       "Datum": "2026-10-12",
+      "Zeit": "17.30 - 19.00 Uhr",
+      "Thema": "Im Hochland nach den Rechten schauen!⁩",
+      "Ort": "Neukircher Straße",
+      "Startpunkt": null,
+      "Teilnehmer": "ca. 50",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-10-12",
       "Zeit": "17.00 - 19.00 Uhr",
       "Thema": "Kein Mensch ist illegal",
       "Ort": "Neumarkt",
@@ -125,13 +135,13 @@
     },
     {
       "Datum": "2026-10-12",
-      "Zeit": null,
+      "Zeit": "17.00 - 20.00 Uhr",
       "Thema": "Unsere Nachbarn bleiben hier!",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-10-12",
