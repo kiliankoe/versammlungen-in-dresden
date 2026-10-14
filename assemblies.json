@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-10-13",
+  "Dateidatum": "2026-10-14",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -15,22 +15,32 @@
   "Versammlungen": [
     {
       "Datum": "2026-10-14",
-      "Zeit": null,
+      "Zeit": "12.00 - 18.00 Uhr",
       "Thema": "Christliche Werte in Bezug auf das Deutsche Grundgesetz",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "ca. 10 Personen",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-10-15",
-      "Zeit": null,
+      "Zeit": "16.00 - 18.00 Uhr",
       "Thema": "Mahnwache der OMAS GEGEN RECHTS.DRESDEN für Frieden - gegen Krieg und Gewalt überall",
-      "Ort": null,
+      "Ort": "Moritzgasse",
       "Startpunkt": null,
       "Teilnehmer": "8",
       "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-10-16",
+      "Zeit": null,
+      "Thema": "Heute Atomwaffenübung - morgen Angriff!?",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "49",
+      "Veranstalter": "Initiative Dresden Stadt des Friedens",
       "Status": "angemeldet"
     },
     {
@@ -44,6 +54,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2026-10-17",
+      "Zeit": null,
+      "Thema": "Set The Date. Präsidentschaftswahlen in Venezuela fordern",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "40",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-10-19",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
@@ -52,6 +72,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-10-19",
+      "Zeit": null,
+      "Thema": "Es gibt kein Recht auf Faschopropaganda! - Gegen den Mißbrauch unserer Sprache.",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-10-24",
@@ -171,7 +201,7 @@
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "Prüfung Rettet Übringens Freiheit (PRÜF) - Sachsen",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2026-11-14",
@@ -212,6 +242,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-11-26",
+      "Zeit": null,
+      "Thema": "Kahlschlagshaushalt verhindern – Kürzungen? Nicht mit uns!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "Bündnis gegen Kürzungen",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-11-28",
@@ -271,7 +311,7 @@
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "Prüfung Rettet Übringens Freiheit (PRÜF) - Sachsen",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2026-12-12",
