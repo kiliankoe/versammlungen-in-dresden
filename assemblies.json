@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-10-15",
+  "Dateidatum": "2026-10-16",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,24 +14,14 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2026-10-15",
-      "Zeit": "16.00 - 18.00 Uhr",
-      "Thema": "Mahnwache der OMAS GEGEN RECHTS.DRESDEN für Frieden - gegen Krieg und Gewalt überall",
-      "Ort": "Moritzgasse",
-      "Startpunkt": null,
-      "Teilnehmer": "8",
-      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2026-10-16",
-      "Zeit": null,
+      "Zeit": "16.00 - 18.00 Uhr",
       "Thema": "Heute Atomwaffenübung - morgen Angriff!?",
-      "Ort": null,
+      "Ort": "Dr.-Külz-Ring",
       "Startpunkt": null,
       "Teilnehmer": "49",
       "Veranstalter": "Initiative Dresden Stadt des Friedens",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-10-17",
@@ -72,6 +62,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-10-19",
+      "Zeit": "18.00 - 22.00 Uhr",
+      "Thema": "Sicherheit ohne Nato!",
+      "Ort": "Königsbrücker Straße",
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-10-19",
