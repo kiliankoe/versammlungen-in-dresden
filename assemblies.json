@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-10-16",
+  "Dateidatum": "2026-10-17",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-10-16",
-      "Zeit": "16.00 - 18.00 Uhr",
-      "Thema": "Heute Atomwaffenübung - morgen Angriff!?",
-      "Ort": "Dr.-Külz-Ring",
-      "Startpunkt": null,
-      "Teilnehmer": "49",
-      "Veranstalter": "Initiative Dresden Stadt des Friedens",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-10-17",
       "Zeit": "13.30 - 18.30 Uhr",
@@ -55,13 +45,13 @@
     },
     {
       "Datum": "2026-10-19",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.30 Uhr",
       "Thema": "Es gibt kein Recht auf Faschopropaganda! - Gegen den Mißbrauch unserer Sprache.",
-      "Ort": null,
+      "Ort": "Friedrich-Wieck-Straße",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-10-19",
@@ -76,7 +66,7 @@
     {
       "Datum": "2026-10-19",
       "Zeit": null,
-      "Thema": "Wer schweigt stimmt zu-Zeit für Bürgerverantwortung",
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "150",
