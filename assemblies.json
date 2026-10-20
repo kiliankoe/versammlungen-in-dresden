@@ -55,13 +55,13 @@
     },
     {
       "Datum": "2026-10-24",
-      "Zeit": null,
+      "Zeit": "09.30 - 10.30 Uhr",
       "Thema": "Kein Mensch ist illegal! ",
-      "Ort": null,
+      "Ort": "Schlesischer Platz",
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-10-26",
@@ -134,6 +134,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2026-10-31",
+      "Zeit": null,
+      "Thema": "Der Tod, Was kommt danach?",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-11-02",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
@@ -142,6 +152,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-11-02",
+      "Zeit": null,
+      "Thema": "Solidarität mit der Ukraine – Erinnerung an den andauernden Krieg ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "4",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-11-07",
