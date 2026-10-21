@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-10-20",
+  "Dateidatum": "2026-10-21",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -15,13 +15,13 @@
   "Versammlungen": [
     {
       "Datum": "2026-10-23",
-      "Zeit": null,
+      "Zeit": "17.30 - 18.30 Uhr",
       "Thema": "Zwangsräumung? Nicht in unserem Viertel!",
-      "Ort": null,
+      "Ort": "Konkordienplatz",
       "Startpunkt": null,
       "Teilnehmer": "15",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-10-24",
@@ -81,6 +81,16 @@
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-10-26",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -285,13 +295,13 @@
     },
     {
       "Datum": "2026-11-30",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.00 Uhr",
       "Thema": "Widerstand gegen Generalangriff von Regierung und Monopolen! Kampf gegen jede Art von      Faschismus und imperialistischen Kriegen weltweit. Verteidigung erkämpfter Arbeiterrechte",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-12-05",
