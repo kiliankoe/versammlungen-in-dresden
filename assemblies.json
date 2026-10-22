@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-10-21",
+  "Dateidatum": "2026-10-22",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,6 +13,16 @@
     }
   ],
   "Versammlungen": [
+    {
+      "Datum": "2026-10-23",
+      "Zeit": null,
+      "Thema": "Demonstration für Demokratie in Brasilien – gegen Rechtsextremismus und Bolsonarismus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "40",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
     {
       "Datum": "2026-10-23",
       "Zeit": "17.30 - 18.30 Uhr",
@@ -94,6 +104,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2026-10-27",
+      "Zeit": null,
+      "Thema": "Für sichere und leistungsfähige Radverkehrsanlagen auf der neuen Carolabrücke",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "Allgemeiner Deutscher Fahrrad-Club Dresden e. V.",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-10-28",
       "Zeit": null,
       "Thema": "Aktionstag faires PJ",
@@ -101,6 +121,16 @@
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "Fachschaftsrat Medizin/Zahnmedizin Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-10-29",
+      "Zeit": null,
+      "Thema": "Zusammen Solidarisch in Gorbitz",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
@@ -130,6 +160,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "20",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-10-31",
+      "Zeit": null,
+      "Thema": "GenZ regelt das!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -222,6 +262,26 @@
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-11-14",
+      "Zeit": null,
+      "Thema": "PRÜF",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-11-15",
+      "Zeit": null,
+      "Thema": "Weg der Erinnerung - Jüdisches Engagement für Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "80 bis 150",
+      "Veranstalter": "Ev.-Luth. Stadtjugendpfarramt Dresden in Zusammenarbeit mit der Gesellschaft für Christlich-Jüdische Zusammenarbeit, Katholische Dekanatsjugendseelsorge und der Jüdischen Gemeinde Dresden",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-11-16",
@@ -342,6 +402,16 @@
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-12-12",
+      "Zeit": null,
+      "Thema": "PRÜF",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-12-14",
