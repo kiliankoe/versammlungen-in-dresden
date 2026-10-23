@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-10-22",
+  "Dateidatum": "2026-10-23",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -15,13 +15,13 @@
   "Versammlungen": [
     {
       "Datum": "2026-10-23",
-      "Zeit": null,
+      "Zeit": "17.00 - 18.30 Uhr",
       "Thema": "Demonstration für Demokratie in Brasilien – gegen Rechtsextremismus und Bolsonarismus",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Alaunplatz ",
       "Teilnehmer": "40",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-10-23",
@@ -86,12 +86,22 @@
     {
       "Datum": "2026-10-26",
       "Zeit": null,
-      "Thema": "Widerstand gegen Generalangriff von Regierung und Monopolen! Kampf gegen jede Art von      Faschismus und imperialistischen Kriegen weltweit. Verteidigung erkämpfter Arbeiterrechte",
+      "Thema": "Im Hochland nach den Rechten schauen!⁩",
       "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "ca. 50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-10-26",
+      "Zeit": "18.00 - 19.00 Uhr",
+      "Thema": "Widerstand gegen Generalangriff von Regierung und Monopolen! Kampf gegen jede Art von      Faschismus und imperialistischen Kriegen weltweit. Verteidigung erkämpfter Arbeiterrechte",
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-10-26",
@@ -115,13 +125,13 @@
     },
     {
       "Datum": "2026-10-28",
-      "Zeit": null,
+      "Zeit": "15.00 - 19.00 Uhr",
       "Thema": "Aktionstag faires PJ",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Fiedlerstraße",
       "Teilnehmer": "200",
       "Veranstalter": "Fachschaftsrat Medizin/Zahnmedizin Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-10-29",
@@ -445,13 +455,13 @@
     },
     {
       "Datum": "2026-12-21",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.00 Uhr",
       "Thema": "Widerstand gegen Generalangriff von Regierung und Monopolen! Kampf gegen jede Art von      Faschismus und imperialistischen Kriegen weltweit. Verteidigung erkämpfter Arbeiterrechte",
-      "Ort": null,
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-12-28",
