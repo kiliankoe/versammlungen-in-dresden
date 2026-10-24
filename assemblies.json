@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-10-23",
+  "Dateidatum": "2026-10-24",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-10-23",
-      "Zeit": "17.00 - 18.30 Uhr",
-      "Thema": "Demonstration für Demokratie in Brasilien – gegen Rechtsextremismus und Bolsonarismus",
-      "Ort": null,
-      "Startpunkt": "Alaunplatz ",
-      "Teilnehmer": "40",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-10-23",
-      "Zeit": "17.30 - 18.30 Uhr",
-      "Thema": "Zwangsräumung? Nicht in unserem Viertel!",
-      "Ort": "Konkordienplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "15",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-10-24",
       "Zeit": "13.30 - 18.30 Uhr",
@@ -85,13 +65,13 @@
     },
     {
       "Datum": "2026-10-26",
-      "Zeit": null,
+      "Zeit": "17.30 - 19.00 Uhr",
       "Thema": "Im Hochland nach den Rechten schauen!⁩",
-      "Ort": null,
+      "Ort": "Neukircher Straße",
       "Startpunkt": null,
       "Teilnehmer": "ca. 50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-10-26",
@@ -105,13 +85,13 @@
     },
     {
       "Datum": "2026-10-26",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.30 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-10-27",
@@ -179,7 +159,7 @@
       "Thema": "GenZ regelt das!",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "100",
+      "Teilnehmer": "250",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -195,13 +175,13 @@
     },
     {
       "Datum": "2026-10-31",
-      "Zeit": null,
+      "Zeit": "19.30 - 21.30 Uhr",
       "Thema": "Der Tod, Was kommt danach?",
-      "Ort": null,
+      "Ort": "Albertplatz",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-11-02",
@@ -220,6 +200,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "4",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-11-03",
+      "Zeit": null,
+      "Thema": "ZEIT AUFZUSTEHEN! ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50-100",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
