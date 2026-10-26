@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-10-25",
+  "Dateidatum": "2026-10-26",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -55,13 +55,13 @@
     },
     {
       "Datum": "2026-10-27",
-      "Zeit": null,
+      "Zeit": "08.00 - 08.15 Uhr",
       "Thema": "Für sichere und leistungsfähige Radverkehrsanlagen auf der neuen Carolabrücke",
-      "Ort": null,
+      "Ort": "Carolaplatz",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "Allgemeiner Deutscher Fahrrad-Club Dresden e. V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-10-28",
@@ -192,6 +192,16 @@
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-11-07",
+      "Zeit": null,
+      "Thema": "'Es reicht! Gesundheit statt Sparwahn'",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "2000",
+      "Veranstalter": "Einsatzquad Bildung & Sanität",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-11-09",
