@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-10-26",
+  "Dateidatum": "2026-10-27",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,46 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-10-26",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz ",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-10-26",
-      "Zeit": "17.30 - 19.00 Uhr",
-      "Thema": "Im Hochland nach den Rechten schauen!⁩",
-      "Ort": "Neukircher Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "ca. 50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-10-26",
-      "Zeit": "18.00 - 19.00 Uhr",
-      "Thema": "Widerstand gegen Generalangriff von Regierung und Monopolen! Kampf gegen jede Art von      Faschismus und imperialistischen Kriegen weltweit. Verteidigung erkämpfter Arbeiterrechte",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-10-26",
-      "Zeit": "19.00 - 20.30 Uhr",
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "150",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-10-27",
       "Zeit": "08.00 - 08.15 Uhr",
@@ -119,7 +79,7 @@
       "Thema": "GenZ regelt das!",
       "Ort": null,
       "Startpunkt": null,
-      "Teilnehmer": "250",
+      "Teilnehmer": "500",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -142,6 +102,16 @@
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-11-01",
+      "Zeit": null,
+      "Thema": "Gemeinsam für Oberwartha - gewaltfrei friedlich demokratisch",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "200",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-11-02",
