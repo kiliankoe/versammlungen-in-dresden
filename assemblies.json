@@ -25,13 +25,13 @@
     },
     {
       "Datum": "2026-10-31",
-      "Zeit": null,
+      "Zeit": "13.30 - 15.30 Uhr",
       "Thema": "95 Thesen, für Vielfalt",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Alaunplatz",
       "Teilnehmer": "ca. 150",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-10-31",
@@ -45,13 +45,13 @@
     },
     {
       "Datum": "2026-10-31",
-      "Zeit": null,
+      "Zeit": "11.00 - 15.00 Uhr",
       "Thema": "Mahnwache gegen Ausbeutung der Tiere - Artgerecht ist nur die Freiheit",
-      "Ort": null,
+      "Ort": "Tiergartenstraße",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-10-31",
@@ -65,13 +65,13 @@
     },
     {
       "Datum": "2026-10-31",
-      "Zeit": null,
-      "Thema": "Reformation 2.0 – Tag für Frieden und Freiheit ",
+      "Zeit": "16.00 - 19.00 Uhr",
+      "Thema": "Reformation 2.0 - Tag für Frieden und Freiheit ",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Postplatz",
       "Teilnehmer": "1.000",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-10-31",
@@ -110,6 +110,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "ca. 50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-11-02",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -332,6 +342,16 @@
       "Teilnehmer": "30",
       "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-11-30",
+      "Zeit": null,
+      "Thema": "Gemeinsam gegen das PNOG (Pflegeneuordnungsgesetz), bundesweite Protesttour durch die Landeshauptstädte. Auch in Sachsen wollen wir ein starkes und unübersehbares Signal an Politik",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1000",
+      "Veranstalter": "Bundesverband privater Anbieter sozialer Dienste - bpa e.V.",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-12-05",
