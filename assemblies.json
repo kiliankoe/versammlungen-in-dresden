@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-10-30",
+  "Dateidatum": "2026-10-31",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -75,13 +75,13 @@
     },
     {
       "Datum": "2026-11-01",
-      "Zeit": null,
+      "Zeit": "11.00 - 16.00 Uhr",
       "Thema": "Gemeinsam für Oberwartha - gewaltfrei friedlich demokratisch",
-      "Ort": null,
+      "Ort": " Friedensplatz ",
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-11-02",
@@ -95,23 +95,23 @@
     },
     {
       "Datum": "2026-11-02",
-      "Zeit": null,
+      "Zeit": "17.30 - 19.00 Uhr",
       "Thema": "Für ein buntes demokratisches Hochland!⁩",
-      "Ort": null,
+      "Ort": "Bautzner Landstraße",
       "Startpunkt": null,
       "Teilnehmer": "ca. 50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-11-02",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.30 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-11-02",
