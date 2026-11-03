@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-11-02",
+  "Dateidatum": "2026-11-03",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,84 +14,34 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2026-11-02",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz ",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-11-02",
-      "Zeit": "17.30 - 19.00 Uhr",
-      "Thema": "Für ein buntes demokratisches Hochland!⁩",
-      "Ort": "Bautzner Landstraße",
-      "Startpunkt": null,
-      "Teilnehmer": "ca. 50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-11-02",
-      "Zeit": "19.00 - 20.30 Uhr",
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "150",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-11-02",
-      "Zeit": "09.00 - 10.00 Uhr",
-      "Thema": "Kundgebung private Banken",
-      "Ort": null,
-      "Startpunkt": "Devrientstraße",
-      "Teilnehmer": "100",
-      "Veranstalter": "Gewerkschaft ver.di",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-11-02",
-      "Zeit": null,
-      "Thema": "Solidarität mit der Ukraine – Erinnerung an den andauernden Krieg ",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "4",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
       "Datum": "2026-11-03",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "ZEIT AUFZUSTEHEN! ",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Neumarkt ",
       "Teilnehmer": "350",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-11-03",
-      "Zeit": null,
+      "Zeit": "17.00 - 21.00 Uhr",
       "Thema": "Zeit aufzustehen!",
-      "Ort": null,
+      "Ort": "Neumarkt",
       "Startpunkt": null,
       "Teilnehmer": "20 bis 30",
       "Veranstalter": "FREIE SACHSEN",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-11-03",
-      "Zeit": null,
+      "Zeit": "17.00 - 21.00 Uhr",
       "Thema": "Platz-Nehmen!",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Neustädter Markt ",
       "Teilnehmer": "ca. 150",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-11-07",
@@ -151,6 +101,16 @@
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "Gewerkschaft Erziehung und Wissenschaft",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-11-13",
+      "Zeit": null,
+      "Thema": "Bildstarke-Aktion ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Fridays For Future Dresden",
       "Status": "angemeldet"
     },
     {
@@ -351,6 +311,16 @@
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-12-17",
+      "Zeit": null,
+      "Thema": "Die Schulden von heute sind die Steuern von morgen!",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "30",
+      "Veranstalter": "Jungliberale Aktion Sachsen",
       "Status": "angemeldet"
     },
     {
