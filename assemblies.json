@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-11-03",
+  "Dateidatum": "2026-11-04",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,34 +14,14 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2026-11-03",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "ZEIT AUFZUSTEHEN! ",
+      "Datum": "2026-11-04",
+      "Zeit": null,
+      "Thema": "Aktive Mittagspause",
       "Ort": null,
-      "Startpunkt": "Neumarkt ",
-      "Teilnehmer": "350",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-11-03",
-      "Zeit": "17.00 - 21.00 Uhr",
-      "Thema": "Zeit aufzustehen!",
-      "Ort": "Neumarkt",
       "Startpunkt": null,
-      "Teilnehmer": "20 bis 30",
-      "Veranstalter": "FREIE SACHSEN",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-11-03",
-      "Zeit": "17.00 - 21.00 Uhr",
-      "Thema": "Platz-Nehmen!",
-      "Ort": null,
-      "Startpunkt": "Neustädter Markt ",
-      "Teilnehmer": "ca. 150",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
+      "Teilnehmer": "70",
+      "Veranstalter": "IG Metall Dresden",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-11-07",
@@ -86,7 +66,17 @@
     {
       "Datum": "2026-11-09",
       "Zeit": null,
-      "Thema": "Mahngang von OMAS GEGEN RECHTS.DRESDEN n.e.V. zu Stolpersteinen in der Inneren und Äußeren Neustadt im Gedenken an die Pogromnacht 1938",
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-11-09",
+      "Zeit": null,
+      "Thema": "Mahngang von OMAS GEGEN RECHTS.DRESDEN zu Stolpersteinen in der Inneren und Äußeren Neustadt im Gedenken an die Pogromnacht 1938",
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "8",
@@ -95,13 +85,13 @@
     },
     {
       "Datum": "2026-11-10",
-      "Zeit": null,
+      "Zeit": "16.30 - 17.30 Uhr",
       "Thema": "Pädagogische Fachkräfte im Unterricht",
-      "Ort": null,
+      "Ort": "Köpkestraße",
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "Gewerkschaft Erziehung und Wissenschaft",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-11-13",
@@ -162,6 +152,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-11-20",
+      "Zeit": null,
+      "Thema": "Schulstreik gegen Wehrpflicht - Internationaler Jugendstreik",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1000",
+      "Veranstalter": "Schulstreik gegen Wehrpflicht Dresden",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-11-21",
