@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-11-05",
+  "Dateidatum": "2026-11-06",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -27,7 +27,7 @@
       "Datum": "2026-11-07",
       "Zeit": "13.30 - 18.30 Uhr",
       "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
-      "Ort": "Altmarkt",
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
@@ -44,6 +44,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2026-11-07",
+      "Zeit": "15.00 - 17.00 Uhr",
+      "Thema": "Für das Leben",
+      "Ort": "Prager Straße",
+      "Startpunkt": null,
+      "Teilnehmer": "5",
+      "Veranstalter": "Freie Baptisten Gemeinde Dresden n. e. V.",
+      "Status": "beschieden"
+    },
+    {
       "Datum": "2026-11-09",
       "Zeit": "19.00 - 21.00 Uhr",
       "Thema": "Mahnwache für Frieden Dresden",
@@ -55,23 +65,33 @@
     },
     {
       "Datum": "2026-11-09",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.30 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-11-09",
-      "Zeit": null,
+      "Zeit": "18.00 - 20.30 Uhr",
+      "Thema": "Keine Rechten Aufmärsche, zur Reichspogromnacht!",
+      "Ort": null,
+      "Startpunkt": "Neustädter Markt (Goldener Reiter)",
+      "Teilnehmer": "ca. 150",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-11-09",
+      "Zeit": "13.00 - 17.00 Uhr",
       "Thema": "Mahngang von OMAS GEGEN RECHTS.DRESDEN zu Stolpersteinen in der Inneren und Äußeren Neustadt im Gedenken an die Pogromnacht 1938",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Eisenbahnstraße",
       "Teilnehmer": "8",
       "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN n.e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-11-10",
@@ -127,7 +147,7 @@
       "Datum": "2026-11-14",
       "Zeit": "13.30 - 18.30 Uhr",
       "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
-      "Ort": "Altmarkt",
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
@@ -164,6 +184,16 @@
       "Status": "beschieden"
     },
     {
+      "Datum": "2026-11-19",
+      "Zeit": null,
+      "Thema": "Mahnwache der OMAS GEGEN RECHTS.DRESDEN für Frieden - gegen Krieg und Gewalt überall",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "8",
+      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-11-20",
       "Zeit": null,
       "Thema": "Schulstreik gegen Wehrpflicht - Internationaler Jugendstreik",
@@ -177,7 +207,7 @@
       "Datum": "2026-11-21",
       "Zeit": "13.30 - 18.30 Uhr",
       "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
-      "Ort": "Altmarkt",
+      "Ort": "Prager Straße",
       "Startpunkt": null,
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
