@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-11-06",
+  "Dateidatum": "2026-11-07",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -152,6 +152,16 @@
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-11-14",
+      "Zeit": null,
+      "Thema": "Frieden für Deutschland, Europa und die Welt",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20",
+      "Veranstalter": "Friedensinitiative Dresden",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-11-14",
