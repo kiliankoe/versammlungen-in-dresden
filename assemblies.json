@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-11-08",
+  "Dateidatum": "2026-11-09",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -221,6 +221,16 @@
       "Startpunkt": null,
       "Teilnehmer": "20 - 40",
       "Veranstalter": "Männernetzwerk Dresden e. V.",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-11-27",
+      "Zeit": null,
+      "Thema": "Solidarität mit der Ukraine: Der Krieg geht weiter",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "4",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
