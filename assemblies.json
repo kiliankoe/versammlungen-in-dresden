@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-11-09",
+  "Dateidatum": "2026-11-10",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,46 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-11-09",
-      "Zeit": "19.00 - 21.00 Uhr",
-      "Thema": "Mahnwache für Frieden Dresden",
-      "Ort": "Jorge-Gomondai-Platz ",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-11-09",
-      "Zeit": "19.00 - 20.30 Uhr",
-      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
-      "Ort": null,
-      "Startpunkt": "Wilsdruffer Straße",
-      "Teilnehmer": "150",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-11-09",
-      "Zeit": "18.00 - 20.30 Uhr",
-      "Thema": "Keine Rechten Aufmärsche, zur Reichspogromnacht!",
-      "Ort": null,
-      "Startpunkt": "Neustädter Markt (Goldener Reiter)",
-      "Teilnehmer": "ca. 150",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-11-09",
-      "Zeit": "13.00 - 17.00 Uhr",
-      "Thema": "Mahngang von OMAS GEGEN RECHTS.DRESDEN zu Stolpersteinen in der Inneren und Äußeren Neustadt im Gedenken an die Pogromnacht 1938",
-      "Ort": null,
-      "Startpunkt": "Eisenbahnstraße",
-      "Teilnehmer": "8",
-      "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN n.e.V.",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-11-10",
       "Zeit": null,
@@ -75,23 +35,23 @@
     },
     {
       "Datum": "2026-11-11",
-      "Zeit": null,
+      "Zeit": "10.00 - 16.00 Uhr",
       "Thema": "Projekt M1llion – Für Frieden und Bürgerrechte",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Theaterplatz",
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-11-13",
-      "Zeit": null,
+      "Zeit": "17.00 - 17.45 Uhr",
       "Thema": "Bildstarke-Aktion ",
-      "Ort": null,
+      "Ort": "Theaterplatz",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "Fridays For Future Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-11-14",
@@ -155,12 +115,22 @@
     },
     {
       "Datum": "2026-11-19",
-      "Zeit": null,
+      "Zeit": "16.00 - 18.00 Uhr",
       "Thema": "Mahnwache der OMAS GEGEN RECHTS.DRESDEN für Frieden - gegen Krieg und Gewalt überall",
-      "Ort": null,
+      "Ort": "Kleine Kirchgasse",
       "Startpunkt": null,
       "Teilnehmer": "8",
       "Veranstalter": "OMAS GEGEN RECHTS.DRESDEN",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-11-20",
+      "Zeit": null,
+      "Thema": "Mahnwache zum Gedenktag an die Opfer von Transfeindlichkeit",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Hans Reuter",
       "Status": "angemeldet"
     },
     {
@@ -171,6 +141,16 @@
       "Startpunkt": null,
       "Teilnehmer": "1000",
       "Veranstalter": "Schulstreik gegen Wehrpflicht Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-11-20",
+      "Zeit": null,
+      "Thema": "GenZ regelt das | Akt II",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1000",
+      "Veranstalter": "GenZ regelt Dresden",
       "Status": "angemeldet"
     },
     {
@@ -225,13 +205,13 @@
     },
     {
       "Datum": "2026-11-27",
-      "Zeit": null,
+      "Zeit": "18.00 - 22.00 Uhr",
       "Thema": "Solidarität mit der Ukraine: Der Krieg geht weiter",
-      "Ort": null,
+      "Ort": "An der Schleife",
       "Startpunkt": null,
       "Teilnehmer": "4",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-11-28",
@@ -304,6 +284,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2026-12-10",
+      "Zeit": null,
+      "Thema": "Kundgebung gegen Tierausbeutung im DWC",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "40",
+      "Veranstalter": "Anima e. V.",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-12-12",
       "Zeit": null,
       "Thema": "Dresden für die Prüfung der rechtsextremen Parteien",
@@ -330,6 +320,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "500",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-12-12",
+      "Zeit": null,
+      "Thema": "Tiere raus aus dem Zirkus",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
