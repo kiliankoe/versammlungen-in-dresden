@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-11-10",
+  "Dateidatum": "2026-11-11",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-11-10",
-      "Zeit": null,
-      "Thema": "Projekt M1llion - Für Frieden und Bürgerrechte",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "50 Fahrzeuge",
-      "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
-    },
-    {
-      "Datum": "2026-11-10",
-      "Zeit": "16.30 - 17.30 Uhr",
-      "Thema": "Pädagogische Fachkräfte im Unterricht",
-      "Ort": "Köpkestraße",
-      "Startpunkt": null,
-      "Teilnehmer": "200",
-      "Veranstalter": "Gewerkschaft Erziehung und Wissenschaft",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-11-11",
       "Zeit": "10.00 - 16.00 Uhr",
@@ -130,7 +110,7 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "50",
-      "Veranstalter": "Hans Reuter",
+      "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
     {
