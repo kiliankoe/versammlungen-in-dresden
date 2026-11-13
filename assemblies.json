@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-11-12",
+  "Dateidatum": "2026-11-13",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -45,13 +45,13 @@
     },
     {
       "Datum": "2026-11-14",
-      "Zeit": null,
+      "Zeit": "08.30 - 16.00 Uhr",
       "Thema": "Frieden für Deutschland, Europa und die Welt",
-      "Ort": null,
+      "Ort": "Hauptstraße ",
       "Startpunkt": null,
       "Teilnehmer": "20",
       "Veranstalter": "Friedensinitiative Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-11-14",
@@ -90,6 +90,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "150",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-11-19",
+      "Zeit": null,
+      "Thema": "Gegen Zwangsräumung in RM16",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "20-30",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -175,13 +185,13 @@
     },
     {
       "Datum": "2026-11-26",
-      "Zeit": null,
+      "Zeit": "16.30 - 18.30 Uhr",
       "Thema": "Kahlschlagshaushalt verhindern – Kürzungen? Nicht mit uns!",
-      "Ort": null,
+      "Ort": "Schnurbaum-Allee",
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "Bündnis gegen Kürzungen",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-11-26",
