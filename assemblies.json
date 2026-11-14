@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-11-13",
+  "Dateidatum": "2026-11-14",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,16 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-11-13",
-      "Zeit": "17.00 - 17.45 Uhr",
-      "Thema": "Bildstarke-Aktion ",
-      "Ort": "Theaterplatz",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "Fridays For Future Dresden",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-11-14",
       "Zeit": null,
@@ -55,13 +45,13 @@
     },
     {
       "Datum": "2026-11-14",
-      "Zeit": null,
+      "Zeit": "13.00 - 17.00 Uhr",
       "Thema": "PRÜF",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Theaterplatz",
       "Teilnehmer": "500",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-11-15",
@@ -85,11 +75,21 @@
     },
     {
       "Datum": "2026-11-16",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.30 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "150",
+      "Veranstalter": "natürliche Person",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-11-16",
+      "Zeit": null,
+      "Thema": "Nett Hier, aber waren Sie schon mal in einer Stadt ohne Faschos?",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "ca. 150",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -145,13 +145,13 @@
     },
     {
       "Datum": "2026-11-20",
-      "Zeit": null,
+      "Zeit": "17.00 - 19.00 Uhr",
       "Thema": "GenZ regelt das | Akt II",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Theaterplatz",
       "Teilnehmer": "1000",
       "Veranstalter": "GenZ regelt Dresden",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-11-21",
@@ -172,6 +172,16 @@
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-11-23",
+      "Zeit": null,
+      "Thema": "Nett Hier, aber waren Sie schon mal in einer Stadt ohne Faschos?",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "ca. 150",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-11-25",
@@ -251,7 +261,7 @@
       "Startpunkt": null,
       "Teilnehmer": "200",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2026-11-30",
