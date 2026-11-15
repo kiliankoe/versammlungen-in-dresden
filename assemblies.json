@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-11-14",
+  "Dateidatum": "2026-11-15",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,46 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-11-14",
-      "Zeit": null,
-      "Thema": "Dresden für die Prüfung der rechtsextremen Parteien",
-      "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "500",
-      "Veranstalter": "Prüfung Rettet Übringens Freiheit (PRÜF) - Sachsen",
-      "Status": "abgemeldet"
-    },
-    {
-      "Datum": "2026-11-14",
-      "Zeit": "13.30 - 18.30 Uhr",
-      "Thema": "Stoppt den Organraub an lebenden Falun Gong Praktizierenden in China! Der Kommunistischen Partei Chinas ein Ende setzen (END CCP)!",
-      "Ort": "Prager Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "12",
-      "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-11-14",
-      "Zeit": "08.30 - 16.00 Uhr",
-      "Thema": "Frieden für Deutschland, Europa und die Welt",
-      "Ort": "Hauptstraße ",
-      "Startpunkt": null,
-      "Teilnehmer": "20",
-      "Veranstalter": "Friedensinitiative Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-11-14",
-      "Zeit": "13.00 - 17.00 Uhr",
-      "Thema": "PRÜF",
-      "Ort": null,
-      "Startpunkt": "Theaterplatz",
-      "Teilnehmer": "500",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-11-15",
       "Zeit": "11.00 - 14.00 Uhr",
@@ -430,6 +390,76 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "10",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2027-02-13",
+      "Zeit": null,
+      "Thema": "Tu was gegen rechts - Demokratie stärken",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
+      "Veranstalter": "Bündnis 90 / Die Grünen, Stadtverband Dresden",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2027-02-13",
+      "Zeit": null,
+      "Thema": "'Stilles Gedenken vor der Frauenkirche Dresden' ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1.000",
+      "Veranstalter": "Gesellschaft zur Förderung der Frauenkirche Dresden e. V., Herrn Prof. Ludwig Güttler ",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2027-02-13",
+      "Zeit": null,
+      "Thema": "Stilles Ge(h)denken Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "unbekannt",
+      "Veranstalter": "Wellenlänge",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2027-02-13",
+      "Zeit": null,
+      "Thema": "Stilles Ge(h)denken Dresden",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "unbekannt",
+      "Veranstalter": "Wellenlänge",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2027-02-13",
+      "Zeit": null,
+      "Thema": "Menschenkette zum 13. Februar ",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "10.000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2027-02-13",
+      "Zeit": null,
+      "Thema": "Dresden ist kein Ort für Nazis",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1000",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2027-02-13",
+      "Zeit": null,
+      "Thema": "Mahnwache für die Opfer der Flächenbombardierung Dresdens 1945",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     }
