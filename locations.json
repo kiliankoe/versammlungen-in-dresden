@@ -723,6 +723,10 @@
     "lat": 51.0635645,
     "lng": 13.7553459
   },
+  "Marwa Al-Sherbini-Park": {
+    "lat": 51.0545966,
+    "lng": 13.7566761
+  },
   "Marwa El-Sherbini Park": {
     "lat": 51.0545966,
     "lng": 13.7566761
@@ -1190,6 +1194,10 @@
   "Wilder-Mann-Straße": {
     "lat": 51.0872005,
     "lng": 13.715371
+  },
+  "Wilhelm-Buck-Straße": {
+    "lat": 51.0588692,
+    "lng": 13.749092
   },
   "Willdruffer Straße": {
     "lat": 51.0502003,
