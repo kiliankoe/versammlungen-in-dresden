@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-11-17",
+  "Dateidatum": "2026-11-18",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -81,6 +81,16 @@
       "Startpunkt": null,
       "Teilnehmer": "12",
       "Veranstalter": "Deutscher Falun Dafa Verein e. V.",
+      "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-11-21",
+      "Zeit": "14.00 - 17.00 Uhr",
+      "Thema": "3 Minute Movie Challenge",
+      "Ort": "Prager Straße",
+      "Startpunkt": null,
+      "Teilnehmer": "10",
+      "Veranstalter": "Activists for the Victims e.V.",
       "Status": "beschieden"
     },
     {
@@ -215,13 +225,13 @@
     },
     {
       "Datum": "2026-11-30",
-      "Zeit": null,
+      "Zeit": "13.30 - 16.30 Uhr",
       "Thema": "Gemeinsam gegen das PNOG (Pflegeneuordnungsgesetz), bundesweite Protesttour durch die Landeshauptstädte. Auch in Sachsen wollen wir ein starkes und unübersehbares Signal an Politik",
       "Ort": null,
-      "Startpunkt": null,
-      "Teilnehmer": "1000",
+      "Startpunkt": "Pieschner Allee",
+      "Teilnehmer": "1500",
       "Veranstalter": "Bundesverband privater Anbieter sozialer Dienste - bpa e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-12-05",
