@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-11-20",
+  "Dateidatum": "2026-11-21",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,56 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-11-20",
-      "Zeit": "16.30 - 18.30 Uhr",
-      "Thema": "Mahnwache zum Gedenktag an die Opfer von Transfeindlichkeit",
-      "Ort": "Martin-Luther-Platz",
-      "Startpunkt": null,
-      "Teilnehmer": "50",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-11-20",
-      "Zeit": "10.00 - 14.00 Uhr",
-      "Thema": "Naturschutz - Eine Stimme für die Natur",
-      "Ort": "Wilhelm-Buck-Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "2",
-      "Veranstalter": "Stiftung Erdheilungsplätze",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-11-20",
-      "Zeit": "15.00 - 17.00 Uhr",
-      "Thema": "Zubringer zu 'GenZ regelt das'",
-      "Ort": null,
-      "Startpunkt": "Fritz-Förster-Platz ",
-      "Teilnehmer": "80",
-      "Veranstalter": "SDS Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-11-20",
-      "Zeit": "10.00 - 15.00 Uhr",
-      "Thema": "Schulstreik gegen Wehrpflicht - Internationaler Jugendstreik",
-      "Ort": null,
-      "Startpunkt": "Postplatz",
-      "Teilnehmer": "1000",
-      "Veranstalter": "Schulstreik gegen Wehrpflicht Dresden",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-11-20",
-      "Zeit": "17.00 - 19.00 Uhr",
-      "Thema": "GenZ regelt das | Akt II",
-      "Ort": null,
-      "Startpunkt": "Theaterplatz",
-      "Teilnehmer": "1000",
-      "Veranstalter": "GenZ regelt Dresden",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-11-21",
       "Zeit": "13.30 - 18.30 Uhr",
