@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-11-22",
+  "Dateidatum": "2026-11-23",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -35,23 +35,23 @@
     },
     {
       "Datum": "2026-11-23",
-      "Zeit": null,
+      "Zeit": "10.00 - 12.30 Uhr",
       "Thema": "Antifaschismus bleibt notwendig",
-      "Ort": null,
+      "Ort": "Roßbachstraße",
       "Startpunkt": null,
       "Teilnehmer": "50",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-11-23",
-      "Zeit": null,
+      "Zeit": "18.00 - 21.00 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Wilsdruffer Straße",
       "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-11-25",
