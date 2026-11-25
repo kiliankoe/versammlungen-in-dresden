@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-11-24",
+  "Dateidatum": "2026-11-25",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -25,13 +25,13 @@
     },
     {
       "Datum": "2026-11-25",
-      "Zeit": null,
+      "Zeit": "18.00 - 19.30 Uhr",
       "Thema": "Tag gegen Gewalt an Frauen",
-      "Ort": null,
+      "Ort": "Bautzner Straße",
       "Startpunkt": null,
       "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-11-26",
@@ -111,7 +111,7 @@
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "Centrum für Demokratieentwicklung",
-      "Status": "angemeldet"
+      "Status": "abgemeldet"
     },
     {
       "Datum": "2026-11-28",
@@ -221,6 +221,16 @@
       "Startpunkt": null,
       "Teilnehmer": "500",
       "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-12-12",
+      "Zeit": null,
+      "Thema": "GenZ regelt Akt II - Rückrunde",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "1000",
+      "Veranstalter": "GenZ regelt Dresden",
       "Status": "angemeldet"
     },
     {
