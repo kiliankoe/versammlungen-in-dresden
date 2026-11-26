@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-11-25",
+  "Dateidatum": "2026-11-26",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,26 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-11-25",
-      "Zeit": "17.00 - 22.00 Uhr",
-      "Thema": "'Wir wollen uns lebend - Kampf gegen patriarchale Gewalt'",
-      "Ort": null,
-      "Startpunkt": "Marwa Al-Sherbini-Park ",
-      "Teilnehmer": "300",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-11-25",
-      "Zeit": "18.00 - 19.30 Uhr",
-      "Thema": "Tag gegen Gewalt an Frauen",
-      "Ort": "Bautzner Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "150",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-11-26",
       "Zeit": "16.30 - 18.30 Uhr",
@@ -155,13 +135,33 @@
     },
     {
       "Datum": "2026-11-30",
-      "Zeit": "13.30 - 16.30 Uhr",
+      "Zeit": null,
+      "Thema": "Nett Hier, aber waren Sie schon mal in einer Stadt ohne Faschos?",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "ca. 150",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-11-30",
+      "Zeit": null,
+      "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "150",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-11-30",
+      "Zeit": null,
       "Thema": "Gemeinsam gegen das PNOG (Pflegeneuordnungsgesetz), bundesweite Protesttour durch die Landeshauptstädte. Auch in Sachsen wollen wir ein starkes und unübersehbares Signal an Politik",
       "Ort": null,
-      "Startpunkt": "Pieschner Allee",
+      "Startpunkt": null,
       "Teilnehmer": "1500",
       "Veranstalter": "Bundesverband privater Anbieter sozialer Dienste - bpa e.V.",
-      "Status": "beschieden"
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-12-05",
@@ -180,6 +180,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-12-07",
+      "Zeit": null,
+      "Thema": "Nett Hier, aber waren Sie schon mal in einer Stadt ohne Faschos?",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "ca. 150",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
@@ -254,6 +264,16 @@
       "Status": "angemeldet"
     },
     {
+      "Datum": "2026-12-14",
+      "Zeit": null,
+      "Thema": "Nett Hier, aber waren Sie schon mal in einer Stadt ohne Faschos?",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "ca. 150",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
       "Datum": "2026-12-17",
       "Zeit": null,
       "Thema": "Die Schulden von heute sind die Steuern von morgen!",
@@ -292,6 +312,16 @@
       "Teilnehmer": "30",
       "Veranstalter": "Demokratische Montagsaktion/Montag Tag des Widerstands/Dresden",
       "Status": "beschieden"
+    },
+    {
+      "Datum": "2026-12-21",
+      "Zeit": null,
+      "Thema": "Nett Hier, aber waren Sie schon mal in einer Stadt ohne Faschos?",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "ca. 150",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
     },
     {
       "Datum": "2026-12-28",
