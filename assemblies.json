@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-11-26",
+  "Dateidatum": "2026-11-27",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -14,54 +14,34 @@
   ],
   "Versammlungen": [
     {
-      "Datum": "2026-11-26",
-      "Zeit": "16.30 - 18.30 Uhr",
-      "Thema": "Kahlschlagshaushalt verhindern – Kürzungen? Nicht mit uns!",
-      "Ort": "Schnurbaum-Allee",
-      "Startpunkt": null,
-      "Teilnehmer": "200",
-      "Veranstalter": "Bündnis gegen Kürzungen",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-11-26",
-      "Zeit": "16.00 - 18.00 Uhr",
-      "Thema": "Männer gegen Gewalt",
-      "Ort": "Wilsdruffer Straße",
-      "Startpunkt": null,
-      "Teilnehmer": "ca. 20",
-      "Veranstalter": "Männernetzwerk Dresden e. V.",
-      "Status": "beschieden"
-    },
-    {
       "Datum": "2026-11-27",
-      "Zeit": null,
+      "Zeit": "16.00 - 19.00 Uhr",
       "Thema": "'Ein Dach für alle Kinder' - Mahnwache für die obdachlosen Kinder der Welt",
-      "Ort": null,
+      "Ort": "Dr.-Külz-Ring",
       "Startpunkt": null,
       "Teilnehmer": "30",
       "Veranstalter": "Jugendverein Roter Baum e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-11-27",
-      "Zeit": null,
+      "Zeit": "14.00 - 18.00 Uhr",
       "Thema": "Für ein eigenständiges BSW - klare Kante gegen Rechts, auch ohne Brandmauer",
-      "Ort": null,
+      "Ort": "Messering",
       "Startpunkt": null,
       "Teilnehmer": "10 max",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-11-27",
-      "Zeit": null,
+      "Zeit": "16.00 - 19.00 Uhr",
       "Thema": "Für ein demokratisches Sachsen-Anhalt!",
-      "Ort": null,
+      "Ort": "Messering",
       "Startpunkt": null,
       "Teilnehmer": "1000",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-11-27",
@@ -105,13 +85,13 @@
     },
     {
       "Datum": "2026-11-28",
-      "Zeit": null,
+      "Zeit": "15.30 - 16.30 Uhr",
       "Thema": "Gedenken an die Opfer des Holodomors",
-      "Ort": null,
+      "Ort": "Schloßplatz",
       "Startpunkt": null,
       "Teilnehmer": "100",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-11-30",
@@ -120,6 +100,16 @@
       "Ort": null,
       "Startpunkt": null,
       "Teilnehmer": "50",
+      "Veranstalter": "natürliche Person",
+      "Status": "angemeldet"
+    },
+    {
+      "Datum": "2026-11-30",
+      "Zeit": null,
+      "Thema": "Für ein buntes demokratisches Hochland!⁩",
+      "Ort": null,
+      "Startpunkt": null,
+      "Teilnehmer": "ca. 25",
       "Veranstalter": "natürliche Person",
       "Status": "angemeldet"
     },
