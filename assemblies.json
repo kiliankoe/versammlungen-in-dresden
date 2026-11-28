@@ -1,5 +1,5 @@
 {
-  "Dateidatum": "2026-11-27",
+  "Dateidatum": "2026-11-28",
   "Tabellenkopf": [
     {
       "Datum": "Datum",
@@ -13,46 +13,6 @@
     }
   ],
   "Versammlungen": [
-    {
-      "Datum": "2026-11-27",
-      "Zeit": "16.00 - 19.00 Uhr",
-      "Thema": "'Ein Dach für alle Kinder' - Mahnwache für die obdachlosen Kinder der Welt",
-      "Ort": "Dr.-Külz-Ring",
-      "Startpunkt": null,
-      "Teilnehmer": "30",
-      "Veranstalter": "Jugendverein Roter Baum e.V.",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-11-27",
-      "Zeit": "14.00 - 18.00 Uhr",
-      "Thema": "Für ein eigenständiges BSW - klare Kante gegen Rechts, auch ohne Brandmauer",
-      "Ort": "Messering",
-      "Startpunkt": null,
-      "Teilnehmer": "10 max",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-11-27",
-      "Zeit": "16.00 - 19.00 Uhr",
-      "Thema": "Für ein demokratisches Sachsen-Anhalt!",
-      "Ort": "Messering",
-      "Startpunkt": null,
-      "Teilnehmer": "1000",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
-    {
-      "Datum": "2026-11-27",
-      "Zeit": "18.00 - 22.00 Uhr",
-      "Thema": "Solidarität mit der Ukraine: Der Krieg geht weiter",
-      "Ort": "An der Schleife",
-      "Startpunkt": null,
-      "Teilnehmer": "4",
-      "Veranstalter": "natürliche Person",
-      "Status": "beschieden"
-    },
     {
       "Datum": "2026-11-28",
       "Zeit": "13.30 - 18.30 Uhr",
@@ -105,13 +65,13 @@
     },
     {
       "Datum": "2026-11-30",
-      "Zeit": null,
+      "Zeit": "17.30 - 19.00 Uhr",
       "Thema": "Für ein buntes demokratisches Hochland!⁩",
-      "Ort": null,
+      "Ort": "Bautzner Landstraße",
       "Startpunkt": null,
       "Teilnehmer": "ca. 25",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-11-30",
@@ -125,33 +85,33 @@
     },
     {
       "Datum": "2026-11-30",
-      "Zeit": null,
+      "Zeit": "18.00 - 20.30 Uhr",
       "Thema": "Nett Hier, aber waren Sie schon mal in einer Stadt ohne Faschos?",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Dr.-Külz-Ring",
       "Teilnehmer": "ca. 150",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-11-30",
-      "Zeit": null,
+      "Zeit": "19.00 - 20.30 Uhr",
       "Thema": "Wer schweigt stimmt zu - Zeit für Bürgerverantwortung",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Dr.-Külz-Ring",
       "Teilnehmer": "150",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-11-30",
-      "Zeit": null,
+      "Zeit": "13.30 - 16.30 Uhr",
       "Thema": "Gemeinsam gegen das PNOG (Pflegeneuordnungsgesetz), bundesweite Protesttour durch die Landeshauptstädte. Auch in Sachsen wollen wir ein starkes und unübersehbares Signal an Politik",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Pieschner Allee",
       "Teilnehmer": "1500",
       "Veranstalter": "Bundesverband privater Anbieter sozialer Dienste - bpa e.V.",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-12-05",
@@ -175,13 +135,13 @@
     },
     {
       "Datum": "2026-12-07",
-      "Zeit": null,
+      "Zeit": "18.00 - 20.30 Uhr",
       "Thema": "Nett Hier, aber waren Sie schon mal in einer Stadt ohne Faschos?",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Dr.-Külz-Ring",
       "Teilnehmer": "ca. 150",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-12-10",
@@ -255,13 +215,13 @@
     },
     {
       "Datum": "2026-12-14",
-      "Zeit": null,
+      "Zeit": "18.00 - 20.30 Uhr",
       "Thema": "Nett Hier, aber waren Sie schon mal in einer Stadt ohne Faschos?",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Dr.-Külz-Ring",
       "Teilnehmer": "ca. 150",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-12-17",
@@ -305,13 +265,13 @@
     },
     {
       "Datum": "2026-12-21",
-      "Zeit": null,
+      "Zeit": "18.00 - 20.30 Uhr",
       "Thema": "Nett Hier, aber waren Sie schon mal in einer Stadt ohne Faschos?",
       "Ort": null,
-      "Startpunkt": null,
+      "Startpunkt": "Dr.-Külz-Ring",
       "Teilnehmer": "ca. 150",
       "Veranstalter": "natürliche Person",
-      "Status": "angemeldet"
+      "Status": "beschieden"
     },
     {
       "Datum": "2026-12-28",
